@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Bill Maher says to bring back 'old America,' the left must tone down their radical progressivism",
+      "link": "https://www.foxnews.com/media/bill-maher-says-bring-back-old-america-left-must-tone-down-radical-progressivism"
+    },
+    {
+      "title": "FBI agents fired after kneeling at George Floyd protest in 2020: reports",
+      "link": "https://www.foxnews.com/us/fbi-agents-fired-after-kneeling-george-floyd-protest-2020-reports"
+    },
+    {
+      "title": "Ex-college athlete, now conservative blogger, says Dems’ rhetoric fuels ‘permission structure for violence'",
+      "link": "https://www.foxnews.com/media/jeffery-mead-warns-democrats-rhetoric-has-created-permission-structure-violence"
+    },
+    {
       "title": "Philadelphia DA goes into tirade about 'fascist' Trump, 'Hitler' when confronted at park in viral video",
       "link": "https://www.foxnews.com/politics/philadelphia-da-goes-tirade-about-fascist-trump-hitler-when-confronted-park-viral-video"
     },
@@ -19,10 +31,6 @@
     {
       "title": "Fox News AI Newsletter: Trump, Musk aim for dominance",
       "link": "https://www.foxnews.com/tech/ai-newsletter-trump-musk-aim-dominance"
-    },
-    {
-      "title": "BROADCAST BIAS: Networks laud their free-speech hero Kimmel, skip how Google censored conservatives",
-      "link": "https://www.foxnews.com/opinion/broadcast-bias-networks-laud-free-speech-hero-kimmel-skip-how-google-censored-conservatives"
     },
     {
       "title": "Philadelphia DA goes into tirade about 'fascist' Trump, 'Hitler' when confronted at park in viral video",
@@ -71,14 +79,6 @@
     {
       "title": "Supreme Court extends Trump administration's $5 billion foreign aid freeze amid ongoing legal challenge",
       "link": "https://www.foxnews.com/politics/supreme-court-extends-trump-administrations-5-billion-foreign-aid-freeze-amid-ongoing-legal-challenge"
-    },
-    {
-      "title": "Appeals court hears Medicaid fraud case that could cost Planned Parenthood $1.8 billion",
-      "link": "https://www.foxnews.com/politics/appeals-court-hears-high-stakes-case-planned-parenthood-medicaid-funds"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Loeffler warns Mamdani threatens NYC business",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-comey"
     }
   ],
   "cnn": [
@@ -139,5 +139,5 @@
       "link": "https://www.cnn.com/video/playlists/this-week-in-politics/"
     }
   ],
-  "timestamp": "2025-09-27T16:19:45.562Z"
+  "timestamp": "2025-09-27T16:32:41.599Z"
 }
