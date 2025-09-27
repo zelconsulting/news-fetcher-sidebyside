@@ -7,6 +7,7 @@ const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
 const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
+const cnnPoliticsRSS = 'http://rss.cnn.com/rss/cnn_allpolitics.rss';
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
@@ -60,8 +61,10 @@ async function generateHeadlinesJson() {
       }));
 
     // Fetch, filter, and limit CNN headlines
-    const cnnHeadlines = await fetchHeadlinesFromUrl(cnnNewsRSS);
-    const ideologicalCnnHeadlines = cnnHeadlines
+    const cnnLatest = await fetchHeadlinesFromUrl(cnnNewsRSS);
+    const cnnPolitics = await fetchHeadlinesFromUrl(cnnPoliticsRSS);
+    const combinedCnnHeadlines = [...cnnLatest, ...cnnPolitics];
+    const ideologicalCnnHeadlines = combinedCnnHeadlines
       .filter(item => isIdeological(item))
       .slice(0, 20)
       .map(item => ({
