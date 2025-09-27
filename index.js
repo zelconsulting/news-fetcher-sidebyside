@@ -3,7 +3,7 @@ import { Parser } from 'xml2js';
 import fs from 'fs';
 
 const CORS_PROXY = 'https://corsproxy.io/?';
-const foxNewsRSS = 'https://rss.app/feed/80qchxNl1CWOv8Vf';
+const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const cnnNewsRSS = 'https://rss.app/feeds/gaoNnoqPkA5O5oc6.xml';
 
 const parser = new Parser({ explicitArray: false });
