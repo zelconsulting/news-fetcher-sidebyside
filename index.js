@@ -8,6 +8,7 @@ const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
 const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
 const cnnPoliticsRSS = 'http://rss.cnn.com/rss/cnn_allpolitics.rss';
+const newFeed = 'https://rss.app/feeds/6kYSPr4nshuhgT5w.xml'; // Added new feed
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
@@ -63,10 +64,11 @@ async function generateHeadlinesJson() {
         link: item.link
       }));
 
-    // Fetch all headlines from both CNN feeds
+    // Fetch all headlines from all CNN feeds
     const cnnLatest = await fetchHeadlinesFromUrl(cnnNewsRSS);
     const cnnPolitics = await fetchHeadlinesFromUrl(cnnPoliticsRSS);
-    const combinedCnnHeadlines = [...cnnLatest, ...cnnPolitics];
+    const newFeedHeadlines = await fetchHeadlinesFromUrl(newFeed); // Fetches from new feed
+    const combinedCnnHeadlines = [...cnnLatest, ...cnnPolitics, ...newFeedHeadlines]; // Combines all CNN feeds
 
     // Remove duplicates from the combined list of CNN headlines
     const uniqueCnnHeadlines = [...new Map(combinedCnnHeadlines.map(item => [item.title, item])).values()];
