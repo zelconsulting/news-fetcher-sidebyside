@@ -1,5 +1,86 @@
 {
-  "fox": [],
+  "fox": [
+    {
+      "title": "DA Bragg's office drops case against woman who allegedly sucker-punched pro-life activist",
+      "link": "https://www.foxnews.com/us/da-braggs-office-drops-case-against-woman-who-allegedly-sucker-punched-pro-life-activist"
+    },
+    {
+      "title": "Cocoa extract could slow aging process in older adults, 'promising' new study finds",
+      "link": "https://www.foxnews.com/food-drink/cocoa-extract-could-slow-aging-process-older-adults-promising-new-study-finds"
+    },
+    {
+      "title": "‘Seinfeld’ star Michael Richards mounts wild comeback after infamous rant sparked comedy exodus",
+      "link": "https://www.foxnews.com/entertainment/seinfeld-star-michael-richards-mounts-wild-comeback-after-infamous-rant-sparked-comedy-exodus"
+    },
+    {
+      "title": "Kamala Harris mentions Michelle Obama only three times in 300-page book. Here's what she said",
+      "link": "https://www.foxnews.com/politics/kamala-harris-mentions-michelle-obama-only-3-times-300-page-book-heres-what-she-said"
+    },
+    {
+      "title": "‘Stuttering Comedian' Drew Lynch says speech impediment turned out to be his biggest ‘gift’",
+      "link": "https://www.foxnews.com/media/stuttering-comedian-drew-lynch-says-speech-impediment-turned-out-his-biggest-gift"
+    },
+    {
+      "title": "National Archives apologizes to Dem gubernatorial candidate after 'exceedingly rare' military records 'breach'",
+      "link": "https://www.foxnews.com/politics/national-archives-apologizes-dem-gubernatorial-candidate-after-exceedingly-rare-military-records-breach"
+    },
+    {
+      "title": "Zohran Mamdani employed woman caught on camera tearing down hostage posters",
+      "link": "https://www.foxnews.com/media/zohran-mamdani-employed-woman-caught-camera-tearing-down-hostage-posters"
+    },
+    {
+      "title": "Trump agency's social media reach outpaces MSNBC, CNN viewership, DHS says",
+      "link": "https://www.foxnews.com/politics/trump-agencys-social-media-reach-outpaces-msnbc-cnn-viewership-dhs-says"
+    },
+    {
+      "title": "Bill Maher explores connection between internet memes and recent political violence",
+      "link": "https://www.foxnews.com/media/bill-maher-explores-connection-between-internet-memes-recent-political-violence"
+    },
+    {
+      "title": "Volunteer pilots reflect on one year since Helene devastated western North Carolina",
+      "link": "https://www.foxnews.com/weather/volunteer-pilots-reflect-one-year-since-hurricane-helene-devastated-western-carolina"
+    },
+    {
+      "title": "Trump admin revokes Colombian president’s visa over alleged ‘reckless and incendiary actions’",
+      "link": "https://www.foxnews.com/politics/trump-admin-revokes-colombian-presidents-visa-over-alleged-reckless-incendiary-actions"
+    },
+    {
+      "title": "DEA in Atlanta using new lab to process federal drug seizures as fight against cartel heats up",
+      "link": "https://www.foxnews.com/us/dea-atlanta-using-new-lab-process-federal-drug-seizures-fight-against-cartel-heats-up"
+    },
+    {
+      "title": "North Carolina family still recovering a year after Hurricane Helene destroyed home",
+      "link": "https://www.foxnews.com/weather/north-carolina-family-still-recovering-year-after-hurricane-helene-destroyed-home"
+    },
+    {
+      "title": "DNA evidence cracks cold case, connects dead suspect to murders of 4 teens at Austin yogurt shop",
+      "link": "https://www.foxnews.com/us/dna-evidence-cracks-cold-case-connects-dead-suspect-murders-4-teens-austin-yogurt-shop"
+    },
+    {
+      "title": "Trump administration presses Supreme Court on executive order restricting birthright citizenship",
+      "link": "https://www.foxnews.com/politics/trump-administration-presses-supreme-court-executive-order-restricting-birthright-citizenship"
+    },
+    {
+      "title": "Charlie Kirk's legacy honored as customers flock to Steak 'n Shake in solidarity",
+      "link": "https://www.foxnews.com/food-drink/charlie-kirks-legacy-honored-customers-flock-steak-n-shake-solidarity"
+    },
+    {
+      "title": "Vice President JD Vance calls out 'left-wing radicals' for inciting political violence in social media post",
+      "link": "https://www.foxnews.com/politics/vice-president-jd-vance-calls-left-wing-radicals-inciting-political-violence-social-media-post"
+    },
+    {
+      "title": "Dolphins' Tua Tagovailoa issues sharp response to Cam Newton's scathing assessment",
+      "link": "https://www.foxnews.com/sports/dolphins-tua-tagovailoa-issues-sharp-response-cam-newtons-scathing-assessment"
+    },
+    {
+      "title": "Three women indicted for allegedly livestreaming chase of ICE agent to his home and posting address online",
+      "link": "https://www.foxnews.com/us/three-women-indicted-allegedly-livestreaming-chase-ice-agent-home-posting-address-online"
+    },
+    {
+      "title": "UN Security Council rejects China-Russia resolution extending Iran nuclear sanctions relief before deadline",
+      "link": "https://www.foxnews.com/world/un-security-council-rejects-china-russia-resolution-extend-iran-nuclear-sanctions-relief-before-deadline"
+    }
+  ],
   "cnn": [
     {
       "title": "No one can seem to kill America’s economy, despite everyone’s best efforts ",
@@ -42,5 +123,5 @@
       "link": "https://www.cnn.com/2025/09/27/politics/indictment-comey-trump-difference"
     }
   ],
-  "timestamp": "2025-09-27T12:24:03.696Z"
+  "timestamp": "2025-09-27T12:28:55.156Z"
 }
