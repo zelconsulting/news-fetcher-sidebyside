@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "National Archives apologizes to Dem gubernatorial candidate after 'exceedingly rare' military records 'breach'",
+      "link": "https://www.foxnews.com/politics/national-archives-apologizes-dem-gubernatorial-candidate-after-exceedingly-rare-military-records-breach"
+    },
+    {
       "title": "Zohran Mamdani employed woman caught on camera tearing down hostage posters",
       "link": "https://www.foxnews.com/media/zohran-mamdani-employed-woman-caught-camera-tearing-down-hostage-posters"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Springsteen says Dems too far-left for America, but Trump still belongs in 'trash heap of history'",
       "link": "https://www.foxnews.com/media/springsteen-says-dems-too-far-left-america-trump-still-belongs-trash-heap-history"
-    },
-    {
-      "title": "Pro golfer Jake Knapp mourns death of girlfriend Makena White, remembered as 'one of a kind'",
-      "link": "https://www.foxnews.com/sports/pro-golfer-jake-knapp-mourns-death-girlfriend-makena-white-remembered-one-kind"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
     }
   ],
-  "timestamp": "2025-09-27T10:29:58.175Z"
+  "timestamp": "2025-09-27T10:39:52.151Z"
 }
