@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "House Republican says teen son's school promotes 'non-monosexual identities' in AM announcements, urges action",
+      "link": "https://www.foxnews.com/politics/house-republican-says-teen-sons-school-promotes-non-monosexual-identities-am-announcements-urges-action"
+    },
+    {
       "title": "Hungarian official touts 'golden age' of US relationship, credits Trump with boosting NATO and investment",
       "link": "https://www.foxnews.com/world/hungarian-official-touts-golden-age-us-relationship-credits-trump-boosting-nato-investment"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Trump vows to order declassification of all Amelia Earhart files after nearly 90-year aviation mystery",
       "link": "https://www.foxnews.com/politics/trump-order-declassification-all-amelia-earhart-files-after-nearly-90-year-aviation-mystery"
-    },
-    {
-      "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
-      "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/26/politics/video/trump-james-comey-indictment-digvid"
     }
   ],
-  "timestamp": "2025-09-27T19:48:11.025Z"
+  "timestamp": "2025-09-27T20:12:14.421Z"
 }
