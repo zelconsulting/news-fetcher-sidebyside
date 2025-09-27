@@ -9,6 +9,8 @@ on:
 jobs:
   update-headlines:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This grants the bot permission to write to the repo
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
