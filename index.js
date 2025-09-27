@@ -1,6 +1,5 @@
-// Import the necessary modules using dynamic import()
-const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
-const xml2js = require('xml2js'); // xml2js works with require() so we'll keep it
+const fetch = require('node-fetch');
+const xml2js = require('xml2js');
 
 const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
 const foxNewsRSS = 'http://feeds.foxnews.com/foxnews/latest';
