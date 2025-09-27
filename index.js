@@ -7,7 +7,7 @@ const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
 const cnnNewsRSS = 'https://rss.app/feeds/gaoNnoqPkA5O5oc6.xml';
-const cnnPoliticsRSS = 'https://rss.app/feed/bhkqyedNz64ODN9R';
+const cnnPoliticsRSS = 'https://rss.app/feeds/ZV5iFmOIc8kONdND.xml';
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
