@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "‘Seinfeld’ star Michael Richards mounts wild comeback after infamous rant sparked comedy exodus",
+      "link": "https://www.foxnews.com/entertainment/seinfeld-star-michael-richards-mounts-wild-comeback-after-infamous-rant-sparked-comedy-exodus"
+    },
+    {
+      "title": "Kamala Harris mentions Michelle Obama only three times in 300-page book. Here's what she said",
+      "link": "https://www.foxnews.com/politics/kamala-harris-mentions-michelle-obama-only-3-times-300-page-book-heres-what-she-said"
+    },
+    {
+      "title": "‘Stuttering Comedian' Drew Lynch says speech impediment turned out to be his biggest ‘gift’",
+      "link": "https://www.foxnews.com/media/stuttering-comedian-drew-lynch-says-speech-impediment-turned-out-his-biggest-gift"
+    },
+    {
       "title": "National Archives apologizes to Dem gubernatorial candidate after 'exceedingly rare' military records 'breach'",
       "link": "https://www.foxnews.com/politics/national-archives-apologizes-dem-gubernatorial-candidate-after-exceedingly-rare-military-records-breach"
     },
@@ -67,18 +79,6 @@
     {
       "title": "PHOTO GALLERY: Sights and scenes from opening day of the 2025 Ryder Cup",
       "link": "https://www.foxnews.com/sports/photo-gallery-sights-scenes-from-opening-day-2025-ryder-cup"
-    },
-    {
-      "title": "Major pro-life group demands investigation into abortion pill billboards in Florida",
-      "link": "https://www.foxnews.com/politics/major-pro-life-group-demands-investigation-abortion-pill-billboards-florida"
-    },
-    {
-      "title": "Team USA stops early bleeding at Ryder Cup, but face danger against Europe",
-      "link": "https://www.foxnews.com/sports/team-usa-stops-early-bleeding-ryder-cup-face-danger-against-europe"
-    },
-    {
-      "title": "Springsteen says Dems too far-left for America, but Trump still belongs in 'trash heap of history'",
-      "link": "https://www.foxnews.com/media/springsteen-says-dems-too-far-left-america-trump-still-belongs-trash-heap-history"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
     }
   ],
-  "timestamp": "2025-09-27T11:08:35.647Z"
+  "timestamp": "2025-09-27T11:22:05.840Z"
 }
