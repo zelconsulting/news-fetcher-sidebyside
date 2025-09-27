@@ -12,8 +12,12 @@ const politicalKeywords = [
   "politics", "biden", "trump", "democrats", "republicans", "congress", "senate",
   "house", "policy", "bill", "legislation", "election", "candidate", "voter",
   "government", "constitution", "liberal", "conservative", "socialism", "capitalism",
-  "woke", "freedom", "rights", "protest", "climate", "immigration"
+  "woke", "freedom", "rights", "protest", "climate", "immigration", "social justice",
+  "cancel culture", "critical race theory", "crt", "gop", "progressive", " maga",
+  "antifa", "patriot", "fake news", "deep state", "socialism", "capitalism", "scandal",
+  "extremist", "radical", "narrative", "insurrection", "unprecedented", "partisan"
 ];
+
 
 const parser = new Parser({ explicitArray: false });
 
