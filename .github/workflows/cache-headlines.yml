@@ -10,7 +10,7 @@ jobs:
   update-headlines:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # This grants the bot permission to write to the repo
+      contents: write  # This is the line you need to add
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
