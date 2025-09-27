@@ -9,7 +9,7 @@ const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
-  "politics", "biden", "trump", "democrats", "republicans", "congress", "senate",
+  "politics", "biden", "trump", "democrats", "republicans", "congress", "senate","Obama", 
   "house", "policy", "bill", "legislation", "election", "candidate", "voter",
   "government", "constitution", "liberal", "conservative", "socialism", "capitalism",
   "woke", "freedom", "rights", "protest", "climate", "immigration", "social justice",
