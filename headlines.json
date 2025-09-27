@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Volunteer pilots reflect on one year since Helene devastated western North Carolina",
+      "link": "https://www.foxnews.com/weather/volunteer-pilots-reflect-one-year-since-hurricane-helene-devastated-western-carolina"
+    },
+    {
       "title": "Trump admin revokes Colombian president’s visa over alleged ‘reckless and incendiary actions’",
       "link": "https://www.foxnews.com/politics/trump-admin-revokes-colombian-presidents-visa-over-alleged-reckless-incendiary-actions"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
       "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
-    },
-    {
-      "title": "Supreme Court extends Trump administration's $5 billion foreign aid freeze amid ongoing legal challenge",
-      "link": "https://www.foxnews.com/politics/supreme-court-extends-trump-administrations-5-billion-foreign-aid-freeze-amid-ongoing-legal-challenge"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
     }
   ],
-  "timestamp": "2025-09-27T07:23:23.201Z"
+  "timestamp": "2025-09-27T07:34:14.862Z"
 }
