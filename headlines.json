@@ -1,5 +1,86 @@
 {
-  "fox": [],
+  "fox": [
+    {
+      "title": "Trump admin revokes Colombian president’s visa over alleged ‘reckless and incendiary actions’",
+      "link": "https://www.foxnews.com/politics/trump-admin-revokes-colombian-presidents-visa-over-alleged-reckless-incendiary-actions"
+    },
+    {
+      "title": "DEA in Atlanta using new lab to process federal drug seizures as fight against cartel heats up",
+      "link": "https://www.foxnews.com/us/dea-atlanta-using-new-lab-process-federal-drug-seizures-fight-against-cartel-heats-up"
+    },
+    {
+      "title": "North Carolina family still recovering a year after Hurricane Helene destroyed home",
+      "link": "https://www.foxnews.com/weather/north-carolina-family-still-recovering-year-after-hurricane-helene-destroyed-home"
+    },
+    {
+      "title": "DNA evidence cracks cold case, connects dead suspect to murders of 4 teens at Austin yogurt shop",
+      "link": "https://www.foxnews.com/us/dna-evidence-cracks-cold-case-connects-dead-suspect-murders-4-teens-austin-yogurt-shop"
+    },
+    {
+      "title": "Trump administration presses Supreme Court on executive order restricting birthright citizenship",
+      "link": "https://www.foxnews.com/politics/trump-administration-presses-supreme-court-executive-order-restricting-birthright-citizenship"
+    },
+    {
+      "title": "Charlie Kirk's legacy honored as customers flock to Steak 'n Shake in solidarity",
+      "link": "https://www.foxnews.com/food-drink/charlie-kirks-legacy-honored-customers-flock-steak-n-shake-solidarity"
+    },
+    {
+      "title": "Vice President JD Vance calls out 'left-wing radicals' for inciting political violence in social media post",
+      "link": "https://www.foxnews.com/politics/vice-president-jd-vance-calls-left-wing-radicals-inciting-political-violence-social-media-post"
+    },
+    {
+      "title": "Dolphins' Tua Tagovailoa issues sharp response to Cam Newton's scathing assessment",
+      "link": "https://www.foxnews.com/sports/dolphins-tua-tagovailoa-issues-sharp-response-cam-newtons-scathing-assessment"
+    },
+    {
+      "title": "Three women indicted for allegedly livestreaming chase of ICE agent to his home and posting address online",
+      "link": "https://www.foxnews.com/us/three-women-indicted-allegedly-livestreaming-chase-ice-agent-home-posting-address-online"
+    },
+    {
+      "title": "UN Security Council rejects China-Russia resolution extending Iran nuclear sanctions relief before deadline",
+      "link": "https://www.foxnews.com/world/un-security-council-rejects-china-russia-resolution-extend-iran-nuclear-sanctions-relief-before-deadline"
+    },
+    {
+      "title": "Trump administration official physically assaulted at UNGA by 'deranged leftist,' White House says",
+      "link": "https://www.foxnews.com/politics/trump-administration-official-physically-assaulted-unga-deranged-leftist-white-house-says"
+    },
+    {
+      "title": "PHOTO GALLERY: Sights and scenes from opening day of the 2025 Ryder Cup",
+      "link": "https://www.foxnews.com/sports/photo-gallery-sights-scenes-from-opening-day-2025-ryder-cup"
+    },
+    {
+      "title": "Major pro-life group demands investigation into abortion pill billboards in Florida",
+      "link": "https://www.foxnews.com/politics/major-pro-life-group-demands-investigation-abortion-pill-billboards-florida"
+    },
+    {
+      "title": "Team USA stops early bleeding at Ryder Cup, but face danger against Europe",
+      "link": "https://www.foxnews.com/sports/team-usa-stops-early-bleeding-ryder-cup-face-danger-against-europe"
+    },
+    {
+      "title": "Springsteen says Dems too far-left for America, but Trump still belongs in 'trash heap of history'",
+      "link": "https://www.foxnews.com/media/springsteen-says-dems-too-far-left-america-trump-still-belongs-trash-heap-history"
+    },
+    {
+      "title": "Pro golfer Jake Knapp mourns death of girlfriend Makena White, remembered as 'one of a kind'",
+      "link": "https://www.foxnews.com/sports/pro-golfer-jake-knapp-mourns-death-girlfriend-makena-white-remembered-one-kind"
+    },
+    {
+      "title": "Trump vows to order declassification of all Amelia Earhart files after nearly 90-year aviation mystery",
+      "link": "https://www.foxnews.com/politics/trump-order-declassification-all-amelia-earhart-files-after-nearly-90-year-aviation-mystery"
+    },
+    {
+      "title": "Georgetown College GOP member demands 'full investigation' of leftist club's flyers referencing Kirk death",
+      "link": "https://www.foxnews.com/media/georgetown-college-gop-member-demands-full-investigation-leftist-clubs-flyers-referencing-kirk-death"
+    },
+    {
+      "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
+      "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
+    },
+    {
+      "title": "Supreme Court extends Trump administration's $5 billion foreign aid freeze amid ongoing legal challenge",
+      "link": "https://www.foxnews.com/politics/supreme-court-extends-trump-administrations-5-billion-foreign-aid-freeze-amid-ongoing-legal-challenge"
+    }
+  ],
   "cnn": [
     {
       "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
@@ -82,5 +163,5 @@
       "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
     }
   ],
-  "timestamp": "2025-09-27T06:53:13.416Z"
+  "timestamp": "2025-09-27T07:02:57.881Z"
 }
