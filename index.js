@@ -6,8 +6,8 @@ import fs from 'fs';
 const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
-const cnnNewsRSS = 'https://rss.app/feeds/gaoNnoqPkA5O5oc6.xml';
-const cnnPoliticsRSS = 'https://rss.app/feeds/ZV5iFmOIc8kONdND.xml';
+const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
+const cnnPoliticsRSS = 'http://rss.cnn.com/rss/cnn_allpolitics.rss';
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
@@ -51,8 +51,11 @@ async function generateHeadlinesJson() {
     const foxPolitics = await fetchHeadlinesFromUrl(foxNewsPoliticsRSS);
     const combinedFoxHeadlines = [...foxLatest, ...foxPolitics];
 
-    // Filter and limit the combined list of Fox headlines
-    const ideologicalFoxHeadlines = combinedFoxHeadlines
+    // Remove duplicates from the combined list of Fox headlines
+    const uniqueFoxHeadlines = [...new Map(combinedFoxHeadlines.map(item => [item.title, item])).values()];
+
+    // Filter and limit the unique list of Fox headlines
+    const ideologicalFoxHeadlines = uniqueFoxHeadlines
       .filter(item => isIdeological(item))
       .slice(0, 20)
       .map(item => ({
@@ -60,11 +63,16 @@ async function generateHeadlinesJson() {
         link: item.link
       }));
 
-    // Fetch, filter, and limit CNN headlines
+    // Fetch all headlines from both CNN feeds
     const cnnLatest = await fetchHeadlinesFromUrl(cnnNewsRSS);
     const cnnPolitics = await fetchHeadlinesFromUrl(cnnPoliticsRSS);
     const combinedCnnHeadlines = [...cnnLatest, ...cnnPolitics];
-    const ideologicalCnnHeadlines = combinedCnnHeadlines
+
+    // Remove duplicates from the combined list of CNN headlines
+    const uniqueCnnHeadlines = [...new Map(combinedCnnHeadlines.map(item => [item.title, item])).values()];
+
+    // Filter and limit the unique list of CNN headlines
+    const ideologicalCnnHeadlines = uniqueCnnHeadlines
       .filter(item => isIdeological(item))
       .slice(0, 20)
       .map(item => ({
