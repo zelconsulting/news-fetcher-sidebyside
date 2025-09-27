@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import { Parser } from 'xml2js';
 import fs from 'fs';
 
-const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.foxnews.com/foxnews/latest';
 const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
 
