@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Bill Maher explores connection between internet memes and recent political violence",
+      "link": "https://www.foxnews.com/media/bill-maher-explores-connection-between-internet-memes-recent-political-violence"
+    },
+    {
       "title": "Volunteer pilots reflect on one year since Helene devastated western North Carolina",
       "link": "https://www.foxnews.com/weather/volunteer-pilots-reflect-one-year-since-hurricane-helene-devastated-western-carolina"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Georgetown College GOP member demands 'full investigation' of leftist club's flyers referencing Kirk death",
       "link": "https://www.foxnews.com/media/georgetown-college-gop-member-demands-full-investigation-leftist-clubs-flyers-referencing-kirk-death"
-    },
-    {
-      "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
-      "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
     }
   ],
-  "timestamp": "2025-09-27T07:34:14.862Z"
+  "timestamp": "2025-09-27T07:48:02.060Z"
 }
