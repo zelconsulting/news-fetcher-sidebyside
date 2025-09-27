@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "DA Bragg's office drops case against woman who allegedly sucker-punched pro-life activist",
+      "link": "https://www.foxnews.com/us/da-braggs-office-drops-case-against-woman-who-allegedly-sucker-punched-pro-life-activist"
+    },
+    {
+      "title": "Cocoa extract could slow aging process in older adults, 'promising' new study finds",
+      "link": "https://www.foxnews.com/food-drink/cocoa-extract-could-slow-aging-process-older-adults-promising-new-study-finds"
+    },
+    {
       "title": "‘Seinfeld’ star Michael Richards mounts wild comeback after infamous rant sparked comedy exodus",
       "link": "https://www.foxnews.com/entertainment/seinfeld-star-michael-richards-mounts-wild-comeback-after-infamous-rant-sparked-comedy-exodus"
     },
@@ -71,14 +79,6 @@
     {
       "title": "UN Security Council rejects China-Russia resolution extending Iran nuclear sanctions relief before deadline",
       "link": "https://www.foxnews.com/world/un-security-council-rejects-china-russia-resolution-extend-iran-nuclear-sanctions-relief-before-deadline"
-    },
-    {
-      "title": "Trump administration official physically assaulted at UNGA by 'deranged leftist,' White House says",
-      "link": "https://www.foxnews.com/politics/trump-administration-official-physically-assaulted-unga-deranged-leftist-white-house-says"
-    },
-    {
-      "title": "PHOTO GALLERY: Sights and scenes from opening day of the 2025 Ryder Cup",
-      "link": "https://www.foxnews.com/sports/photo-gallery-sights-scenes-from-opening-day-2025-ryder-cup"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/26/health/listeria-fettuccine-outbreak"
     }
   ],
-  "timestamp": "2025-09-27T11:33:50.289Z"
+  "timestamp": "2025-09-27T11:47:38.406Z"
 }
