@@ -5,11 +5,12 @@ import fs from 'fs';
 // Constants for RSS feeds and the CORS proxy
 const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
+const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
 const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
 
 // Keywords to filter for politically-charged headlines
 const politicalKeywords = [
-  "politics", "biden", "trump", "democrats", "republicans", "congress", "senate","Obama", 
+  "politics", "biden", "trump", "democrats", "republicans", "congress", "senate",
   "house", "policy", "bill", "legislation", "election", "candidate", "voter",
   "government", "constitution", "liberal", "conservative", "socialism", "capitalism",
   "woke", "freedom", "rights", "protest", "climate", "immigration", "social justice",
@@ -17,7 +18,6 @@ const politicalKeywords = [
   "antifa", "patriot", "fake news", "deep state", "socialism", "capitalism", "scandal",
   "extremist", "radical", "narrative", "insurrection", "unprecedented", "partisan"
 ];
-
 
 const parser = new Parser({ explicitArray: false });
 
@@ -27,39 +27,51 @@ function isIdeological(headline) {
   return politicalKeywords.some(keyword => normalizedHeadline.includes(keyword));
 }
 
-// Function to fetch and parse headlines from a given URL
-async function getHeadlines(url, source) {
+// Function to fetch and parse headlines from a single URL
+async function fetchHeadlinesFromUrl(url) {
   try {
     const response = await fetch(CORS_PROXY + encodeURIComponent(url));
     if (!response.ok) {
-        throw new Error(`Failed to fetch ${source} RSS feed: ${response.statusText}`);
+        throw new Error(`Failed to fetch RSS feed from URL: ${url}`);
     }
     const xmlText = await response.text();
     const result = await parser.parseStringPromise(xmlText);
-    const allItems = result.rss.channel.item || [];
-    
-    // Filter the items to only include ideological headlines
-    const ideologicalItems = allItems.filter(item => isIdeological(item));
-    
-    // Return only the top 20 ideological items
-    return ideologicalItems.slice(0, 20).map(item => ({
-      title: item.title,
-      link: item.link
-    }));
+    return result.rss.channel.item || [];
   } catch (error) {
-    console.error(`Error fetching or parsing headlines for ${source}:`, error);
+    console.error(`Error fetching or parsing headlines:`, error);
     return [];
   }
 }
 
 // Main function to generate the headlines.json file
 async function generateHeadlinesJson() {
-    const foxHeadlines = await getHeadlines(foxNewsRSS, 'Fox News');
-    const cnnHeadlines = await getHeadlines(cnnNewsRSS, 'CNN');
-    
+    // Fetch all headlines from both Fox News feeds
+    const foxLatest = await fetchHeadlinesFromUrl(foxNewsRSS);
+    const foxPolitics = await fetchHeadlinesFromUrl(foxNewsPoliticsRSS);
+    const combinedFoxHeadlines = [...foxLatest, ...foxPolitics];
+
+    // Filter and limit the combined list of Fox headlines
+    const ideologicalFoxHeadlines = combinedFoxHeadlines
+      .filter(item => isIdeological(item))
+      .slice(0, 20)
+      .map(item => ({
+        title: item.title,
+        link: item.link
+      }));
+
+    // Fetch, filter, and limit CNN headlines
+    const cnnHeadlines = await fetchHeadlinesFromUrl(cnnNewsRSS);
+    const ideologicalCnnHeadlines = cnnHeadlines
+      .filter(item => isIdeological(item))
+      .slice(0, 20)
+      .map(item => ({
+        title: item.title,
+        link: item.link
+      }));
+
     const data = {
-        fox: foxHeadlines,
-        cnn: cnnHeadlines,
+        fox: ideologicalFoxHeadlines,
+        cnn: ideologicalCnnHeadlines,
         timestamp: new Date().toISOString()
     };
     
