@@ -4,7 +4,7 @@ import fs from 'fs';
 
 const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.foxnews.com/foxnews/latest';
-const cnnNewsRSS = 'http://rss.cnn.com/rss/cnn_topstories.rss';
+const cnnNewsRSS = 'https://rss.app/feeds/gaoNnoqPkA5O5oc6.xml';
 
 const parser = new Parser({ explicitArray: false });
 
