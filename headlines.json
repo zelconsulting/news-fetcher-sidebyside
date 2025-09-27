@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Israeli cycling team excluded from Italy event amid concerns of pro-Palestinian protests",
+      "link": "https://www.foxnews.com/sports/israeli-cycling-team-excluded-from-italy-event-amid-concerns-pro-palestinian-protests"
+    },
+    {
+      "title": "Mikie Sherrill remains silent on issue of trans athletes in women's sports as Trump calls her out for it",
+      "link": "https://www.foxnews.com/sports/mikie-sherrill-remains-silent-past-voting-keep-trans-athletes-womens-sports-trump-calls-her-out"
+    },
+    {
+      "title": "Ciattarelli unloads on Mikie Sherrill in NJ town hall, citing immigration and Naval Academy: ‘Not a centrist’",
+      "link": "https://www.foxnews.com/politics/ciattarelli-unloads-mikie-sherrill-nj-town-hall-citing-immigration-naval-academy"
+    },
+    {
       "title": "Russia's Sergey Lavrov warns NATO countries in UNGA speech after Trump shifts tone on Ukraine",
       "link": "https://www.foxnews.com/world/russias-sergey-lavrov-warns-nato-countries-unga-speech-after-trump-shifts-tone-ukraine"
     },
@@ -27,10 +39,6 @@
     {
       "title": "Trump vows 'full force' as he plans to send troops to Portland amid anti-ICE protests",
       "link": "https://www.foxnews.com/politics/trump-vows-full-force-portland-ice-protests-continue"
-    },
-    {
-      "title": "Ciattarelli unloads on Mikie Sherrill in NJ town hall, citing immigration and Naval Academy: ‘Not a centrist’",
-      "link": "https://www.foxnews.com/politics/ciattarelli-unloads-mikie-sherrill-nj-town-hall-citing-immigration-naval-academy"
     },
     {
       "title": "Philadelphia DA goes into tirade about 'fascist' Trump, 'Hitler' when confronted at park in viral video",
@@ -71,14 +79,6 @@
     {
       "title": "Trump vows to order declassification of all Amelia Earhart files after nearly 90-year aviation mystery",
       "link": "https://www.foxnews.com/politics/trump-order-declassification-all-amelia-earhart-files-after-nearly-90-year-aviation-mystery"
-    },
-    {
-      "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
-      "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
-    },
-    {
-      "title": "Supreme Court extends Trump administration's $5 billion foreign aid freeze amid ongoing legal challenge",
-      "link": "https://www.foxnews.com/politics/supreme-court-extends-trump-administrations-5-billion-foreign-aid-freeze-amid-ongoing-legal-challenge"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/05/02/investing/us-stock-market"
     }
   ],
-  "timestamp": "2025-09-27T22:48:04.554Z"
+  "timestamp": "2025-09-27T23:10:29.855Z"
 }
