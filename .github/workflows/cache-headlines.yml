@@ -20,7 +20,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm init -y
           npm install node-fetch@2 xml2js
 
       - name: Run headlines fetch script
