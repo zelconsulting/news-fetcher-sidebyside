@@ -1,5 +1,86 @@
 {
   "fox": [],
-  "cnn": [],
-  "timestamp": "2025-09-27T06:43:09.221Z"
+  "cnn": [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html"
+    },
+    {
+      "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+      "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8"
+    },
+    {
+      "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+      "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html"
+    },
+    {
+      "title": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+      "link": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html"
+    },
+    {
+      "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
+      "link": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn"
+    },
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "link": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html"
+    },
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "link": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html"
+    },
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "link": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn"
+    },
+    {
+      "title": "Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together",
+      "link": "https://www.cnn.com/2023/04/18/entertainment/jake-gyllenhaal-jamie-lee-curtis-pandemic-living/index.html"
+    },
+    {
+      "title": "Toddler crawls through White House fence, prompts Secret Service response",
+      "link": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html"
+    },
+    {
+      "title": "Jamie Foxx remains hospitalized nearly a week after 'medical complication'",
+      "link": "https://www.cnn.com/2023/04/17/entertainment/jamie-foxx-remains-hospitalized/index.html"
+    },
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "link": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html"
+    },
+    {
+      "title": "See pizza delivery guy take out suspect fleeing police",
+      "link": "https://www.cnn.com/videos/us/2023/04/18/pizza-guy-trips-perp-moos-cprog-orig-bdk.cnn"
+    },
+    {
+      "title": "Netflix is winding down its DVD business after 25 years",
+      "link": "https://www.cnn.com/2023/04/18/media/netflix-dvd-red-envelopes/index.html"
+    },
+    {
+      "title": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+      "link": "https://www.cnn.com/2023/04/18/tech/lina-khan-ai-warning/index.html"
+    },
+    {
+      "title": "Eating too much of these foods is driving the rise in type 2 diabetes, study says",
+      "link": "https://www.cnn.com/2023/04/17/health/rise-type-2-diabetes-global-wellness/index.html"
+    },
+    {
+      "title": "ADHD medication abuse in schools is a 'wake-up call'",
+      "link": "https://www.cnn.com/2023/04/18/health/teen-misuse-adhd-meds-wellness/index.html"
+    },
+    {
+      "title": "Apple CEO was presented with an original Macintosh. See his reaction",
+      "link": "https://www.cnn.com/videos/tech/2023/04/18/apple-store-mumbai-india-ceo-tim-cook-vedika-sud-ovn-biz-ldn-vpx.cnn"
+    },
+    {
+      "title": "Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear",
+      "link": "https://www.cnn.com/2023/04/18/politics/clarence-thomas-ethics-democrats/index.html"
+    },
+    {
+      "title": "Russia is 'going backwards' in equipment and deploying post WWII-era tanks, according to Western officials",
+      "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html"
+    }
+  ],
+  "timestamp": "2025-09-27T06:53:13.416Z"
 }
