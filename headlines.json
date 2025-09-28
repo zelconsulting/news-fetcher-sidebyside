@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "DHS releases images of firearms taken from Chicago anti-ICE protesters",
+      "link": "https://www.foxnews.com/us/dhs-releases-images-firearms-taken-from-chicago-anti-ice-protesters"
+    },
+    {
+      "title": "Netanyahu addresses Trump’s 21-point peace plan, calls freeing hostages and dismantling Hamas top priorities",
+      "link": "https://www.foxnews.com/media/netanyahu-addresses-trumps-21-point-peace-plan-calls-freeing-hostages-dismantling-hamas-top-priorities"
+    },
+    {
+      "title": "Elon Musk wades back into UK politics, backs leader of new right-wing party, mocks rival",
+      "link": "https://www.foxnews.com/world/elon-musk-wades-back-uk-politics-backs-leader-new-right-wing-party-mocks-rival"
+    },
+    {
       "title": "This conservative influencer has already been assaulted once. She suspects it won’t be the last time",
       "link": "https://www.foxnews.com/media/conservative-influencer-has-already-been-assaulted-once-she-suspects-wont-last-time"
     },
@@ -55,13 +67,17 @@
     {
       "title": "Trump administration presses Supreme Court on executive order restricting birthright citizenship",
       "link": "https://www.foxnews.com/politics/trump-administration-presses-supreme-court-executive-order-restricting-birthright-citizenship"
-    },
-    {
-      "title": "Vice President JD Vance calls out 'left-wing radicals' for inciting political violence in social media post",
-      "link": "https://www.foxnews.com/politics/vice-president-jd-vance-calls-left-wing-radicals-inciting-political-violence-social-media-post"
     }
   ],
   "cnn": [
+    {
+      "title": "New York City Mayor Eric Adams suspends his reelection bid ",
+      "link": "https://www.cnn.com/2025/09/28/politics/new-york-city-mayor-eric-adams-suspends-his-reelection-bid"
+    },
+    {
+      "title": "Congressional leaders to meet with Trump at White House as government shutdown looms ",
+      "link": "https://www.cnn.com/2025/09/28/politics/congressional-leaders-to-meet-with-trump-at-white-house-as-government-shutdown-looms"
+    },
     {
       "title": "Trump promises ‘something special’ on Gaza as Israeli officials say Netanyahu has reservations on ceasefire plan ",
       "link": "https://www.cnn.com/2025/09/28/middleeast/netanyahu-trump-peace-reservations-intl"
@@ -91,16 +107,12 @@
       "link": "https://www.cnn.com/2025/09/28/style/art-museums-pressures-trump"
     },
     {
-      "title": "Analysis: Why Democrats see health care as a prescription for revival ",
-      "link": "https://www.cnn.com/2025/09/28/politics/shutdown-medicaid-aca-health-care-democrats-analysis"
-    },
-    {
       "title": "Fareed’s take: America is moving down the path of illiberal democracy ",
       "link": "https://www.cnn.com/2025/09/28/politics/video/gps-0928-future-american-democracy"
     },
     {
-      "title": "Congressional leaders to meet with Trump at White House as government shutdown looms ",
-      "link": "https://www.cnn.com/2025/09/28/politics/congressional-leaders-to-meet-with-trump-at-white-house-as-government-shutdown-looms"
+      "title": "Analysis: Why Democrats see health care as a prescription for revival ",
+      "link": "https://www.cnn.com/2025/09/28/politics/shutdown-medicaid-aca-health-care-democrats-analysis"
     },
     {
       "title": "Top congressional leaders will meet Trump at the White House on Monday as shutdown looms ",
@@ -137,11 +149,7 @@
     {
       "title": "‘I’m absolutely terrified’: Federal workers brace for potential government shutdown, mass layoffs ",
       "link": "https://www.cnn.com/2025/09/27/politics/government-shutdown-federal-workers-layoffs-fear"
-    },
-    {
-      "title": "How to appeal to independent voters (according to professionals) ",
-      "link": "https://www.cnn.com/2025/09/27/politics/independent-voters-democrats-republicans-poll-analysis"
     }
   ],
-  "timestamp": "2025-09-28T17:09:11.394Z"
+  "timestamp": "2025-09-28T17:25:05.259Z"
 }
