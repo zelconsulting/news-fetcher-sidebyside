@@ -25,6 +25,10 @@
       "link": "https://www.foxnews.com/politics/ciattarelli-unloads-mikie-sherrill-nj-town-hall-citing-immigration-naval-academy"
     },
     {
+      "title": "Harris recalls stun over Biden's botched debate response about fallen service members in Afghanistan",
+      "link": "https://www.foxnews.com/politics/harris-recalls-stun-over-bidens-botched-debate-response-about-fallen-service-members-afghanistan"
+    },
+    {
       "title": "House Republican says teen son's school promotes 'non-monosexual identities' in AM announcements, urges action",
       "link": "https://www.foxnews.com/politics/house-republican-says-teen-sons-school-promotes-non-monosexual-identities-am-announcements-urges-action"
     },
@@ -75,13 +79,13 @@
     {
       "title": "Massive cheating scandal involving Democratic governor candidate also involved husband: report",
       "link": "https://www.foxnews.com/politics/massive-cheating-scandal-involving-democratic-governor-candidate-also-involved-husband-report"
-    },
-    {
-      "title": "Supreme Court extends Trump administration's $5 billion foreign aid freeze amid ongoing legal challenge",
-      "link": "https://www.foxnews.com/politics/supreme-court-extends-trump-administrations-5-billion-foreign-aid-freeze-amid-ongoing-legal-challenge"
     }
   ],
   "cnn": [
+    {
+      "title": "‘It’s slippery slope’: CNN military analyst reacts to Trump’s plan for Portland ",
+      "link": "https://www.cnn.com/2025/09/28/politics/video/trump-portland-military-digvid"
+    },
     {
       "title": "‘A national emergency’: As Trump goes after the arts, many museums remain silent ",
       "link": "https://www.cnn.com/2025/09/28/style/art-museums-pressures-trump"
@@ -97,10 +101,6 @@
     {
       "title": "Top congressional leaders will meet Trump at the White House on Monday as shutdown looms ",
       "link": "https://www.cnn.com/2025/09/27/politics/government-shutdown-congressional-leaders-trump"
-    },
-    {
-      "title": "‘It’s slippery slope’: CNN military analyst reacts to Trump’s plan for Portland ",
-      "link": "https://www.cnn.com/2025/09/28/politics/video/trump-portland-military-digvid"
     },
     {
       "title": "Rudy Giuliani and Dominion Voting Systems settle defamation suit over his 2020 election claims ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/26/politics/supreme-court-lets-trump-withhold-billions-in-foreign-aid"
     }
   ],
-  "timestamp": "2025-09-28T12:21:29.736Z"
+  "timestamp": "2025-09-28T12:56:28.179Z"
 }
