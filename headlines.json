@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "FBI's Patel clarifies role of hundreds of agents on Jan 6, says Wray lied to Congress",
+      "link": "https://www.foxnews.com/politics/fbis-patel-clarifies-role-hundreds-agents-jan-6-says-wray-lied-congress"
+    },
+    {
       "title": "Israeli cycling team excluded from Italy event amid concerns of pro-Palestinian protests",
       "link": "https://www.foxnews.com/sports/israeli-cycling-team-excluded-from-italy-event-amid-concerns-pro-palestinian-protests"
     },
@@ -25,20 +29,12 @@
       "link": "https://www.foxnews.com/media/bill-maher-claims-slaughter-christians-nigeria-being-ignored-because-jews-arent-involved"
     },
     {
-      "title": "Line to get Charlie Kirk 'FREEDOM' shirt at Oregon vs. Penn State game floods parking lot",
+      "title": "Line to get Charlie Kirk 'FREEDOM' shirt at Oregon-Penn State game floods parking lot",
       "link": "https://www.foxnews.com/sports/line-get-charlie-kirk-shirt-penn-state-vs-oregon-game-floods-parking-lot"
     },
     {
       "title": "House Republican says teen son's school promotes 'non-monosexual identities' in AM announcements, urges action",
       "link": "https://www.foxnews.com/politics/house-republican-says-teen-sons-school-promotes-non-monosexual-identities-am-announcements-urges-action"
-    },
-    {
-      "title": "Hungarian official touts 'golden age' of US relationship, credits Trump with boosting NATO and investment",
-      "link": "https://www.foxnews.com/world/hungarian-official-touts-golden-age-us-relationship-credits-trump-boosting-nato-investment"
-    },
-    {
-      "title": "FBI's Patel clarifies role of hundreds of agents on Jan 6, says Wray lied to Congress",
-      "link": "https://www.foxnews.com/politics/fbis-patel-clarifies-role-hundreds-agents-jan-6-says-wray-lied-congress"
     },
     {
       "title": "Trump vows 'full force' as he plans to send troops to Portland amid anti-ICE protests",
@@ -79,64 +75,84 @@
     {
       "title": "Major pro-life group demands investigation into abortion pill billboards in Florida",
       "link": "https://www.foxnews.com/politics/major-pro-life-group-demands-investigation-abortion-pill-billboards-florida"
+    },
+    {
+      "title": "Trump vows to order declassification of all Amelia Earhart files after nearly 90-year aviation mystery",
+      "link": "https://www.foxnews.com/politics/trump-order-declassification-all-amelia-earhart-files-after-nearly-90-year-aviation-mystery"
     }
   ],
   "cnn": [
     {
-      "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
-      "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8"
+      "title": "Rudy Giuliani and Dominion Voting Systems settle defamation suit over his 2020 election claims ",
+      "link": "https://www.cnn.com/2025/09/27/politics/rudy-giuliani-dominon-voting-settle"
     },
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "link": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html"
+      "title": "Trump accuses Wray of lying about agency actions on January 6, days after Comey indicted ",
+      "link": "https://www.cnn.com/2025/09/27/politics/trump-accuses-wray-lying"
     },
     {
-      "title": "Toddler crawls through White House fence, prompts Secret Service response",
-      "link": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html"
+      "title": "How consumer pushback beat Trump’s pressure campaign on Kimmel ",
+      "link": "https://www.cnn.com/2025/09/27/media/kimmel-abc-nexstar-sinclair-carr-trump-disney-local-market"
     },
     {
-      "title": "Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear",
-      "link": "https://www.cnn.com/2023/04/18/politics/clarence-thomas-ethics-democrats/index.html"
+      "title": "Trump says he’s sending troops to Portland to protect ICE facilities ",
+      "link": "https://www.cnn.com/2025/09/27/politics/trump-sending-troops-portland-ice"
     },
     {
-      "title": "GOP prepared to block vote to replace Feinstein on Senate Judiciary",
-      "link": "https://www.cnn.com/2023/04/18/politics/schumer-senate-feinstein-vote-cardin/index.html"
+      "title": "Trump says he’s sending troops to Portland to ",
+      "link": "https://www.cnn.com/2025/09/27/politics/trump-says-hes-sending-troops-to-portland-to"
     },
     {
-      "title": "McCarthy slams Biden in handling of US debt ",
-      "link": "https://www.cnn.com/videos/politics/2023/04/18/kevin-mccarthy-wall-street-speech-debt-ceiling-biden-economy-vpx.cnn"
+      "title": "Trump upbeat about ending Gaza war as 21-point peace plan takes shape ",
+      "link": "https://www.cnn.com/2025/09/27/middleeast/gaza-trump-peace-plan-detail-israel"
     },
     {
-      "title": "Fulton County DA says fake Trump electors are incriminating one another and wants lawyer disqualified ",
-      "link": "https://www.cnn.com/2023/04/18/politics/fulton-county-trump-fake-electors/index.html"
+      "title": "Linda McMahon is dismantling the Education Department — but first she’ll help make school ‘patriotic’ again ",
+      "link": "https://www.cnn.com/2025/09/27/politics/linda-mcmahon-department-of-education-patriotic-civics"
     },
     {
-      "title": "The 2024 presidential alternative many voters will want",
-      "link": "https://www.cnn.com/2023/04/18/opinions/2024-presidential-election-alternative-voters-lieberman"
+      "title": "Fact check: What you need to know about Trump’s misinformation about vaccines, autism and hepatitis B ",
+      "link": "https://www.cnn.com/2025/09/27/politics/fact-check-tylenol-autism-trump"
     },
     {
-      "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-      "link": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html"
+      "title": "Analysis: Why the James Comey indictment is different from the Biden DOJ’s indictment of Trump ",
+      "link": "https://www.cnn.com/2025/09/27/politics/indictment-comey-trump-difference"
     },
     {
-      "title": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
-      "link": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html"
+      "title": "‘I’m absolutely terrified’: Federal workers brace for potential government shutdown, mass layoffs ",
+      "link": "https://www.cnn.com/2025/09/27/politics/government-shutdown-federal-workers-layoffs-fear"
     },
     {
-      "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
-      "link": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html"
+      "title": "How to appeal to independent voters (according to professionals) ",
+      "link": "https://www.cnn.com/2025/09/27/politics/independent-voters-democrats-republicans-poll-analysis"
     },
     {
-      "title": "The notable legal clouds that continue to hang over Donald Trump",
-      "link": "https://www.cnn.com/2022/11/15/politics/donald-trump-investigations-lawsuits/index.html"
+      "title": "Hear whether House minority leader thinks a shutdown can be averted ",
+      "link": "https://www.cnn.com/2025/09/26/politics/video/hakeem-jeffries-possible-government-shutdown-trump-src-digvid"
     },
     {
-      "title": "Everything you need to know about Biden's student loan forgiveness program",
-      "link": "https://www.cnn.com/2022/08/31/politics/biden-student-loan-forgiveness-faq/index.html"
+      "title": "FBI fires agents seen kneeling in iconic photo during George Floyd protests five years ago ",
+      "link": "https://www.cnn.com/2025/09/26/politics/fbi-agents-fired-blm-george-floyd-protests"
     },
     {
-      "title": "Politics of the Day",
-      "link": "https://www.cnn.com/video/playlists/this-week-in-politics/"
+      "title": "Tylenol, White House renovations, UNGA and a foe’s indictment: Collins reports on Trump’s task list this week ",
+      "link": "https://www.cnn.com/2025/09/26/politics/video/kaitlan-collins-tylenol-comey-ukraine-source-week-wrap-digvid"
+    },
+    {
+      "title": "Trump asks Supreme Court to decide whether it can end birthright citizenship ",
+      "link": "https://www.cnn.com/2025/09/26/politics/supreme-court-birthright-citizenship-trump-appeal"
+    },
+    {
+      "title": "GOP Sen. Mike Rounds: James Comey’s indictment is about ‘accountability’ ",
+      "link": "https://www.cnn.com/2025/09/26/politics/video/ip-mike-rounds-comey-indictment"
+    },
+    {
+      "title": "Supreme Court lets Trump withhold $4 billion in foreign aid approved by Congress ",
+      "link": "https://www.cnn.com/2025/09/26/politics/supreme-court-lets-trump-withhold-billions-in-foreign-aid"
+    },
+    {
+      "title": "‘Never able to get me’: See what Comey told CNN back in May about Trump ",
+      "link": "https://www.cnn.com/2025/09/26/politics/video/comey-intv-trump-indictment-digvid"
     },
     {
       "title": "If Trump has a smoking gun in the Lisa Cook mortgage fraud case, we haven’t seen it yet ",
@@ -145,23 +161,7 @@
     {
       "title": "If Trump loses his tariff lawsuit, America may have to refund businesses $80 billion and counting ",
       "link": "https://www.cnn.com/2025/09/03/economy/trump-tariff-refund"
-    },
-    {
-      "title": "Diversity at the Fed took one step forward. Now Trump is taking it two steps back ",
-      "link": "https://www.cnn.com/2025/08/29/economy/diversity-federal-reserve-lisa-cook"
-    },
-    {
-      "title": "What happens if Trump gets control of the Fed? Warnings from history for the US and beyond ",
-      "link": "https://www.cnn.com/2025/08/29/economy/trump-fed-turkey-argentina"
-    },
-    {
-      "title": "Fed Governor Lisa Cook sues to challenge Trump’s attempt to fire her, setting up a showdown over presidential power ",
-      "link": "https://www.cnn.com/2025/08/28/economy/fed-lisa-cook-lawsuit"
-    },
-    {
-      "title": "S&P 500 on track for longest winning streak in 20 years as Trump and China show some willingness to bend on trade ",
-      "link": "https://www.cnn.com/2025/05/02/investing/us-stock-market"
     }
   ],
-  "timestamp": "2025-09-27T23:47:44.087Z"
+  "timestamp": "2025-09-28T00:29:02.614Z"
 }
