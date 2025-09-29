@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump says 'real chance for greatness' as Netanyahu White House meeting looms for Gaza talks",
+      "link": "https://www.foxnews.com/politics/trump-says-real-chance-greatness-netanyahu-white-house-meeting-looms-gaza-talks"
+    },
+    {
+      "title": "Supreme Court showdown: Trump's strategy to test limits of his power could spell doom for administrative state",
+      "link": "https://www.foxnews.com/politics/supreme-court-showdown-trumps-strategy-test-limits-his-power-could-spell-doom-administrative-state"
+    },
+    {
       "title": "Trump’s H-1B visa reform plan needs to put Americans first",
       "link": "https://www.foxnews.com/opinion/trumps-h-1b-visa-reform-plan-needs-put-americans-first"
     },
@@ -25,12 +33,8 @@
       "link": "https://www.foxnews.com/politics/oregon-sues-over-trump-admins-war-ravaged-portland-national-guard-troop-deployment"
     },
     {
-      "title": "Trump says 'real chance for greatness' as Netanyahu White House meeting looms for Gaza talks",
-      "link": "https://www.foxnews.com/politics/trump-says-real-chance-greatness-netanyahu-white-house-meeting-looms-gaza-talks"
-    },
-    {
-      "title": "Supreme Court showdown: Trump's strategy to test limits of his power could spell doom for administrative state",
-      "link": "https://www.foxnews.com/politics/supreme-court-showdown-trumps-strategy-test-limits-his-power-could-spell-doom-administrative-state"
+      "title": "Top US military brass to hold secretive meeting with Hegseth as Trump ramps up Russia criticism",
+      "link": "https://www.foxnews.com/politics/top-military-officials-set-secretive-unprecedented-mass-meeting-hegseth-amid-trumps-escalating-crit"
     },
     {
       "title": "Harris recalls stun over Biden's botched debate response about fallen service members in Afghanistan",
@@ -59,13 +63,17 @@
     {
       "title": "Trump vows 'full force' as he plans to send troops to Portland amid anti-ICE protests",
       "link": "https://www.foxnews.com/politics/trump-vows-full-force-portland-ice-protests-continue"
-    },
-    {
-      "title": "Philadelphia DA goes into tirade about 'fascist' Trump, 'Hitler' when confronted at park in viral video",
-      "link": "https://www.foxnews.com/politics/philadelphia-da-goes-tirade-about-fascist-trump-hitler-when-confronted-park-viral-video"
     }
   ],
   "cnn": [
+    {
+      "title": "Donald Trump’s own words could doom the criminal case against James Comey, legal experts say ",
+      "link": "https://www.cnn.com/2025/09/29/politics/how-trumps-own-actions-could-doom-comeys-criminal-case"
+    },
+    {
+      "title": "5 things to know for Sept. 29: Church attack, Government shutdown, National Guard, Storm watch, Gaza ",
+      "link": "https://www.cnn.com/2025/09/29/us/5-things-to-know-for-sept-29-church-attack-government-shutdown-national-guard-storm-watch-gaza"
+    },
     {
       "title": "Race for New York City Mayor scrambled again after Adams ends bid for reelection ",
       "link": "https://www.cnn.com/2025/09/29/politics/eric-adams-new-york-city-mayor-election"
@@ -81,10 +89,6 @@
     {
       "title": "Moldova’s ruling party wins crucial election billed as choice between EU and Moscow ",
       "link": "https://www.cnn.com/2025/09/29/europe/moldova-election-eu-russia-intl-hnk"
-    },
-    {
-      "title": "When Trump meets Netanyahu, he’ll meet a politician transformed ",
-      "link": "https://www.cnn.com/2025/09/29/middleeast/trump-netanyahu-meeting-analysis-intl"
     },
     {
       "title": "Here’s what is so different about the brewing government shutdown ",
@@ -139,13 +143,9 @@
       "link": "https://www.cnn.com/2025/09/27/politics/trump-accuses-wray-lying"
     },
     {
-      "title": "Trump says he’s sending troops to Portland to protect ICE facilities ",
-      "link": "https://www.cnn.com/2025/09/27/politics/trump-sending-troops-portland-ice"
-    },
-    {
-      "title": "Trump says he’s sending troops to Portland to ",
-      "link": "https://www.cnn.com/2025/09/27/politics/trump-says-hes-sending-troops-to-portland-to"
+      "title": "If Trump has a smoking gun in the Lisa Cook mortgage fraud case, we haven’t seen it yet ",
+      "link": "https://www.cnn.com/2025/09/25/economy/lisa-cook-mortgage-bessent-chavez-deremer"
     }
   ],
-  "timestamp": "2025-09-29T10:49:43.825Z"
+  "timestamp": "2025-09-29T11:10:42.850Z"
 }
