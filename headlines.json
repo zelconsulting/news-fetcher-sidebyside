@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Republican governor signs into law Trump-backed congressional redistricting map",
+      "link": "https://www.foxnews.com/politics/republican-governor-signs-law-trump-backed-congressional-redistricting-map"
+    },
+    {
+      "title": "Oregon sues over Trump admin's 'war-ravaged Portland' National Guard troop deployment",
+      "link": "https://www.foxnews.com/politics/oregon-sues-over-trump-admins-war-ravaged-portland-national-guard-troop-deployment"
+    },
+    {
       "title": "Harris recalls stun over Biden's botched debate response about fallen service members in Afghanistan",
       "link": "https://www.foxnews.com/politics/harris-recalls-stun-over-bidens-botched-debate-response-about-fallen-service-members-afghanistan"
     },
@@ -35,10 +43,6 @@
     {
       "title": "Trump caps week with Ryder Cup appearance after UN speech, Zelenskyy meeting",
       "link": "https://www.foxnews.com/politics/trump-caps-week-ryder-cup-appearance-after-un-speech-zelenskyy-meeting"
-    },
-    {
-      "title": "National Archives apologizes to Dem gubernatorial candidate after 'exceedingly rare' military records 'breach'",
-      "link": "https://www.foxnews.com/politics/national-archives-apologizes-dem-gubernatorial-candidate-after-exceedingly-rare-military-records-breach"
     }
   ],
   "cnn": [
@@ -123,5 +127,5 @@
       "link": "https://www.cnn.com/2025/09/27/politics/indictment-comey-trump-difference"
     }
   ],
-  "timestamp": "2025-09-29T00:57:39.817Z"
+  "timestamp": "2025-09-29T02:24:53.476Z"
 }
