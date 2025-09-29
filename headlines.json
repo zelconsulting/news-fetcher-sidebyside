@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Harris claims Kimmel suspension happened because Trump 'couldn't take a joke'",
+      "link": "https://www.foxnews.com/media/harris-claims-kimmel-suspension-happened-because-trump-couldnt-take-joke"
+    },
+    {
+      "title": "Woman's car sinks in lake as she protests ICE arrests in Massachusetts",
+      "link": "https://www.foxnews.com/us/womans-car-sinks-lake-she-protests-ice-arrests-massachusetts"
+    },
+    {
       "title": "Republican governor signs into law Trump-backed congressional redistricting map",
       "link": "https://www.foxnews.com/politics/republican-governor-signs-law-trump-backed-congressional-redistricting-map"
     },
@@ -46,6 +54,10 @@
     }
   ],
   "cnn": [
+    {
+      "title": "Gen Z Moroccans denounce government priorities in some of the largest protests in years ",
+      "link": "https://www.cnn.com/2025/09/28/africa/gen-z-moroccans-protest-stadiums-intl-latam"
+    },
     {
       "title": "Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat ",
       "link": "https://www.cnn.com/2025/09/28/politics/missouri-governor-signs-redistricting-plan"
@@ -121,11 +133,7 @@
     {
       "title": "Fact check: What you need to know about Trump’s misinformation about vaccines, autism and hepatitis B ",
       "link": "https://www.cnn.com/2025/09/27/politics/fact-check-tylenol-autism-trump"
-    },
-    {
-      "title": "Analysis: Why the James Comey indictment is different from the Biden DOJ’s indictment of Trump ",
-      "link": "https://www.cnn.com/2025/09/27/politics/indictment-comey-trump-difference"
     }
   ],
-  "timestamp": "2025-09-29T02:24:53.476Z"
+  "timestamp": "2025-09-29T03:24:44.063Z"
 }
