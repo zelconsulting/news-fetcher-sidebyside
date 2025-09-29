@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump’s H-1B visa reform plan needs to put Americans first",
+      "link": "https://www.foxnews.com/opinion/trumps-h-1b-visa-reform-plan-needs-put-americans-first"
+    },
+    {
+      "title": "Trump’s cashless bail reform is a good first step. There are 5 more we need right now",
+      "link": "https://www.foxnews.com/opinion/trumps-cashless-bail-reform-good-first-step-5-more-we-need-right-now"
+    },
+    {
       "title": "Harris claims Kimmel suspension happened because Trump 'couldn't take a joke'",
       "link": "https://www.foxnews.com/media/harris-claims-kimmel-suspension-happened-because-trump-couldnt-take-joke"
     },
@@ -55,6 +63,10 @@
   ],
   "cnn": [
     {
+      "title": "Government shutdowns usually don’t hurt the economy. This time could be different ",
+      "link": "https://www.cnn.com/2025/09/29/business/trump-shutdown-jobs-market-economy"
+    },
+    {
       "title": "President Trump plans to send troops to Portland, Chicago and Memphis. Here’s what we know ",
       "link": "https://www.cnn.com/2025/09/29/us/trump-national-guard-memphis-chicago-portland"
     },
@@ -69,10 +81,6 @@
     {
       "title": "Here’s what is so different about the brewing government shutdown ",
       "link": "https://www.cnn.com/2025/09/29/politics/trump-shutdown-federal-government-funding-fight-democrats-explained"
-    },
-    {
-      "title": "Gen Z Moroccans denounce government priorities in some of the largest protests in years ",
-      "link": "https://www.cnn.com/2025/09/28/africa/gen-z-moroccans-protest-stadiums-intl-latam"
     },
     {
       "title": "Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat ",
@@ -135,5 +143,5 @@
       "link": "https://www.cnn.com/2025/09/27/politics/linda-mcmahon-department-of-education-patriotic-civics"
     }
   ],
-  "timestamp": "2025-09-29T09:15:01.528Z"
+  "timestamp": "2025-09-29T09:34:51.607Z"
 }
