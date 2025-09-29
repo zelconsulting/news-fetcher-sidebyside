@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: What to know about the potential shut down",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-sept-29th-draft"
+    },
+    {
+      "title": "JD Vance says government likely 'headed into a shutdown' after Trump meets with Dems",
+      "link": "https://www.foxnews.com/politics/jd-vance-government-likely-headed-shutdown"
+    },
+    {
       "title": "ESPN star Paul Finebaum says network axed potential Trump interview in 2019",
       "link": "https://www.foxnews.com/sports/espn-star-paul-finebaum-says-network-axed-potential-trump-interview-2019"
     },
@@ -45,24 +53,8 @@
       "link": "https://www.foxnews.com/politics/portland-set-see-trump-crime-crackdown-reckoning-after-2020s-humiliating-violence-spree"
     },
     {
-      "title": "TLC's ‘Meet the Putnams’ stars Bill, Barb Putnam and their daughter-in-law killed in crash",
-      "link": "https://www.foxnews.com/entertainment/tlcs-meet-putnams-stars-bill-barb-putnam-daughter-in-law-killed-crash"
-    },
-    {
       "title": "'A good bet': Mike Johnson prepares House Republicans for likely government shutdown in lawmaker-only call",
       "link": "https://www.foxnews.com/politics/a-good-bet-mike-johnson-prepares-house-republicans-likely-government-shutdown-lawmaker-only-call"
-    },
-    {
-      "title": "Protecting America’s outdoors is patriotic — but radical activism gets in the way",
-      "link": "https://www.foxnews.com/opinion/protecting-americas-outdoors-patriotic-radical-activism-gets-way"
-    },
-    {
-      "title": "Fox News Politics Newsletter: What to know about the potential shut down",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-sept-29th-draft"
-    },
-    {
-      "title": "JD Vance says government likely 'headed into a shutdown' after Trump meets with Dems",
-      "link": "https://www.foxnews.com/politics/jd-vance-government-likely-headed-shutdown"
     },
     {
       "title": "Mamdani proposes massive amount of legal defense funding for immigrants in 'Trump-proofing' NYC plan",
@@ -79,6 +71,14 @@
     {
       "title": "A tale of two indictments: Top Dems say ‘no one is above the law’ on Trump, but decry Comey case",
       "link": "https://www.foxnews.com/politics/tale-two-indictments-top-dems-say-no-one-above-law-trump-decry-comey-case"
+    },
+    {
+      "title": "Reporter's Notebook: Trump holds bipartisan meeting with congressional leaders as Wednesday shutdown looms",
+      "link": "https://www.foxnews.com/politics/reporters-notebook-trump-holds-bipartisan-meeting-congressional-leaders-wednesday-shutdown-looms"
+    },
+    {
+      "title": "Harris reveals crude hypotheticals on abortion, Viagra rehearsed before Trump debate",
+      "link": "https://www.foxnews.com/politics/harris-reveals-crude-hypotheticals-abortion-viagra-rehearsed-before-trump-debate"
     }
   ],
   "cnn": [
@@ -113,6 +113,10 @@
     {
       "title": "What happens if a hurricane makes landfall while the government is shut down ",
       "link": "https://www.cnn.com/2025/09/29/weather/government-shutdown-hurricane-disaster"
+    },
+    {
+      "title": "Dem Sen. Kim on shutdown: Republicans aren’t even showing up to work ",
+      "link": "https://www.cnn.com/2025/09/29/politics/video/the-lead-government-shutdown-gop-dems-schumer-johnson-jake-tapper"
     },
     {
       "title": "What’s next after James Comey’s indictment? Dana Bash and the panel dive into Trump’s pressure on DOJ to target rivals ",
@@ -157,11 +161,7 @@
     {
       "title": "Fareed’s take: America is moving down the path of illiberal democracy ",
       "link": "https://www.cnn.com/2025/09/28/politics/video/gps-0928-future-american-democracy"
-    },
-    {
-      "title": "Congressional leaders to meet with Trump at White House as government shutdown looms ",
-      "link": "https://www.cnn.com/2025/09/28/politics/congressional-leaders-to-meet-with-trump-at-white-house-as-government-shutdown-looms"
     }
   ],
-  "timestamp": "2025-09-29T22:48:01.492Z"
+  "timestamp": "2025-09-29T23:11:23.915Z"
 }
