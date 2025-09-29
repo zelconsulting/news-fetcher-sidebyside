@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Police share new pictures of third suspect amid manhunt in congressional intern’s killing",
+      "link": "https://www.foxnews.com/us/police-share-new-pictures-third-suspect-amid-manhunt-congressional-interns-killing"
+    },
+    {
+      "title": "Mamdani proposes massive amount of legal defense funding for immigrants in 'Trump-proofing' NYC plan",
+      "link": "https://www.foxnews.com/politics/mamdani-proposes-massive-amount-legal-defense-funding-immigrants-trump-proofing-nyc-plan"
+    },
+    {
       "title": "Dems not budging on government shutdown demands ahead of high-stakes Trump meeting, Jeffries suggests",
       "link": "https://www.foxnews.com/politics/dems-not-budging-government-shutdown-demands-ahead-high-stakes-trump-meeting-jeffries-suggests"
     },
@@ -33,20 +41,8 @@
       "link": "https://www.foxnews.com/world/china-wont-let-trump-take-bagram-air-base-back-from-taliban-without-fight-expert-warns"
     },
     {
-      "title": "UFC's Michael Chandler wants to 'steal the show' against Conor McGregor at White House",
-      "link": "https://www.foxnews.com/sports/ufc-michael-chandler-steal-show-conor-mcgregor-white-house"
-    },
-    {
       "title": "Harris reveals crude hypotheticals on abortion, Viagra rehearsed before Trump debate",
       "link": "https://www.foxnews.com/politics/harris-reveals-crude-hypotheticals-abortion-viagra-rehearsed-before-trump-debate"
-    },
-    {
-      "title": "UFC's Dana White reveals details about Obama conversation at Trump's inauguration",
-      "link": "https://www.foxnews.com/sports/ufcs-dana-white-reveals-details-about-obama-conversation-trumps-inauguration"
-    },
-    {
-      "title": "Mamdani proposes massive amount of legal defense funding for immigrants in 'Trump-proofing' NYC plan",
-      "link": "https://www.foxnews.com/politics/mamdani-proposes-massive-amount-legal-defense-funding-immigrants-trump-proofing-nyc-plan"
     },
     {
       "title": "Top US military brass to hold secretive meeting with Hegseth as Trump ramps up Russia criticism",
@@ -71,10 +67,6 @@
     {
       "title": "Harris recalls stun over Biden's botched debate response about fallen service members in Afghanistan",
       "link": "https://www.foxnews.com/politics/harris-recalls-stun-over-bidens-botched-debate-response-about-fallen-service-members-afghanistan"
-    },
-    {
-      "title": "Trump to meet with top congressional leaders at White House as government shutdown looms",
-      "link": "https://www.foxnews.com/politics/trump-meet-top-congressional-leaders-white-house-government-shutdown-looms"
     }
   ],
   "cnn": [
@@ -159,5 +151,5 @@
       "link": "https://www.cnn.com/2025/09/25/economy/lisa-cook-mortgage-bessent-chavez-deremer"
     }
   ],
-  "timestamp": "2025-09-29T17:47:57.545Z"
+  "timestamp": "2025-09-29T18:18:40.360Z"
 }
