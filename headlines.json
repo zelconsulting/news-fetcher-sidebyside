@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Reporter's Notebook: Trump holds bipartisan meeting with congressional leaders as Wednesday shutdown looms",
+      "link": "https://www.foxnews.com/politics/reporters-notebook-trump-holds-bipartisan-meeting-congressional-leaders-wednesday-shutdown-looms"
+    },
+    {
+      "title": "Bad Bunny's ICE comments resurface as NFL fans debate selection of Super Bowl LX halftime show performer",
+      "link": "https://www.foxnews.com/sports/bad-bunnys-ice-comments-resurface-nfl-fans-debate-selection-super-bowl-lx-halftime-show-performer"
+    },
+    {
       "title": "China won't let Trump take Bagram Air Base back from the Taliban without a fight, expert warns",
       "link": "https://www.foxnews.com/world/china-wont-let-trump-take-bagram-air-base-back-from-taliban-without-fight-expert-warns"
     },
@@ -31,14 +39,6 @@
     {
       "title": "Supreme Court showdown: Trump's strategy to test limits of his power could spell doom for administrative state",
       "link": "https://www.foxnews.com/politics/supreme-court-showdown-trumps-strategy-test-limits-his-power-could-spell-doom-administrative-state"
-    },
-    {
-      "title": "Trump’s H-1B visa reform plan needs to put Americans first",
-      "link": "https://www.foxnews.com/opinion/trumps-h-1b-visa-reform-plan-needs-put-americans-first"
-    },
-    {
-      "title": "Reporter's Notebook: Trump holds bipartisan meeting with congressional leaders as Wednesday shutdown looms",
-      "link": "https://www.foxnews.com/politics/reporters-notebook-trump-holds-bipartisan-meeting-congressional-leaders-wednesday-shutdown-looms"
     },
     {
       "title": "Republican governor signs into law Trump-backed congressional redistricting map",
@@ -151,5 +151,5 @@
       "link": "https://www.cnn.com/2025/09/26/economy/us-pce-consumer-spending-inflation-august"
     }
   ],
-  "timestamp": "2025-09-29T14:48:22.047Z"
+  "timestamp": "2025-09-29T15:12:46.983Z"
 }
