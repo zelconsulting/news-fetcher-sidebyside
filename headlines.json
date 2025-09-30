@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "US companies secure record $170B in global contracts under Trump so far, Commerce says",
+      "link": "https://www.foxnews.com/politics/us-companies-secure-record-170b-global-contracts-under-trump-so-far-commerce-says"
+    },
+    {
+      "title": "Lionel Richie calls explosive marriage-ending fight the 'scandal of my century' in new tell-all book",
+      "link": "https://www.foxnews.com/entertainment/lionel-richie-calls-explosive-marriage-ending-fight-scandal-my-century-new-tell-all-book"
+    },
+    {
+      "title": "Trump admin targets $3.3B homeless housing program, 170,000 people could face return to streets: report",
+      "link": "https://www.foxnews.com/politics/trump-admin-targets-homeless-housing-program-people-could-face-return-streets-report"
+    },
+    {
+      "title": "Trump tries to save Hollywood with 100% tariff on foreign-produced films, but insiders say industry is 'dying'",
+      "link": "https://www.foxnews.com/entertainment/trump-tries-save-hollywood-100-tariff-foreign-produced-films-insiders-say-industry-dying"
+    },
+    {
+      "title": "Biden admin put some Americans who resisted mask mandates or were involved in Jan 6 on severe no-fly list: TSA",
+      "link": "https://www.foxnews.com/politics/biden-admin-put-some-americans-who-resisted-mask-mandates-were-involved-jan-6-severe-no-fly-list-tsa"
+    },
+    {
+      "title": "Government shutdown looms with midnight deadline to make a deal and more top headlines",
+      "link": "https://www.foxnews.com/us/government-shutdown-looms-midnight-deadline-make-deal-more-top-headlines"
+    },
+    {
+      "title": "Bishops, Catholic groups slam Cardinal Cupich's plan to honor pro-abortion Sen Dick Durbin: ‘Great scandal’",
+      "link": "https://www.foxnews.com/media/bishops-catholic-groups-slam-cardinal-cupichs-plan-honor-pro-abortion-sen-dick-durbin-great-scandal"
+    },
+    {
       "title": "Hillary Clinton rips White men of 'a certain religion,’ sparks backlash from conservatives",
       "link": "https://www.foxnews.com/media/hillary-clinton-rips-white-men-a-certain-religion-sparks-backlash-from-conservatives"
     },
@@ -13,28 +41,8 @@
       "link": "https://www.foxnews.com/politics/five-races-watch-5-weeks-go-until-election-day-2025"
     },
     {
-      "title": "LIZ PEEK: Trump White House fired up about King Coal’s return to power",
-      "link": "https://www.foxnews.com/opinion/liz-peek-trump-white-house-fired-up-about-king-coals-return-power"
-    },
-    {
-      "title": "Trump, Democrats locked in endless cycles of payback after Comey indictment and targeting president's enemies",
-      "link": "https://www.foxnews.com/opinion/trump-democrats-locked-endless-cycles-payback-after-comey-indictment-targeting-presidents-enemies"
-    },
-    {
-      "title": "Woman disrobes at California school board meeting in protest of locker room policies",
-      "link": "https://www.foxnews.com/media/woman-disrobes-california-school-board-meeting-protest-locker-room-policies"
-    },
-    {
       "title": "Illegal alien who sent 'vulgar, racist' bomb threat to female member of Congress arrested by ICE",
       "link": "https://www.foxnews.com/politics/illegal-alien-who-sent-vulgar-racist-bomb-threat-female-member-congress-arrested-ice"
-    },
-    {
-      "title": "Trump admin targets $3.3B homeless housing program, 170,000 people could face return to streets: report",
-      "link": "https://www.foxnews.com/politics/trump-admin-targets-homeless-housing-program-people-could-face-return-streets-report"
-    },
-    {
-      "title": "Biden admin put some Americans who resisted mask mandates or were involved in Jan 6 on severe no-fly list: TSA",
-      "link": "https://www.foxnews.com/politics/biden-admin-put-some-americans-who-resisted-mask-mandates-were-involved-jan-6-severe-no-fly-list-tsa"
     },
     {
       "title": "Illegal alien arrested by ICE found registered as active Democrat voter in blue state",
@@ -71,17 +79,13 @@
     {
       "title": "New Jersey GOP lawmakers demand Sherrill release Naval Academy records as questions swirl",
       "link": "https://www.foxnews.com/politics/new-jersey-gop-lawmakers-demand-sherrill-release-naval-academy-records-questions-swirl"
-    },
-    {
-      "title": "SCOOP: Johnson arms House Republicans with shutdown messaging strategy ahead of funding fight",
-      "link": "https://www.foxnews.com/politics/scoop-johnson-arms-house-republicans-shutdown-messaging-strategy-ahead-funding-fight"
-    },
-    {
-      "title": "White House warns veterans' services at risk if Dems block GOP funding bill",
-      "link": "https://www.foxnews.com/politics/white-house-warns-veterans-services-risk-dems-block-gop-funding-bill"
     }
   ],
   "cnn": [
+    {
+      "title": "The federal government might shut down after midnight. Here’s how you may be affected ",
+      "link": "https://www.cnn.com/2025/09/30/politics/video/government-shutdown-midnight-services-impacted-digvid"
+    },
     {
       "title": "What a federal government shutdown might mean for travelers ",
       "link": "https://www.cnn.com/2025/09/30/travel/federal-government-shutdown-travel-impact"
@@ -157,11 +161,7 @@
     {
       "title": "What’s next after James Comey’s indictment? Dana Bash and the panel dive into Trump’s pressure on DOJ to target rivals ",
       "link": "https://www.cnn.com/2025/09/29/politics/video/insidepolitics-comey-indictment"
-    },
-    {
-      "title": "GOP Rep. Mike Turner: we need to put sanctions on Russia ",
-      "link": "https://www.cnn.com/2025/09/29/politics/video/ip-mike-turner-ukraine"
     }
   ],
-  "timestamp": "2025-09-30T13:04:54.960Z"
+  "timestamp": "2025-09-30T13:38:27.831Z"
 }
