@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Chicago mayor says 'unstable human being' Trump must be 'checked' on military use in US cities",
+      "link": "https://www.foxnews.com/media/chicago-mayor-says-unstable-human-being-trump-must-checked-military-use-us-cities"
+    },
+    {
+      "title": "Taliban kills internet across Afghanistan, citing morality concerns as UN protests",
+      "link": "https://www.foxnews.com/world/taliban-kills-internet-afghanistan-citing-morality-concerns-un-protests"
+    },
+    {
+      "title": "Democrats silent on illegal alien registered to vote in blue state",
+      "link": "https://www.foxnews.com/politics/democrats-silent-about-illegal-alien-registered-vote-blue-state"
+    },
+    {
+      "title": "Trump says administration close to finalizing federal funding deal with Harvard University",
+      "link": "https://www.foxnews.com/politics/trump-administration-close-finalizing-federal-funding-deal-harvard-university"
+    },
+    {
       "title": "Dem congresswoman denies rhetoric incited anti-ICE violence, doubles down on condemning agency",
       "link": "https://www.foxnews.com/media/dem-congresswoman-denies-rhetoric-incited-anti-ice-violence-doubles-down-condemning-agency"
     },
@@ -33,14 +49,6 @@
       "link": "https://www.foxnews.com/politics/sherrill-fires-back-gop-rival-questions-swirl-over-her-military-records"
     },
     {
-      "title": "Democrats silent on illegal alien registered to vote in blue state",
-      "link": "https://www.foxnews.com/politics/democrats-silent-about-illegal-alien-registered-vote-blue-state"
-    },
-    {
-      "title": "Trump says administration close to finalizing federal funding deal with Harvard University",
-      "link": "https://www.foxnews.com/politics/trump-administration-close-finalizing-federal-funding-deal-harvard-university"
-    },
-    {
       "title": "Vance, Trump Jr.'s plans to bolster Charlie Kirk's 'political legacy' revealed: 'Help grow it'",
       "link": "https://www.foxnews.com/politics/vance-trump-jrs-plans-bolster-charlie-kirks-political-legacy-revealed-help-grow-it"
     },
@@ -71,20 +79,28 @@
     {
       "title": "Hegseth tells troops to resign if they oppose his plan to scrap ‘woke’ policies and restore warrior ethos",
       "link": "https://www.foxnews.com/politics/hegseth-tells-troops-resign-oppose-his-plan-scrap-woke-policies-restore-warrior-ethos"
-    },
-    {
-      "title": "Trump admin renews effort to exclude Harvard from billions in federal research grants",
-      "link": "https://www.foxnews.com/politics/trump-admin-renews-effort-exclude-harvard-from-billions-federal-research-grants"
-    },
-    {
-      "title": "Who is Virginia’s next Glenn Youngkin: How the GOP wins statewide again",
-      "link": "https://www.foxnews.com/politics/who-virginias-next-glenn-youngkin-how-gop-wins-statewide-again"
     }
   ],
   "cnn": [
     {
+      "title": "White House withdraws Antoni’s nomination to lead BLS ",
+      "link": "https://www.cnn.com/2025/09/30/politics/ej-antoni-nomination-withdrawn-bls"
+    },
+    {
+      "title": "Analysis: A GOP-appointed judge fears Americans are complacent about Trump. Polling backs him up ",
+      "link": "https://www.cnn.com/2025/09/30/politics/voters-trump-complacency-analysis"
+    },
+    {
       "title": "DOJ gave Trump’s handpicked US attorney little support to indict Comey. She did it anyway ",
       "link": "https://www.cnn.com/2025/09/30/politics/lindsey-halligan-trump-attorney-comey-indictment"
+    },
+    {
+      "title": "PBS and NPR funding cuts are hitting home as government shutdown looms ",
+      "link": "https://www.cnn.com/2025/09/30/media/pbs-npr-funding-government-shutdown-public-media"
+    },
+    {
+      "title": "Trump previews $500 million deal with Harvard on trade schools ",
+      "link": "https://www.cnn.com/2025/09/30/politics/harvard-university-trump-deal-trade-schools"
     },
     {
       "title": "GOP’s big moment, when 911 doesn’t answer, luxury on the metro: Catch up on the day’s stories ",
@@ -107,14 +123,6 @@
       "link": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-military-speech"
     },
     {
-      "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
-      "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
-    },
-    {
-      "title": "Trump is handing out public land and millions of dollars to revive big coal, sending advocates reeling ",
-      "link": "https://www.cnn.com/2025/09/30/climate/coal-power-trump-public-lands"
-    },
-    {
       "title": "CNN fact-checks Trump’s claim about Biden and the military ",
       "link": "https://www.cnn.com/2025/09/30/politics/video/trump-claim-biden-military-fact-check-digvid"
     },
@@ -125,22 +133,6 @@
     {
       "title": "Pfizer agrees to deal on lowering drug prices amid Trump pressure ",
       "link": "https://www.cnn.com/2025/09/30/politics/pfizer-drug-prices-trump"
-    },
-    {
-      "title": "Trump’s latest policy 180 on the war in Ukraine could strike deep into Russian territory ",
-      "link": "https://www.cnn.com/2025/09/30/europe/tomahawk-missiles-trump-ukraine-180-intl"
-    },
-    {
-      "title": "White House withdraws Antoni’s nomination to lead BLS ",
-      "link": "https://www.cnn.com/2025/09/30/politics/ej-antoni-nomination-withdrawn-bls"
-    },
-    {
-      "title": "Analysis: A GOP-appointed judge fears Americans are complacent about Trump. Polling backs him up ",
-      "link": "https://www.cnn.com/2025/09/30/politics/voters-trump-complacency-analysis"
-    },
-    {
-      "title": "Trump previews $500 million deal with Harvard on trade schools ",
-      "link": "https://www.cnn.com/2025/09/30/politics/harvard-university-trump-deal-trade-schools"
     },
     {
       "title": "The federal government might shut down after midnight. Here’s how you may be affected ",
@@ -161,7 +153,15 @@
     {
       "title": "Congress has one more day to avert a shutdown. The odds don’t look good ",
       "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-congress-trump"
+    },
+    {
+      "title": "Mitt Romney reveals he personally urged Biden administration to preemptively pardon Donald Trump ",
+      "link": "https://www.cnn.com/2025/09/30/politics/mitt-romney-biden-trump-pardon"
+    },
+    {
+      "title": "Trump must learn from failures in Ukraine if new Middle East plan is to succeed ",
+      "link": "https://www.cnn.com/2025/09/30/politics/trump-gaza-peace-plan-ukraine-failures-netanyahu"
     }
   ],
-  "timestamp": "2025-09-30T23:11:21.792Z"
+  "timestamp": "2025-09-30T23:26:21.666Z"
 }
