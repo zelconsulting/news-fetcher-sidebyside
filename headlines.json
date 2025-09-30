@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Top GOP senator steps up efforts to protect Republican majority in 2026 midterms",
+      "link": "https://www.foxnews.com/politics/top-gop-senator-steps-up-efforts-protect-republican-majority-2026-midterms"
+    },
+    {
+      "title": "Five races to watch with 5 weeks to go until Election Day 2025",
+      "link": "https://www.foxnews.com/politics/five-races-watch-5-weeks-go-until-election-day-2025"
+    },
+    {
+      "title": "LIZ PEEK: Trump White House fired up about King Coal’s return to power",
+      "link": "https://www.foxnews.com/opinion/liz-peek-trump-white-house-fired-up-about-king-coals-return-power"
+    },
+    {
       "title": "Trump, Democrats locked in endless cycles of payback after Comey indictment and targeting president's enemies",
       "link": "https://www.foxnews.com/opinion/trump-democrats-locked-endless-cycles-payback-after-comey-indictment-targeting-presidents-enemies"
     },
@@ -15,14 +27,6 @@
     {
       "title": "Illegal alien arrested by ICE found registered as active Democrat voter in blue state",
       "link": "https://www.foxnews.com/politics/illegal-alien-arrested-ice-found-registered-active-democrat-voter-blue-state"
-    },
-    {
-      "title": "Top GOP senator steps up efforts to protect Republican majority in 2026 midterms",
-      "link": "https://www.foxnews.com/politics/top-gop-senator-steps-up-efforts-protect-republican-majority-2026-midterms"
-    },
-    {
-      "title": "Five races to watch with 5 weeks to go until Election Day 2025",
-      "link": "https://www.foxnews.com/politics/five-races-watch-5-weeks-go-until-election-day-2025"
     },
     {
       "title": "Fox News Politics Newsletter: What to know about the potential shut down",
@@ -75,10 +79,6 @@
     {
       "title": "Mamdani proposes massive amount of legal defense funding for immigrants in 'Trump-proofing' NYC plan",
       "link": "https://www.foxnews.com/politics/mamdani-proposes-massive-amount-legal-defense-funding-immigrants-trump-proofing-nyc-plan"
-    },
-    {
-      "title": "Dems not budging on government shutdown demands ahead of high-stakes Trump meeting, Jeffries suggests",
-      "link": "https://www.foxnews.com/politics/dems-not-budging-government-shutdown-demands-ahead-high-stakes-trump-meeting-jeffries-suggests"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/29/politics/trump-shutdown-federal-government-funding-fight-democrats-explained"
     }
   ],
-  "timestamp": "2025-09-30T09:13:46.755Z"
+  "timestamp": "2025-09-30T09:31:41.256Z"
 }
