@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Illegal alien arrested by ICE found registered as active Democrat voter in blue state",
+      "link": "https://www.foxnews.com/politics/illegal-alien-arrested-ice-found-registered-active-democrat-voter-blue-state"
+    },
+    {
       "title": "Fox News Politics Newsletter: What to know about the potential shut down",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-sept-29th-draft"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Democrats plan luxury Napa retreat as government shutdown threat looms over Congress",
       "link": "https://www.foxnews.com/politics/democrats-plan-luxury-napa-retreat-government-shutdown-threat-looms-congress"
-    },
-    {
-      "title": "'The View' co-hosts hail NFL tapping Trump critic Bad Bunny for Super Bowl as good 'business decision'",
-      "link": "https://www.foxnews.com/media/the-view-co-hosts-hail-nfl-tapping-trump-critic-bad-bunny-super-bowl-good-business-decision"
     },
     {
       "title": "Reporter's Notebook: Democrats' shutdown gamble reveals party divisions, Schumer's weak spot with the left",
@@ -83,6 +83,14 @@
   ],
   "cnn": [
     {
+      "title": "Kash Patel tries to correct MAGA conspiracy theories he once stoked — again ",
+      "link": "https://www.cnn.com/2025/09/29/politics/kash-patel-fbi-january-6-analysis"
+    },
+    {
+      "title": "Dem Sen. Kim on shutdown: Republicans aren’t even showing up to work ",
+      "link": "https://www.cnn.com/2025/09/29/politics/video/the-lead-government-shutdown-gop-dems-schumer-johnson-jake-tapper"
+    },
+    {
       "title": "Convoy carrying Ecuadorian president attacked during protests, officials say ",
       "link": "https://www.cnn.com/2025/09/29/americas/ecuador-convoy-attacked-president-noboa-latam-intl"
     },
@@ -115,8 +123,8 @@
       "link": "https://www.cnn.com/2025/09/29/weather/government-shutdown-hurricane-disaster"
     },
     {
-      "title": "Dem Sen. Kim on shutdown: Republicans aren’t even showing up to work ",
-      "link": "https://www.cnn.com/2025/09/29/politics/video/the-lead-government-shutdown-gop-dems-schumer-johnson-jake-tapper"
+      "title": "Top Democrats optimistic Trump could negotiate on health care — but not in time to avert a shutdown ",
+      "link": "https://www.cnn.com/2025/09/29/politics/democrats-trump-meeting-health-care-shutdown"
     },
     {
       "title": "What’s next after James Comey’s indictment? Dana Bash and the panel dive into Trump’s pressure on DOJ to target rivals ",
@@ -153,15 +161,7 @@
     {
       "title": "Trump shares apparent AI video promoting ‘medbed’ conspiracy theory ",
       "link": "https://www.cnn.com/2025/09/28/politics/trump-ai-medbed-conspiracy-theory"
-    },
-    {
-      "title": "New York City Mayor Eric Adams suspends his reelection bid ",
-      "link": "https://www.cnn.com/2025/09/28/politics/new-york-city-mayor-eric-adams-suspends-his-reelection-bid"
-    },
-    {
-      "title": "Fareed’s take: America is moving down the path of illiberal democracy ",
-      "link": "https://www.cnn.com/2025/09/28/politics/video/gps-0928-future-american-democracy"
     }
   ],
-  "timestamp": "2025-09-29T23:47:29.771Z"
+  "timestamp": "2025-09-30T00:56:35.244Z"
 }
