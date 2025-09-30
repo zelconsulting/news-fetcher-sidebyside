@@ -83,6 +83,10 @@
   ],
   "cnn": [
     {
+      "title": "Trump places a 10% tariff on lumber and a 25% tariff on furniture and cabinets ",
+      "link": "https://www.cnn.com/2025/09/29/business/tariffs-lumber-furniture-trump"
+    },
+    {
       "title": "Judge suspends Trump administration’s plan to eliminate hundreds of Voice of America jobs ",
       "link": "https://www.cnn.com/2025/09/29/politics/judge-suspends-trump-plan-to-eliminate-voa-jobs-hnk"
     },
@@ -119,12 +123,8 @@
       "link": "https://www.cnn.com/2025/09/29/politics/trumps-doj-probes-former-fbi-leadership"
     },
     {
-      "title": "4 Broadview ICE facility protesters face federal charges, 1 threatened to kill an agent ",
-      "link": "https://www.cnn.com/2025/09/29/us/illinois-broadview-ice-protesters-charged"
-    },
-    {
-      "title": "What happens if a hurricane makes landfall while the government is shut down ",
-      "link": "https://www.cnn.com/2025/09/29/weather/government-shutdown-hurricane-disaster"
+      "title": "Trump posts racist, AI-generated video of Schumer and Jeffries ahead of looming government shutdown ",
+      "link": "https://www.cnn.com/2025/09/29/politics/trump-ai-generated-video-schumer-jeffries-shutdown"
     },
     {
       "title": "Top Democrats optimistic Trump could negotiate on health care — but not in time to avert a shutdown ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/28/politics/missouri-governor-signs-redistricting-plan"
     }
   ],
-  "timestamp": "2025-09-30T02:18:56.931Z"
+  "timestamp": "2025-09-30T03:10:10.029Z"
 }
