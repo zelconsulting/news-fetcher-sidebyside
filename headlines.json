@@ -83,6 +83,10 @@
   ],
   "cnn": [
     {
+      "title": "Wall Street, Republicans and some courts have tried to stop Trump’s tariffs. Here’s why they’re still in place ",
+      "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
+    },
+    {
       "title": "Congress has one more day to avert a shutdown. The odds don’t look good ",
       "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-congress-trump"
     },
@@ -97,10 +101,6 @@
     {
       "title": "Trump posts racist, AI-generated video of Schumer and Jeffries ahead of looming government shutdown ",
       "link": "https://www.cnn.com/2025/09/29/politics/trump-ai-generated-video-schumer-jeffries-shutdown"
-    },
-    {
-      "title": "Trump places a 10% tariff on lumber and a 25% tariff on furniture and cabinets ",
-      "link": "https://www.cnn.com/2025/09/29/business/tariffs-lumber-furniture-trump"
     },
     {
       "title": "Judge suspends Trump administration’s plan to eliminate hundreds of Voice of America jobs ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/29/politics/trump-shutdown-federal-government-funding-fight-democrats-explained"
     }
   ],
-  "timestamp": "2025-09-30T09:31:41.256Z"
+  "timestamp": "2025-09-30T09:48:14.485Z"
 }
