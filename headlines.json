@@ -41,6 +41,10 @@
       "link": "https://www.foxnews.com/politics/us-companies-secure-record-170b-global-contracts-under-trump-so-far-commerce-says"
     },
     {
+      "title": "Shutdown fight casts a shadow over jobs as Trump prepares for largest federal resignation in US history",
+      "link": "https://www.foxnews.com/politics/shutdown-fight-casts-shadow-over-jobs-trump-prepares-largest-federal-resignation-us-history"
+    },
+    {
       "title": "House Democrats' government funding proposal goes down in flames with shutdown deadline in hours",
       "link": "https://www.foxnews.com/politics/house-democrats-government-funding-proposal-goes-down-flames-shutdown-deadline-hours"
     },
@@ -67,13 +71,13 @@
     {
       "title": "Five races to watch with 5 weeks to go until Election Day 2025",
       "link": "https://www.foxnews.com/politics/five-races-watch-5-weeks-go-until-election-day-2025"
-    },
-    {
-      "title": "Illegal alien who sent 'vulgar, racist' bomb threat to female member of Congress arrested by ICE",
-      "link": "https://www.foxnews.com/politics/illegal-alien-who-sent-vulgar-racist-bomb-threat-female-member-congress-arrested-ice"
     }
   ],
   "cnn": [
+    {
+      "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
+      "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
+    },
     {
       "title": "Trump is handing out public land and millions of dollars to revive big coal, sending advocates reeling ",
       "link": "https://www.cnn.com/2025/09/30/climate/coal-power-trump-public-lands"
@@ -93,10 +97,6 @@
     {
       "title": "The federal government might shut down after midnight. Here’s how you may be affected ",
       "link": "https://www.cnn.com/2025/09/30/politics/video/government-shutdown-midnight-services-impacted-digvid"
-    },
-    {
-      "title": "What a federal government shutdown might mean for travelers ",
-      "link": "https://www.cnn.com/2025/09/30/travel/federal-government-shutdown-travel-impact"
     },
     {
       "title": "Fact check: Trump makes numerous false claims to generals and admirals, some about the military ",
@@ -155,5 +155,5 @@
       "link": "https://www.cnn.com/2025/09/29/politics/trump-netanyahu-israel-gaza-ceasefire-deal"
     }
   ],
-  "timestamp": "2025-09-30T16:53:13.259Z"
+  "timestamp": "2025-09-30T17:10:58.519Z"
 }
