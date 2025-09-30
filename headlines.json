@@ -1,6 +1,30 @@
 {
   "fox": [
     {
+      "title": "EXCLUSIVE: Unearthed Biden note cards reveal he had bios, photo reminders on Hillary Clinton, Schumer",
+      "link": "https://www.foxnews.com/politics/exclusive-unearthed-biden-note-cards-reveal-he-had-bios-photo-reminders-hillary-clinton-schumer"
+    },
+    {
+      "title": "Zohran Mamdani vows to fight back against Trump's threat to withhold federal funding for NYC",
+      "link": "https://www.foxnews.com/media/zohran-mamdani-vows-fight-back-against-trumps-threat-withhold-federal-funding-nyc"
+    },
+    {
+      "title": "Shutdown fight casts a shadow over jobs as Trump prepares for largest federal resignation in US history",
+      "link": "https://www.foxnews.com/politics/shutdown-fight-casts-shadow-over-jobs-trump-prepares-largest-federal-resignation-us-history"
+    },
+    {
+      "title": "House Democrats' government funding proposal goes down in flames with shutdown deadline in hours",
+      "link": "https://www.foxnews.com/politics/house-democrats-government-funding-proposal-goes-down-flames-shutdown-deadline-hours"
+    },
+    {
+      "title": "Majority of American voters warn Dems shouldn't back government shutdown over this key issue: poll",
+      "link": "https://www.foxnews.com/politics/majority-american-voters-warn-dems-shouldnt-back-government-shutdown-key-issue-poll"
+    },
+    {
+      "title": "Trump declares ‘reawakening’ of ‘warrior spirit,’ unwavering support for military: ‘I have your backs’",
+      "link": "https://www.foxnews.com/politics/trump-declares-reawakening-warrior-spirit-unwavering-support-military-i-have-your-backs"
+    },
+    {
       "title": "Hegseth tells troops to resign if they oppose his plan to scrap ‘woke’ policies and restore warrior ethos",
       "link": "https://www.foxnews.com/politics/hegseth-tells-troops-resign-oppose-his-plan-scrap-woke-policies-restore-warrior-ethos"
     },
@@ -33,28 +57,8 @@
       "link": "https://www.foxnews.com/politics/tennessee-governor-backs-military-veteran-just-days-before-crowded-primary-election"
     },
     {
-      "title": "Trump targets Virginia schools over allegations of staff-arranged student abortions without parental consent",
-      "link": "https://www.foxnews.com/media/trump-targets-virginia-schools-over-allegations-staff-arranged-student-abortions-without-parental-consent"
-    },
-    {
       "title": "US companies secure record $170B in global contracts under Trump so far, Commerce says",
       "link": "https://www.foxnews.com/politics/us-companies-secure-record-170b-global-contracts-under-trump-so-far-commerce-says"
-    },
-    {
-      "title": "Shutdown fight casts a shadow over jobs as Trump prepares for largest federal resignation in US history",
-      "link": "https://www.foxnews.com/politics/shutdown-fight-casts-shadow-over-jobs-trump-prepares-largest-federal-resignation-us-history"
-    },
-    {
-      "title": "House Democrats' government funding proposal goes down in flames with shutdown deadline in hours",
-      "link": "https://www.foxnews.com/politics/house-democrats-government-funding-proposal-goes-down-flames-shutdown-deadline-hours"
-    },
-    {
-      "title": "Majority of American voters warn Dems shouldn't back government shutdown over this key issue: poll",
-      "link": "https://www.foxnews.com/politics/majority-american-voters-warn-dems-shouldnt-back-government-shutdown-key-issue-poll"
-    },
-    {
-      "title": "Trump declares ‘reawakening’ of ‘warrior spirit,’ unwavering support for military: ‘I have your backs’",
-      "link": "https://www.foxnews.com/politics/trump-declares-reawakening-warrior-spirit-unwavering-support-military-i-have-your-backs"
     },
     {
       "title": "Trump admin targets $3.3B homeless housing program, 170,000 people could face return to streets: report",
@@ -74,6 +78,10 @@
     }
   ],
   "cnn": [
+    {
+      "title": "Fact check: Trump makes numerous false claims to generals and admirals, some about the military ",
+      "link": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-military-speech"
+    },
     {
       "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
@@ -97,10 +105,6 @@
     {
       "title": "The federal government might shut down after midnight. Here’s how you may be affected ",
       "link": "https://www.cnn.com/2025/09/30/politics/video/government-shutdown-midnight-services-impacted-digvid"
-    },
-    {
-      "title": "Fact check: Trump makes numerous false claims to generals and admirals, some about the military ",
-      "link": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-military-speech"
     },
     {
       "title": "Pfizer agrees to deal on lowering drug prices amid Trump pressure ",
@@ -155,5 +159,5 @@
       "link": "https://www.cnn.com/2025/09/29/politics/trump-netanyahu-israel-gaza-ceasefire-deal"
     }
   ],
-  "timestamp": "2025-09-30T17:10:58.519Z"
+  "timestamp": "2025-09-30T17:29:29.380Z"
 }
