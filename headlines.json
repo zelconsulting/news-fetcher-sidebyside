@@ -41,6 +41,10 @@
       "link": "https://www.foxnews.com/politics/us-companies-secure-record-170b-global-contracts-under-trump-so-far-commerce-says"
     },
     {
+      "title": "Trump declares ‘reawakening’ of ‘warrior spirit,’ unwavering support for military: ‘I have your backs’",
+      "link": "https://www.foxnews.com/politics/trump-declares-reawakening-warrior-spirit-unwavering-support-military-i-have-your-backs"
+    },
+    {
       "title": "Trump admin targets $3.3B homeless housing program, 170,000 people could face return to streets: report",
       "link": "https://www.foxnews.com/politics/trump-admin-targets-homeless-housing-program-people-could-face-return-streets-report"
     },
@@ -67,17 +71,13 @@
     {
       "title": "Fox News Politics Newsletter: What to know about the potential shut down",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-sept-29th-draft"
-    },
-    {
-      "title": "JD Vance says government likely 'headed into a shutdown' after Trump meets with Dems",
-      "link": "https://www.foxnews.com/politics/jd-vance-government-likely-headed-shutdown"
-    },
-    {
-      "title": "Texas Democrat blasted for ‘bloody Trump’ costume, violent rhetoric after deadly ICE shooting",
-      "link": "https://www.foxnews.com/politics/texas-democrat-blasted-bloody-trump-costume-violent-rhetoric-after-deadly-ice-shooting"
     }
   ],
   "cnn": [
+    {
+      "title": "CNN fact-checks Trump’s claim about Biden and the military ",
+      "link": "https://www.cnn.com/2025/09/30/politics/video/trump-claim-biden-military-fact-check-digvid"
+    },
     {
       "title": "Fact check: Trump falsely claims Democrats want to give free health care to ‘illegal aliens’ in government shutdown battle ",
       "link": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-free-health-care-immigration"
@@ -103,20 +103,12 @@
       "link": "https://www.cnn.com/2025/09/30/us/5-things-to-know-for-sept-30-government-shutdown-gaza-peace-plan-church-attack-movie-tariffs-youtube"
     },
     {
-      "title": "Trump wants to force mentally ill homeless people into hospitals and treatment. He’s cutting the programs that fund them ",
-      "link": "https://www.cnn.com/2025/09/30/business/homelessness-mental-illness-trump-policies"
+      "title": "Pfizer agrees to deal on lowering drug prices amid Trump pressure ",
+      "link": "https://www.cnn.com/2025/09/30/politics/pfizer-drug-prices-trump"
     },
     {
       "title": "Comey’s Trump-appointed prosecutor repeatedly warned against political prosecutions — now she’s accused of leading one ",
       "link": "https://www.cnn.com/2025/09/30/politics/lindsey-halligan-comey-political-prosecution-kfile"
-    },
-    {
-      "title": "CNN fact-checks Trump’s claim about Biden and the military ",
-      "link": "https://www.cnn.com/2025/09/30/politics/video/trump-claim-biden-military-fact-check-digvid"
-    },
-    {
-      "title": "Pfizer agrees to deal on lowering drug prices amid Trump pressure ",
-      "link": "https://www.cnn.com/2025/09/30/politics/pfizer-drug-prices-trump"
     },
     {
       "title": "Congress has one more day to avert a shutdown. The odds don’t look good ",
@@ -157,7 +149,11 @@
     {
       "title": "What’s in the White House’s latest peace plan to end the war in Gaza ",
       "link": "https://www.cnn.com/2025/09/29/politics/white-house-peace-plan-gaza-war"
+    },
+    {
+      "title": "Netanyahu says ‘Israel will finish the job’ if Hamas rejects Trump’s deal ",
+      "link": "https://www.cnn.com/2025/09/29/politics/video/netanyahu-presser-trump-hamas-israel-agreement-digvid"
     }
   ],
-  "timestamp": "2025-09-30T15:48:52.574Z"
+  "timestamp": "2025-09-30T16:15:29.312Z"
 }
