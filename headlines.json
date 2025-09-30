@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Hillary Clinton rips White men of 'a certain religion,’ sparks backlash from conservatives",
+      "link": "https://www.foxnews.com/media/hillary-clinton-rips-white-men-a-certain-religion-sparks-backlash-from-conservatives"
+    },
+    {
       "title": "Top GOP senator steps up efforts to protect Republican majority in 2026 midterms",
       "link": "https://www.foxnews.com/politics/top-gop-senator-steps-up-efforts-protect-republican-majority-2026-midterms"
     },
@@ -75,10 +79,6 @@
     {
       "title": "'A good bet': Mike Johnson prepares House Republicans for likely government shutdown in lawmaker-only call",
       "link": "https://www.foxnews.com/politics/a-good-bet-mike-johnson-prepares-house-republicans-likely-government-shutdown-lawmaker-only-call"
-    },
-    {
-      "title": "Mamdani proposes massive amount of legal defense funding for immigrants in 'Trump-proofing' NYC plan",
-      "link": "https://www.foxnews.com/politics/mamdani-proposes-massive-amount-legal-defense-funding-immigrants-trump-proofing-nyc-plan"
     }
   ],
   "cnn": [
@@ -97,6 +97,10 @@
     {
       "title": "Congress has one more day to avert a shutdown. The odds don’t look good ",
       "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-congress-trump"
+    },
+    {
+      "title": "Scam kingpins who ran billion-dollar criminal empire from Myanmar sentenced to death in China ",
+      "link": "https://www.cnn.com/2025/09/30/china/kokang-scam-center-china-myanmar-ming-family-intl-hnk"
     },
     {
       "title": "Mitt Romney reveals he personally urged Biden administration to preemptively pardon Donald Trump ",
@@ -157,11 +161,7 @@
     {
       "title": "Donald Trump’s own words could doom the criminal case against James Comey, legal experts say ",
       "link": "https://www.cnn.com/2025/09/29/politics/how-trumps-own-actions-could-doom-comeys-criminal-case"
-    },
-    {
-      "title": "5 things to know for Sept. 29: Church attack, Government shutdown, National Guard, Storm watch, Gaza ",
-      "link": "https://www.cnn.com/2025/09/29/us/5-things-to-know-for-sept-29-church-attack-government-shutdown-national-guard-storm-watch-gaza"
     }
   ],
-  "timestamp": "2025-09-30T10:13:30.697Z"
+  "timestamp": "2025-09-30T10:35:08.781Z"
 }
