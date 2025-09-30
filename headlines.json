@@ -83,6 +83,10 @@
   ],
   "cnn": [
     {
+      "title": "Trump posts racist, AI-generated video of Schumer and Jeffries ahead of looming government shutdown ",
+      "link": "https://www.cnn.com/2025/09/29/politics/trump-ai-generated-video-schumer-jeffries-shutdown"
+    },
+    {
       "title": "Trump places a 10% tariff on lumber and a 25% tariff on furniture and cabinets ",
       "link": "https://www.cnn.com/2025/09/29/business/tariffs-lumber-furniture-trump"
     },
@@ -119,16 +123,12 @@
       "link": "https://www.cnn.com/2025/09/29/politics/video/netanyahu-presser-trump-hamas-israel-agreement-digvid"
     },
     {
-      "title": "Trump’s DOJ probes former FBI leadership over document mishandling allegations ",
-      "link": "https://www.cnn.com/2025/09/29/politics/trumps-doj-probes-former-fbi-leadership"
-    },
-    {
-      "title": "Trump posts racist, AI-generated video of Schumer and Jeffries ahead of looming government shutdown ",
-      "link": "https://www.cnn.com/2025/09/29/politics/trump-ai-generated-video-schumer-jeffries-shutdown"
-    },
-    {
       "title": "Top Democrats optimistic Trump could negotiate on health care — but not in time to avert a shutdown ",
       "link": "https://www.cnn.com/2025/09/29/politics/democrats-trump-meeting-health-care-shutdown"
+    },
+    {
+      "title": "Trump’s DOJ probes former FBI leadership over document mishandling allegations ",
+      "link": "https://www.cnn.com/2025/09/29/politics/trumps-doj-probes-former-fbi-leadership"
     },
     {
       "title": "What’s next after James Comey’s indictment? Dana Bash and the panel dive into Trump’s pressure on DOJ to target rivals ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/28/politics/missouri-governor-signs-redistricting-plan"
     }
   ],
-  "timestamp": "2025-09-30T03:10:10.029Z"
+  "timestamp": "2025-09-30T03:39:39.888Z"
 }
