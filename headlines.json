@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "AFT boss Randi Weingarten suggests U.S. under 'Nazi occupation' with latest protest symbol",
+      "link": "https://www.foxnews.com/media/aft-boss-randi-weingarten-suggests-u-s-under-nazi-occupation-latest-protest-symbol"
+    },
+    {
+      "title": "Madison Cawthorn aims to make political comeback, announces run for Congress",
+      "link": "https://www.foxnews.com/politics/madison-cawthorn-aims-make-political-comeback-announces-run-congress"
+    },
+    {
       "title": "World Series champ Mark Teixeira takes swing at Dems as government shuts down",
       "link": "https://www.foxnews.com/sports/world-series-champ-mark-teixeira-takes-swing-dems-government-shuts-down"
     },
@@ -13,28 +21,16 @@
       "link": "https://www.foxnews.com/politics/dem-gubernatorial-candidate-slammed-kamala-harris-new-jersey-election-slides-home-stretch"
     },
     {
+      "title": "Federal judge rules public charter school violated church's First Amendment rights",
+      "link": "https://www.foxnews.com/politics/federal-judge-rules-public-charter-school-violated-churchs-first-amendment-rights"
+    },
+    {
       "title": "Republicans push for constitutional amendment to dock lawmakers' pay during government shutdowns",
       "link": "https://www.foxnews.com/politics/republicans-push-constitutional-amendment-dock-lawmakers-pay-during-government-shutdowns"
     },
     {
       "title": "Government shutdown begins as House GOP campaign arm heaps pressure on Dems",
       "link": "https://www.foxnews.com/politics/government-shutdown-begins-house-gop-campaign-arm-heaps-pressure-dems"
-    },
-    {
-      "title": "Liberal Georgia professor sponsors TPUSA chapter despite conflicting views: ‘A risk worth taking’",
-      "link": "https://www.foxnews.com/media/liberal-georgia-professor-sponsors-tpusa-chapter-despite-conflicting-views-a-risk-worth-taking"
-    },
-    {
-      "title": "Ex-SJSU volleyball coach opens up on lawsuit after losing job amid trans athlete scandal",
-      "link": "https://www.foxnews.com/sports/ex-sjsu-volleyball-coach-opens-up-lawsuit-against-school-after-losing-job-amid-trans-athlete-scandal"
-    },
-    {
-      "title": "Supreme Court must freeze the climate extortion of our energy industry",
-      "link": "https://www.foxnews.com/opinion/supreme-court-must-freeze-climate-extortion-our-energy-industry"
-    },
-    {
-      "title": "Madison Cawthorn aims to make political comeback, announces run for Congress",
-      "link": "https://www.foxnews.com/politics/madison-cawthorn-aims-make-political-comeback-announces-run-congress"
     },
     {
       "title": "Government shuts down after Congress deadlocks on spending deal",
@@ -79,6 +75,10 @@
     {
       "title": "Trump signs executive order to harness AI in fight against childhood cancers",
       "link": "https://www.foxnews.com/politics/trump-signs-executive-order-harness-ai-fight-against-childhood-cancers"
+    },
+    {
+      "title": "GOP accuses Dems of risking shutdown to restore ‘illegal immigrant healthcare’",
+      "link": "https://www.foxnews.com/politics/gop-accuses-dems-risking-shutdown-restore-illegal-immigrant-healthcare"
     }
   ],
   "cnn": [
@@ -99,12 +99,16 @@
       "link": "https://www.cnn.com/2025/10/01/us/ruidoso-new-mexico-flooding-climate"
     },
     {
-      "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
-      "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
+      "title": "See what Schumer said in the past about government shutdowns ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/schumer-government-shutdown-gop-digvid"
     },
     {
       "title": "Latest News from CNN Politics ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/rep-lawler-pressed-on-trumps-threats-to-cut-government-programs-permanently-during-the-shutdown-blames-democrats"
+    },
+    {
+      "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
+      "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
     },
     {
       "title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ ",
@@ -139,10 +143,6 @@
       "link": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-military-speech"
     },
     {
-      "title": "CNN fact-checks Trump’s claim about Biden and the military ",
-      "link": "https://www.cnn.com/2025/09/30/politics/video/trump-claim-biden-military-fact-check-digvid"
-    },
-    {
       "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
     },
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/26/economy/us-pce-consumer-spending-inflation-august"
     }
   ],
-  "timestamp": "2025-10-01T13:04:42.792Z"
+  "timestamp": "2025-10-01T13:39:55.012Z"
 }
