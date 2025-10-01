@@ -1,34 +1,6 @@
 {
   "fox": [
     {
-      "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
-      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-jay-jones-convicted-reckless-driving-calls-mistake"
-    },
-    {
-      "title": "Speaker Johnson, ABC’s Stephanopoulos clash over government shutdown, illegal immigrants getting healthcare",
-      "link": "https://www.foxnews.com/media/speaker-johnson-abcs-stephanopoulos-clash-over-government-shutdown-illegal-immigrants-getting-healthcare"
-    },
-    {
-      "title": "White House prepares for 'imminent' federal layoffs after Democrats force government shutdown",
-      "link": "https://www.foxnews.com/politics/white-house-prepares-imminent-federal-layoffs-after-democrats-force-government-shutdown"
-    },
-    {
-      "title": "Erika Kirk, other conservatives listed on Time's 100 most influential 'Rising Stars'",
-      "link": "https://www.foxnews.com/media/erika-kirk-other-conservative-listed-times-100-most-influential-rising-stars"
-    },
-    {
-      "title": "13 times Democrats voted for a short-term continuing resolution under Biden",
-      "link": "https://www.foxnews.com/politics/13-times-democrats-voted-short-term-continuing-resolution-under-biden"
-    },
-    {
-      "title": "Trump's peace deal could end the war in Gaza or Netanyahu's career",
-      "link": "https://www.foxnews.com/world/trumps-peace-deal-could-end-war-gaza-netanyahus-career"
-    },
-    {
-      "title": "Social Security, airports, food stamps: How are you affected during a government shutdown?",
-      "link": "https://www.foxnews.com/politics/social-security-airports-food-stamps-how-you-affected-during-government-shutdown"
-    },
-    {
       "title": "NYU blocks Oct. 7 campus talk by Jewish conservative, citing security concerns",
       "link": "https://www.foxnews.com/politics/nyu-blocks-oct-7-campus-talk-jewish-conservative-citing-security-concerns"
     },
@@ -49,6 +21,34 @@
       "link": "https://www.foxnews.com/politics/dems-hot-seat-after-obamacares-spiking-premium-costs-torpedo-their-narrative"
     },
     {
+      "title": "TREY YINGST: Hamas must accept Trump peace plan to end war once and for all",
+      "link": "https://www.foxnews.com/opinion/trey-yingst-hamas-must-accept-trump-peace-plan-end-war-once-all"
+    },
+    {
+      "title": "Chuck Schumer slams GOP's claim that Democrats want to give healthcare to illegals as an 'effing lie'",
+      "link": "https://www.foxnews.com/media/chuck-schumer-slams-gops-claim-democrats-want-give-healthcare-illegals-f-ing-lie"
+    },
+    {
+      "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
+      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-jay-jones-convicted-reckless-driving-calls-mistake"
+    },
+    {
+      "title": "Here's what Trump wants to do to reshape the federal government during the shutdown",
+      "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
+    },
+    {
+      "title": "White House prepares for 'imminent' federal layoffs after Democrats force government shutdown",
+      "link": "https://www.foxnews.com/politics/white-house-prepares-imminent-federal-layoffs-after-democrats-force-government-shutdown"
+    },
+    {
+      "title": "13 times Democrats voted for a short-term continuing resolution under Biden",
+      "link": "https://www.foxnews.com/politics/13-times-democrats-voted-short-term-continuing-resolution-under-biden"
+    },
+    {
+      "title": "Social Security, airports, food stamps: How are you affected during a government shutdown?",
+      "link": "https://www.foxnews.com/politics/social-security-airports-food-stamps-how-you-affected-during-government-shutdown"
+    },
+    {
       "title": "White House memo says Democrats' plan could spend $200B on healthcare for illegal immigrants",
       "link": "https://www.foxnews.com/politics/white-house-memo-says-democrats-plan-could-spend-200b-healthcare-illegal-immigrants"
     },
@@ -63,13 +63,13 @@
     {
       "title": "Trump birthright citizenship fight heads back to Supreme Court as new term begins",
       "link": "https://www.foxnews.com/politics/trump-birthright-citizenship-fight-heads-back-supreme-court-new-term-begins"
-    },
-    {
-      "title": "ICE vows 'no change' to immigration, border policy amid government shutdown",
-      "link": "https://www.foxnews.com/politics/ice-vows-no-change-immigration-border-policy-amid-government-shutdown"
     }
   ],
   "cnn": [
+    {
+      "title": "Jane Fonda on why she’s leading 500+ Hollywood stars to fight government censorship ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/inside-politics-jane-fonda"
+    },
     {
       "title": "Threat of federal firings hangs over Washington as government will remain shut down through at least Friday ",
       "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-federal-firings-white-house"
@@ -97,10 +97,6 @@
     {
       "title": "Should Trump use shutdown to fire federal workers? Hear what Mike Johnson thinks ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/johnson-trump-government-shutdown-federal-workers-digvid"
-    },
-    {
-      "title": "Jane Fonda on why she’s leading 500+ Hollywood stars to fight government censorship ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/inside-politics-jane-fonda"
     },
     {
       "title": "Trump commits US to defending Qatar’s security ",
@@ -151,5 +147,5 @@
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-01T21:47:58.506Z"
+  "timestamp": "2025-10-01T22:11:18.232Z"
 }
