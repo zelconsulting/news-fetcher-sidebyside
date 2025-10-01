@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Oklahoma Gov. Stitt, ICE bust 120 illegal immigrants in highway crackdown, slams Biden border failures",
+      "link": "https://www.foxnews.com/us/oklahomas-interstate-sweep-hauls-120-illegals-under-new-deportation-drive"
+    },
+    {
       "title": "Government shuts down after Congress deadlocks on spending deal",
       "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Federal judge launches scathing broadside of Trump's efforts to deport pro-Palestinian protesters",
       "link": "https://www.foxnews.com/politics/federal-judge-launches-scathing-broadside-trumps-efforts-deport-pro-palestinian-protesters"
-    },
-    {
-      "title": "Sherrill fires back at GOP rival as questions swirl over her military records: 'Hand in the cookie jar'",
-      "link": "https://www.foxnews.com/politics/sherrill-fires-back-gop-rival-questions-swirl-over-her-military-records"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/30/us/5-things-to-know-for-sept-30-government-shutdown-gaza-peace-plan-church-attack-movie-tariffs-youtube"
     }
   ],
-  "timestamp": "2025-10-01T07:29:27.783Z"
+  "timestamp": "2025-10-01T07:40:47.135Z"
 }
