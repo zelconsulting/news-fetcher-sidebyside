@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Erika Kirk, other conservatives listed on Time's 100 most influential 'Rising Stars'",
+      "link": "https://www.foxnews.com/media/erika-kirk-other-conservative-listed-times-100-most-influential-rising-stars"
+    },
+    {
       "title": "13 times Democrats voted for a short-term continuing resolution under Biden",
       "link": "https://www.foxnews.com/politics/13-times-democrats-voted-short-term-continuing-resolution-under-biden"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Government shutdown begins as House GOP campaign arm heaps pressure on Dems",
       "link": "https://www.foxnews.com/politics/government-shutdown-begins-house-gop-campaign-arm-heaps-pressure-dems"
-    },
-    {
-      "title": "Government shuts down after Congress deadlocks on spending deal",
-      "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
     }
   ],
-  "timestamp": "2025-10-01T18:45:57.820Z"
+  "timestamp": "2025-10-01T19:10:01.765Z"
 }
