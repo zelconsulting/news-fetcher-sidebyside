@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Government shuts down after Congress deadlocks on spending deal",
+      "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
+    },
+    {
       "title": "Trump taunts Democrat leaders with ‘Trump 2028’ hats in Oval Office as shutdown approaches",
       "link": "https://www.foxnews.com/politics/president-trump-taunts-democrat-leaders-trump-2028-hats-oval-office"
     },
@@ -53,10 +57,6 @@
       "link": "https://www.foxnews.com/politics/democrats-silent-about-illegal-alien-registered-vote-blue-state"
     },
     {
-      "title": "Government shuts down after Congress deadlocks on spending deal",
-      "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
-    },
-    {
       "title": "Trump says administration close to finalizing federal funding deal with Harvard University",
       "link": "https://www.foxnews.com/politics/trump-administration-close-finalizing-federal-funding-deal-harvard-university"
     },
@@ -83,8 +83,16 @@
   ],
   "cnn": [
     {
+      "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
+      "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
+    },
+    {
       "title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ ",
       "link": "https://www.cnn.com/2025/09/30/politics/madeleine-dean-johnson-ai-video-trump"
+    },
+    {
+      "title": "The government is shut down. Here’s what that means now ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/government-shutdown-what-it-means-raju-vrtc"
     },
     {
       "title": "Journalists grabbed, shoved by ICE agents in New York immigration court, video shows ",
@@ -109,14 +117,6 @@
     {
       "title": "Trump previews $500 million deal with Harvard on trade schools ",
       "link": "https://www.cnn.com/2025/09/30/politics/harvard-university-trump-deal-trade-schools"
-    },
-    {
-      "title": "GOP’s big moment, when 911 doesn’t answer, luxury on the metro: Catch up on the day’s stories ",
-      "link": "https://www.cnn.com/2025/09/30/us/5-things-pm-september-30-trnd"
-    },
-    {
-      "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
-      "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
     },
     {
       "title": "Trump’s ominous move to recruit generals and admirals to his political cause ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
     }
   ],
-  "timestamp": "2025-10-01T04:19:34.746Z"
+  "timestamp": "2025-10-01T04:40:53.956Z"
 }
