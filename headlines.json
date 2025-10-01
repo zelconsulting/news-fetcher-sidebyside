@@ -37,6 +37,10 @@
       "link": "https://www.foxnews.com/media/sen-durbin-backs-down-from-catholic-award-after-outcry-from-bishops-laity-over-abortion-rights"
     },
     {
+      "title": "White House prepares for 'imminent' federal layoffs after Democrats force government shutdown",
+      "link": "https://www.foxnews.com/politics/white-house-prepares-imminent-federal-layoffs-after-democrats-force-government-shutdown"
+    },
+    {
       "title": "Government shutdown continues as Senate Dems block GOP funding bill for 3rd time",
       "link": "https://www.foxnews.com/politics/government-shutdown-continues-senate-dems-block-gop-funding-bill-3rd-time"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Republicans push for constitutional amendment to dock lawmakers' pay during government shutdowns",
       "link": "https://www.foxnews.com/politics/republicans-push-constitutional-amendment-dock-lawmakers-pay-during-government-shutdowns"
-    },
-    {
-      "title": "Government shutdown begins as House GOP campaign arm heaps pressure on Dems",
-      "link": "https://www.foxnews.com/politics/government-shutdown-begins-house-gop-campaign-arm-heaps-pressure-dems"
     }
   ],
   "cnn": [
@@ -101,10 +101,6 @@
     {
       "title": "Nike turnaround takes root despite $1.5 billion tariff bill ",
       "link": "https://www.cnn.com/2025/10/01/business/nike-earnings-tariff-china"
-    },
-    {
-      "title": "Netanyahu defends Trump’s Gaza plan to skeptical hardliners in his government, officials say ",
-      "link": "https://www.cnn.com/2025/10/01/middleeast/netanyahu-defends-trump-gaza-plan-intl"
     },
     {
       "title": "Trump commits US to defending Qatar’s security ",
@@ -161,7 +157,11 @@
     {
       "title": "Wall Street, Republicans and some courts have tried to stop Trump’s tariffs. Here’s why they’re still in place ",
       "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
+    },
+    {
+      "title": "Trump vows to enact ‘substantial’ tariffs on imported furniture ",
+      "link": "https://www.cnn.com/2025/09/29/economy/trump-furniture-tariff"
     }
   ],
-  "timestamp": "2025-10-01T19:10:01.765Z"
+  "timestamp": "2025-10-01T19:23:12.945Z"
 }
