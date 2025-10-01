@@ -1,12 +1,40 @@
 {
   "fox": [
     {
-      "title": "Washington Post warns Democrats may have walked into Trump 'trap' over government shutdown",
-      "link": "https://www.foxnews.com/media/washington-post-warns-democrats-may-have-walked-trump-trap-over-government-shutdown"
+      "title": "13 times Democrats voted for a short-term continuing resolution under Biden",
+      "link": "https://www.foxnews.com/politics/13-times-democrats-voted-short-term-continuing-resolution-under-biden"
     },
     {
-      "title": "Mother of slain DC congressional intern warns fugitive suspect 'can't hide forever'",
-      "link": "https://www.foxnews.com/media/mother-slain-dc-congressional-intern-warns-fugitive-suspect-cant-hide-forever"
+      "title": "Trump's peace deal could end the war in Gaza or Netanyahu's career",
+      "link": "https://www.foxnews.com/world/trumps-peace-deal-could-end-war-gaza-netanyahus-career"
+    },
+    {
+      "title": "Social Security, airports, food stamps: How are you affected during a government shutdown?",
+      "link": "https://www.foxnews.com/politics/social-security-airports-food-stamps-how-you-affected-during-government-shutdown"
+    },
+    {
+      "title": "White House memo says Democrats' plan could spend $200B on healthcare for illegal immigrants",
+      "link": "https://www.foxnews.com/politics/white-house-memo-says-democrats-plan-could-spend-200b-healthcare-illegal-immigrants"
+    },
+    {
+      "title": "Government shutdown is Democrats' political weapon against American families",
+      "link": "https://www.foxnews.com/opinion/government-shutdown-democrats-political-weapon-against-american-families"
+    },
+    {
+      "title": "Maverick House Republican in Trump's crosshairs touts record campaign cash haul",
+      "link": "https://www.foxnews.com/politics/maverick-house-republican-trumps-crosshairs-touts-record-campaign-cash-haul"
+    },
+    {
+      "title": "NYC mayoral candidate Zohran Mamdani denies Trump's 'communist' label on 'The View'",
+      "link": "https://www.foxnews.com/media/nyc-mayoral-candidate-zohran-mamdani-denies-trumps-communist-label-the-view"
+    },
+    {
+      "title": "Sen Durbin backs down from Catholic award after outcry from bishops, laity over abortion rights",
+      "link": "https://www.foxnews.com/media/sen-durbin-backs-down-from-catholic-award-after-outcry-from-bishops-laity-over-abortion-rights"
+    },
+    {
+      "title": "Government shutdown continues as Senate Dems block GOP funding bill for 3rd time",
+      "link": "https://www.foxnews.com/politics/government-shutdown-continues-senate-dems-block-gop-funding-bill-3rd-time"
     },
     {
       "title": "Trump birthright citizenship fight heads back to Supreme Court as new term begins",
@@ -21,36 +49,12 @@
       "link": "https://www.foxnews.com/politics/blame-game-gop-spotlights-schumer-shutdown-while-dems-lash-out-republicans"
     },
     {
-      "title": "Jimmy Kimmel calls Trump a 'son of a b----' over president's celebration of show's suspension",
-      "link": "https://www.foxnews.com/media/jimmy-kimmel-calls-trump-son-b-over-presidents-celebration-shows-suspension"
-    },
-    {
-      "title": "Vance says Senate Democrats took government 'hostage' with shutdown",
-      "link": "https://www.foxnews.com/media/vance-says-senate-democrats-took-government-hostage-high-stakes-shutdown-showdown"
-    },
-    {
       "title": "Republicans erupt over shutdown chaos, accuse Dems of holding government 'hostage'",
       "link": "https://www.foxnews.com/politics/republicans-erupt-over-shutdown-chaos-accuse-dems-holding-government-hostage"
     },
     {
       "title": "Top insurance company in hot seat as blistering new ad campaign exposes 'radical woke ideology'",
       "link": "https://www.foxnews.com/politics/top-insurance-company-hot-seat-with-blistering-new-ad-campaign-exposes-radical-woke-ideology"
-    },
-    {
-      "title": "Social Security, airports, food stamps: How are you affected during a government shutdown?",
-      "link": "https://www.foxnews.com/politics/social-security-airports-food-stamps-how-you-affected-during-government-shutdown"
-    },
-    {
-      "title": "White House memo says Democrats' plan could spend $200B on healthcare for illegal immigrants",
-      "link": "https://www.foxnews.com/politics/white-house-memo-says-democrats-plan-could-spend-200b-healthcare-illegal-immigrants"
-    },
-    {
-      "title": "Maverick House Republican in Trump's crosshairs touts record campaign cash haul",
-      "link": "https://www.foxnews.com/politics/maverick-house-republican-trumps-crosshairs-touts-record-campaign-cash-haul"
-    },
-    {
-      "title": "Government shutdown continues as Senate Dems block GOP funding bill for 3rd time",
-      "link": "https://www.foxnews.com/politics/government-shutdown-continues-senate-dems-block-gop-funding-bill-3rd-time"
     },
     {
       "title": "Federal judge rules public charter school violated church's First Amendment rights",
@@ -75,13 +79,13 @@
     {
       "title": "Government shuts down after Congress deadlocks on spending deal",
       "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
-    },
-    {
-      "title": "Trump taunts Democrat leaders with ‘Trump 2028’ hats in Oval Office as shutdown approaches",
-      "link": "https://www.foxnews.com/politics/president-trump-taunts-democrat-leaders-trump-2028-hats-oval-office"
     }
   ],
   "cnn": [
+    {
+      "title": "Pope Leo calls for global action to tackle climate change ",
+      "link": "https://www.cnn.com/2025/10/01/climate/pope-leo-climate-speech-environment"
+    },
     {
       "title": "Analysis: Why Trump’s pledge to defend Qatar is so extraordinary ",
       "link": "https://www.cnn.com/2025/10/01/politics/qatar-pledge-trump-analysis"
@@ -157,11 +161,7 @@
     {
       "title": "Wall Street, Republicans and some courts have tried to stop Trump’s tariffs. Here’s why they’re still in place ",
       "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
-    },
-    {
-      "title": "Trump vows to enact ‘substantial’ tariffs on imported furniture ",
-      "link": "https://www.cnn.com/2025/09/29/economy/trump-furniture-tariff"
     }
   ],
-  "timestamp": "2025-10-01T17:47:56.131Z"
+  "timestamp": "2025-10-01T18:17:47.876Z"
 }
