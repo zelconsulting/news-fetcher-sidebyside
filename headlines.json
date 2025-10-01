@@ -57,6 +57,14 @@
       "link": "https://www.foxnews.com/politics/government-shutdown-risk-grows-after-dems-block-trump-backed-extension-2nd-time"
     },
     {
+      "title": "Republicans push for constitutional amendment to dock lawmakers' pay during government shutdowns",
+      "link": "https://www.foxnews.com/politics/republicans-push-constitutional-amendment-dock-lawmakers-pay-during-government-shutdowns"
+    },
+    {
+      "title": "Government shutdown begins as House GOP campaign arm heaps pressure on Dems",
+      "link": "https://www.foxnews.com/politics/government-shutdown-begins-house-gop-campaign-arm-heaps-pressure-dems"
+    },
+    {
       "title": "Democrats silent on illegal alien registered to vote in blue state",
       "link": "https://www.foxnews.com/politics/democrats-silent-about-illegal-alien-registered-vote-blue-state"
     },
@@ -71,17 +79,13 @@
     {
       "title": "Trump signs executive order to harness AI in fight against childhood cancers",
       "link": "https://www.foxnews.com/politics/trump-signs-executive-order-harness-ai-fight-against-childhood-cancers"
-    },
-    {
-      "title": "GOP accuses Dems of risking shutdown to restore ‘illegal immigrant healthcare’",
-      "link": "https://www.foxnews.com/politics/gop-accuses-dems-risking-shutdown-restore-illegal-immigrant-healthcare"
-    },
-    {
-      "title": "Federal judge launches scathing broadside of Trump's efforts to deport pro-Palestinian protesters",
-      "link": "https://www.foxnews.com/politics/federal-judge-launches-scathing-broadside-trumps-efforts-deport-pro-palestinian-protesters"
     }
   ],
   "cnn": [
+    {
+      "title": "In a new era of climate disaster, a tiny, resilient mountain village in New Mexico is teaching the world how to adapt ",
+      "link": "https://www.cnn.com/2025/10/01/us/ruidoso-new-mexico-flooding-climate"
+    },
     {
       "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
       "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
@@ -89,14 +93,6 @@
     {
       "title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ ",
       "link": "https://www.cnn.com/2025/09/30/politics/madeleine-dean-johnson-ai-video-trump"
-    },
-    {
-      "title": "After cuts to research funding, Trump pledges millions for pediatric cancer initiative involving AI ",
-      "link": "https://www.cnn.com/2025/09/30/health/pediatric-cancer-initiative-ai"
-    },
-    {
-      "title": "Rep. Jeffries: ‘Unhinged behavior’ led to government shutdown ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/jeffries-trump-ai-video-government-shutdown-vrtc"
     },
     {
       "title": "Latest News from CNN Politics ",
@@ -161,7 +157,11 @@
     {
       "title": "Trump announces 100% tariff on foreign-made movies ",
       "link": "https://www.cnn.com/2025/09/29/economy/trump-movie-tariff"
+    },
+    {
+      "title": "Trump’s tariffs are driving a wedge through the US economy, further separating the haves from the have-nots ",
+      "link": "https://www.cnn.com/2025/09/26/economy/us-pce-consumer-spending-inflation-august"
     }
   ],
-  "timestamp": "2025-10-01T09:48:18.074Z"
+  "timestamp": "2025-10-01T10:13:30.048Z"
 }
