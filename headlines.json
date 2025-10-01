@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Here's what Trump wants to do to reshape the federal government during the shutdown",
+      "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
+    },
+    {
+      "title": "Trump remains open to talks with Kim Jong Un as South Korea warns of North Korean missile reach",
+      "link": "https://www.foxnews.com/world/white-house-trump-remains-open-talks-kim-jong-un-south-korea-warns-north-korean-missile-reach"
+    },
+    {
       "title": "NYU blocks Oct. 7 campus talk by Jewish conservative, citing security concerns",
       "link": "https://www.foxnews.com/politics/nyu-blocks-oct-7-campus-talk-jewish-conservative-citing-security-concerns"
     },
@@ -25,16 +33,8 @@
       "link": "https://www.foxnews.com/opinion/trey-yingst-hamas-must-accept-trump-peace-plan-end-war-once-all"
     },
     {
-      "title": "Chuck Schumer slams GOP's claim that Democrats want to give healthcare to illegals as an 'effing lie'",
-      "link": "https://www.foxnews.com/media/chuck-schumer-slams-gops-claim-democrats-want-give-healthcare-illegals-f-ing-lie"
-    },
-    {
       "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
       "link": "https://www.foxnews.com/politics/virginia-ag-candidate-jay-jones-convicted-reckless-driving-calls-mistake"
-    },
-    {
-      "title": "Here's what Trump wants to do to reshape the federal government during the shutdown",
-      "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
     },
     {
       "title": "White House prepares for 'imminent' federal layoffs after Democrats force government shutdown",
@@ -147,5 +147,5 @@
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-01T22:11:18.232Z"
+  "timestamp": "2025-10-01T22:30:04.392Z"
 }
