@@ -33,6 +33,10 @@
       "link": "https://www.foxnews.com/opinion/supreme-court-must-freeze-climate-extortion-our-energy-industry"
     },
     {
+      "title": "Madison Cawthorn aims to make political comeback, announces run for Congress",
+      "link": "https://www.foxnews.com/politics/madison-cawthorn-aims-make-political-comeback-announces-run-congress"
+    },
+    {
       "title": "Government shuts down after Congress deadlocks on spending deal",
       "link": "https://www.foxnews.com/politics/government-shuts-down-after-congress-deadlocks-spending-deal"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Trump signs executive order to harness AI in fight against childhood cancers",
       "link": "https://www.foxnews.com/politics/trump-signs-executive-order-harness-ai-fight-against-childhood-cancers"
-    },
-    {
-      "title": "GOP accuses Dems of risking shutdown to restore ‘illegal immigrant healthcare’",
-      "link": "https://www.foxnews.com/politics/gop-accuses-dems-risking-shutdown-restore-illegal-immigrant-healthcare"
     }
   ],
   "cnn": [
@@ -103,12 +103,12 @@
       "link": "https://www.cnn.com/2025/09/30/politics/government-shutdown-funding-deadline"
     },
     {
-      "title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ ",
-      "link": "https://www.cnn.com/2025/09/30/politics/madeleine-dean-johnson-ai-video-trump"
-    },
-    {
       "title": "Latest News from CNN Politics ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/rep-lawler-pressed-on-trumps-threats-to-cut-government-programs-permanently-during-the-shutdown-blames-democrats"
+    },
+    {
+      "title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ ",
+      "link": "https://www.cnn.com/2025/09/30/politics/madeleine-dean-johnson-ai-video-trump"
     },
     {
       "title": "White House withdraws Antoni’s nomination to lead BLS ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/09/26/economy/us-pce-consumer-spending-inflation-august"
     }
   ],
-  "timestamp": "2025-10-01T12:25:30.851Z"
+  "timestamp": "2025-10-01T13:04:42.792Z"
 }
