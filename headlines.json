@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Democrats at a big disadvantage in shutdown as Trump starts slashing their programs",
+      "link": "https://www.foxnews.com/politics/democrats-big-disadvantage-shutdown-trump-starts-slashing-programs"
+    },
+    {
       "title": "War Department pushes back on 'false' narrative of internal strategy split",
       "link": "https://www.foxnews.com/politics/war-department-pushes-back-false-narrative-internal-strategy-split"
     },
@@ -27,10 +31,6 @@
     {
       "title": "Here's what Trump wants to do to reshape the federal government during the shutdown",
       "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
-    },
-    {
-      "title": "Democrats at a big disadvantage in shutdown as Trump starts slashing their programs",
-      "link": "https://www.foxnews.com/politics/democrats-big-disadvantage-shutdown-trump-starts-slashing-programs"
     },
     {
       "title": "NYU blocks Oct. 7 campus talk by Jewish conservative, citing security concerns",
@@ -95,16 +95,16 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/inside-politics-jane-fonda"
     },
     {
-      "title": "Threat of federal firings hangs over Washington as government will remain shut down through at least Friday ",
-      "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-federal-firings-white-house"
-    },
-    {
       "title": "Rep. Jasmine Crockett Says White House ‘Twisted Somebody’s Arm’ To Block Push to Release Epstein Files ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/crockett-epstein-files-src"
     },
     {
       "title": "Sen. Coons says Republicans are making Americans poorer, defending Democrats’ position in the government funding fight. ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/ac360sencoons"
+    },
+    {
+      "title": "Threat of federal firings hangs over Washington as government will remain shut down through at least Friday ",
+      "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-federal-firings-white-house"
     },
     {
       "title": "Analysis: Why Trump’s pledge to defend Qatar is so extraordinary ",
@@ -155,5 +155,5 @@
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
     }
   ],
-  "timestamp": "2025-10-02T07:48:07.775Z"
+  "timestamp": "2025-10-02T08:16:19.269Z"
 }
