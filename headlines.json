@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "NYPD suspends detective who snuck into Ryder Cup pretending to be on Trump's security detail",
+      "link": "https://www.foxnews.com/sports/nypd-suspends-detective-who-snuck-ryder-cup-pretending-trumps-security-detail"
+    },
+    {
+      "title": "Jane Fonda slammed Democratic leaders as 'not good enough' in fight against Trump",
+      "link": "https://www.foxnews.com/media/jane-fonda-slammed-democratic-leaders-not-good-enough-fight-against-trump"
+    },
+    {
+      "title": "Johnson accuses Schumer of blocking ‘real discussion’ to keep government open",
+      "link": "https://www.foxnews.com/politics/johnson-accuses-schumer-blocking-real-discussion-keep-government-open"
+    },
+    {
       "title": "Here's what Trump wants to do to reshape the federal government during the shutdown",
       "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
     },
@@ -27,14 +39,6 @@
     {
       "title": "Dems in the hot seat after Obamacare’s spiking premium costs torpedo their narrative",
       "link": "https://www.foxnews.com/politics/dems-hot-seat-after-obamacares-spiking-premium-costs-torpedo-their-narrative"
-    },
-    {
-      "title": "TREY YINGST: Hamas must accept Trump peace plan to end war once and for all",
-      "link": "https://www.foxnews.com/opinion/trey-yingst-hamas-must-accept-trump-peace-plan-end-war-once-all"
-    },
-    {
-      "title": "Johnson accuses Schumer of blocking ‘real discussion’ to keep government open",
-      "link": "https://www.foxnews.com/politics/johnson-accuses-schumer-blocking-real-discussion-keep-government-open"
     },
     {
       "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
@@ -99,12 +103,12 @@
       "link": "https://www.cnn.com/2025/10/01/politics/trump-hegseth-warriors-ultimatums"
     },
     {
-      "title": "Should Trump use shutdown to fire federal workers? Hear what Mike Johnson thinks ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/johnson-trump-government-shutdown-federal-workers-digvid"
-    },
-    {
       "title": "Rep. Jeffries says he hasn’t heard from the White House since Monday ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
+    },
+    {
+      "title": "Should Trump use shutdown to fire federal workers? Hear what Mike Johnson thinks ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/johnson-trump-government-shutdown-federal-workers-digvid"
     },
     {
       "title": "Trump commits US to defending Qatar’s security ",
@@ -147,5 +151,5 @@
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-01T23:47:54.646Z"
+  "timestamp": "2025-10-02T00:55:01.189Z"
 }
