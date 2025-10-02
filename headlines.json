@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Russian leader responds to American conservative's murder: 'A disgusting atrocity'",
+      "link": "https://www.foxnews.com/world/russian-leader-responds-american-conservatives-murder-a-disgusting-atrocity"
+    },
+    {
       "title": "Virginia voters sue to boot Democrat off ballot in district that could decide state House majority",
       "link": "https://www.foxnews.com/politics/virginia-voters-sue-boot-democrat-off-ballot-district-could-decide-state-house-majority"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Fox News Politics Newsletter: Government shutdown drags on",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-government-shutdown-drags"
-    },
-    {
-      "title": "Eric Trump reveals how Donald Trump brought 'levity' to conversation after Butler assassination attempt",
-      "link": "https://www.foxnews.com/media/eric-trump-reveals-how-donald-trump-brought-levity-conversation-after-butler-assassination-attempt"
     },
     {
       "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
@@ -55,10 +55,6 @@
     {
       "title": "Democrats refuse to budge over Obamacare fight as shutdown drags on",
       "link": "https://www.foxnews.com/politics/democrats-refuse-budge-over-obamacare-fight-shutdown-drags"
-    },
-    {
-      "title": "Trump sees 'unprecedented opportunity' to cut government during shutdown",
-      "link": "https://www.foxnews.com/politics/trump-sees-unprecedented-opportunity-cut-government-during-shutdown"
     }
   ],
   "cnn": [
@@ -143,5 +139,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
     }
   ],
-  "timestamp": "2025-10-02T23:34:05.220Z"
+  "timestamp": "2025-10-02T23:47:58.911Z"
 }
