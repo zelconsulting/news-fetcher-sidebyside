@@ -71,13 +71,13 @@
     {
       "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
       "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
-    },
-    {
-      "title": "Trump presidential library to be built in Miami after Florida gifts waterfront site",
-      "link": "https://www.foxnews.com/politics/trump-presidential-library-built-miami-after-florida-gifts-waterfront-site"
     }
   ],
   "cnn": [
+    {
+      "title": "Former Iowa superintendent charged with federal firearms offense after immigration arrest ",
+      "link": "https://www.cnn.com/2025/10/02/us/des-moines-superintendent-ian-roberts-charged"
+    },
     {
       "title": "FDA approves another generic abortion pill, prompting outrage from conservatives ",
       "link": "https://www.cnn.com/2025/10/02/health/fda-generic-abortion-pill"
@@ -119,10 +119,6 @@
       "link": "https://www.cnn.com/2025/10/02/politics/russ-vought-shutdown-architect"
     },
     {
-      "title": "Local health departments worry about government shutdown’s effects on staffing, disease outbreaks and nutrition services ",
-      "link": "https://www.cnn.com/2025/10/02/health/government-shutdown-vaccines"
-    },
-    {
       "title": "White House: Federal firings ‘likely going to be in the thousands’ ",
       "link": "https://www.cnn.com/2025/10/02/politics/video/federal-employee-layoffs-shutdown-contd-digvid"
     },
@@ -159,5 +155,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
     }
   ],
-  "timestamp": "2025-10-02T21:33:55.834Z"
+  "timestamp": "2025-10-02T21:47:38.208Z"
 }
