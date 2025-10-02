@@ -29,10 +29,6 @@
       "link": "https://www.foxnews.com/politics/heres-what-trump-wants-do-reshape-federal-government-during-shutdown"
     },
     {
-      "title": "Trump remains open to talks with Kim Jong Un as South Korea warns of North Korean missile reach",
-      "link": "https://www.foxnews.com/world/white-house-trump-remains-open-talks-kim-jong-un-south-korea-warns-north-korean-missile-reach"
-    },
-    {
       "title": "NYU blocks Oct. 7 campus talk by Jewish conservative, citing security concerns",
       "link": "https://www.foxnews.com/politics/nyu-blocks-oct-7-campus-talk-jewish-conservative-citing-security-concerns"
     },
@@ -79,6 +75,10 @@
   ],
   "cnn": [
     {
+      "title": "Global protests after Gaza aid flotilla intercepted by Israeli forces ",
+      "link": "https://www.cnn.com/2025/10/02/world/video/protest-gaza-aid-flotilla-intercepted-israeli-forces-digvid"
+    },
+    {
       "title": "The government shutdown is a slow-boil political crisis ",
       "link": "https://www.cnn.com/2025/10/02/politics/government-shutdown-political-crisis-analysis"
     },
@@ -97,14 +97,6 @@
     {
       "title": "Threat of federal firings hangs over Washington as government will remain shut down through at least Friday ",
       "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-federal-firings-white-house"
-    },
-    {
-      "title": "Walmart to eliminate synthetic dyes, other additives from US house brands ",
-      "link": "https://www.cnn.com/2025/10/01/health/walmart-food-products-synthetic-dyes-wellness"
-    },
-    {
-      "title": "Jane Fonda says Trump presidency is ‘most frightening’ time of her life ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/jane-fonda-trump-presidency-frightening-vrtc"
     },
     {
       "title": "Rep. Jasmine Crockett Says White House ‘Twisted Somebody’s Arm’ To Block Push to Release Epstein Files ",
@@ -157,7 +149,11 @@
     {
       "title": "Stocks slide as government officially shuts down ",
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
+    },
+    {
+      "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
+      "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
     }
   ],
-  "timestamp": "2025-10-02T06:18:23.103Z"
+  "timestamp": "2025-10-02T06:45:38.562Z"
 }
