@@ -41,6 +41,10 @@
       "link": "https://www.foxnews.com/media/nancy-pelosi-snaps-reporter-after-being-asked-whether-gop-should-negotiate-shutdown-aoc"
     },
     {
+      "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
+      "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
+    },
+    {
       "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
       "link": "https://www.foxnews.com/politics/johnson-says-democrats-lying-about-illegal-immigrant-healthcare-push"
     },
@@ -75,13 +79,13 @@
     {
       "title": "Federal government shutdown sparks blame game in crucial race for governor",
       "link": "https://www.foxnews.com/politics/federal-government-shutdown-sparks-blame-game-crucial-race-for-governor"
-    },
-    {
-      "title": "Democrats at a big disadvantage in shutdown as Trump starts slashing their programs",
-      "link": "https://www.foxnews.com/politics/democrats-big-disadvantage-shutdown-trump-starts-slashing-programs"
     }
   ],
   "cnn": [
+    {
+      "title": "Out-of-office messages blaming Democrats for shutdown sent on behalf of some federal workers without their consent ",
+      "link": "https://www.cnn.com/2025/10/02/politics/federal-workers-government-shutdown-emails-partisan"
+    },
     {
       "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown ",
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
@@ -105,10 +109,6 @@
     {
       "title": "What to know about Trump’s latest federal deployments in Memphis, Portland and other US cities ",
       "link": "https://www.cnn.com/2025/10/02/us/trump-national-guard-portland-memphis-wwk-hnk"
-    },
-    {
-      "title": "Rogue planet caught behaving like a star in unprecedented observation ",
-      "link": "https://www.cnn.com/2025/10/02/science/rogue-planet-growth-spurt"
     },
     {
       "title": "5 things to know for Oct. 2: Mass layoffs, Crime crackdown, Walmart, Climate change, Jane Goodall ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/trump-hegseth-warriors-ultimatums"
     }
   ],
-  "timestamp": "2025-10-02T18:17:31.700Z"
+  "timestamp": "2025-10-02T18:43:25.846Z"
 }
