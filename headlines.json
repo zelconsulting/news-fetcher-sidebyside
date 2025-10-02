@@ -30,7 +30,7 @@
     },
     {
       "title": "Federal government shutdown sparks blame game in crucial race for governor",
-      "link": "https://www.foxnews.com/politics/federal-government-shutdown-impacts-crucial-race-governor"
+      "link": "https://www.foxnews.com/politics/federal-government-shutdown-sparks-blame-game-crucial-race-for-governor"
     },
     {
       "title": "Johnson accuses Schumer of blocking ‘real discussion’ to keep government open",
@@ -82,6 +82,10 @@
     }
   ],
   "cnn": [
+    {
+      "title": "ICE impersonator incidents rise during Trump’s second term ",
+      "link": "https://www.cnn.com/2025/10/02/us/ice-impersonator-incidents-rise-invs-vis"
+    },
     {
       "title": "As the US government hits pause, Trump’s economic chaos only accelerates ",
       "link": "https://www.cnn.com/2025/10/02/business/economy-data-jobs-chaos"
@@ -157,11 +161,7 @@
     {
       "title": "Latest News from CNN Politics ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/rep-lawler-pressed-on-trumps-threats-to-cut-government-programs-permanently-during-the-shutdown-blames-democrats"
-    },
-    {
-      "title": "US government shuts down with funding deal out of reach on Capitol Hill ",
-      "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-funding-deadline"
     }
   ],
-  "timestamp": "2025-10-02T10:12:32.799Z"
+  "timestamp": "2025-10-02T10:32:10.064Z"
 }
