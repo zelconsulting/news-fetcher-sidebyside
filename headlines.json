@@ -59,10 +59,6 @@
     {
       "title": "Trump sees 'unprecedented opportunity' to cut government during shutdown",
       "link": "https://www.foxnews.com/politics/trump-sees-unprecedented-opportunity-cut-government-during-shutdown"
-    },
-    {
-      "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
-      "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
     }
   ],
   "cnn": [
@@ -99,12 +95,12 @@
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     },
     {
-      "title": "Democrats could have more shutdown leverage than people realize ",
-      "link": "https://www.cnn.com/2025/10/02/politics/democrats-government-shutdown-leverage"
-    },
-    {
       "title": "White House: Federal firings ‘likely going to be in the thousands’ ",
       "link": "https://www.cnn.com/2025/10/02/politics/video/federal-employee-layoffs-shutdown-contd-digvid"
+    },
+    {
+      "title": "Democrats could have more shutdown leverage than people realize ",
+      "link": "https://www.cnn.com/2025/10/02/politics/democrats-government-shutdown-leverage"
     },
     {
       "title": "White House calls on universities to agree to demands for expanded access to federal funding ",
@@ -147,5 +143,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
     }
   ],
-  "timestamp": "2025-10-02T22:28:58.023Z"
+  "timestamp": "2025-10-02T22:39:27.643Z"
 }
