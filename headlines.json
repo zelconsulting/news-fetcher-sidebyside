@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Tommy Tuberville praises Paul Finebaum as analyst considers Senate run after Charlie Kirk assassination",
+      "link": "https://www.foxnews.com/sports/tommy-tuberville-praises-paul-finebaum-analyst-considers-senate-run-after-charlie-kirk-assassination"
+    },
+    {
+      "title": "Nancy Pelosi snaps at reporter after being asked whether GOP should negotiate shutdown with AOC",
+      "link": "https://www.foxnews.com/media/nancy-pelosi-snaps-reporter-after-being-asked-whether-gop-should-negotiate-shutdown-aoc"
+    },
+    {
+      "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
+      "link": "https://www.foxnews.com/politics/johnson-says-democrats-lying-about-illegal-immigrant-healthcare-push"
+    },
+    {
       "title": "Democrats refuse to budge over Obamacare fight as shutdown drags on",
       "link": "https://www.foxnews.com/politics/democrats-refuse-budge-over-obamacare-fight-shutdown-drags"
     },
@@ -13,12 +25,12 @@
       "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
     },
     {
-      "title": "Trump presidential library to be built in Miami after Florida gifts waterfront site",
-      "link": "https://www.foxnews.com/politics/trump-presidential-library-built-miami-after-florida-gifts-waterfront-site"
+      "title": "Johnson shuts door on negotiating shutdown deal as Democrats dig in on Obamacare",
+      "link": "https://www.foxnews.com/politics/johnson-shuts-door-negotiating-shutdown-deal-democrats-dig-obamacare"
     },
     {
-      "title": "Charlie Sheen admits President Trump was right about doomed marriage to Brooke Mueller",
-      "link": "https://www.foxnews.com/entertainment/charlie-sheen-admits-president-trump-right-about-doomed-marriage-brooke-mueller"
+      "title": "Trump presidential library to be built in Miami after Florida gifts waterfront site",
+      "link": "https://www.foxnews.com/politics/trump-presidential-library-built-miami-after-florida-gifts-waterfront-site"
     },
     {
       "title": "Campus rifle arrest of repeat offender draws sharp rebuke of Dems from GOP lawmaker",
@@ -27,14 +39,6 @@
     {
       "title": "Lawmaker warns government shutdown chaos potentially leading to big waste in the military, impacting readiness",
       "link": "https://www.foxnews.com/politics/lawmaker-warns-government-shutdown-chaos-potentially-leading-big-waste-military-impacting-readiness"
-    },
-    {
-      "title": "How Trump wants to reshape the federal government during the shutdown and more top headlines",
-      "link": "https://www.foxnews.com/us/how-trump-wants-reshape-federal-government-during-shutdown-more-top-headlines"
-    },
-    {
-      "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
-      "link": "https://www.foxnews.com/politics/johnson-says-democrats-lying-about-illegal-immigrant-healthcare-push"
     },
     {
       "title": "Meet the 3 senators who broke with Democrats to support a bill to keep government open",
@@ -75,13 +79,13 @@
     {
       "title": "First bipartisan shutdown negotiations surface on Capitol Hill after funding bill blocked again",
       "link": "https://www.foxnews.com/politics/first-bipartisan-shutdown-negotiations-surface-capitol-hill-after-funding-bill-blocked-again"
-    },
-    {
-      "title": "National Guard now in place for Oregon amid ‘chaos, death and destruction’: Trump",
-      "link": "https://www.foxnews.com/politics/national-guard-now-place-oregon-amid-chaos-death-destruction-trump"
     }
   ],
   "cnn": [
+    {
+      "title": "Trump’s shutdown architect: Russ Vought’s plan to deconstruct the government was years in the making ",
+      "link": "https://www.cnn.com/2025/10/02/politics/russ-vought-shutdown-architect"
+    },
     {
       "title": "Local health departments worry about government shutdown’s effects on staffing, disease outbreaks and nutrition services ",
       "link": "https://www.cnn.com/2025/10/02/health/government-shutdown-vaccines"
@@ -99,8 +103,8 @@
       "link": "https://www.cnn.com/2025/10/02/us/5-things-to-know-for-oct-2-mass-layoffs-crime-crackdown-walmart-climate-change-jane-goodall"
     },
     {
-      "title": "ICE impersonator incidents rise during Trump’s second term ",
-      "link": "https://www.cnn.com/2025/10/02/us/ice-impersonator-incidents-rise-invs-vis"
+      "title": "White House calls on universities to agree to demands for expanded access to federal funding ",
+      "link": "https://www.cnn.com/2025/10/02/politics/white-house-higher-education-compact-federal-funding"
     },
     {
       "title": "‘This has been a ruse’: Democratic congressman on shutdown ",
@@ -157,11 +161,7 @@
     {
       "title": "Trump commits US to defending Qatar’s security ",
       "link": "https://www.cnn.com/2025/10/01/politics/trump-qatar-security-order"
-    },
-    {
-      "title": "See what Schumer said in the past about government shutdowns ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/schumer-government-shutdown-gop-digvid"
     }
   ],
-  "timestamp": "2025-10-02T15:47:18.801Z"
+  "timestamp": "2025-10-02T16:14:47.760Z"
 }
