@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump sees 'unprecedented opportunity' to cut government during shutdown",
+      "link": "https://www.foxnews.com/politics/trump-sees-unprecedented-opportunity-cut-government-during-shutdown"
+    },
+    {
+      "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
+      "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
+    },
+    {
       "title": "Trump presidential library to be built in Miami after Florida gifts waterfront site",
       "link": "https://www.foxnews.com/politics/trump-presidential-library-built-miami-after-florida-gifts-waterfront-site"
     },
@@ -17,7 +25,7 @@
       "link": "https://www.foxnews.com/us/how-trump-wants-reshape-federal-government-during-shutdown-more-top-headlines"
     },
     {
-      "title": "Portland city council member recommends burner phones and encrypted apps for ICE protesters in FB video",
+      "title": "Portland City Council member recommends burner phones and encrypted apps for ICE protesters in FB video",
       "link": "https://www.foxnews.com/media/portland-city-council-member-recommends-burner-phones-encrypted-apps-ice-protesters-fb-video"
     },
     {
@@ -25,24 +33,8 @@
       "link": "https://www.foxnews.com/politics/meet-3-senators-who-broke-democrats-support-bill-keep-government-open"
     },
     {
-      "title": "ICE director reveals dangerous nightly Antifa 'battle' as Trump prepares federal deployment to Portland",
-      "link": "https://www.foxnews.com/media/ice-director-reveals-dangerous-nightly-antifa-battle-trump-prepares-federal-deployment-portland"
-    },
-    {
-      "title": "Trump advisor slams Bad Bunny Super Bowl halftime show pick, warns ICE agents are 'everywhere'",
-      "link": "https://www.foxnews.com/media/trump-advisor-slams-bad-bunny-super-bowl-halftime-show-pick-warns-ice-agents-everywhere"
-    },
-    {
       "title": "Federal government shutdown sparks blame game in crucial race for governor",
       "link": "https://www.foxnews.com/politics/federal-government-shutdown-sparks-blame-game-crucial-race-for-governor"
-    },
-    {
-      "title": "Trump sees 'unprecedented opportunity' to cut government during shutdown",
-      "link": "https://www.foxnews.com/politics/trump-sees-unprecedented-opportunity-cut-government-during-shutdown"
-    },
-    {
-      "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
-      "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
     },
     {
       "title": "Democrats at a big disadvantage in shutdown as Trump starts slashing their programs",
@@ -79,6 +71,14 @@
     {
       "title": "National Guard now in place for Oregon amid ‘chaos, death and destruction’: Trump",
       "link": "https://www.foxnews.com/politics/national-guard-now-place-oregon-amid-chaos-death-destruction-trump"
+    },
+    {
+      "title": "Dems in the hot seat after Obamacare’s spiking premium costs torpedo their narrative",
+      "link": "https://www.foxnews.com/politics/dems-hot-seat-after-obamacares-spiking-premium-costs-torpedo-their-narrative"
+    },
+    {
+      "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
+      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-jay-jones-convicted-reckless-driving-calls-mistake"
     }
   ],
   "cnn": [
@@ -97,10 +97,6 @@
     {
       "title": "ICE impersonator incidents rise during Trump’s second term ",
       "link": "https://www.cnn.com/2025/10/02/us/ice-impersonator-incidents-rise-invs-vis"
-    },
-    {
-      "title": "As the US government hits pause, Trump’s economic chaos only accelerates ",
-      "link": "https://www.cnn.com/2025/10/02/business/economy-data-jobs-chaos"
     },
     {
       "title": "‘This has been a ruse’: Democratic congressman on shutdown ",
@@ -161,7 +157,11 @@
     {
       "title": "See what Schumer said in the past about government shutdowns ",
       "link": "https://www.cnn.com/2025/10/01/politics/video/schumer-government-shutdown-gop-digvid"
+    },
+    {
+      "title": "Rep. Jeffries: ‘Unhinged behavior’ led to government shutdown ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/hakeem-jeffries-ai-video-trump-government-shutdown-ldn-digvid"
     }
   ],
-  "timestamp": "2025-10-02T13:48:12.793Z"
+  "timestamp": "2025-10-02T14:12:26.041Z"
 }
