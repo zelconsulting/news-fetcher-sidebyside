@@ -37,6 +37,10 @@
       "link": "https://www.foxnews.com/politics/federal-government-shutdown-sparks-blame-game-crucial-race-for-governor"
     },
     {
+      "title": "Trump sees 'unprecedented opportunity' to cut government during shutdown",
+      "link": "https://www.foxnews.com/politics/trump-sees-unprecedented-opportunity-cut-government-during-shutdown"
+    },
+    {
       "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
       "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
     },
@@ -75,10 +79,6 @@
     {
       "title": "National Guard now in place for Oregon amid ‘chaos, death and destruction’: Trump",
       "link": "https://www.foxnews.com/politics/national-guard-now-place-oregon-amid-chaos-death-destruction-trump"
-    },
-    {
-      "title": "Dems in the hot seat after Obamacare’s spiking premium costs torpedo their narrative",
-      "link": "https://www.foxnews.com/politics/dems-hot-seat-after-obamacares-spiking-premium-costs-torpedo-their-narrative"
     }
   ],
   "cnn": [
@@ -103,16 +103,16 @@
       "link": "https://www.cnn.com/2025/10/02/business/economy-data-jobs-chaos"
     },
     {
+      "title": "‘This has been a ruse’: Democratic congressman on shutdown ",
+      "link": "https://www.cnn.com/2025/10/02/politics/video/government-shutdown-democrats-trump-congressman-jonathan-jackson-es"
+    },
+    {
       "title": "How the Supreme Court is fast-tracking Trump’s cases on its ‘shadow docket’ ",
       "link": "https://www.cnn.com/2025/10/02/politics/video/shadow-docket-trump-supreme-court-explained"
     },
     {
       "title": "‘I’m scrambling’: Government shutdown spurs confusion and concern with no off-ramp in sight ",
       "link": "https://www.cnn.com/2025/10/02/politics/us-federal-government-shutdown-confusion"
-    },
-    {
-      "title": "‘This has been a ruse’: Democratic congressman on shutdown ",
-      "link": "https://www.cnn.com/2025/10/02/politics/video/government-shutdown-democrats-trump-congressman-jonathan-jackson-es"
     },
     {
       "title": "The government shutdown is a slow-boil political crisis ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/schumer-government-shutdown-gop-digvid"
     }
   ],
-  "timestamp": "2025-10-02T13:34:51.678Z"
+  "timestamp": "2025-10-02T13:48:12.793Z"
 }
