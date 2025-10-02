@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "War Department pushes back on 'false' narrative of internal strategy split",
+      "link": "https://www.foxnews.com/politics/war-department-pushes-back-false-narrative-internal-strategy-split"
+    },
+    {
+      "title": "How Mikie Sherrill’s family made millions after she was elected to Congress",
+      "link": "https://www.foxnews.com/politics/how-mikie-sherrills-family-made-millions-after-she-elected-congress"
+    },
+    {
+      "title": "Speaker Johnson blames House Dems for 'terribly selfish' government shutdown",
+      "link": "https://www.foxnews.com/media/speaker-johnson-blames-house-dems-terribly-selfish-government-shutdown"
+    },
+    {
       "title": "NYPD suspends detective who snuck into Ryder Cup pretending to be on Trump's security detail",
       "link": "https://www.foxnews.com/sports/nypd-suspends-detective-who-snuck-ryder-cup-pretending-trumps-security-detail"
     },
@@ -63,13 +75,13 @@
     {
       "title": "Maverick House Republican in Trump's crosshairs touts record campaign cash haul",
       "link": "https://www.foxnews.com/politics/maverick-house-republican-trumps-crosshairs-touts-record-campaign-cash-haul"
-    },
-    {
-      "title": "Government shutdown continues as Senate Dems block GOP funding bill for 3rd time",
-      "link": "https://www.foxnews.com/politics/government-shutdown-continues-senate-dems-block-gop-funding-bill-3rd-time"
     }
   ],
   "cnn": [
+    {
+      "title": "Rep. Jeffries says he hasn’t heard from the White House since Monday ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
+    },
     {
       "title": "White House views Portland protests as opening to pursue Trump’s crime crackdown ",
       "link": "https://www.cnn.com/2025/10/01/politics/portland-oregon-trump-crime-crackdown"
@@ -95,16 +107,16 @@
       "link": "https://www.cnn.com/2025/10/01/climate/pope-leo-climate-speech-environment"
     },
     {
+      "title": "Sen. Coons says Republicans are making Americans poorer, defending Democrats’ position in the government funding fight. ",
+      "link": "https://www.cnn.com/2025/10/01/politics/video/ac360sencoons"
+    },
+    {
       "title": "Analysis: Why Trump’s pledge to defend Qatar is so extraordinary ",
       "link": "https://www.cnn.com/2025/10/01/politics/qatar-pledge-trump-analysis"
     },
     {
       "title": "For Trump and Hegseth, the ‘warrior ethos’ comes with ultimatums for hundreds of generals and admirals ",
       "link": "https://www.cnn.com/2025/10/01/politics/trump-hegseth-warriors-ultimatums"
-    },
-    {
-      "title": "Rep. Jeffries says he hasn’t heard from the White House since Monday ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
     },
     {
       "title": "Should Trump use shutdown to fire federal workers? Hear what Mike Johnson thinks ",
@@ -143,13 +155,9 @@
       "link": "https://www.cnn.com/2025/09/30/politics/ej-antoni-nomination-withdrawn-bls"
     },
     {
-      "title": "Analysis: A GOP-appointed judge fears Americans are complacent about Trump. Polling backs him up ",
-      "link": "https://www.cnn.com/2025/09/30/politics/voters-trump-complacency-analysis"
-    },
-    {
       "title": "Stocks slide as government officially shuts down ",
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-02T00:55:01.189Z"
+  "timestamp": "2025-10-02T02:16:52.537Z"
 }
