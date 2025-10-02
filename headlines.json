@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: Trump repeats DC magic as Portland's Antifa thugs retreat",
+      "link": "https://www.foxnews.com/opinion/david-marcus-trump-repeats-dc-magic-portlands-antifa-thugs-retreat"
+    },
+    {
+      "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
+      "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
+    },
+    {
+      "title": "Rahm Emanuel warns Democrats need 'education reset' to win back public trust",
+      "link": "https://www.foxnews.com/media/rahm-emanuel-warns-democrats-need-education-reset-win-back-public-trust"
+    },
+    {
       "title": "Trump admin tells Congress it determined US engaged in formal 'armed conflict' with 'terrorist' drug cartels",
       "link": "https://www.foxnews.com/politics/trump-admin-tells-congress-it-determined-us-engaged-formal-armed-conflict-with-terrorist-drug-cartels"
     },
@@ -31,18 +43,6 @@
     {
       "title": "Johnson shuts door on negotiating shutdown deal as Democrats dig in on Obamacare",
       "link": "https://www.foxnews.com/politics/johnson-shuts-door-negotiating-shutdown-deal-democrats-dig-obamacare"
-    },
-    {
-      "title": "Tommy Tuberville praises Paul Finebaum as analyst considers Senate run after Charlie Kirk assassination",
-      "link": "https://www.foxnews.com/sports/tommy-tuberville-praises-paul-finebaum-analyst-considers-senate-run-after-charlie-kirk-assassination"
-    },
-    {
-      "title": "Nancy Pelosi snaps at reporter after being asked whether GOP should negotiate shutdown with AOC",
-      "link": "https://www.foxnews.com/media/nancy-pelosi-snaps-reporter-after-being-asked-whether-gop-should-negotiate-shutdown-aoc"
-    },
-    {
-      "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
-      "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
     },
     {
       "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
@@ -83,6 +83,10 @@
   ],
   "cnn": [
     {
+      "title": "Trump admin tells Congress the US is in ‘armed conflict’ with drug cartels ",
+      "link": "https://www.cnn.com/2025/10/02/politics/trump-admin-us-armed-conflict-cartels"
+    },
+    {
       "title": "Out-of-office messages blaming Democrats for shutdown sent on behalf of some federal workers without their consent ",
       "link": "https://www.cnn.com/2025/10/02/politics/federal-workers-government-shutdown-emails-partisan"
     },
@@ -109,10 +113,6 @@
     {
       "title": "What to know about Trump’s latest federal deployments in Memphis, Portland and other US cities ",
       "link": "https://www.cnn.com/2025/10/02/us/trump-national-guard-portland-memphis-wwk-hnk"
-    },
-    {
-      "title": "Trump admin tells Congress the US is in ‘armed conflict’ with drug cartels ",
-      "link": "https://www.cnn.com/2025/10/02/politics/trump-admin-us-armed-conflict-cartels"
     },
     {
       "title": "White House: Federal firings ‘likely going to be in the thousands’ ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/government-shutdown-federal-firings-white-house"
     }
   ],
-  "timestamp": "2025-10-02T19:21:27.005Z"
+  "timestamp": "2025-10-02T19:34:05.286Z"
 }
