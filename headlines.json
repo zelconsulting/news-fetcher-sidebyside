@@ -1,44 +1,8 @@
 {
   "fox": [
     {
-      "title": "DAVID MARCUS: Trump repeats DC magic as Portland's Antifa thugs retreat",
-      "link": "https://www.foxnews.com/opinion/david-marcus-trump-repeats-dc-magic-portlands-antifa-thugs-retreat"
-    },
-    {
-      "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
-      "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
-    },
-    {
-      "title": "Rahm Emanuel warns Democrats need 'education reset' to win back public trust",
-      "link": "https://www.foxnews.com/media/rahm-emanuel-warns-democrats-need-education-reset-win-back-public-trust"
-    },
-    {
-      "title": "Trump admin tells Congress it determined US engaged in formal 'armed conflict' with 'terrorist' drug cartels",
-      "link": "https://www.foxnews.com/politics/trump-admin-tells-congress-it-determined-us-engaged-formal-armed-conflict-with-terrorist-drug-cartels"
-    },
-    {
-      "title": "FOX News dominates all news brands with 1.1 billion YouTube views during Q3, topping NBC, ABC, CBS combined",
-      "link": "https://www.foxnews.com/media/fox-news-dominates-all-news-brands-1-1-billion-youtube-views-during-q3-topping-nbc-abc-cbs-combined"
-    },
-    {
-      "title": "Trump must triple severely outdated nuke arsenal to outpace China and Russia, report warns",
-      "link": "https://www.foxnews.com/politics/trump-must-triple-severely-outdated-nuke-arsenal-outpace-china-russia-report-warns"
-    },
-    {
-      "title": "Immigration judge denies Kilmar Abrego Garcia’s bid for asylum, but he has 30 days to appeal",
-      "link": "https://www.foxnews.com/us/immigration-judge-denies-kilmar-abrego-garcias-bid-asylum-he-has-30-days-appeal"
-    },
-    {
-      "title": "White House says federal layoffs could hit 'thousands' ahead of Trump, Vought meeting",
-      "link": "https://www.foxnews.com/politics/white-house-says-federal-layoffs-could-hit-thousands-ahead-trump-vought-meeting"
-    },
-    {
-      "title": "Karoline Leavitt warns Democrats face 'very real' consequences if shutdown standoff drags on",
-      "link": "https://www.foxnews.com/media/karoline-leavitt-warns-democrats-face-very-real-consequences-shutdown-standoff-drags"
-    },
-    {
-      "title": "NYC mayoral candidates Mamdani, Cuomo air first ads amid government shutdown drama",
-      "link": "https://www.foxnews.com/politics/nyc-mayoral-candidates-mamdani-cuomo-air-first-ads-amid-government-shutdown-drama"
+      "title": "Former Des Moines Schools superintendent taken into DOJ custody on federal firearms, immigration charges",
+      "link": "https://www.foxnews.com/us/former-des-moines-schools-superintendent-taken-doj-custody-federal-firearms-immigration-charges"
     },
     {
       "title": "Trump’s DOGE savings dwarfed by Medicare, Social Security spending, watchdog finds",
@@ -51,6 +15,38 @@
     {
       "title": "Fox News Politics Newsletter: Government shutdown drags on",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-government-shutdown-drags"
+    },
+    {
+      "title": "Eric Trump reveals how Donald Trump brought 'levity' to conversation after Butler assassination attempt",
+      "link": "https://www.foxnews.com/media/eric-trump-reveals-how-donald-trump-brought-levity-conversation-after-butler-assassination-attempt"
+    },
+    {
+      "title": "Former Politico reporter says pressure of government shutdown will ‘skyrocket on Democrats’",
+      "link": "https://www.foxnews.com/media/former-politico-reporter-pressure-govt-shutdown-skyrocket-democrats"
+    },
+    {
+      "title": "DAVID MARCUS: Trump repeats DC magic as Portland's Antifa thugs retreat",
+      "link": "https://www.foxnews.com/opinion/david-marcus-trump-repeats-dc-magic-portlands-antifa-thugs-retreat"
+    },
+    {
+      "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
+      "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
+    },
+    {
+      "title": "Trump admin tells Congress it determined US engaged in formal 'armed conflict' with 'terrorist' drug cartels",
+      "link": "https://www.foxnews.com/politics/trump-admin-tells-congress-it-determined-us-engaged-formal-armed-conflict-with-terrorist-drug-cartels"
+    },
+    {
+      "title": "Trump must triple severely outdated nuke arsenal to outpace China and Russia, report warns",
+      "link": "https://www.foxnews.com/politics/trump-must-triple-severely-outdated-nuke-arsenal-outpace-china-russia-report-warns"
+    },
+    {
+      "title": "White House says federal layoffs could hit 'thousands' ahead of Trump, Vought meeting",
+      "link": "https://www.foxnews.com/politics/white-house-says-federal-layoffs-could-hit-thousands-ahead-trump-vought-meeting"
+    },
+    {
+      "title": "NYC mayoral candidates Mamdani, Cuomo air first ads amid government shutdown drama",
+      "link": "https://www.foxnews.com/politics/nyc-mayoral-candidates-mamdani-cuomo-air-first-ads-amid-government-shutdown-drama"
     },
     {
       "title": "Johnson shuts door on negotiating shutdown deal as Democrats dig in on Obamacare",
@@ -79,9 +75,17 @@
     {
       "title": "Campus rifle arrest of repeat offender draws sharp rebuke of Dems from GOP lawmaker",
       "link": "https://www.foxnews.com/politics/campus-rifle-arrest-repeat-offender-draws-sharp-rebuke-dems-from-gop-lawmaker"
+    },
+    {
+      "title": "Lawmaker warns government shutdown chaos potentially leading to big waste in the military, impacting readiness",
+      "link": "https://www.foxnews.com/politics/lawmaker-warns-government-shutdown-chaos-potentially-leading-big-waste-military-impacting-readiness"
     }
   ],
   "cnn": [
+    {
+      "title": "How government shutdown impacts military families ",
+      "link": "https://www.cnn.com/2025/10/02/us/video/government-shutdown-impact-military-families-home-front-digvid"
+    },
     {
       "title": "Trump admin tells Congress the US is in ‘armed conflict’ with drug cartels ",
       "link": "https://www.cnn.com/2025/10/02/politics/trump-admin-us-armed-conflict-cartels"
@@ -109,10 +113,6 @@
     {
       "title": "Local health departments worry about government shutdown’s effects on staffing, disease outbreaks and nutrition services ",
       "link": "https://www.cnn.com/2025/10/02/health/government-shutdown-vaccines"
-    },
-    {
-      "title": "What to know about Trump’s latest federal deployments in Memphis, Portland and other US cities ",
-      "link": "https://www.cnn.com/2025/10/02/us/trump-national-guard-portland-memphis-wwk-hnk"
     },
     {
       "title": "Senate GOP plans ritzy Georgia fundraiser amid shutdown, Dems mum about Napa plans ",
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/inside-politics-jane-fonda"
     }
   ],
-  "timestamp": "2025-10-02T20:31:36.573Z"
+  "timestamp": "2025-10-02T20:47:51.990Z"
 }
