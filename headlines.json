@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "Trump presidential library to be built in Miami after Florida gifts waterfront site",
+      "link": "https://www.foxnews.com/politics/trump-presidential-library-built-miami-after-florida-gifts-waterfront-site"
+    },
+    {
+      "title": "Charlie Sheen admits President Trump was right about doomed marriage to Brooke Mueller",
+      "link": "https://www.foxnews.com/entertainment/charlie-sheen-admits-president-trump-right-about-doomed-marriage-brooke-mueller"
+    },
+    {
+      "title": "Campus rifle arrest of repeat offender draws sharp rebuke of Dems from GOP lawmaker",
+      "link": "https://www.foxnews.com/politics/campus-rifle-arrest-repeat-offender-draws-sharp-rebuke-dems-from-gop-lawmaker"
+    },
+    {
+      "title": "How Trump wants to reshape the federal government during the shutdown and more top headlines",
+      "link": "https://www.foxnews.com/us/how-trump-wants-reshape-federal-government-during-shutdown-more-top-headlines"
+    },
+    {
+      "title": "Portland city council member recommends burner phones and encrypted apps for ICE protesters in FB video",
+      "link": "https://www.foxnews.com/media/portland-city-council-member-recommends-burner-phones-encrypted-apps-ice-protesters-fb-video"
+    },
+    {
       "title": "Meet the 3 senators who broke with Democrats to support a bill to keep government open",
       "link": "https://www.foxnews.com/politics/meet-3-senators-who-broke-democrats-support-bill-keep-government-open"
     },
@@ -17,12 +37,8 @@
       "link": "https://www.foxnews.com/politics/federal-government-shutdown-sparks-blame-game-crucial-race-for-governor"
     },
     {
-      "title": "MORNING GLORY: The Beltway bubble leads Democrats off a political cliff",
-      "link": "https://www.foxnews.com/opinion/morning-glory-beltway-bubble-leads-democrats-off-political-cliff"
-    },
-    {
-      "title": "Kamala Harris blames everyone but the Black voters who rejected her",
-      "link": "https://www.foxnews.com/opinion/kamala-harris-blames-everyone-black-voters-who-rejected-her"
+      "title": "Media bashes Trump admin messaging for pinning shutdown on Dems, White House fires back",
+      "link": "https://www.foxnews.com/politics/media-bashes-trump-admin-messaging-pinning-shutdown-dems-white-house-fires-back"
     },
     {
       "title": "Democrats at a big disadvantage in shutdown as Trump starts slashing their programs",
@@ -35,14 +51,6 @@
     {
       "title": "How Mikie Sherrill’s family made millions after she was elected to Congress",
       "link": "https://www.foxnews.com/politics/how-mikie-sherrills-family-made-millions-after-she-elected-congress"
-    },
-    {
-      "title": "Speaker Johnson blames House Dems for 'terribly selfish' government shutdown",
-      "link": "https://www.foxnews.com/media/speaker-johnson-blames-house-dems-terribly-selfish-government-shutdown"
-    },
-    {
-      "title": "Campus rifle arrest of repeat offender draws sharp rebuke of Dems from GOP lawmaker",
-      "link": "https://www.foxnews.com/politics/campus-rifle-arrest-repeat-offender-draws-sharp-rebuke-dems-from-gop-lawmaker"
     },
     {
       "title": "Johnson accuses Schumer of blocking ‘real discussion’ to keep government open",
@@ -71,17 +79,13 @@
     {
       "title": "Dems in the hot seat after Obamacare’s spiking premium costs torpedo their narrative",
       "link": "https://www.foxnews.com/politics/dems-hot-seat-after-obamacares-spiking-premium-costs-torpedo-their-narrative"
-    },
-    {
-      "title": "Virginia AG candidate Jay Jones convicted of reckless driving, calls it 'mistake'",
-      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-jay-jones-convicted-reckless-driving-calls-mistake"
-    },
-    {
-      "title": "White House prepares for 'imminent' federal layoffs after Democrats force government shutdown",
-      "link": "https://www.foxnews.com/politics/white-house-prepares-imminent-federal-layoffs-after-democrats-force-government-shutdown"
     }
   ],
   "cnn": [
+    {
+      "title": "What to know about Trump’s latest federal deployments in Memphis, Portland and other US cities ",
+      "link": "https://www.cnn.com/2025/10/02/us/trump-national-guard-portland-memphis-wwk-hnk"
+    },
     {
       "title": "Rogue planet caught behaving like a star in unprecedented observation ",
       "link": "https://www.cnn.com/2025/10/02/science/rogue-planet-growth-spurt"
@@ -157,11 +161,7 @@
     {
       "title": "Trump commits US to defending Qatar’s security ",
       "link": "https://www.cnn.com/2025/10/01/politics/trump-qatar-security-order"
-    },
-    {
-      "title": "See what Schumer said in the past about government shutdowns ",
-      "link": "https://www.cnn.com/2025/10/01/politics/video/schumer-government-shutdown-gop-digvid"
     }
   ],
-  "timestamp": "2025-10-02T12:22:32.816Z"
+  "timestamp": "2025-10-02T13:00:27.136Z"
 }
