@@ -49,6 +49,10 @@
       "link": "https://www.foxnews.com/politics/longtime-trump-ally-lewandowski-flirts-primary-challenge-against-gop-governor"
     },
     {
+      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal: report",
+      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
+    },
+    {
       "title": "Sex offender called ‘poster boy’ for GOP’s transgender ideology concerns faces court hearing",
       "link": "https://www.foxnews.com/politics/sex-offender-called-poster-boy-gops-transgender-ideology-concerns-faces-court-hearing"
     },
@@ -75,13 +79,13 @@
     {
       "title": "Government shutdown sparks GOP plan to penalize lawmakers with new salary tax",
       "link": "https://www.foxnews.com/politics/government-shutdown-sparks-gop-plan-penalize-lawmakers-new-salary-tax"
-    },
-    {
-      "title": "Democrats blame GOP for Obamacare woes tied to pandemic-era subsidies",
-      "link": "https://www.foxnews.com/politics/democrats-blame-gop-obamacare-woes-tied-pandemic-era-subsidies"
     }
   ],
   "cnn": [
+    {
+      "title": "Analysis: Trump is finally ready to talk about Project 2025 ",
+      "link": "https://www.cnn.com/2025/10/03/politics/trump-is-finally-ready-to-talk-about-project-2025"
+    },
     {
       "title": "Trump administration prepares to offer money to unaccompanied migrant teenagers to voluntarily leave US ",
       "link": "https://www.cnn.com/2025/10/03/politics/unaccompanied-migrant-kids-payments"
@@ -109,14 +113,6 @@
     {
       "title": "Apple removes ICE tracking apps after Trump administration says they threaten officers ",
       "link": "https://www.cnn.com/2025/10/03/tech/iceblock-apple-removed-trump"
-    },
-    {
-      "title": "Conservative influencer Nick Sortor released after arrest in fight outside Portland ICE building, police say ",
-      "link": "https://www.cnn.com/2025/10/03/us/portland-ice-facility-nick-sortor-arrest"
-    },
-    {
-      "title": "Analysis: Trump is finally ready to talk about Project 2025 ",
-      "link": "https://www.cnn.com/2025/10/03/politics/trump-is-finally-ready-to-talk-about-project-2025"
     },
     {
       "title": "Trump-Epstein statue returns to National Mall after removal by NPS ",
@@ -161,7 +157,11 @@
     {
       "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown ",
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
+    },
+    {
+      "title": "Stocks slide as government officially shuts down ",
+      "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-03T20:13:18.513Z"
+  "timestamp": "2025-10-03T20:30:58.704Z"
 }
