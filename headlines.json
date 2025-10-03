@@ -67,6 +67,10 @@
   ],
   "cnn": [
     {
+      "title": "Judge to decide whether to temporarily block Trump’s National Guard deployment in Oregon ",
+      "link": "https://www.cnn.com/2025/10/03/us/oregon-trump-national-guard-restraining-order"
+    },
+    {
       "title": "Immigration judge denies Kilmar Abrego Garcia’s bid for asylum, but he has 30 days to appeal ",
       "link": "https://www.cnn.com/2025/10/02/us/abrego-garcia-asylum-denied-immigration-hnk"
     },
@@ -81,10 +85,6 @@
     {
       "title": "Analysis: Why some Republicans are getting cold feet about Trump’s shutdown layoff threats ",
       "link": "https://www.cnn.com/2025/10/02/politics/republicans-trump-shutdown-layoffs-analysis"
-    },
-    {
-      "title": "Former Iowa superintendent charged with federal firearms offense after immigration arrest ",
-      "link": "https://www.cnn.com/2025/10/02/us/des-moines-superintendent-ian-roberts-charged"
     },
     {
       "title": "Abby Phillip fact checks Trump claim at center of shutdown ",
@@ -147,5 +147,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/crockett-epstein-files-src"
     }
   ],
-  "timestamp": "2025-10-03T08:15:48.275Z"
+  "timestamp": "2025-10-03T08:42:02.917Z"
 }
