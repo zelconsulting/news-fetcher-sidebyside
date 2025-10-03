@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "The disturbing connection between UN's green energy push and illegal immigration",
+      "link": "https://www.foxnews.com/opinion/disturbing-connection-between-uns-green-energy-push-illegal-immigration"
+    },
+    {
       "title": "The revolt of Marjorie Taylor Greene, now Donald Trump’s fiercest critic",
       "link": "https://www.foxnews.com/media/revolt-marjorie-taylor-greene-now-donald-trumps-fiercest-critic"
     },
@@ -15,10 +19,6 @@
     {
       "title": "University of Virginia students holding 'antifascist' 'flag burning' event to protest Trump order",
       "link": "https://www.foxnews.com/media/university-virginia-looking-flag-burning-tailgate-event-from-anti-fascist-group"
-    },
-    {
-      "title": "Russian leader responds to American conservative's murder: 'A disgusting atrocity'",
-      "link": "https://www.foxnews.com/world/russian-leader-responds-american-conservatives-murder-a-disgusting-atrocity"
     },
     {
       "title": "Virginia voters sue to boot Democrat off ballot in district that could decide state House majority",
@@ -59,10 +59,6 @@
     {
       "title": "Johnson shuts door on negotiating shutdown deal as Democrats dig in on Obamacare",
       "link": "https://www.foxnews.com/politics/johnson-shuts-door-negotiating-shutdown-deal-democrats-dig-obamacare"
-    },
-    {
-      "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
-      "link": "https://www.foxnews.com/politics/johnson-says-democrats-lying-about-illegal-immigrant-healthcare-push"
     }
   ],
   "cnn": [
@@ -85,6 +81,10 @@
     {
       "title": "Japan’s ruling party is in crisis as dissatisfied voters swing to right-wing rivals ",
       "link": "https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk"
+    },
+    {
+      "title": "Liberal advocacy groups gird for attacks from the Trump administration and make plans to fight back ",
+      "link": "https://www.cnn.com/2025/10/03/politics/liberal-groups-soros-open-society-trump-threats"
     },
     {
       "title": "Abby Phillip fact checks Trump claim at center of shutdown ",
@@ -141,11 +141,7 @@
     {
       "title": "‘I’m scrambling’: Government shutdown spurs confusion and concern with no off-ramp in sight ",
       "link": "https://www.cnn.com/2025/10/02/politics/us-federal-government-shutdown-confusion"
-    },
-    {
-      "title": "The government shutdown is a slow-boil political crisis ",
-      "link": "https://www.cnn.com/2025/10/02/politics/government-shutdown-political-crisis-analysis"
     }
   ],
-  "timestamp": "2025-10-03T09:48:03.012Z"
+  "timestamp": "2025-10-03T10:12:57.239Z"
 }
