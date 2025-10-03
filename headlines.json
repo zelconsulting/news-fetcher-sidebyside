@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
+      "link": "https://www.foxnews.com/politics/kristi-noem-torches-nfl-weak-vows-ice-show-super-bowl-bad-bunny-scandal"
+    },
+    {
       "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
       "link": "https://www.foxnews.com/politics/dhs-rips-dishonest-desperate-gen-z-candidate-who-raged-against-kristi-noems-crimes-anti-ice-protest"
     },
@@ -25,28 +29,12 @@
       "link": "https://www.foxnews.com/politics/blue-state-gubernatorial-nominees-trade-barbs-over-crucial-issue-weeks-ahead-election-day"
     },
     {
-      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal",
+      "title": "Trump addresses world from Oval Office after Hamas agrees to release Israeli hostages in Gaza peace deal",
       "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
-    },
-    {
-      "title": "Iran expands it ‘shadow empire’ across Middle East as Trump pulls troops from Iraq, Syria",
-      "link": "https://www.foxnews.com/world/iran-expands-shadow-empire-across-middle-east-trump-pulls-troops-from-iraq-syria"
-    },
-    {
-      "title": "Minnesota teen softball player opens up on trans pitcher playoff game as Trump admin vows Title IX enforcement",
-      "link": "https://www.foxnews.com/sports/minnesota-teen-softball-player-speaks-out-about-facing-trans-pitcher-trump-admin-enforces-title-ix"
     },
     {
       "title": "Trump extends US security guarantee to Qatar, elevating Gulf ally to near-NATO status",
       "link": "https://www.foxnews.com/politics/trump-extends-us-security-guarantee-qatar-elevating-gulf-ally-near-nato-status"
-    },
-    {
-      "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
-      "link": "https://www.foxnews.com/politics/kristi-noem-torches-nfl-weak-vows-ice-show-super-bowl-bad-bunny-scandal"
-    },
-    {
-      "title": "Trump addresses world from Oval Office after Hamas agrees to release Israeli hostages in Gaza peace deal",
-      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
     },
     {
       "title": "Government shutdown drags into weekend as Senate Democrats block GOP plan",
@@ -79,6 +67,14 @@
     {
       "title": "'Squad' Dem launches comeback House bid after anti-Israel views torpedoed campaign: 'We need a fighter'",
       "link": "https://www.foxnews.com/politics/squad-dem-launches-comeback-bid-after-anti-israel-views-torpedoed-campaign-we-need-fighter"
+    },
+    {
+      "title": "Trump puts Hamas on notice with deadline to accept Gaza peace deal",
+      "link": "https://www.foxnews.com/politics/trump-puts-hamas-on-notice-deadline-accept-gaza-peace-deal"
+    },
+    {
+      "title": "Obama-nominated federal judge married to House Dem recuses himself from Oregon National Guard case",
+      "link": "https://www.foxnews.com/politics/obama-nominated-federal-judge-married-house-dem-recuses-himself-from-oregon-national-guard-case"
     }
   ],
   "cnn": [
@@ -105,6 +101,10 @@
     {
       "title": "Trump administration reversing counterterrorism funding cuts to New York ",
       "link": "https://www.cnn.com/2025/10/03/politics/trump-reversing-counterterrorism-funding-cuts-new-york"
+    },
+    {
+      "title": "House GOP member on Trump’s pressure tactics during shutdown ",
+      "link": "https://www.cnn.com/2025/10/03/politics/video/the-lead-shutdown-government-donald-trump-gop-democrats-jake-tapper"
     },
     {
       "title": "Trump sets Sunday evening deadline for Hamas to agree to Gaza deal, warning ‘all hell’ if they don’t ",
@@ -139,10 +139,6 @@
       "link": "https://www.cnn.com/2025/10/02/politics/video/ac360deanpresident"
     },
     {
-      "title": "Analysis: Why some Republicans are getting cold feet about Trump’s shutdown layoff threats ",
-      "link": "https://www.cnn.com/2025/10/02/politics/republicans-trump-shutdown-layoffs-analysis"
-    },
-    {
       "title": "Government shutdown leaves Wall Street vulnerable to any surprise moves ",
       "link": "https://www.cnn.com/2025/10/03/investing/us-stock-market-government-shutdown-jobs-report"
     },
@@ -163,5 +159,5 @@
       "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
     }
   ],
-  "timestamp": "2025-10-03T23:33:43.088Z"
+  "timestamp": "2025-10-03T23:48:01.578Z"
 }
