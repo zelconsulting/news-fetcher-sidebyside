@@ -1,6 +1,42 @@
 {
   "fox": [
     {
+      "title": "Minnesota teen softball player opens up on trans pitcher playoff game as Trump admin vows Title IX enforcement",
+      "link": "https://www.foxnews.com/sports/minnesota-teen-softball-player-speaks-out-about-facing-trans-pitcher-trump-admin-enforces-title-ix"
+    },
+    {
+      "title": "Trump extends US security guarantee to Qatar, elevating Gulf ally to near-NATO status",
+      "link": "https://www.foxnews.com/politics/trump-extends-us-security-guarantee-qatar-elevating-gulf-ally-near-nato-status"
+    },
+    {
+      "title": "Government shutdown drags into weekend as Senate Democrats block GOP plan",
+      "link": "https://www.foxnews.com/politics/government-shutdown-drags-weekend-senate-democrats-block-gop-plan"
+    },
+    {
+      "title": "Trump in talks to do first '60 Minutes’ interview after CBS settlement, according to report",
+      "link": "https://www.foxnews.com/media/trump-talks-first-60-minutes-interview-cbs-settlement-according-report"
+    },
+    {
+      "title": "Over a dozen arrested at anti-ICE protests in Chicago suburb",
+      "link": "https://www.foxnews.com/us/over-dozen-arrested-anti-ice-protests-chicago-suburb"
+    },
+    {
+      "title": "Trump, Johnson appear at odds in government shutdown messaging",
+      "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
+    },
+    {
+      "title": "How Wikipedia made Trump an 'authoritarian'",
+      "link": "https://www.foxnews.com/media/how-wikipedia-made-trump-authoritarian"
+    },
+    {
+      "title": "White House pressed about Trump seemingly changing his tune on Project 2025",
+      "link": "https://www.foxnews.com/politics/white-house-pressed-about-trump-seemingly-changing-his-tune-project-2025-2"
+    },
+    {
+      "title": "Trump administration reviewing Portland federal funding amid anti-ICE clashes, journalist's detention",
+      "link": "https://www.foxnews.com/politics/trump-admin-reviewing-portland-federal-funding-amid-anti-ice-clashes-journalists-detention"
+    },
+    {
       "title": "Ernst demands $2T in federal cuts, urges Trump team to 'make DC squeal' amid shutdown fight",
       "link": "https://www.foxnews.com/politics/ernst-demands-2t-federal-cuts-urges-trump-team-make-dc-squeal-amid-shutdown-fight"
     },
@@ -15,10 +51,6 @@
     {
       "title": "Sex offender called ‘poster boy’ for GOP’s transgender ideology concerns faces court hearing",
       "link": "https://www.foxnews.com/politics/sex-offender-called-poster-boy-gops-transgender-ideology-concerns-faces-court-hearing"
-    },
-    {
-      "title": "Actor Richard Gere believes Trump has ‘almost destroyed the country’ in just six months",
-      "link": "https://www.foxnews.com/media/actor-richard-gere-believes-trump-almost-destroyed-country-just-six-months"
     },
     {
       "title": "'Squad' Dem launches comeback House bid after anti-Israel views torpedoed campaign: 'We need a fighter'",
@@ -37,26 +69,6 @@
       "link": "https://www.foxnews.com/politics/blame-game-republicans-claim-schumer-forced-shutdown-because-hes-terrified-aoc-primary-challenge"
     },
     {
-      "title": "Diddy's kids beg for father's freedom, tell judge he's a 'changed man'",
-      "link": "https://www.foxnews.com/entertainment/diddy-sentencing-federal-charges"
-    },
-    {
-      "title": "Government shutdown drags into weekend as Senate Democrats block GOP plan",
-      "link": "https://www.foxnews.com/politics/government-shutdown-drags-weekend-senate-democrats-block-gop-plan"
-    },
-    {
-      "title": "Trump, Johnson appear at odds in government shutdown messaging",
-      "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
-    },
-    {
-      "title": "White House pressed about Trump seemingly changing his tune on Project 2025",
-      "link": "https://www.foxnews.com/politics/n"
-    },
-    {
-      "title": "Trump administration reviewing Portland federal funding amid anti-ICE clashes, journalist's detention",
-      "link": "https://www.foxnews.com/politics/trump-admin-reviewing-portland-federal-funding-amid-anti-ice-clashes-journalists-detention"
-    },
-    {
       "title": "Furloughed SBA staffers unleash on Democrats for shutdown in searing auto-replies",
       "link": "https://www.foxnews.com/politics/furloughed-sba-staffers-unleash-democrats-shutdown-searing-auto-replies"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Democrats blame GOP for Obamacare woes tied to pandemic-era subsidies",
       "link": "https://www.foxnews.com/politics/democrats-blame-gop-obamacare-woes-tied-pandemic-era-subsidies"
-    },
-    {
-      "title": "GOP rising star exposes how Biden admin was targeting him through controversial surveillance program",
-      "link": "https://www.foxnews.com/politics/gop-rising-star-exposes-how-biden-admin-was-targeting-him-through-controversial-surveillance-program"
-    },
-    {
-      "title": "Government shutdown enters 3rd day as Senate stalemate over Obamacare subsidies drags on",
-      "link": "https://www.foxnews.com/politics/government-shutdown-enters-3rd-day-senate-stalemate-over-obamacare-subsidies-drags"
-    },
-    {
-      "title": "Democrats shut down government over healthcare for illegal immigrants, House GOP whip says",
-      "link": "https://www.foxnews.com/politics/democrats-shut-down-government-over-healthcare-illegal-immigrants-house-gop-whip-says"
     }
   ],
   "cnn": [
@@ -163,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     }
   ],
-  "timestamp": "2025-10-03T19:09:47.606Z"
+  "timestamp": "2025-10-03T19:21:22.424Z"
 }
