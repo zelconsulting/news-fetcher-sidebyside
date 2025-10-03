@@ -1,6 +1,30 @@
 {
   "fox": [
     {
+      "title": "Virginia AG candidate once referenced putting ‘two bullets to the head’ of GOP leader, texts show",
+      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-once-referenced-putting-two-bullets-head-gop-leader-texts-show"
+    },
+    {
+      "title": "Johnson sends critical signal to Schumer as Dems dig in on government shutdown chaos",
+      "link": "https://www.foxnews.com/politics/johnson-sends-critical-signal-schumer-dems-dig-government-shutdown-chaos"
+    },
+    {
+      "title": "Thousands of protestors prompt world-famous landmark to close its doors on tourists",
+      "link": "https://www.foxnews.com/travel/thousands-protestors-prompt-world-famous-landmark-close-its-doors-tourists"
+    },
+    {
+      "title": "Blue state gubernatorial nominees trade barbs over crucial issue weeks ahead of Election Day",
+      "link": "https://www.foxnews.com/politics/blue-state-gubernatorial-nominees-trade-barbs-over-crucial-issue-weeks-ahead-election-day"
+    },
+    {
+      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal: report",
+      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
+    },
+    {
+      "title": "Iran expands it ‘shadow empire’ across Middle East as Trump pulls troops from Iraq, Syria",
+      "link": "https://www.foxnews.com/world/iran-expands-shadow-empire-across-middle-east-trump-pulls-troops-from-iraq-syria"
+    },
+    {
       "title": "Minnesota teen softball player opens up on trans pitcher playoff game as Trump admin vows Title IX enforcement",
       "link": "https://www.foxnews.com/sports/minnesota-teen-softball-player-speaks-out-about-facing-trans-pitcher-trump-admin-enforces-title-ix"
     },
@@ -25,8 +49,8 @@
       "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
     },
     {
-      "title": "How Wikipedia made Trump an 'authoritarian'",
-      "link": "https://www.foxnews.com/media/how-wikipedia-made-trump-authoritarian"
+      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal",
+      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
     },
     {
       "title": "White House pressed about Trump seemingly changing his tune on Project 2025",
@@ -41,24 +65,8 @@
       "link": "https://www.foxnews.com/politics/ernst-demands-2t-federal-cuts-urges-trump-team-make-dc-squeal-amid-shutdown-fight"
     },
     {
-      "title": "Tennessee governor praises federal government's crackdown on crime in Memphis",
-      "link": "https://www.foxnews.com/media/tennessee-governor-praises-federal-crackdown-memphis-crime"
-    },
-    {
       "title": "Longtime Trump ally Lewandowski flirts with primary challenge against GOP governor",
       "link": "https://www.foxnews.com/politics/longtime-trump-ally-lewandowski-flirts-primary-challenge-against-gop-governor"
-    },
-    {
-      "title": "Johnson sends critical signal to Schumer as Dems dig in on government shutdown chaos",
-      "link": "https://www.foxnews.com/politics/johnson-sends-critical-signal-schumer-dems-dig-government-shutdown-chaos"
-    },
-    {
-      "title": "Blue state gubernatorial nominees trade barbs over crucial issue weeks ahead of Election Day",
-      "link": "https://www.foxnews.com/politics/blue-state-gubernatorial-nominees-trade-barbs-over-crucial-issue-weeks-ahead-election-day"
-    },
-    {
-      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal: report",
-      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
     },
     {
       "title": "Sex offender called ‘poster boy’ for GOP’s transgender ideology concerns faces court hearing",
@@ -71,17 +79,13 @@
     {
       "title": "Trump puts Hamas on notice with deadline to accept Gaza peace deal",
       "link": "https://www.foxnews.com/politics/trump-puts-hamas-on-notice-deadline-accept-gaza-peace-deal"
-    },
-    {
-      "title": "Obama-nominated federal judge married to House Dem recuses himself from Oregon National Guard case",
-      "link": "https://www.foxnews.com/politics/obama-nominated-federal-judge-married-house-dem-recuses-himself-from-oregon-national-guard-case"
-    },
-    {
-      "title": "Blame Game: Republicans claim Schumer forced shutdown 'because he’s terrified' of AOC primary challenge",
-      "link": "https://www.foxnews.com/politics/blame-game-republicans-claim-schumer-forced-shutdown-because-hes-terrified-aoc-primary-challenge"
     }
   ],
   "cnn": [
+    {
+      "title": "Supreme Court lets Trump end deportation protections for 300,000 Venezuelans ",
+      "link": "https://www.cnn.com/2025/10/03/politics/supreme-court-tps-venezuela"
+    },
     {
       "title": "Analysis: Trump is finally ready to talk about Project 2025 ",
       "link": "https://www.cnn.com/2025/10/03/politics/trump-is-finally-ready-to-talk-about-project-2025"
@@ -143,14 +147,6 @@
       "link": "https://www.cnn.com/2025/10/02/politics/republicans-trump-shutdown-layoffs-analysis"
     },
     {
-      "title": "Senate GOP plans ritzy Georgia fundraiser amid shutdown, Dems mum about Napa plans ",
-      "link": "https://www.cnn.com/2025/10/02/politics/senate-gop-georgia-fundraiser-democrats-napa-shutdown"
-    },
-    {
-      "title": "Trump admin tells Congress the US is in ‘armed conflict’ with drug cartels ",
-      "link": "https://www.cnn.com/2025/10/02/politics/trump-admin-us-armed-conflict-cartels"
-    },
-    {
       "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown ",
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     },
@@ -161,7 +157,11 @@
     {
       "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
+    },
+    {
+      "title": "Wall Street, Republicans and some courts have tried to stop Trump’s tariffs. Here’s why they’re still in place ",
+      "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
     }
   ],
-  "timestamp": "2025-10-03T20:47:59.226Z"
+  "timestamp": "2025-10-03T21:09:50.724Z"
 }
