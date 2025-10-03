@@ -67,6 +67,10 @@
   ],
   "cnn": [
     {
+      "title": "Congress is addicted to shutdown drama. Here’s how it could kick the habit ",
+      "link": "https://www.cnn.com/2025/10/03/politics/how-to-end-government-shutdowns"
+    },
+    {
       "title": "Judge to decide whether to temporarily block Trump’s National Guard deployment in Oregon ",
       "link": "https://www.cnn.com/2025/10/03/us/oregon-trump-national-guard-restraining-order"
     },
@@ -83,20 +87,16 @@
       "link": "https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk"
     },
     {
-      "title": "Analysis: Why some Republicans are getting cold feet about Trump’s shutdown layoff threats ",
-      "link": "https://www.cnn.com/2025/10/02/politics/republicans-trump-shutdown-layoffs-analysis"
-    },
-    {
-      "title": "Congress is addicted to shutdown drama. Here’s how it could kick the habit ",
-      "link": "https://www.cnn.com/2025/10/03/politics/how-to-end-government-shutdowns"
-    },
-    {
       "title": "Abby Phillip fact checks Trump claim at center of shutdown ",
       "link": "https://www.cnn.com/2025/10/02/politics/video/abby-phillip-fact-checks-trump-claim-at-center-of-shutdown"
     },
     {
       "title": "Trump Energy Secretary contradicts White House’s reason for billions in cuts ",
       "link": "https://www.cnn.com/2025/10/02/politics/video/energy-secretary-cuts-shutdown-src"
+    },
+    {
+      "title": "Analysis: Why some Republicans are getting cold feet about Trump’s shutdown layoff threats ",
+      "link": "https://www.cnn.com/2025/10/02/politics/republicans-trump-shutdown-layoffs-analysis"
     },
     {
       "title": "Senate GOP plans ritzy Georgia fundraiser amid shutdown, Dems mum about Napa plans ",
@@ -147,5 +147,5 @@
       "link": "https://www.cnn.com/2025/10/02/politics/government-shutdown-political-crisis-analysis"
     }
   ],
-  "timestamp": "2025-10-03T09:39:21.765Z"
+  "timestamp": "2025-10-03T09:48:03.012Z"
 }
