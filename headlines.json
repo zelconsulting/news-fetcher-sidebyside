@@ -9,14 +9,6 @@
       "link": "https://www.foxnews.com/politics/gop-rising-star-exposes-how-biden-admin-was-targeting-him-through-controversial-surveillance-program"
     },
     {
-      "title": "Portland police arrest conservative journalist on another night of chaotic anti-ICE clashes",
-      "link": "https://www.foxnews.com/us/portland-police-arrest-conservative-journalist-another-night-chaotic-anti-ice-clashes"
-    },
-    {
-      "title": "Government shutdown enters 3rd day amid Senate stalemate and more top headlines",
-      "link": "https://www.foxnews.com/us/government-shutdown-enters-3rd-day-amid-senate-stalemate-more-top-headlines"
-    },
-    {
       "title": "Government shutdown enters 3rd day as Senate stalemate over Obamacare subsidies drags on",
       "link": "https://www.foxnews.com/politics/government-shutdown-enters-3rd-day-senate-stalemate-over-obamacare-subsidies-drags"
     },
@@ -58,6 +50,10 @@
     }
   ],
   "cnn": [
+    {
+      "title": "Trump-Epstein statue returns to National Mall after removal by NPS ",
+      "link": "https://www.cnn.com/2025/10/03/politics/trump-epstein-statue-returns-national-mall"
+    },
     {
       "title": "Republicans double down on trans issues as a wedge with Virginia voters ",
       "link": "https://www.cnn.com/2025/10/03/politics/transgender-politics-virginia-governor"
@@ -127,10 +123,6 @@
       "link": "https://www.cnn.com/2025/10/02/politics/video/shadow-docket-trump-supreme-court-explained"
     },
     {
-      "title": "‘I’m scrambling’: Government shutdown spurs confusion and concern with no off-ramp in sight ",
-      "link": "https://www.cnn.com/2025/10/02/politics/us-federal-government-shutdown-confusion"
-    },
-    {
       "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown ",
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     },
@@ -139,5 +131,5 @@
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-03T12:23:11.664Z"
+  "timestamp": "2025-10-03T12:59:44.884Z"
 }
