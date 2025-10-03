@@ -1,16 +1,16 @@
 {
   "fox": [
     {
+      "title": "University of Virginia students holding 'antifascist' 'flag burning' event to protest Trump order",
+      "link": "https://www.foxnews.com/media/university-virginia-looking-flag-burning-tailgate-event-from-anti-fascist-group"
+    },
+    {
       "title": "Russian leader responds to American conservative's murder: 'A disgusting atrocity'",
       "link": "https://www.foxnews.com/world/russian-leader-responds-american-conservatives-murder-a-disgusting-atrocity"
     },
     {
       "title": "Virginia voters sue to boot Democrat off ballot in district that could decide state House majority",
       "link": "https://www.foxnews.com/politics/virginia-voters-sue-boot-democrat-off-ballot-district-could-decide-state-house-majority"
-    },
-    {
-      "title": "Former Des Moines Schools superintendent taken into DOJ custody on federal firearms, immigration charges",
-      "link": "https://www.foxnews.com/us/former-des-moines-schools-superintendent-taken-doj-custody-federal-firearms-immigration-charges"
     },
     {
       "title": "Trump’s DOGE savings dwarfed by Medicare, Social Security spending, watchdog finds",
@@ -51,10 +51,6 @@
     {
       "title": "Johnson says Democrats lying about illegal immigrant healthcare push",
       "link": "https://www.foxnews.com/politics/johnson-says-democrats-lying-about-illegal-immigrant-healthcare-push"
-    },
-    {
-      "title": "Democrats refuse to budge over Obamacare fight as shutdown drags on",
-      "link": "https://www.foxnews.com/politics/democrats-refuse-budge-over-obamacare-fight-shutdown-drags"
     }
   ],
   "cnn": [
@@ -139,5 +135,5 @@
       "link": "https://www.cnn.com/2025/10/01/politics/video/the-lead-government-shutdown-democrats-republicans-gop-donald-trump-funding-bill-jake-tapper"
     }
   ],
-  "timestamp": "2025-10-02T23:47:58.911Z"
+  "timestamp": "2025-10-03T00:54:48.592Z"
 }
