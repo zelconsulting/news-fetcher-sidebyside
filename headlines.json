@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
+      "link": "https://www.foxnews.com/politics/dhs-rips-dishonest-desperate-gen-z-candidate-who-raged-against-kristi-noems-crimes-anti-ice-protest"
+    },
+    {
+      "title": "DHS Secretary Noem 'blocked' from bathroom at Illinois government building as Pritzker feud heats up",
+      "link": "https://www.foxnews.com/us/dhs-secretary-noem-blocked-bathroom-illinois-government-building-pritzker-feud-heats"
+    },
+    {
       "title": "Virginia AG candidate once referenced putting ‘two bullets to the head’ of GOP leader, texts show",
       "link": "https://www.foxnews.com/politics/virginia-ag-candidate-once-referenced-putting-two-bullets-head-gop-leader-texts-show"
     },
@@ -17,7 +25,7 @@
       "link": "https://www.foxnews.com/politics/blue-state-gubernatorial-nominees-trade-barbs-over-crucial-issue-weeks-ahead-election-day"
     },
     {
-      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal: report",
+      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal",
       "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
     },
     {
@@ -33,32 +41,16 @@
       "link": "https://www.foxnews.com/politics/trump-extends-us-security-guarantee-qatar-elevating-gulf-ally-near-nato-status"
     },
     {
-      "title": "Government shutdown drags into weekend as Senate Democrats block GOP plan",
-      "link": "https://www.foxnews.com/politics/government-shutdown-drags-weekend-senate-democrats-block-gop-plan"
-    },
-    {
-      "title": "Trump in talks to do first '60 Minutes’ interview after CBS settlement, according to report",
-      "link": "https://www.foxnews.com/media/trump-talks-first-60-minutes-interview-cbs-settlement-according-report"
-    },
-    {
-      "title": "Over a dozen arrested at anti-ICE protests in Chicago suburb",
-      "link": "https://www.foxnews.com/us/over-dozen-arrested-anti-ice-protests-chicago-suburb"
-    },
-    {
-      "title": "Trump, Johnson appear at odds in government shutdown messaging",
-      "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
-    },
-    {
       "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
       "link": "https://www.foxnews.com/politics/kristi-noem-torches-nfl-weak-vows-ice-show-super-bowl-bad-bunny-scandal"
     },
     {
-      "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
-      "link": "https://www.foxnews.com/politics/dhs-rips-dishonest-desperate-gen-z-candidate-who-raged-against-kristi-noems-crimes-anti-ice-protest"
+      "title": "Government shutdown drags into weekend as Senate Democrats block GOP plan",
+      "link": "https://www.foxnews.com/politics/government-shutdown-drags-weekend-senate-democrats-block-gop-plan"
     },
     {
-      "title": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal",
-      "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
+      "title": "Trump, Johnson appear at odds in government shutdown messaging",
+      "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
     },
     {
       "title": "White House pressed about Trump seemingly changing his tune on Project 2025",
@@ -79,6 +71,14 @@
     {
       "title": "Sex offender called ‘poster boy’ for GOP’s transgender ideology concerns faces court hearing",
       "link": "https://www.foxnews.com/politics/sex-offender-called-poster-boy-gops-transgender-ideology-concerns-faces-court-hearing"
+    },
+    {
+      "title": "'Squad' Dem launches comeback House bid after anti-Israel views torpedoed campaign: 'We need a fighter'",
+      "link": "https://www.foxnews.com/politics/squad-dem-launches-comeback-bid-after-anti-israel-views-torpedoed-campaign-we-need-fighter"
+    },
+    {
+      "title": "Trump puts Hamas on notice with deadline to accept Gaza peace deal",
+      "link": "https://www.foxnews.com/politics/trump-puts-hamas-on-notice-deadline-accept-gaza-peace-deal"
     }
   ],
   "cnn": [
@@ -105,6 +105,10 @@
     {
       "title": "Protesters rally outside Illinois ICE facility as Kristi Noem visits ",
       "link": "https://www.cnn.com/2025/10/03/us/illinois-broadview-ice-protests"
+    },
+    {
+      "title": "Kilmar Abrego Garcia may have been charged because of Trump administration’s vindictiveness, judge finds ",
+      "link": "https://www.cnn.com/2025/10/03/politics/kilmar-abrego-garcia-judge-rules-vindictive"
     },
     {
       "title": "Trump sets Sunday evening deadline for Hamas to agree to Gaza deal, warning ‘all hell’ if they don’t ",
@@ -157,11 +161,7 @@
     {
       "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
       "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
-    },
-    {
-      "title": "Wall Street, Republicans and some courts have tried to stop Trump’s tariffs. Here’s why they’re still in place ",
-      "link": "https://www.cnn.com/2025/09/30/economy/trump-getting-away-with-tariffs"
     }
   ],
-  "timestamp": "2025-10-03T22:10:48.746Z"
+  "timestamp": "2025-10-03T22:28:22.983Z"
 }
