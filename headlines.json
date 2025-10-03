@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Government shutdown sparks GOP plan to penalize lawmakers with new salary tax",
+      "link": "https://www.foxnews.com/politics/government-shutdown-sparks-gop-plan-penalize-lawmakers-new-salary-tax"
+    },
+    {
+      "title": "Lori Loughlin splits from fashion designer husband five years after college admissions scandal",
+      "link": "https://www.foxnews.com/entertainment/lori-loughlin-splits-from-fashion-designer-husband-five-years-after-college-admissions-scandal"
+    },
+    {
       "title": "Democrats blame GOP for Obamacare woes tied to pandemic-era subsidies",
       "link": "https://www.foxnews.com/politics/democrats-blame-gop-obamacare-woes-tied-pandemic-era-subsidies"
     },
@@ -25,8 +33,8 @@
       "link": "https://www.foxnews.com/politics/democrats-shut-down-government-over-healthcare-illegal-immigrants-house-gop-whip-says"
     },
     {
-      "title": "Government shutdown sparks GOP plan to penalize lawmakers with new salary tax",
-      "link": "https://www.foxnews.com/politics/government-shutdown-sparks-gop-plan-penalize-lawmakers-new-salary-tax"
+      "title": "Furloughed SBA staffers unleash on Democrats for shutdown in searing auto-replies",
+      "link": "https://www.foxnews.com/politics/furloughed-sba-staffers-unleash-democrats-shutdown-searing-auto-replies"
     },
     {
       "title": "Giuliani allies turn on GOP’s Sliwa, back Cuomo in NYC mayor race",
@@ -51,10 +59,6 @@
     {
       "title": "With the government shutdown threatening air travel, a GOP bill seeks to keep flights running",
       "link": "https://www.foxnews.com/politics/government-shutdown-threatening-air-travel-gop-bill-seeks-keep-flights-running"
-    },
-    {
-      "title": "Trump admin tells Congress it determined US engaged in formal 'armed conflict' with 'terrorist' drug cartels",
-      "link": "https://www.foxnews.com/politics/trump-admin-tells-congress-it-determined-us-engaged-formal-armed-conflict-with-terrorist-drug-cartels"
     }
   ],
   "cnn": [
@@ -131,13 +135,13 @@
       "link": "https://www.cnn.com/2025/10/02/us/5-things-to-know-for-oct-2-mass-layoffs-crime-crackdown-walmart-climate-change-jane-goodall"
     },
     {
-      "title": "‘This has been a ruse’: Democratic congressman on shutdown ",
-      "link": "https://www.cnn.com/2025/10/02/politics/video/government-shutdown-democrats-trump-congressman-jonathan-jackson-es"
-    },
-    {
       "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown ",
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
+    },
+    {
+      "title": "Stocks slide as government officially shuts down ",
+      "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
     }
   ],
-  "timestamp": "2025-10-03T13:49:37.679Z"
+  "timestamp": "2025-10-03T14:12:31.777Z"
 }
