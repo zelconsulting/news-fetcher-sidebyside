@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "CNN's Van Jones turns on Democrats during government shutdown fight over political strategy",
+      "link": "https://www.foxnews.com/media/cnns-van-jones-turns-democrats-during-government-shutdown-fight-over-political-strategy"
+    },
+    {
       "title": "California using back door to get federal funds for illegal immigrant healthcare, GOP says; Dems say nonsense",
       "link": "https://www.foxnews.com/politics/california-using-backdoor-get-federal-funds-illegal-immigrant-health-care-gop-says-dems-say-nonsense"
     },
@@ -27,10 +31,6 @@
     {
       "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
       "link": "https://www.foxnews.com/politics/dhs-rips-dishonest-desperate-gen-z-candidate-who-raged-against-kristi-noems-crimes-anti-ice-protest"
-    },
-    {
-      "title": "DHS Secretary Noem 'blocked' from bathroom at Illinois government building as Pritzker feud heats up",
-      "link": "https://www.foxnews.com/us/dhs-secretary-noem-blocked-bathroom-illinois-government-building-pritzker-feud-heats"
     },
     {
       "title": "Virginia AG candidate once referenced putting ‘two bullets to the head’ of GOP leader, texts show",
@@ -159,5 +159,5 @@
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     }
   ],
-  "timestamp": "2025-10-04T08:14:23.837Z"
+  "timestamp": "2025-10-04T08:32:49.574Z"
 }
