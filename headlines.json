@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Supreme Court’s emergency docket delivers Trump string of wins as final tests loom",
+      "link": "https://www.foxnews.com/politics/supreme-courts-emergency-docket-delivers-trump-string-wins-final-tests-loom"
+    },
+    {
+      "title": "Trump’s week in review: Shutdown showdowns and armed cartel conflict",
+      "link": "https://www.foxnews.com/politics/trumps-week-review-shutdown-showdowns-armed-cartel-conflict"
+    },
+    {
       "title": "Trump's shadow looms large over heated races one month before Election Day",
       "link": "https://www.foxnews.com/politics/trumps-shadow-looms-large-over-heated-races-one-month-before-election-day"
     },
@@ -31,14 +39,6 @@
     {
       "title": "Stephen A. Smith blasts Rep. Crockett for spending career ankle-biting at Trump, not serving her voters",
       "link": "https://www.foxnews.com/media/stephen-smith-blasts-rep-crockett-spending-career-ankle-biting-trump-not-serving-her-voters"
-    },
-    {
-      "title": "Supreme Court’s emergency docket delivers Trump string of wins as final tests loom",
-      "link": "https://www.foxnews.com/politics/supreme-courts-emergency-docket-delivers-trump-string-wins-final-tests-loom"
-    },
-    {
-      "title": "Trump’s week in review: Shutdown showdowns and armed cartel conflict",
-      "link": "https://www.foxnews.com/politics/trumps-week-review-shutdown-showdowns-armed-cartel-conflict"
     },
     {
       "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-04T11:21:50.258Z"
+  "timestamp": "2025-10-04T11:33:44.607Z"
 }
