@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump's shadow looms large over heated races one month before Election Day",
+      "link": "https://www.foxnews.com/politics/trumps-shadow-looms-large-over-heated-races-one-month-before-election-day"
+    },
+    {
+      "title": "2 looming deadlines could be key to ending the government shutdown, expert says",
+      "link": "https://www.foxnews.com/politics/2-looming-deadlines-could-key-ending-government-shutdown-expert-says"
+    },
+    {
       "title": "CNN's Van Jones turns on Democrats during government shutdown fight over political strategy",
       "link": "https://www.foxnews.com/media/cnns-van-jones-turns-democrats-during-government-shutdown-fight-over-political-strategy"
     },
@@ -27,10 +35,6 @@
     {
       "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
       "link": "https://www.foxnews.com/politics/kristi-noem-torches-nfl-weak-vows-ice-show-super-bowl-bad-bunny-scandal"
-    },
-    {
-      "title": "2 looming deadlines could be key to ending the government shutdown, expert says",
-      "link": "https://www.foxnews.com/politics/2-looming-deadlines-could-key-ending-government-shutdown-expert-says"
     },
     {
       "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
@@ -79,6 +83,10 @@
   ],
   "cnn": [
     {
+      "title": "How a simple question about American hotels led to ‘the greatest immigration story never told’ ",
+      "link": "https://www.cnn.com/2025/10/04/travel/patel-motel-story-hotel-history-cec"
+    },
+    {
       "title": "North Carolina governor signs criminal justice bill into law after Ukrainian refugee’s death ",
       "link": "https://www.cnn.com/2025/10/04/us/north-carolina-criminal-justice-law-ukrainian-train-stabbing-hnk"
     },
@@ -103,20 +111,16 @@
       "link": "https://www.cnn.com/2025/10/03/politics/trump-orbit-concerns-shutdown"
     },
     {
-      "title": "$1 Trump coin is ‘real,’ US Treasurer says ",
-      "link": "https://www.cnn.com/2025/10/03/business/trump-coin-treasurer-250-anniversary"
-    },
-    {
-      "title": "Kilmar Abrego Garcia may have been charged because of Trump administration’s vindictiveness, judge finds ",
-      "link": "https://www.cnn.com/2025/10/03/politics/kilmar-abrego-garcia-judge-rules-vindictive"
-    },
-    {
       "title": "‘This is probably the dumbest shutdown ever’: Rep. Dusty Johnson on the government shutdown ",
       "link": "https://www.cnn.com/2025/10/03/politics/video/ac360johnsonshutdown"
     },
     {
       "title": "House GOP member on Trump’s pressure tactics during shutdown ",
       "link": "https://www.cnn.com/2025/10/03/politics/video/the-lead-shutdown-government-donald-trump-gop-democrats-jake-tapper"
+    },
+    {
+      "title": "Kilmar Abrego Garcia may have been charged because of Trump administration’s vindictiveness, judge finds ",
+      "link": "https://www.cnn.com/2025/10/03/politics/kilmar-abrego-garcia-judge-rules-vindictive"
     },
     {
       "title": "Supreme Court lets Trump end deportation protections for 300,000 Venezuelans ",
@@ -159,5 +163,5 @@
       "link": "https://www.cnn.com/2025/10/03/investing/us-stock-market-government-shutdown-jobs-report"
     }
   ],
-  "timestamp": "2025-10-04T10:11:01.198Z"
+  "timestamp": "2025-10-04T10:30:15.339Z"
 }
