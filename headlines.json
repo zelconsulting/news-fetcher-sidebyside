@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump administration offers teen migrants $2,500 to leave US voluntarily: reports",
+      "link": "https://www.foxnews.com/us/trump-administration-offers-teen-migrants-2500-leave-us-voluntarily-report"
+    },
+    {
+      "title": "Youngkin says Democrat AG candidate Jay Jones must 'step away in disgrace’ over texts about former GOP leader",
+      "link": "https://www.foxnews.com/politics/youngkin-says-democrat-ag-candidate-jay-jones-must-step-away-disgrace-over-texts-about-former-gop-leader"
+    },
+    {
       "title": "UK warns Palestinian protest group to stand down after synagogue attack: 'Respect the grief of British Jews'",
       "link": "https://www.foxnews.com/world/uk-warns-palestinian-protest-group-stand-down-after-synagogue-attack-respect-grief-british-jews"
     },
@@ -25,20 +33,8 @@
       "link": "https://www.foxnews.com/politics/democrats-roll-out-new-campaign-ads-targeting-republicans-over-ongoing-government-shutdown"
     },
     {
-      "title": "Nicole Kidman’s divorce from Keith Urban follows her Hollywood friends' history of scandals and heartbreak",
-      "link": "https://www.foxnews.com/entertainment/nicole-kidmans-divorce-keith-urban-hollywood-friends-scandals-heartbreak"
-    },
-    {
       "title": "Shutdown ignites strategist debate: Will Trump and GOP pay the political price in 2026?",
       "link": "https://www.foxnews.com/politics/shutdown-ignites-strategist-debate-trump-gop-pay-political-price-2026"
-    },
-    {
-      "title": "Fox News AI Newsletter: Trump order harnesses AI to fight childhood cancer",
-      "link": "https://www.foxnews.com/tech/ai-newsletter-trump-order-harnesses-ai-fight-childhood-cancer"
-    },
-    {
-      "title": "Youngkin says Democrat AG candidate Jay Jones must 'step away in disgrace’ over texts about former GOP leader",
-      "link": "https://www.foxnews.com/politics/youngkin-says-democrat-ag-candidate-jay-jones-must-step-away-disgrace-over-texts-about-former-gop-leader"
     },
     {
       "title": "Supreme Court’s emergency docket delivers Trump string of wins as final tests loom",
@@ -79,8 +75,12 @@
     {
       "title": "Virginia AG candidate once referenced putting ‘two bullets to the head’ of GOP leader, texts show",
       "link": "https://www.foxnews.com/politics/virginia-ag-candidate-once-referenced-putting-two-bullets-head-gop-leader-texts-show"
+    },
+    {
+      "title": "Johnson sends critical signal to Schumer as Dems dig in on government shutdown chaos",
+      "link": "https://www.foxnews.com/politics/johnson-sends-critical-signal-schumer-dems-dig-government-shutdown-chaos"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-04T17:47:50.890Z"
+  "timestamp": "2025-10-04T18:15:34.007Z"
 }
