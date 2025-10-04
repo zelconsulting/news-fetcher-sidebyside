@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Transportation secretary goes viral with meme video slamming Democrats as shutdown hits Day 3: ‘FAFO’",
+      "link": "https://www.foxnews.com/politics/transportation-secretary-viral-meme-video-slamming-democrats-shutdown-hits-day-3-fafo"
+    },
+    {
+      "title": "Justice Department probes Portland Police Bureau after Trump administration bias claims",
+      "link": "https://www.foxnews.com/us/justice-department-probes-portland-police-bureau-after-trump-administration-bias-claims"
+    },
+    {
+      "title": "Stephen A Smith blasts Rep Crockett for spending career ankle-biting at Trump, not serving her voters",
+      "link": "https://www.foxnews.com/media/stephen-smith-blasts-rep-crockett-spending-career-ankle-biting-trump-not-serving-her-voters"
+    },
+    {
       "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
       "link": "https://www.foxnews.com/politics/kristi-noem-torches-nfl-weak-vows-ice-show-super-bowl-bad-bunny-scandal"
     },
@@ -25,16 +37,20 @@
       "link": "https://www.foxnews.com/travel/thousands-protestors-prompt-world-famous-landmark-close-its-doors-tourists"
     },
     {
+      "title": "California using back door to get federal funds for illegal immigrant healthcare, GOP says; Dems say nonsense",
+      "link": "https://www.foxnews.com/politics/california-using-backdoor-get-federal-funds-illegal-immigrant-health-care-gop-says-dems-say-nonsense"
+    },
+    {
+      "title": "Trump says American flag burners will be ‘immediately arrested’ under executive order",
+      "link": "https://www.foxnews.com/politics/trump-says-american-flag-burners-immediately-arrested-under-executive-order"
+    },
+    {
       "title": "Blue state gubernatorial nominees trade barbs over crucial issue weeks ahead of Election Day",
       "link": "https://www.foxnews.com/politics/blue-state-gubernatorial-nominees-trade-barbs-over-crucial-issue-weeks-ahead-election-day"
     },
     {
       "title": "Trump addresses world from Oval Office after Hamas agrees to release Israeli hostages in Gaza peace deal",
       "link": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal"
-    },
-    {
-      "title": "Transportation secretary goes viral with meme video slamming Democrats as shutdown hits Day 3: ‘FAFO’",
-      "link": "https://www.foxnews.com/politics/transportation-secretary-viral-meme-video-slamming-democrats-shutdown-hits-day-3-fafo"
     },
     {
       "title": "Trump extends US security guarantee to Qatar, elevating Gulf ally to near-NATO status",
@@ -63,21 +79,13 @@
     {
       "title": "Longtime Trump ally Lewandowski flirts with primary challenge against GOP governor",
       "link": "https://www.foxnews.com/politics/longtime-trump-ally-lewandowski-flirts-primary-challenge-against-gop-governor"
-    },
-    {
-      "title": "Sex offender called ‘poster boy’ for GOP’s transgender ideology concerns faces court hearing",
-      "link": "https://www.foxnews.com/politics/sex-offender-called-poster-boy-gops-transgender-ideology-concerns-faces-court-hearing"
-    },
-    {
-      "title": "'Squad' Dem launches comeback House bid after anti-Israel views torpedoed campaign: 'We need a fighter'",
-      "link": "https://www.foxnews.com/politics/squad-dem-launches-comeback-bid-after-anti-israel-views-torpedoed-campaign-we-need-fighter"
-    },
-    {
-      "title": "Trump puts Hamas on notice with deadline to accept Gaza peace deal",
-      "link": "https://www.foxnews.com/politics/trump-puts-hamas-on-notice-deadline-accept-gaza-peace-deal"
     }
   ],
   "cnn": [
+    {
+      "title": "Trump calls on Israel to ‘stop the bombing of Gaza’ after Hamas agrees to hostage negotiations ",
+      "link": "https://www.cnn.com/2025/10/03/world/video/trump-hamas-hostage-negotiations-gaza-bombing-ac360-digvid"
+    },
     {
       "title": "From a visit with Netanyahu to a government shutdown, Collins breaks down Trump’s week ",
       "link": "https://www.cnn.com/2025/10/03/politics/video/government-shutdown-budget-trump-military-netanyahu-collins-digvid"
@@ -105,6 +113,10 @@
     {
       "title": "Trump administration prepares to offer money to unaccompanied migrant teenagers to voluntarily leave US ",
       "link": "https://www.cnn.com/2025/10/03/politics/unaccompanied-migrant-kids-payments"
+    },
+    {
+      "title": "‘This is probably the dumbest shutdown ever’: Rep. Dusty Johnson on the government shutdown ",
+      "link": "https://www.cnn.com/2025/10/03/politics/video/ac360johnsonshutdown"
     },
     {
       "title": "House GOP member on Trump’s pressure tactics during shutdown ",
@@ -139,10 +151,6 @@
       "link": "https://www.cnn.com/2025/10/02/politics/video/abby-phillip-fact-checks-trump-claim-at-center-of-shutdown"
     },
     {
-      "title": "Trump Energy Secretary contradicts White House’s reason for billions in cuts ",
-      "link": "https://www.cnn.com/2025/10/02/politics/video/energy-secretary-cuts-shutdown-src"
-    },
-    {
       "title": "Government shutdown leaves Wall Street vulnerable to any surprise moves ",
       "link": "https://www.cnn.com/2025/10/03/investing/us-stock-market-government-shutdown-jobs-report"
     },
@@ -153,11 +161,7 @@
     {
       "title": "Stocks slide as government officially shuts down ",
       "link": "https://www.cnn.com/2025/10/01/investing/us-stock-market-government-shutdown"
-    },
-    {
-      "title": "Candid photo of Scott Bessent’s phone reveals administration’s concern about two key Trump policies ",
-      "link": "https://www.cnn.com/2025/09/30/economy/bessent-argentina-china"
     }
   ],
-  "timestamp": "2025-10-04T00:52:50.046Z"
+  "timestamp": "2025-10-04T02:11:09.472Z"
 }
