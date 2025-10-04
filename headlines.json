@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Fox News AI Newsletter: Trump order harnesses AI to fight childhood cancer",
+      "link": "https://www.foxnews.com/tech/ai-newsletter-trump-order-harnesses-ai-fight-childhood-cancer"
+    },
+    {
+      "title": "Tarleton State men’s basketball coach Billy Gillispie on leave amid investigation into anonymous complaint",
+      "link": "https://www.foxnews.com/sports/tarleton-state-mens-basketball-coach-billy-gillispie-leave-amid-investigation-anonymous-complaint"
+    },
+    {
+      "title": "BATYA UNGAR-SARGON: How Trump uses same strategy to curb Big Pharma, secure Mideast peace",
+      "link": "https://www.foxnews.com/opinion/batya-ungar-sargon-how-trump-uses-same-strategy-curb-big-pharma-secure-mideast-peace"
+    },
+    {
       "title": "Supreme Court’s emergency docket delivers Trump string of wins as final tests loom",
       "link": "https://www.foxnews.com/politics/supreme-courts-emergency-docket-delivers-trump-string-wins-final-tests-loom"
     },
@@ -31,14 +43,6 @@
     {
       "title": "Transportation secretary goes viral with meme video slamming Democrats as shutdown hits Day 3: ‘FAFO’",
       "link": "https://www.foxnews.com/politics/transportation-secretary-viral-meme-video-slamming-democrats-shutdown-hits-day-3-fafo"
-    },
-    {
-      "title": "Justice Department probes Portland Police Bureau after Trump administration bias claims",
-      "link": "https://www.foxnews.com/us/justice-department-probes-portland-police-bureau-after-trump-administration-bias-claims"
-    },
-    {
-      "title": "Stephen A. Smith blasts Rep. Crockett for spending career ankle-biting at Trump, not serving her voters",
-      "link": "https://www.foxnews.com/media/stephen-smith-blasts-rep-crockett-spending-career-ankle-biting-trump-not-serving-her-voters"
     },
     {
       "title": "Kristi Noem torches NFL as 'weak,' vows ICE will show up at Super Bowl amid Bad Bunny scandal",
@@ -75,12 +79,8 @@
     {
       "title": "Trump, Johnson appear at odds in government shutdown messaging",
       "link": "https://www.foxnews.com/politics/trump-johnson-appear-odds-government-shutdown-messaging"
-    },
-    {
-      "title": "White House pressed about Trump seemingly changing his tune on Project 2025",
-      "link": "https://www.foxnews.com/politics/white-house-pressed-about-trump-seemingly-changing-his-tune-project-2025-2"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-04T12:20:38.282Z"
+  "timestamp": "2025-10-04T12:55:29.016Z"
 }
