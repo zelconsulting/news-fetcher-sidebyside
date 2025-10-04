@@ -79,6 +79,10 @@
   ],
   "cnn": [
     {
+      "title": "‘Everybody’s fault’: In Ohio, both parties are to blame for government shutdown ",
+      "link": "https://www.cnn.com/2025/10/04/politics/government-shutdown-blame-worries-ohio"
+    },
+    {
       "title": "Pope Leo faces MAGA ire after immigration and climate change remarks ",
       "link": "https://www.cnn.com/2025/10/04/europe/conservative-catholics-pope-leo-xiv-intl"
     },
@@ -101,10 +105,6 @@
     {
       "title": "Kilmar Abrego Garcia may have been charged because of Trump administration’s vindictiveness, judge finds ",
       "link": "https://www.cnn.com/2025/10/03/politics/kilmar-abrego-garcia-judge-rules-vindictive"
-    },
-    {
-      "title": "‘Everybody’s fault’: In Ohio, both parties are to blame for government shutdown ",
-      "link": "https://www.cnn.com/2025/10/04/politics/government-shutdown-blame-worries-ohio"
     },
     {
       "title": "‘This is probably the dumbest shutdown ever’: Rep. Dusty Johnson on the government shutdown ",
@@ -159,5 +159,5 @@
       "link": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
     }
   ],
-  "timestamp": "2025-10-04T09:11:17.381Z"
+  "timestamp": "2025-10-04T09:25:59.717Z"
 }
