@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "‘Little House on the Prairie’ star says disturbing episode gives ‘Texas Chainsaw Massacre’ vibes",
+      "link": "https://www.foxnews.com/entertainment/little-house-prairie-star-says-disturbing-episode-gives-texas-chainsaw-massacre-vibes"
+    },
+    {
+      "title": "Freedom and facts, not fear, should frame America's choices on alcohol",
+      "link": "https://www.foxnews.com/opinion/freedom-facts-not-fear-should-frame-americas-choices-alcohol"
+    },
+    {
       "title": "‘Rage’ politics the latest hurdle for GOP to clear; how prior battles made conservatives stronger: Dave Brat",
       "link": "https://www.foxnews.com/politics/rage-politics-latest-hurdle-gop-clear-how-prior-battles-made-conservatives-stronger-dave-brat"
     },
@@ -11,10 +19,6 @@
     {
       "title": "Federal judge blocks Trump administration from sending teen migrants to adult detention centers",
       "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-from-sending-teen-migrants-adult-detention-centers"
-    },
-    {
-      "title": "Trump's 'war-ravaged Portland' National Guard deployment halted by federal judge over authority concerns",
-      "link": "https://www.foxnews.com/us/trumps-war-ravaged-portland-national-guard-deployment-halted-federal-judge-over-authority-concerns"
     },
     {
       "title": "Biden-appointed judge slammed by conservatives for 'lenient' 8-year sentence in Kavanaugh assassination plot",
@@ -74,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-05T14:09:40.303Z"
+  "timestamp": "2025-10-05T14:26:59.569Z"
 }
