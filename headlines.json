@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump's presidency faces crucial tests as Supreme Court begins pivotal term",
+      "link": "https://www.foxnews.com/politics/trumps-presidency-faces-crucial-tests-supreme-court-begins-pivotal-term"
+    },
+    {
       "title": "Federal judge blocks Trump administration from sending teen migrants to adult detention centers",
       "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-from-sending-teen-migrants-adult-detention-centers"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Bill Belichick gets ripped on social media after Clemson blows out UNC: 'Complete dumpster fire'",
       "link": "https://www.foxnews.com/sports/bill-belichick-gets-ripped-social-media-after-clemson-blows-out-unc-complete-dumpster-fire"
-    },
-    {
-      "title": "Dogs treated like family in major American city now face canine cancel culture",
-      "link": "https://www.foxnews.com/travel/dogs-treated-like-family-major-american-city-now-face-canine-cancel-culture"
-    },
-    {
-      "title": "Trump's presidency faces crucial tests as Supreme Court begins pivotal term",
-      "link": "https://www.foxnews.com/politics/trumps-presidency-faces-crucial-tests-supreme-court-begins-pivotal-term"
     },
     {
       "title": "Mike Johnson rallies House Republicans on government shutdown messaging war during private call",
@@ -79,8 +75,12 @@
     {
       "title": "DHS rips ‘dishonest, desperate’ Gen Z candidate who raged against Kristi Noem’s 'crimes’ at anti-ICE protest",
       "link": "https://www.foxnews.com/politics/dhs-rips-dishonest-desperate-gen-z-candidate-who-raged-against-kristi-noems-crimes-anti-ice-protest"
+    },
+    {
+      "title": "Virginia AG candidate once referenced putting ‘two bullets to the head’ of GOP leader, texts show",
+      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-once-referenced-putting-two-bullets-head-gop-leader-texts-show"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-05T10:11:27.512Z"
+  "timestamp": "2025-10-05T10:30:20.414Z"
 }
