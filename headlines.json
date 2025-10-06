@@ -1,11 +1,23 @@
 {
   "fox": [
     {
+      "title": "Trump flips his shutdown approach, leaving Congress to take the heat",
+      "link": "https://www.foxnews.com/politics/trump-flips-his-shutdown-approach-leaving-congress-take-heat"
+    },
+    {
+      "title": "CBS News staffers receive new marching orders, urged to treat Democrats and Republicans equally",
+      "link": "https://www.foxnews.com/media/cbs-news-staffers-receive-new-marching-orders-urged-treat-democrats-republicans-equally"
+    },
+    {
+      "title": "Trump mocks Al Sharpton with old photo of MSNBC host, calls on FCC to look into his show",
+      "link": "https://www.foxnews.com/media/trump-mocks-al-sharpton-old-photo-msnbc-host-calls-fcc-look-his-show"
+    },
+    {
       "title": "Army veteran-turned-MAGA rising star jumps into fiery GOP Senate primary as polls tighten",
       "link": "https://www.foxnews.com/politics/army-veteran-maga-rising-star-jumps-into-fiery-gop-senate-primary-polls-tighten"
     },
     {
-      "title": "Israel, Hamas meet in Egypt to revive Trump peace plan ahead of Oct. 7 anniversary",
+      "title": "Israel, Hamas meet in Egypt to revive Trump peace plan ahead of Oct 7 anniversary",
       "link": "https://www.foxnews.com/world/israel-hamas-meet-egypt-revive-trump-peace-plan-ahead-oct-7-anniversary"
     },
     {
@@ -15,18 +27,6 @@
     {
       "title": "White House mocks 'slob' Pritzker after he rejects Trump's National Guard plan",
       "link": "https://www.foxnews.com/politics/white-house-mocks-slob-pritzker-after-he-rejects-trumps-national-guard-plan"
-    },
-    {
-      "title": "Blue city crime drives Trump DOJ battle with major Democrat-led county on concealed carry rights",
-      "link": "https://www.foxnews.com/us/blue-city-crime-drives-trump-doj-battle-major-democrat-led-county-concealed-carry-rights"
-    },
-    {
-      "title": "Rob Reiner warns country has one year before entering 'full-on autocracy' under Trump",
-      "link": "https://www.foxnews.com/media/rob-reiner-warns-country-has-one-year-before-entering-full-on-autocracy-under-trump"
-    },
-    {
-      "title": "Trump flips his shutdown approach, leaving Congress to take the heat",
-      "link": "https://www.foxnews.com/politics/trump-flips-his-shutdown-approach-leaving-congress-take-heat"
     },
     {
       "title": "Self-described 'unapologetic supporter of Israel' John Fetterman weighs in as Trump seeks to broker peace deal",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-06T16:51:52.395Z"
+  "timestamp": "2025-10-06T17:11:28.725Z"
 }
