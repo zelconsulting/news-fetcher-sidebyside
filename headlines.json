@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "Liberal MSNBC panelist calls for Virginia AG candidate to drop out over violent text messages",
+      "link": "https://www.foxnews.com/media/liberal-msnbc-panelist-calls-virginia-ag-candidate-drop-out-over-violent-text-messages"
+    },
+    {
+      "title": "White House warns of 'pain' inflicted on Americans if Democrats don't reopen government",
+      "link": "https://www.foxnews.com/politics/white-house-warns-pain-inflicted-americans-democrats-dont-reopen-government"
+    },
+    {
+      "title": "Vulnerable House Dem dismisses primary challenger as race heats up: '30-year party crony'",
+      "link": "https://www.foxnews.com/politics/vulnerable-house-dem-dismisses-primary-challenger-race-heats-up-30-year-party-crony"
+    },
+    {
+      "title": "Andrew Cuomo argues Zohran Mamdani would be a 'gift' to Trump on 'The View'",
+      "link": "https://www.foxnews.com/media/andrew-cuomo-argues-zohran-mamdani-would-gift-trump-the-view"
+    },
+    {
+      "title": "Federal judge loses patience with Trump DOJ as Abrego Garcia deportation stalls again",
+      "link": "https://www.foxnews.com/politics/federal-judge-loses-patience-trump-doj-abrego-garcia-deportation-stalls-again"
+    },
+    {
       "title": "GOV SARAH HUCKABEE SANDERS: Here's how we can deliver conservative welfare reform",
       "link": "https://www.foxnews.com/opinion/gov-sarah-huckabee-sanders-heres-how-we-can-deliver-conservative-welfare-reform"
     },
@@ -21,28 +41,8 @@
       "link": "https://www.foxnews.com/politics/army-veteran-maga-rising-star-jumps-into-fiery-gop-senate-primary-polls-tighten"
     },
     {
-      "title": "Israel, Hamas meet in Egypt to revive Trump peace plan ahead of Oct 7 anniversary",
-      "link": "https://www.foxnews.com/world/israel-hamas-meet-egypt-revive-trump-peace-plan-ahead-oct-7-anniversary"
-    },
-    {
-      "title": "Irish comedian arrested for trans criticism demands Bill Maher apologize for calling him 'crank'",
-      "link": "https://www.foxnews.com/media/irish-comedian-arrested-trans-criticism-demands-bill-maher-aplogize-calling-him-crank"
-    },
-    {
       "title": "White House mocks 'slob' Pritzker after he rejects Trump's National Guard plan",
       "link": "https://www.foxnews.com/politics/white-house-mocks-slob-pritzker-after-he-rejects-trumps-national-guard-plan"
-    },
-    {
-      "title": "White House warns of 'pain' inflicted on Americans if Democrats don't reopen government",
-      "link": "https://www.foxnews.com/politics/white-house-warns-pain-inflicted-americans-democrats-dont-reopen-government"
-    },
-    {
-      "title": "Vulnerable House Dem dismisses primary challenger as race heats up: '30-year party crony'",
-      "link": "https://www.foxnews.com/politics/vulnerable-house-dem-dismisses-primary-challenger-race-heats-up-30-year-party-crony"
-    },
-    {
-      "title": "Federal judge loses patience with Trump DOJ as Abrego Garcia deportation stalls again",
-      "link": "https://www.foxnews.com/politics/federal-judge-loses-patience-trump-doj-abrego-garcia-deportation-stalls-again"
     },
     {
       "title": "Self-described 'unapologetic supporter of Israel' John Fetterman weighs in as Trump seeks to broker peace deal",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-06T19:34:23.908Z"
+  "timestamp": "2025-10-06T19:47:47.040Z"
 }
