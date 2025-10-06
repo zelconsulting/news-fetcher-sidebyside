@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "VICTOR DAVIS HANSON: When liberals play confederates. Portland's revolt against America",
+      "link": "https://www.foxnews.com/opinion/victor-davis-hanson-when-liberals-play-confederates-portlands-revolt-against-america"
+    },
+    {
       "title": "Gun control group gave six-figure donation to Dem candidate who fantasized about shooting GOP lawmaker",
       "link": "https://www.foxnews.com/politics/gun-control-group-gave-six-figure-donation-dem-candidate-who-fantasized-about-shooting-gop-lawmaker"
     },
@@ -27,10 +31,6 @@
     {
       "title": "Federal judge loses patience with Trump DOJ as Abrego Garcia deportation stalls again",
       "link": "https://www.foxnews.com/politics/federal-judge-loses-patience-trump-doj-abrego-garcia-deportation-stalls-again"
-    },
-    {
-      "title": "GOV SARAH HUCKABEE SANDERS: Here's how we can deliver conservative welfare reform",
-      "link": "https://www.foxnews.com/opinion/gov-sarah-huckabee-sanders-heres-how-we-can-deliver-conservative-welfare-reform"
     },
     {
       "title": "Trump flips his shutdown approach, leaving Congress to take the heat",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-06T21:25:42.676Z"
+  "timestamp": "2025-10-06T21:34:44.497Z"
 }
