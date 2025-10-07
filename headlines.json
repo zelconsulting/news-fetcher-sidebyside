@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "New MAHA initiative around biomedical research is uniting the GOP with some unusual bed fellows",
+      "link": "https://www.foxnews.com/politics/new-maha-initiative-around-biomedical-research-uniting-gop-some-unusual-bed-fellows"
+    },
+    {
+      "title": "Alleged gang leader offered bounty to kill immigration officer, federal officials say",
+      "link": "https://www.foxnews.com/us/alleged-gang-leader-offered-bounty-kill-immigration-officer-federal-officials-say"
+    },
+    {
+      "title": "Federal agent says Chicago’s ‘ICE-free zones’ endanger operations, embolden protesters",
+      "link": "https://www.foxnews.com/politics/federal-agent-says-chicagos-ice-free-zones-endanger-operations-embolden-protesters"
+    },
+    {
+      "title": "Rosie O'Donnell applies for Irish citizenship, White House says it's 'great news for America'",
+      "link": "https://www.foxnews.com/entertainment/rosie-odonnell-applies-irish-citizenship-white-house-says-its-great-news-america"
+    },
+    {
       "title": "Democrats stand by Virginia AG hopeful who fantasized about killing GOP lawmaker",
       "link": "https://www.foxnews.com/politics/democrats-stand-virginia-ag-hopeful-who-fantasized-about-killing-gop-lawmaker"
     },
@@ -37,8 +53,12 @@
       "link": "https://www.foxnews.com/politics/voting-underway-2025-election-may-determine-republicans-hold-house-2026-midterms"
     },
     {
-      "title": "VICTOR DAVIS HANSON: When liberals play confederates. Portland's revolt against America",
-      "link": "https://www.foxnews.com/opinion/victor-davis-hanson-when-liberals-play-confederates-portlands-revolt-against-america"
+      "title": "Trump slams Democrats for ‘shutting down’ government, demands it reopen ‘tonight’",
+      "link": "https://www.foxnews.com/politics/trump-slams-democrats-shutting-down-government-demands-reopen-tonight"
+    },
+    {
+      "title": "Hawley rips Jack Smith’s ‘Biden’s Stasi’ probe, calls alleged spying ‘abuse of power beyond Watergate’",
+      "link": "https://www.foxnews.com/politics/hawley-rips-jack-smiths-bidens-stasi-probe-calls-alleged-spying-abuse-power-beyond-watergate"
     },
     {
       "title": "Gun control group gave six-figure donation to Dem candidate who fantasized about shooting GOP lawmaker",
@@ -47,14 +67,6 @@
     {
       "title": "Jack Smith tracked private communications, calls of nearly a dozen GOP senators during J6 probe, FBI says",
       "link": "https://www.foxnews.com/politics/jack-smith-tracked-private-communications-calls-nearly-dozen-gop-senators-during-j6-probe-fbi-says"
-    },
-    {
-      "title": "New MAHA initiative around biomedical research is uniting the GOP with some unusual bed fellows",
-      "link": "https://www.foxnews.com/politics/new-maha-initiative-around-biomedical-research-uniting-gop-some-unusual-bed-fellows"
-    },
-    {
-      "title": "Federal agent says Chicago’s ‘ICE-free zones’ endanger operations, embolden protesters",
-      "link": "https://www.foxnews.com/politics/federal-agent-says-chicagos-ice-free-zones-endanger-operations-embolden-protesters"
     },
     {
       "title": "White House warns of 'pain' inflicted on Americans if Democrats don't reopen government",
@@ -67,12 +79,8 @@
     {
       "title": "Federal judge loses patience with Trump DOJ as Abrego Garcia deportation stalls again",
       "link": "https://www.foxnews.com/politics/federal-judge-loses-patience-trump-doj-abrego-garcia-deportation-stalls-again"
-    },
-    {
-      "title": "Trump flips his shutdown approach, leaving Congress to take the heat",
-      "link": "https://www.foxnews.com/politics/trump-flips-his-shutdown-approach-leaving-congress-take-heat"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-07T00:55:59.286Z"
+  "timestamp": "2025-10-07T02:18:28.975Z"
 }
