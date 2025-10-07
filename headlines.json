@@ -1,12 +1,24 @@
 {
   "fox": [
     {
-      "title": "New MAHA initiative around biomedical research is uniting the GOP with some unusual bed fellows",
-      "link": "https://www.foxnews.com/politics/new-maha-initiative-around-biomedical-research-uniting-gop-some-unusual-bed-fellows"
+      "title": "Trump ends Venezuela talks, military options loom, new report",
+      "link": "https://www.foxnews.com/politics/trump-pulls-plug-venezuela-talks"
     },
     {
-      "title": "Alleged gang leader offered bounty to kill immigration officer, federal officials say",
-      "link": "https://www.foxnews.com/us/alleged-gang-leader-offered-bounty-kill-immigration-officer-federal-officials-say"
+      "title": "Trump slams Democrats for ‘shutting down’ government, demands it reopen ‘tonight’",
+      "link": "https://www.foxnews.com/politics/trump-slams-democrats-shutting-down-government-demands-reopen-tonight"
+    },
+    {
+      "title": "Phillies' ninth inning comeback against Dodgers falls just short with Biden in attendance",
+      "link": "https://www.foxnews.com/sports/phillies-ninth-inning-comeback-against-dodgers-falls-just-short-biden-attendance"
+    },
+    {
+      "title": "Hawley rips Jack Smith’s ‘Biden’s Stasi’ probe, calls alleged spying ‘abuse of power beyond Watergate’",
+      "link": "https://www.foxnews.com/politics/hawley-rips-jack-smiths-bidens-stasi-probe-calls-alleged-spying-abuse-power-beyond-watergate"
+    },
+    {
+      "title": "New MAHA initiative around biomedical research is uniting the GOP with some unusual bed fellows",
+      "link": "https://www.foxnews.com/politics/new-maha-initiative-around-biomedical-research-uniting-gop-some-unusual-bed-fellows"
     },
     {
       "title": "Federal agent says Chicago’s ‘ICE-free zones’ endanger operations, embolden protesters",
@@ -41,28 +53,12 @@
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-white-house-slams-slob-pritzker-after-national-guard-rejection"
     },
     {
-      "title": "‘Dr Antifa’ Rutgers professor announces move to Europe after TPUSA petition calls for his firing",
-      "link": "https://www.foxnews.com/media/dr-antifa-rutgers-professor-announces-move-europe-after-tpusa-petition-calls-his-firing"
-    },
-    {
       "title": "Kennedy claims Democrats want millions for foreign LGBT projects, electric buses to end shutdown",
       "link": "https://www.foxnews.com/politics/kennedy-claims-democrats-want-millions-foreign-lgbt-projects-electric-buses-end-shutdown"
     },
     {
       "title": "Voting underway in 2025 election that may determine if Republicans hold House in 2026 midterms",
       "link": "https://www.foxnews.com/politics/voting-underway-2025-election-may-determine-republicans-hold-house-2026-midterms"
-    },
-    {
-      "title": "Trump ends Venezuela talks, military options loom, new report",
-      "link": "https://www.foxnews.com/politics/trump-pulls-plug-venezuela-talks"
-    },
-    {
-      "title": "Trump slams Democrats for ‘shutting down’ government, demands it reopen ‘tonight’",
-      "link": "https://www.foxnews.com/politics/trump-slams-democrats-shutting-down-government-demands-reopen-tonight"
-    },
-    {
-      "title": "Hawley rips Jack Smith’s ‘Biden’s Stasi’ probe, calls alleged spying ‘abuse of power beyond Watergate’",
-      "link": "https://www.foxnews.com/politics/hawley-rips-jack-smiths-bidens-stasi-probe-calls-alleged-spying-abuse-power-beyond-watergate"
     },
     {
       "title": "Gun control group gave six-figure donation to Dem candidate who fantasized about shooting GOP lawmaker",
@@ -79,8 +75,12 @@
     {
       "title": "Vulnerable House Dem dismisses primary challenger as race heats up: '30-year party crony'",
       "link": "https://www.foxnews.com/politics/vulnerable-house-dem-dismisses-primary-challenger-race-heats-up-30-year-party-crony"
+    },
+    {
+      "title": "Federal judge loses patience with Trump DOJ as Abrego Garcia deportation stalls again",
+      "link": "https://www.foxnews.com/politics/federal-judge-loses-patience-trump-doj-abrego-garcia-deportation-stalls-again"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-07T03:09:25.430Z"
+  "timestamp": "2025-10-07T03:39:05.284Z"
 }
