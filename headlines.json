@@ -1,24 +1,44 @@
 {
   "fox": [
     {
+      "title": "Trump thanks group representing families of hostages for Nobel Peace Prize appeal",
+      "link": "https://www.foxnews.com/world/trump-thanks-group-representing-families-hostages-nobel-peace-prize-appeal"
+    },
+    {
+      "title": "Oklahoma college student says he was scolded by faculty after wearing Trump hat during Charlie Kirk tribute",
+      "link": "https://www.foxnews.com/media/oklahoma-college-student-scolded-faculty-wearing-trump-hat-during-charlie-kirk-tribute"
+    },
+    {
+      "title": "Cuban-led caravan aims for Mexico City as Trump policies deter migrants from US",
+      "link": "https://www.foxnews.com/world/cuban-led-caravan-aims-mexico-city-trump-policies-deter-migrants-from-us"
+    },
+    {
+      "title": "California's largest high school district adopts policy to oppose trans athletes in girls' sports",
+      "link": "https://www.foxnews.com/sports/californias-largest-high-school-district-adopts-policy-to-oppose-trans-athletes-from-girls-sports"
+    },
+    {
+      "title": "Alexander Vindman’s congressman brother leads off Dems boosting Jay Jones after texts: 'Send a message'",
+      "link": "https://www.foxnews.com/politics/alexander-vindmans-congressman-brother-leads-off-dems-boosting-jay-jones-after-texts-send-message"
+    },
+    {
+      "title": "Joy Behar argues Trump sending National Guard troops to US cities to stop next election",
+      "link": "https://www.foxnews.com/media/joy-behar-argues-trump-sending-national-guard-troops-us-cities-stop-next-election"
+    },
+    {
+      "title": "Trump meets former Hamas hostage Edan Alexander on Oct. 7 anniversary",
+      "link": "https://www.foxnews.com/politics/trump-meets-former-hamas-hostage-edan-alexander-oct-7-anniversary"
+    },
+    {
       "title": "Trump, Brazil’s Lula move to mend fences after trade clash, judicial firestorm with ‘friendly’ call",
       "link": "https://www.foxnews.com/politics/trump-brazils-lula-move-mend-fences-after-trade-clash-judicial-firestorm-friendly-call"
     },
     {
-      "title": "Fox News’ Joey Jones honored with excellence in journalism award at Tennessee Patriot Award Gala",
-      "link": "https://www.foxnews.com/media/fox-news-joey-jones-honored-excellence-journalism-award-tennessee-patriot-award-gala"
+      "title": "‘Staggering’ silence: Democrats knocked for keeping mum about candidate who fantasized about murder",
+      "link": "https://www.foxnews.com/politics/staggering-silence-democrats-knocked-keeping-mum-about-candidate-who-fantasized-about-murder"
     },
     {
       "title": "Trump says 'substantial' number of jobs will be permanently lost if shutdown persists, Dems 'have no leader'",
       "link": "https://www.foxnews.com/politics/trump-says-substantial-number-jobs-will-be-permanently-lost-shutdown-persists-dems-have-no-leader"
-    },
-    {
-      "title": "Former MSNBC host Joy Reid claims 'illegals' is the new 'n-word' for Republicans",
-      "link": "https://www.foxnews.com/media/former-msnbc-host-joy-reid-claims-illegals-new-n-word-republicans"
-    },
-    {
-      "title": "Portland business owners plead for help as Trump pushes to keep troops in city",
-      "link": "https://www.foxnews.com/media/portland-business-owners-plead-help-trump-pushes-keep-troops-city"
     },
     {
       "title": "Deep blue New Jersey amid 'Lord of the Rings' moment to 'save the state' from Democrats: Scott Presler",
@@ -33,18 +53,6 @@
       "link": "https://www.foxnews.com/politics/bondi-clashes-durbin-national-guard-deployment-love-chicago-much-you-hate-president-trump"
     },
     {
-      "title": "Trump says Diddy asked for presidential pardon after receiving 50-month sentence: 'I call him Puff Daddy'",
-      "link": "https://www.foxnews.com/entertainment/trump-diddy-asked-presidential-pardon-after-receiving-50-month-sentence-call-him-puff-daddy"
-    },
-    {
-      "title": "Trump's shutdown is jackpot for billionaires while working Americans pay",
-      "link": "https://www.foxnews.com/opinion/trumps-shutdown-jackpot-billionaires-while-working-americans-pay"
-    },
-    {
-      "title": "Former Attorney General Eric Holder calls on Democrats to focus on Supreme Court expansion, term limits",
-      "link": "https://www.foxnews.com/media/former-attorney-general-eric-holder-calls-democrats-focus-supreme-court-expansion-term-limits"
-    },
-    {
       "title": "Trump says he'd consider invoking Insurrection Act as courts, governors seek to block his crime crackdown",
       "link": "https://www.foxnews.com/politics/trump-says-hed-consider-invoking-insurrection-act-courts-governors-seek-block-his-crime-crackdown"
     },
@@ -55,14 +63,6 @@
     {
       "title": "Dem senator's hefty donation to disgraced AG candidate's campaign comes back to haunt him",
       "link": "https://www.foxnews.com/politics/dem-senators-hefty-donation-disgraced-ag-candidates-campaign-comes-back-haunt-him"
-    },
-    {
-      "title": "Alexander Vindman’s congressman brother leads off Dems boosting Jay Jones after texts: 'Send a message'",
-      "link": "https://www.foxnews.com/politics/alexander-vindmans-congressman-brother-leads-off-dems-boosting-jay-jones-after-texts-send-message"
-    },
-    {
-      "title": "Trump meets former Hamas hostage Edan Alexander on Oct. 7 anniversary",
-      "link": "https://www.foxnews.com/politics/trump-meets-former-hamas-hostage-edan-alexander-oct-7-anniversary"
     },
     {
       "title": "Who is the Trump-appointed judge blocking deployment of National Guard to Portland?",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-07T21:10:33.881Z"
+  "timestamp": "2025-10-07T21:25:34.591Z"
 }
