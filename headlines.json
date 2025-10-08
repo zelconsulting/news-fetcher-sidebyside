@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "Protesters attempt to justify Hamas attack on Israel with 'Columbia Intifada' newspaper on Oct. 7 anniversary",
+      "link": "https://www.foxnews.com/politics/protesters-attempt-justify-hamas-attack-israel-columbia-intifada-newspaper-oct-7-anniversary"
+    },
+    {
+      "title": "Moderate Dem undercuts Jeffries on Obamacare compromise as government shutdown wears on",
+      "link": "https://www.foxnews.com/politics/moderate-dem-undercuts-jeffries-obamacare-compromise-government-shutdown-wears"
+    },
+    {
+      "title": "Pritzker hurls 'dementia' claim at Trump amid National Guard feud despite defending Biden's mental fitness",
+      "link": "https://www.foxnews.com/politics/pritzker-hurls-dementia-claim-trump-amid-national-guard-feud-despite-defending-bidens-mental-fitness"
+    },
+    {
+      "title": "Hulu pulls plug on Bill Belichick documentary project amid 2-3 start at UNC: reports",
+      "link": "https://www.foxnews.com/sports/hulu-bill-belichick-documentary-unc"
+    },
+    {
+      "title": "New York Times fails to mention Virginia AG hopeful Jay Jones' texts fantasizing about shooting GOP lawmaker",
+      "link": "https://www.foxnews.com/media/new-york-times-fails-mention-virginia-ag-hopeful-jay-jones-texts-fantasizing-about-shooting-gop-lawmaker"
+    },
+    {
+      "title": "UFC's Bruce Buffer says it will be an 'honor' to be at White House: 'It's gonna be amazing'",
+      "link": "https://www.foxnews.com/sports/ufcs-bruce-buffer-says-honor-white-house-its-gonna-amazing"
+    },
+    {
+      "title": "Senate Democrats defy White House warnings, again block GOP bid to reopen government",
+      "link": "https://www.foxnews.com/politics/senate-democrats-defy-white-house-warnings-again-block-gop-bid-reopen-government"
+    },
+    {
       "title": "State rep's bill would punish colleges financially if they don't rename roads after Charlie Kirk",
       "link": "https://www.foxnews.com/politics/state-reps-bill-would-punish-colleges-financially-dont-rename-roads-after-charlie-kirk"
     },
@@ -21,24 +49,20 @@
       "link": "https://www.foxnews.com/media/eric-trump-erupts-chris-cuomo-after-being-asked-his-father-targeting-political-foes"
     },
     {
+      "title": "Johnson rejects push for military pay bill as shutdown fight intensifies",
+      "link": "https://www.foxnews.com/politics/johnson-rejects-push-military-pay-fix-shutdown-fight-intensifies"
+    },
+    {
       "title": "Kamala Harris takes apparent shot at Trump admin in bizarre outburst: 'These mother----- are crazy'",
       "link": "https://www.foxnews.com/politics/kamala-harris-takes-apparent-shot-trump-admin-bizarre-meltdown-these-mother-crazy"
     },
     {
-      "title": "Kushner joins Witkoff for Gaza ceasefire talks as Trump pushes peace plan: 'Cautiously optimistic'",
-      "link": "https://www.foxnews.com/world/kushner-joins-witkoff-gaza-ceasefire-talks-trump-pushes-peace-plan-cautiously-optimistic"
+      "title": "White House escalates shutdown consequences as Democrats show no signs of budging: ‘Kamikaze attack’",
+      "link": "https://www.foxnews.com/politics/white-house-escalates-shutdown-consequences-democrats-show-no-signs-budging-kamikaze-attack"
     },
     {
-      "title": "Bill Belichick is 'working toward being the worst coach in college football history,' Paul Finebaum says",
-      "link": "https://www.foxnews.com/sports/paul-finebaum-says-bill-belichick-working-toward-being-worst-coach-college-football-history"
-    },
-    {
-      "title": "Senate Democrats defy White House warnings, again block GOP bid to reopen government",
-      "link": "https://www.foxnews.com/politics/senate-democrats-defy-white-house-warnings-again-block-gop-bid-reopen-government"
-    },
-    {
-      "title": "Johnson rejects push for military pay bill as shutdown fight intensifies",
-      "link": "https://www.foxnews.com/politics/johnson-rejects-push-military-pay-fix-shutdown-fight-intensifies"
+      "title": "Moderate Dem undercuts Jeffries on ObamaCare compromise as government shutdown wears on",
+      "link": "https://www.foxnews.com/politics/moderate-dem-undercuts-jeffries-obamacare-compromise-government-shutdown-wears"
     },
     {
       "title": "Reporter's Notebook: Senate revotes today on ending government shutdown",
@@ -55,32 +79,8 @@
     {
       "title": "ObamaCare subsidies at center of Dem shutdown fight 'fuel' healthcare cost inflation, conservatives say",
       "link": "https://www.foxnews.com/politics/obamacare-subsidies-center-dem-shutdown-fight-fuel-healthcare-cost-inflation-conservatives-say"
-    },
-    {
-      "title": "Dem rep defends DOJ obtaining GOP senator call records in 2023: 'You weren't surveilled'",
-      "link": "https://www.foxnews.com/politics/dem-rep-defends-doj-obtaining-gop-senator-call-records-2023-you-werent-surveilled"
-    },
-    {
-      "title": "White House blames Dems for potential WIC lapse, announces 'creative solution' to keep program running",
-      "link": "https://www.foxnews.com/politics/white-house-blames-dems-potential-wic-lapse-announces-creative-solution-keep-program-running"
-    },
-    {
-      "title": "Democrat Aftyn Behn advances to special election in battle for vacant congressional seat in deep-red district",
-      "link": "https://www.foxnews.com/politics/democrat-aftyn-behn-advances-special-election-battle-vacant-congressional-seat-deep-red-district"
-    },
-    {
-      "title": "Trump-backed candidate wins crowded GOP primary in battle for vacant House seat",
-      "link": "https://www.foxnews.com/politics/trump-backed-candidate-wins-crowded-gop-primary-battle-vacant-house-seat"
-    },
-    {
-      "title": "Patel, FBI 'flex resources' for Windy City crime crackdown as part of Trump administration's 'focused effort'",
-      "link": "https://www.foxnews.com/politics/patel-fbi-flex-resources-windy-city-crime-crackdown-part-trump-administrations-focused-effort"
-    },
-    {
-      "title": "Virginia AG candidate embroiled in violent text message scandal cancels latest fundraiser amid backlash",
-      "link": "https://www.foxnews.com/politics/virginia-ag-candidate-embroiled-violent-text-message-scandal-cancels-latest-fundraiser-amid-backlash"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-08T17:48:37.264Z"
+  "timestamp": "2025-10-08T18:18:49.677Z"
 }
