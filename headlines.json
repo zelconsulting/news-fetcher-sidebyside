@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Virginia Democrats have a violence problem",
+      "link": "https://www.foxnews.com/opinion/virginia-democrats-have-violence-problem"
+    },
+    {
       "title": "Trump drives the shutdown coverage, but leaderless Democrats have broken through with healthcare message",
       "link": "https://www.foxnews.com/media/trump-drives-shutdown-coverage-leaderless-democrats-have-broken-through-healthcare-message"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Virginia AG candidate embroiled in violent text message scandal cancels latest fundraiser amid backlash",
       "link": "https://www.foxnews.com/politics/virginia-ag-candidate-embroiled-violent-text-message-scandal-cancels-latest-fundraiser-amid-backlash"
-    },
-    {
-      "title": "HarperCollins UK apologizes to Melania Trump, removes claims about her from book following legal threat",
-      "link": "https://www.foxnews.com/media/harpercollins-uk-apologizes-melania-trump-removes-claims-about-her-from-book-following-legal-threat"
     },
     {
       "title": "Fox News Politics Newsletter: Government crawls into crisis as shutdown continues",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-08T09:32:26.689Z"
+  "timestamp": "2025-10-08T09:48:01.371Z"
 }
