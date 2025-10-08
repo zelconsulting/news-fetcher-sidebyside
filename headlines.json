@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Kushner joins Witkoff for Gaza ceasefire talks as Trump pushes peace plan: 'Cautiously optimistic'",
+      "link": "https://www.foxnews.com/world/kushner-joins-witkoff-gaza-ceasefire-talks-trump-pushes-peace-plan-cautiously-optimistic"
+    },
+    {
+      "title": "Bill Belichick is 'working toward being the worst coach in college football history,' Paul Finebaum says",
+      "link": "https://www.foxnews.com/sports/paul-finebaum-says-bill-belichick-working-toward-being-worst-coach-college-football-history"
+    },
+    {
       "title": "Reporter's Notebook: Senate revotes today on ending government shutdown",
       "link": "https://www.foxnews.com/politics/reporters-notebook-senate-revotes-today-ending-government-shutdown"
     },
@@ -23,10 +31,6 @@
     {
       "title": "Dem rep defends DOJ obtaining GOP senator call records in 2023: 'You weren't surveilled'",
       "link": "https://www.foxnews.com/politics/dem-rep-defends-doj-obtaining-gop-senator-call-records-2023-you-werent-surveilled"
-    },
-    {
-      "title": "Trump admin announces fewest border apprehensions since 1970",
-      "link": "https://www.foxnews.com/us/trump-admin-announces-fewest-border-apprehensions-since-1970"
     },
     {
       "title": "White House blames Dems for potential WIC lapse, announces 'creative solution' to keep program running",
@@ -66,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-08T15:13:04.083Z"
+  "timestamp": "2025-10-08T15:32:30.615Z"
 }
