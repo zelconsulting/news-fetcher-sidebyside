@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "As Trump’s Gaza deal nears, family warns Israel not to free another Sinwar",
+      "link": "https://www.foxnews.com/world/trumps-gaza-deal-nears-family-warns-israel-not-free-another-sinwar"
+    },
+    {
+      "title": "Liberal media downplays scandal of Dem Virginia AG hopeful Jay Jones' texts fantasizing murder of GOP lawmaker",
+      "link": "https://www.foxnews.com/media/liberal-media-downplays-scandal-dem-virginia-ag-hopeful-jay-jones-texts-fantasizing-murder-gop-lawmaker"
+    },
+    {
       "title": "Virginia Democrats have a violence problem",
       "link": "https://www.foxnews.com/opinion/virginia-democrats-have-violence-problem"
     },
@@ -21,20 +29,12 @@
       "link": "https://www.foxnews.com/politics/democrat-aftyn-behn-advances-special-election-battle-vacant-congressional-seat-deep-red-district"
     },
     {
-      "title": "MSNBC's Lawrence O'Donnell roasts CNN's Jake Tapper over Trump text message 'so-called interview'",
-      "link": "https://www.foxnews.com/media/msnbc-lawrence-odonnell-roasts-cnn-jake-tapper-over-trump-text-message-interview"
-    },
-    {
       "title": "Trump-backed candidate wins crowded GOP primary in battle for vacant House seat",
       "link": "https://www.foxnews.com/politics/trump-backed-candidate-wins-crowded-gop-primary-battle-vacant-house-seat"
     },
     {
       "title": "Patel, FBI 'flex resources' for Windy City crime crackdown as part of Trump administration's 'focused effort'",
       "link": "https://www.foxnews.com/politics/patel-fbi-flex-resources-windy-city-crime-crackdown-part-trump-administrations-focused-effort"
-    },
-    {
-      "title": "Texas National Guard deploys 200 troops to Illinois for federal protection mission amid protests",
-      "link": "https://www.foxnews.com/us/texas-national-guard-deploys-200-troops-illinois-federal-protection-mission-amid-protests"
     },
     {
       "title": "Virginia AG candidate embroiled in violent text message scandal cancels latest fundraiser amid backlash",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-08T10:48:42.489Z"
+  "timestamp": "2025-10-08T11:10:26.341Z"
 }
