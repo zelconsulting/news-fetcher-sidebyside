@@ -6,7 +6,7 @@ import fs from 'fs';
 const CORS_PROXY = 'https://corsproxy.io/?';
 const foxNewsRSS = 'http://feeds.feedburner.com/FoxNews/Latest';
 const foxNewsPoliticsRSS = 'https://moxie.foxnews.com/google-publisher/politics.xml';
-const cnnNewsRSS = 'https://rss.app/feeds/gaoNnoqPkA5O5oc6.xml';
+const cnnNewsRSS = 'https://edition.cnn.com/services/rss/';
 const cnnPoliticsRSS = 'https://rss.app/feeds/ZV5iFmOIc8kONdND.xml';
 const newFeed = 'https://rss.app/feeds/6kYSPr4nshuhgT5w.xml'; // Added new feed
 
