@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Fairways, friendship, and a $6 billion deal: How Finland's president found a partner in Trump",
+      "link": "https://www.foxnews.com/politics/fairways-friendship-6-billion-deal-how-finlands-president-found-partner-trump"
+    },
+    {
+      "title": "Johnson turns up shutdown pressure on Democrats as GOP unease grows",
+      "link": "https://www.foxnews.com/politics/johnson-turns-up-shutdown-pressure-democrats-gop-unease-grows"
+    },
+    {
+      "title": "How Trump’s strikes against alleged narco-terrorists are reshaping the cartel battlefield: 'One-way ticket'",
+      "link": "https://www.foxnews.com/politics/how-trumps-strikes-against-alleged-narco-terrorists-reshaping-cartel-battlefield-one-way-ticket"
+    },
+    {
       "title": "Trump nominated for Nobel Peace Prize over Israel-Hamas ceasefire deal",
       "link": "https://www.foxnews.com/politics/trump-nominated-nobel-peace-prize-over-israel-hamas-ceasefire-deal"
     },
@@ -33,6 +45,10 @@
       "link": "https://www.foxnews.com/media/fetterman-optimistic-trumps-gaza-peace-deal-could-bring-enduring-peace-middle-east"
     },
     {
+      "title": "Fairways, friendship and a $6 billion deal: How Finland's president found a partner in Trump",
+      "link": "https://www.foxnews.com/politics/fairways-friendship-6-billion-deal-how-finlands-president-found-partner-trump"
+    },
+    {
       "title": "Senate Democrats block GOP plan again to reopen government as military pay deadline looms",
       "link": "https://www.foxnews.com/politics/senate-democrats-block-gop-plan-again-reopen-government-military-pay-deadline-looms"
     },
@@ -45,24 +61,8 @@
       "link": "https://www.foxnews.com/politics/cabinet-spontaneously-applauds-trump-signs-columbus-day-proclamation-were-back-italians"
     },
     {
-      "title": "Turning Point USA announces alternative Super Bowl LX halftime show after Bad Bunny selection",
-      "link": "https://www.foxnews.com/sports/turning-point-usa-announces-alternative-super-bowl-lx-halftime-show-after-bad-bunny-selection"
-    },
-    {
       "title": "Noem airs clip blasting Democrats for government shutdown at every airport in America",
       "link": "https://www.foxnews.com/politics/noem-airs-clip-blasting-democrats-government-shutdown-every-airport-america"
-    },
-    {
-      "title": "Fairways, friendship, and a $6 billion deal: How Finland's president found a partner in Trump",
-      "link": "https://www.foxnews.com/politics/fairways-friendship-6-billion-deal-how-finlands-president-found-partner-trump"
-    },
-    {
-      "title": "Johnson turns up shutdown pressure on Democrats as GOP unease grows",
-      "link": "https://www.foxnews.com/politics/johnson-turns-up-shutdown-pressure-democrats-gop-unease-grows"
-    },
-    {
-      "title": "How Trump’s strikes against alleged narco-terrorists are reshaping the cartel battlefield: 'One-way ticket'",
-      "link": "https://www.foxnews.com/politics/how-trumps-strikes-against-alleged-narco-terrorists-reshaping-cartel-battlefield-one-way-ticket"
     },
     {
       "title": "White House slams Schumer's 'disgusting' statement on shutdown as political standoff continues",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-09T20:47:58.717Z"
+  "timestamp": "2025-10-09T21:11:28.395Z"
 }
