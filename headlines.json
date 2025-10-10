@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: For Jack Ciattarelli, South Jersey and voter enthusiasm are keys to victory",
+      "link": "https://www.foxnews.com/opinion/david-marcus-jack-ciattarelli-south-jersey-voter-enthusiasm-keys-victory"
+    },
+    {
       "title": "Senate leaves Washington as government shutdown nears 3rd week, military pay at risk",
       "link": "https://www.foxnews.com/politics/senate-leaves-washington-government-shutdown-nears-3rd-week-military-pay-risk"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Zach Bryan faces country music backlash over 'Bad News' song targeting Trump's ICE operations",
       "link": "https://www.foxnews.com/media/zach-bryan-faces-country-music-backlash-over-bad-news-song-targeting-trumps-ice-operations"
-    },
-    {
-      "title": "Crime and immigration divide New Jersey voters after explosive Ciattarelli-Sherrill debate",
-      "link": "https://www.foxnews.com/media/crime-immigration-divide-new-jersey-voters-after-explosive-ciattarelli-sherrill-debate"
     },
     {
       "title": "Search firm behind illegal immigrant superintendent selection recruits top school leaders nationwide",
@@ -71,12 +71,8 @@
     {
       "title": "How Trump’s strikes against alleged narco-terrorists are reshaping the cartel battlefield: 'One-way ticket'",
       "link": "https://www.foxnews.com/politics/how-trumps-strikes-against-alleged-narco-terrorists-reshaping-cartel-battlefield-one-way-ticket"
-    },
-    {
-      "title": "Trump nominated for Nobel Peace Prize over Israel-Hamas ceasefire deal",
-      "link": "https://www.foxnews.com/politics/trump-nominated-nobel-peace-prize-over-israel-hamas-ceasefire-deal"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-10T13:01:59.504Z"
+  "timestamp": "2025-10-10T13:36:51.107Z"
 }
