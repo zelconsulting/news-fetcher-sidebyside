@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "White House turns to expanding Abraham Accords after Israel-Hamas ceasefire",
+      "link": "https://www.foxnews.com/politics/white-house-turns-expanding-abraham-accords-after-israel-hamas-ceasefire"
+    },
+    {
       "title": "Anderson Cooper says it was 'not a great look' for Letitia James to threaten to sue Trump after her election",
       "link": "https://www.foxnews.com/media/anderson-cooper-says-not-great-look-letitia-james-threaten-sue-trump-after-her-election"
     },
@@ -15,10 +19,6 @@
     {
       "title": "GOP senators back Russ Vought's hardball shutdown strategy as standoff intensifies",
       "link": "https://www.foxnews.com/politics/gop-senators-back-russ-voughts-hardball-shutdown-strategy-standoff-intensifies"
-    },
-    {
-      "title": "Trump does not win Nobel Peace Prize despite Israel-Hamas deal and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-does-not-win-nobel-peace-prize-despite-israel-hamas-deal-more-top-headlines"
     },
     {
       "title": "Search firm behind illegal immigrant superintendent selection recruits top school leaders nationwide",
@@ -55,12 +55,8 @@
     {
       "title": "'Untethered from reality': Lawyers for Trump, Oregon, spar over National Guard deployment in court clash",
       "link": "https://www.foxnews.com/politics/untethered-from-reality-lawyers-trump-oregon-spar-over-national-guard-deployment-court-clash"
-    },
-    {
-      "title": "Fairways, friendship and a $6 billion deal: How Finland's president found a partner in Trump",
-      "link": "https://www.foxnews.com/politics/fairways-friendship-6-billion-deal-how-finlands-president-found-partner-trump"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-10T14:48:50.039Z"
+  "timestamp": "2025-10-10T15:12:17.527Z"
 }
