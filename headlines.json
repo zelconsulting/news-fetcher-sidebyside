@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Senate leaves Washington as government shutdown nears 3rd week, military pay at risk",
+      "link": "https://www.foxnews.com/politics/senate-leaves-washington-government-shutdown-nears-3rd-week-military-pay-risk"
+    },
+    {
+      "title": "GOP senators back Russ Vought's hardball shutdown strategy as standoff intensifies",
+      "link": "https://www.foxnews.com/politics/gop-senators-back-russ-voughts-hardball-shutdown-strategy-standoff-intensifies"
+    },
+    {
+      "title": "Trump does not win Nobel Peace Prize despite Israel-Hamas deal and more top headlines",
+      "link": "https://www.foxnews.com/us/trump-does-not-win-nobel-peace-prize-despite-israel-hamas-deal-more-top-headlines"
+    },
+    {
+      "title": "Bari Weiss faces uphill battle to reshape CBS News as network buries coverage of growing Virginia Dem scandal",
+      "link": "https://www.foxnews.com/media/bari-weiss-faces-uphill-battle-reshape-cbs-news-network-buries-coverage-growing-virginia-dem-scandal"
+    },
+    {
       "title": "Zach Bryan faces country music backlash over 'Bad News' song targeting Trump's ICE operations",
       "link": "https://www.foxnews.com/media/zach-bryan-faces-country-music-backlash-over-bad-news-song-targeting-trumps-ice-operations"
     },
@@ -17,36 +33,12 @@
       "link": "https://www.foxnews.com/politics/nobel-peace-prize-goes-maria-corina-machado-despite-calls-trump-receive-award"
     },
     {
-      "title": "High-ranking Democrats admit to knowingly abandoning women",
-      "link": "https://www.foxnews.com/opinion/high-ranking-democrats-admit-to-knowingly-abandoning-women"
-    },
-    {
-      "title": "Conservative education PAC gathering reports of teachers celebrating Charlie Kirk's death",
-      "link": "https://www.foxnews.com/media/conservative-education-pac-gathering-reports-teachers-celebrating-charlie-kirks-death"
-    },
-    {
-      "title": "Trump’s grand peace strategy is bearing fruit, in Middle East and around the world",
-      "link": "https://www.foxnews.com/opinion/trumps-grand-peace-strategy-bearing-fruit-middle-east-around-world"
-    },
-    {
       "title": "Trump deserves huge credit for achieving peace in Gaza, but marred the moment with his campaign of retribution",
       "link": "https://www.foxnews.com/politics/trump-deserves-huge-credit-achieving-peace-gaza-marred-moment-his-campaign-retribution"
     },
     {
-      "title": "First-time conservative event attendees discuss debate over 'owning the libs' at TPUSA campus tour",
-      "link": "https://www.foxnews.com/media/first-time-conservative-event-attendees-discuss-debate-over-owning-libs-tpusa-campus-tour"
-    },
-    {
       "title": "Senate advances 2026 defense bill after weeks of delay as shutdown drags on",
       "link": "https://www.foxnews.com/politics/senate-advances-2026-defense-bill-after-weeks-delay-shutdown-drags"
-    },
-    {
-      "title": "Senate leaves Washington as government shutdown nears 3rd week, military pay at risk",
-      "link": "https://www.foxnews.com/politics/senate-leaves-washington-government-shutdown-nears-3rd-week-military-pay-risk"
-    },
-    {
-      "title": "GOP senators back Russ Vought's hardball shutdown strategy as standoff intensifies",
-      "link": "https://www.foxnews.com/politics/gop-senators-back-russ-voughts-hardball-shutdown-strategy-standoff-intensifies"
     },
     {
       "title": "New York AG Letitia James' indictment sparks sharp partisan divide",
@@ -79,8 +71,12 @@
     {
       "title": "How Trump’s strikes against alleged narco-terrorists are reshaping the cartel battlefield: 'One-way ticket'",
       "link": "https://www.foxnews.com/politics/how-trumps-strikes-against-alleged-narco-terrorists-reshaping-cartel-battlefield-one-way-ticket"
+    },
+    {
+      "title": "Trump nominated for Nobel Peace Prize over Israel-Hamas ceasefire deal",
+      "link": "https://www.foxnews.com/politics/trump-nominated-nobel-peace-prize-over-israel-hamas-ceasefire-deal"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-10T12:24:39.152Z"
+  "timestamp": "2025-10-10T13:01:59.504Z"
 }
