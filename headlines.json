@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Senate advances 2026 defense bill after weeks of delay as shutdown drags on",
+      "link": "https://www.foxnews.com/politics/senate-advances-2026-defense-bill-after-weeks-delay-shutdown-drags"
+    },
+    {
+      "title": "New York AG Letitia James' indictment sparks sharp partisan divide",
+      "link": "https://www.foxnews.com/politics/new-york-ag-letitia-james-indictment-sparks-sharp-partisan-divide"
+    },
+    {
       "title": "Angel parents call for Trump to receive Nobel Peace Prize for border security efforts",
       "link": "https://www.foxnews.com/politics/angel-parents-call-trump-receive-nobel-peace-prize-border-security-efforts"
     },
@@ -27,14 +35,6 @@
     {
       "title": "'Untethered from reality': Lawyers for Trump, Oregon, spar over National Guard deployment in court clash",
       "link": "https://www.foxnews.com/politics/untethered-from-reality-lawyers-trump-oregon-spar-over-national-guard-deployment-court-clash"
-    },
-    {
-      "title": "Senate advances 2026 defense bill after weeks of delay as shutdown drags on",
-      "link": "https://www.foxnews.com/politics/senate-advances-2026-defense-bill-after-weeks-delay-shutdown-drags"
-    },
-    {
-      "title": "New York AG Letitia James' indictment sparks sharp partisan divide",
-      "link": "https://www.foxnews.com/politics/new-york-ag-letitia-james-indictment-sparks-sharp-partisan-divide"
     },
     {
       "title": "Fairways, friendship and a $6 billion deal: How Finland's president found a partner in Trump",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-10T02:20:19.450Z"
+  "timestamp": "2025-10-10T03:12:01.823Z"
 }
