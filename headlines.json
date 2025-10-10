@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Anderson Cooper says it was 'not a great look' for Letitia James to threaten to sue Trump after her election",
+      "link": "https://www.foxnews.com/media/anderson-cooper-says-not-great-look-letitia-james-threaten-sue-trump-after-her-election"
+    },
+    {
       "title": "DAVID MARCUS: For Jack Ciattarelli, South Jersey and voter enthusiasm are keys to victory",
       "link": "https://www.foxnews.com/opinion/david-marcus-jack-ciattarelli-south-jersey-voter-enthusiasm-keys-victory"
     },
@@ -15,14 +19,6 @@
     {
       "title": "Trump does not win Nobel Peace Prize despite Israel-Hamas deal and more top headlines",
       "link": "https://www.foxnews.com/us/trump-does-not-win-nobel-peace-prize-despite-israel-hamas-deal-more-top-headlines"
-    },
-    {
-      "title": "Bari Weiss faces uphill battle to reshape CBS News as network buries coverage of growing Virginia Dem scandal",
-      "link": "https://www.foxnews.com/media/bari-weiss-faces-uphill-battle-reshape-cbs-news-network-buries-coverage-growing-virginia-dem-scandal"
-    },
-    {
-      "title": "Zach Bryan faces country music backlash over 'Bad News' song targeting Trump's ICE operations",
-      "link": "https://www.foxnews.com/media/zach-bryan-faces-country-music-backlash-over-bad-news-song-targeting-trumps-ice-operations"
     },
     {
       "title": "Search firm behind illegal immigrant superintendent selection recruits top school leaders nationwide",
@@ -66,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-10T14:12:23.100Z"
+  "timestamp": "2025-10-10T14:33:29.879Z"
 }
