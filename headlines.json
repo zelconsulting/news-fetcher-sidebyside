@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Northern California voters weigh in on Prop 50 redistricting fight",
+      "link": "https://www.foxnews.com/politics/northern-california-voters-weigh-prop-50-redistricting-fight"
+    },
+    {
       "title": "Trump declared in 'excellent overall health' by doctor after Walter Reed visit",
       "link": "https://www.foxnews.com/politics/trump-declared-excellent-overall-health-doctor-after-walter-reed-visit"
     },
@@ -35,14 +39,6 @@
     {
       "title": "Biden-era 'unvetted' immigrants nabbed after Virginia highway gunfire as border debate hits governor's race",
       "link": "https://www.foxnews.com/politics/biden-era-unvetted-immigrants-nabbed-after-virginia-highway-gunfire-border-debate-hits-governors-race"
-    },
-    {
-      "title": "US sends CENTCOM troops to Israel for Trump-brokered Hamas ceasefire monitoring",
-      "link": "https://www.foxnews.com/world/us-sends-centcom-troops-israel-for-trump-brokered-hamas-ceasefire-monitoring"
-    },
-    {
-      "title": "Northern California voters weigh in on Prop 50 redistricting fight",
-      "link": "https://www.foxnews.com/politics/northern-california-voters-weigh-prop-50-redistricting-fight"
     },
     {
       "title": "Former NCAA swim captain warns Virginia elections could decide future of women’s sports",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-11T06:50:26.715Z"
+  "timestamp": "2025-10-11T07:10:37.261Z"
 }
