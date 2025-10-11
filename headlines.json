@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump declared in 'excellent overall health' by doctor after Walter Reed visit",
+      "link": "https://www.foxnews.com/politics/trump-declared-excellent-overall-health-doctor-after-walter-reed-visit"
+    },
+    {
+      "title": "War Department launches new counter-narcotics task force under Trump directive to crush cartels",
+      "link": "https://www.foxnews.com/politics/war-department-launches-new-counter-narcotics-task-force-under-trump-directive-crush-cartels"
+    },
+    {
+      "title": "Minnesota declines Trump admin's ultimatum to protect girls sports despite pleas from schools and athletes",
+      "link": "https://www.foxnews.com/sports/minnesota-declines-trump-admins-ultimatum-protect-girls-sports-despite-pleas-from-schools-athletes"
+    },
+    {
       "title": "Democrat prematurely announces Senate campaign launch, but quickly deletes post",
       "link": "https://www.foxnews.com/politics/democrat-prematurely-announces-senate-campaign-launch-quickly-deletes-post"
     },
@@ -33,28 +45,8 @@
       "link": "https://www.foxnews.com/politics/former-ncaa-swim-captain-warns-virginia-elections-could-decide-future-womens-sports"
     },
     {
-      "title": "Missing mom found alive in forest as officials investigate ‘suspicious’ house fire",
-      "link": "https://www.foxnews.com/us/missing-mom-found-alive-forest-officials-investigate-suspicious-house-fire"
-    },
-    {
-      "title": "Venezuelan Nobel Peace Prize winner María Corina Machado dedicates award to Trump for 'decisive support'",
-      "link": "https://www.foxnews.com/world/venezuelan-nobel-peace-prize-winner-maria-corina-machado-dedicates-award-trump-decisive-support"
-    },
-    {
-      "title": "Growing wave of Minnesota school officials urge state to protect girls' sports as Trump's deadline arrives",
-      "link": "https://www.foxnews.com/sports/growing-wave-minnesota-school-officials-urge-state-protect-girls-sports-trumps-deadline-arrives"
-    },
-    {
       "title": "Jay Jones text scandal sparks donation surge as GOP group pours millions more into VA race",
       "link": "https://www.foxnews.com/politics/jay-jones-text-scandal-sparks-donation-surge-gop-group-pours-millions-more-va-race"
-    },
-    {
-      "title": "Trump declared in 'excellent overall health' by doctor after Walter Reed visit",
-      "link": "https://www.foxnews.com/politics/trump-declared-excellent-overall-health-doctor-after-walter-reed-visit"
-    },
-    {
-      "title": "War Department launches new counter-narcotics task force under Trump directive to crush cartels",
-      "link": "https://www.foxnews.com/politics/war-department-launches-new-counter-narcotics-task-force-under-trump-directive-crush-cartels"
     },
     {
       "title": "Mamdani assails Trump for 'political retribution' against Letitia James in sweeping defense of embattled AG",
@@ -79,8 +71,12 @@
     {
       "title": "First lady Melania Trump announces 8 Ukrainian children reunited with families after being taken into Russia",
       "link": "https://www.foxnews.com/politics/first-lady-melania-trump-announces-8-ukrainian-children-reunited-families-after-being-taken-russia"
+    },
+    {
+      "title": "Trump threatens 'massive' China tariffs, sees 'no reason' to meet with Xi",
+      "link": "https://www.foxnews.com/politics/trump-threatens-massive-china-tariffs-sees-no-reason-meet-xi"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-11T02:14:11.909Z"
+  "timestamp": "2025-10-11T03:03:04.444Z"
 }
