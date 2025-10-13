@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Senate set for new vote to end shutdown, but gridlock over Obamacare subsidies remains",
+      "link": "https://www.foxnews.com/politics/senate-set-new-vote-end-shutdown-gridlock-over-obamacare-subsidies-remains"
+    },
+    {
+      "title": "Kennedy likens Senate dysfunction to 'game room in a mental hospital' as shutdown hits third week",
+      "link": "https://www.foxnews.com/media/kennedy-likens-senate-dysfunction-game-room-mental-hospital-shutdown-hits-third-week"
+    },
+    {
       "title": "Biden speechwriter admits Israel-Hamas peace deal is ‘victory’ for Trump",
       "link": "https://www.foxnews.com/media/biden-speechwriter-admits-israel-hamas-peace-deal-victory-trump"
     },
@@ -41,24 +49,16 @@
       "link": "https://www.foxnews.com/politics/trump-credits-iran-nuclear-strikes-kickstarting-israel-hamas-peace-deal"
     },
     {
-      "title": "GOP lawmaker pushes bill to punish cities that ditched Columbus Day after Trump proclamation",
+      "title": "Texas governor reveals reason why he and Trump have been working together so closely",
+      "link": "https://www.foxnews.com/politics/texas-governor-reveals-reason-why-he-trump-have-been-working-so-closely-together"
+    },
+    {
+      "title": "Cities that canceled Columbus Day could lose federal funds under new GOP bill",
       "link": "https://www.foxnews.com/politics/gop-lawmaker-pushes-bill-punish-cities-ditched-columbus-day-after-trump-proclamation"
     },
     {
       "title": "Netanyahu to skip Trump’s Middle East peace summit in Egypt as new regional dynamics take shape",
       "link": "https://www.foxnews.com/politics/netanyahu-skip-trumps-middle-east-peace-summit-egypt-new-regional-dynamics-take-shape"
-    },
-    {
-      "title": "Texas governor reveals reason why he and Trump have been working together so closely",
-      "link": "https://www.foxnews.com/politics/texas-governor-reveals-reason-why-he-trump-have-been-working-so-closely-together"
-    },
-    {
-      "title": "Senate set for new vote to end shutdown, but gridlock over Obamacare subsidies remains",
-      "link": "https://www.foxnews.com/politics/senate-set-new-vote-end-shutdown-gridlock-over-obamacare-subsidies-remains"
-    },
-    {
-      "title": "Cities that canceled Columbus Day could lose federal funds under new GOP bill",
-      "link": "https://www.foxnews.com/politics/gop-lawmaker-pushes-bill-punish-cities-ditched-columbus-day-after-trump-proclamation"
     },
     {
       "title": "Chip Roy and other Republicans push bill to block and deport Sharia law-adherent aliens: 'Existential threat'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-13T18:53:50.049Z"
+  "timestamp": "2025-10-13T19:09:45.032Z"
 }
