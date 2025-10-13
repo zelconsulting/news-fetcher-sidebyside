@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Trump calls for Netanyahu pardon after hailing swift removal of left-wing lawmakers by security",
+      "link": "https://www.foxnews.com/world/trump-calls-netanyahu-pardon-after-hailing-swift-removal-left-wing-lawmakers-security"
+    },
+    {
+      "title": "Senate Republicans target Obama-era trucking rule with new English proficiency bill",
+      "link": "https://www.foxnews.com/politics/senate-republicans-target-obama-era-trucking-rule-new-english-proficiency-bill"
+    },
+    {
+      "title": "Bills face backlash for Indigenous Peoples' Day celebration post",
+      "link": "https://www.foxnews.com/sports/bills-face-backlash-indigenous-peoples-day-celebration-post"
+    },
+    {
+      "title": "Trump credits Iran nuclear strikes for kickstarting Israel-Hamas peace deal",
+      "link": "https://www.foxnews.com/politics/trump-credits-iran-nuclear-strikes-kickstarting-israel-hamas-peace-deal"
+    },
+    {
       "title": "GOP lawmaker pushes bill to punish cities that ditched Columbus Day after Trump proclamation",
       "link": "https://www.foxnews.com/politics/gop-lawmaker-pushes-bill-punish-cities-ditched-columbus-day-after-trump-proclamation"
     },
@@ -31,22 +47,6 @@
     {
       "title": "Trump heralds 'golden age of the Middle East' in address to Israeli Knesset hours after hostages come home",
       "link": "https://www.foxnews.com/politics/trump-heralds-golden-age-middle-east-address-israeli-knesset-hours-after-hostages-come-home"
-    },
-    {
-      "title": "Trump writes message to Israelis after all living hostages released by Hamas",
-      "link": "https://www.foxnews.com/world/trump-writes-message-israelis-after-all-living-hostages-released-hamas"
-    },
-    {
-      "title": "'60 Minutes' segment compares Trump economy to 1929 stock crash, claims CEOs too 'nervous' to speak out",
-      "link": "https://www.foxnews.com/media/60-minutes-segment-compares-trump-economy-1929-stock-crash-claims-ceos-too-nervous-speak-out"
-    },
-    {
-      "title": "JD Vance accuses of NBC of failing to cover Israeli cheering for Trump in securing peace deal",
-      "link": "https://www.foxnews.com/media/jd-vance-accuses-nbc-failing-cover-israeli-cheering-trump-peace-deal"
-    },
-    {
-      "title": "Trump credits Iran nuclear strikes for kickstarting Israel-Hamas peace deal",
-      "link": "https://www.foxnews.com/politics/trump-credits-iran-nuclear-strikes-kickstarting-israel-hamas-peace-deal"
     },
     {
       "title": "Trump mulls Tomahawk deliveries to Ukraine if Russia keeps war going",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-13T15:48:12.536Z"
+  "timestamp": "2025-10-13T16:15:13.180Z"
 }
