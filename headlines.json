@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Falcons stun Bills behind brilliant offensive performances from Bijan Robinson and Drake London",
+      "link": "https://www.foxnews.com/sports/falcons-stun-bills-behind-brilliant-offensive-performances-from-bijan-robinson-drake-london"
+    },
+    {
       "title": "Pakistan announces intention for second Nobel Peace Prize nomination for Trump over Gaza ceasefire role",
       "link": "https://www.foxnews.com/politics/pakistan-announces-intention-second-nobel-peace-prize-nomination-trump-over-gaza-ceasefire-role"
     },
@@ -11,10 +15,6 @@
     {
       "title": "Time magazine heralds Israel-Hamas peace plan as Trump's 'triumph' on new cover",
       "link": "https://www.foxnews.com/media/time-magazine-heralds-israel-hamas-peace-plan-trumps-triumph-new-cover"
-    },
-    {
-      "title": "SNL star who campaigned for Mamdani called out for mocking candidate's critics on show",
-      "link": "https://www.foxnews.com/media/snl-star-who-campaigned-mamdani-called-out-mocking-candidates-critics-show"
     },
     {
       "title": "Bill Clinton says Trump and others 'deserve great credit' for Israel-Hamas ceasefire",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-14T03:13:07.270Z"
+  "timestamp": "2025-10-14T03:42:34.001Z"
 }
