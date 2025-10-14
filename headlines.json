@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump blasts 'weakened' Schumer as Democrats again block GOP effort to reopen government",
+      "link": "https://www.foxnews.com/politics/trump-blasts-weakened-schumer-democrats-again-block-gop-effort-reopen-government"
+    },
+    {
+      "title": "Alec Baldwin’s head-on crash with tree caps year of scandal and controversy",
+      "link": "https://www.foxnews.com/entertainment/alec-baldwins-head-on-crash-tree-caps-year-scandal-controversy"
+    },
+    {
+      "title": "CBP agents seize $1.3M worth of meth and heroin in border drug bust amid Trump’s war on narcoterrorism",
+      "link": "https://www.foxnews.com/us/cbp-agents-seize-meth-heroin-border-drug-bust-amid-trumps-war-narcoterrorism"
+    },
+    {
       "title": "Virginia voters sound off on Democrats' handling of 'horrendous' Jay Jones scandal, trans bathroom fight",
       "link": "https://www.foxnews.com/politics/virginia-voters-sound-off-democrats-handling-horrendous-jay-jones-scandal-trans-bathroom-fight"
     },
@@ -29,20 +41,8 @@
       "link": "https://www.foxnews.com/world/trump-issues-dire-warning-hamas-dont-disarm-we-disarm-them"
     },
     {
-      "title": "Freed hostages' loved ones thank Trump for reuniting them after more than two years",
-      "link": "https://www.foxnews.com/world/freed-hostages-loved-ones-thank-trump-reuniting-them-after-more-than-two-years"
-    },
-    {
-      "title": "Former Vikings captain speaks out after Minnesota misses Trump admin's deadline to protect girls' sports",
-      "link": "https://www.foxnews.com/sports/former-vikings-captain-speaks-out-after-minnesota-misses-trump-admins-deadline-protect-girls-sports"
-    },
-    {
       "title": "White House rips 'imbecilic buffoon' Tim Walz after Trump tariff criticism",
       "link": "https://www.foxnews.com/politics/white-house-rips-imbecilic-buffoon-tim-walz-after-trump-tariff-criticism"
-    },
-    {
-      "title": "Reporter's Notebook: Trump-brokered peace deal leads to Hamas hostage releases in Israel",
-      "link": "https://www.foxnews.com/world/reporters-notebook-trump-brokered-peace-deal-leads-hamas-hostage-releases-israel"
     },
     {
       "title": "Trump touts another US strike near Venezuela that killed six alleged drug smugglers",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-14T22:30:46.565Z"
+  "timestamp": "2025-10-14T22:47:52.803Z"
 }
