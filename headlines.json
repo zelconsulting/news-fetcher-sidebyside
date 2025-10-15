@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "Atlanta’s city-run grocery sees early success, sparking debate over government’s role",
+      "link": "https://www.foxnews.com/politics/atlantas-city-run-grocery-sees-early-success-sparking-debate-over-governments-role"
+    },
+    {
+      "title": "White House may 'run out' of funds to pay military if shutdown continues, Johnson warns",
+      "link": "https://www.foxnews.com/politics/white-house-may-run-out-funds-pay-military-shutdown-continues-johnson-warns"
+    },
+    {
+      "title": "‘The View’ co-hosts say they want more Republicans on the show, claim they're too ‘scared’ to come on",
+      "link": "https://www.foxnews.com/media/the-view-co-hosts-say-want-more-republicans-show-claim-theyre-too-scared-come"
+    },
+    {
+      "title": "Bette Midler serenades Colbert with parody of 'Wind Beneath My Wings' attacking Trump",
+      "link": "https://www.foxnews.com/media/bette-midler-serenades-colbert-parody-wind-beneath-my-wings-attacking-trump"
+    },
+    {
+      "title": "MSNBC takes heat after skipping live coverage of Medal of Freedom ceremony for Charlie Kirk",
+      "link": "https://www.foxnews.com/media/msnbc-takes-heat-after-skipping-live-coverage-medal-freedom-ceremony-charlie-kirk"
+    },
+    {
       "title": "Republicans eye fresh funding fight as shutdown standoff drags on",
       "link": "https://www.foxnews.com/politics/republicans-eye-fresh-funding-fight-shutdown-standoff-drags"
     },
@@ -21,12 +41,12 @@
       "link": "https://www.foxnews.com/politics/trump-hammers-rise-left-wing-political-violence-charlie-kirk-remarks-devils-ideology"
     },
     {
-      "title": "Boston mayor responds to Trump's threats to pull World Cup games out of city amid safety concerns",
-      "link": "https://www.foxnews.com/sports/boston-mayor-responds-trumps-threats-pull-world-cup-games-out-city-amid-safety-concerns"
-    },
-    {
       "title": "Shutdown faces taxpayer reckoning as lawmaker works to expose 'true cost of Democrats’ political stunt'",
       "link": "https://www.foxnews.com/politics/shutdown-faces-taxpayer-reckoning-lawmaker-works-expose-true-cost-democrats-political-stunt"
+    },
+    {
+      "title": "Supreme Court signals it may limit key Voting Rights Act rule",
+      "link": "https://www.foxnews.com/politics/supreme-court-louisiana-voting-rights-redistricting-case-2026-midterms"
     },
     {
       "title": "Trump’s war on cartels enters new phase as experts predict what’s next",
@@ -35,18 +55,6 @@
     {
       "title": "Trump’s redistricting push gains steam in another key state: 'We will stand with the president'",
       "link": "https://www.foxnews.com/politics/trumps-redistricting-push-gains-steam-another-key-state-stand-with-president"
-    },
-    {
-      "title": "Atlanta’s city-run grocery sees early success, sparking debate over government’s role",
-      "link": "https://www.foxnews.com/politics/atlantas-city-run-grocery-sees-early-success-sparking-debate-over-governments-role"
-    },
-    {
-      "title": "White House may 'run out' of funds to pay military if shutdown continues, Johnson warns",
-      "link": "https://www.foxnews.com/politics/white-house-may-run-out-funds-pay-military-shutdown-continues-johnson-warns"
-    },
-    {
-      "title": "Supreme Court signals it may limit key Voting Rights Act rule",
-      "link": "https://www.foxnews.com/politics/supreme-court-louisiana-voting-rights-redistricting-case-2026-midterms"
     },
     {
       "title": "Trump posthumously awards Charlie Kirk Presidential Medal of Freedom: Photos",
@@ -70,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-15T17:29:49.993Z"
+  "timestamp": "2025-10-15T17:41:11.804Z"
 }
