@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump is using the government shutdown to do something no president has ever done",
+      "link": "https://www.foxnews.com/opinion/trump-using-government-shutdown-do-something-no-president-has-ever-done"
+    },
+    {
+      "title": "How Trump team rooting out legacy of violent '60s radicals and their spiritual heirs",
+      "link": "https://www.foxnews.com/opinion/how-trump-team-rooting-out-legacy-violent-60s-radicals-spiritual-heirs"
+    },
+    {
       "title": "Illegal immigrants arrested after ramming Border Patrol in Chicago amid violent clash with protesters",
       "link": "https://www.foxnews.com/us/illegal-immigrants-arrested-after-ramming-border-patrol-chicago-amid-violent-clash-protesters"
     },
@@ -37,16 +45,8 @@
       "link": "https://www.foxnews.com/politics/unearthed-donations-come-back-haunt-mikie-sherrills-defamatory-attack-gop-rival"
     },
     {
-      "title": "Trump threatens to pull World Cup games out of Boston if 'there's unsafe conditions'",
-      "link": "https://www.foxnews.com/sports/trump-threatens-pull-world-cup-games-out-boston-theres-unsafe-conditions"
-    },
-    {
       "title": "Trump blasts 'weakened' Schumer as Democrats again block GOP effort to reopen government",
       "link": "https://www.foxnews.com/politics/trump-blasts-weakened-schumer-democrats-again-block-gop-effort-reopen-government"
-    },
-    {
-      "title": "Alec Baldwin’s head-on crash with tree caps year of scandal and controversy",
-      "link": "https://www.foxnews.com/entertainment/alec-baldwins-head-on-crash-tree-caps-year-scandal-controversy"
     },
     {
       "title": "Virginia voters sound off on Democrats' handling of 'horrendous' Jay Jones scandal, trans bathroom fight",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-15T09:49:11.198Z"
+  "timestamp": "2025-10-15T10:14:12.301Z"
 }
