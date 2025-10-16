@@ -1,40 +1,8 @@
 {
   "fox": [
     {
-      "title": "Mayoral candidate vows to arrest Israeli Prime Minister Netanyahu and more top headlines",
-      "link": "https://www.foxnews.com/us/mayoral-candidate-vows-arrest-israeli-prime-minister-netanyahu-more-top-headlines"
-    },
-    {
-      "title": "AZ Senate president urges University of Arizona to join Trump’s new higher-ed reform compact",
-      "link": "https://www.foxnews.com/media/az-senate-president-urges-university-arizona-join-trumps-new-higher-ed-reform-compact"
-    },
-    {
-      "title": "Trump signals new trust in Erdogan, raising concerns over Turkey’s ambitions in Gaza and beyond",
-      "link": "https://www.foxnews.com/world/trump-signals-new-trust-erdogan-raising-concerns-over-turkeys-ambitions-gaza-beyond"
-    },
-    {
-      "title": "Jay Jones’ ‘two bullets’ scandal over violent texts expected to dominate Virginia AG debate",
-      "link": "https://www.foxnews.com/politics/jay-jones-two-bullets-scandal-over-violent-texts-expected-dominate-virginia-ag-debate"
-    },
-    {
-      "title": "Why Trump, rightly praised for the Gaza ceasefire, acts so differently at home",
-      "link": "https://www.foxnews.com/opinion/why-trump-rightly-praised-gaza-ceasefire-acts-so-differently-home"
-    },
-    {
-      "title": "JD Vance tells Dems outraged over young Republicans' leaked group chat to 'grow up'",
-      "link": "https://www.foxnews.com/media/vance-tells-dems-outraged-over-young-republicans-leaked-group-chat-grow-up"
-    },
-    {
-      "title": "Mark Teixeira says 'unreasonable' Democrats are holding Americans 'hostage' with government shutdown",
-      "link": "https://www.foxnews.com/sports/mark-teixeira-says-unreasonable-democrats-holding-americans-hostage-government-shutdown"
-    },
-    {
-      "title": "Hacker hijacks airport speakers, blasts anti-Trump and other political messages",
-      "link": "https://www.foxnews.com/travel/hacker-hijacks-airport-speakers-blasts-anti-trump-other-political-messages"
-    },
-    {
-      "title": "Trump instructs Pentagon to ensure troops are paid despite government shutdown",
-      "link": "https://www.foxnews.com/politics/trump-instructs-pentagon-ensure-troops-paid-government-shutdown"
+      "title": "Obama endorses Spanberger, attacks Republicans in Virginia governor's race ads",
+      "link": "https://www.foxnews.com/politics/obama-endorses-spanberger-attacks-republicans-virginia-governors-race-ads"
     },
     {
       "title": "Fetterman says he knows and loves Trump voters: 'I'm the only Democrat in my family'",
@@ -43,6 +11,38 @@
     {
       "title": "Secretary of Education points out that the government shutdown shows her department is unneeded",
       "link": "https://www.foxnews.com/politics/secretary-education-points-out-government-shutdown-shows-her-department-unneeded"
+    },
+    {
+      "title": "Judge sides with Democrat historian to temporarily block Trump presidential library deal in Florida",
+      "link": "https://www.foxnews.com/us/judge-pauses-trump-presidential-library-deal-miami-amid-democrats-legal-challenge"
+    },
+    {
+      "title": "Sanders, Ocasio-Cortez hesitant to give Trump credit for ceasefire, call him 'obstacle to peace'",
+      "link": "https://www.foxnews.com/media/sanders-ocasio-cortez-hesitant-give-trump-credit-ceasefire-call-him-obstacle-peace"
+    },
+    {
+      "title": "Mayoral candidate vows to arrest Israeli Prime Minister Netanyahu and more top headlines",
+      "link": "https://www.foxnews.com/us/mayoral-candidate-vows-arrest-israeli-prime-minister-netanyahu-more-top-headlines"
+    },
+    {
+      "title": "AZ Senate president urges University of Arizona to join Trump’s new higher-ed reform compact",
+      "link": "https://www.foxnews.com/media/az-senate-president-urges-university-arizona-join-trumps-new-higher-ed-reform-compact"
+    },
+    {
+      "title": "Ramaswamy: 2025 GOP wins in New Jersey, Virginia, would ‘set the table for...more decisive victories' in 2026",
+      "link": "https://www.foxnews.com/politics/ramaswamy-2025-gop-wins-new-jersey-virginia-would-set-table-for-more-decisive-victories-2026"
+    },
+    {
+      "title": "Republicans push to pay troops, reopen government as Democrats balk",
+      "link": "https://www.foxnews.com/politics/republicans-push-pay-troops-reopen-government-democrats-balk"
+    },
+    {
+      "title": "Jay Jones’ ‘two bullets’ scandal over violent texts expected to dominate Virginia AG debate",
+      "link": "https://www.foxnews.com/politics/jay-jones-two-bullets-scandal-over-violent-texts-expected-dominate-virginia-ag-debate"
+    },
+    {
+      "title": "Trump instructs Pentagon to ensure troops are paid despite government shutdown",
+      "link": "https://www.foxnews.com/politics/trump-instructs-pentagon-ensure-troops-paid-government-shutdown"
     },
     {
       "title": "Judge blocks part of Texas law that limits campus protests after dark: '1st Amendment does not have a bedtime'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-16T13:05:43.316Z"
+  "timestamp": "2025-10-16T13:41:49.715Z"
 }
