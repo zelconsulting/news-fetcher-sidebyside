@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Mayoral candidate vows to arrest Israeli Prime Minister Netanyahu and more top headlines",
+      "link": "https://www.foxnews.com/us/mayoral-candidate-vows-arrest-israeli-prime-minister-netanyahu-more-top-headlines"
+    },
+    {
+      "title": "AZ Senate president urges University of Arizona to join Trump’s new higher-ed reform compact",
+      "link": "https://www.foxnews.com/media/az-senate-president-urges-university-arizona-join-trumps-new-higher-ed-reform-compact"
+    },
+    {
       "title": "Trump signals new trust in Erdogan, raising concerns over Turkey’s ambitions in Gaza and beyond",
       "link": "https://www.foxnews.com/world/trump-signals-new-trust-erdogan-raising-concerns-over-turkeys-ambitions-gaza-beyond"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/watch-trump-reveals-two-key-reasons-why-he-is-authorizing-cia-activity-venezuela"
     },
     {
-      "title": "Blue city judge cites 'fear or obstruction' in blocking ICE courthouse arrests during court proceedings",
-      "link": "https://www.foxnews.com/us/blue-city-judge-cites-fear-obstruction-blocking-ice-courthouse-arrests-during-court-proceedings"
-    },
-    {
       "title": "Trump administration withholds $40M from California over trucker English proficiency rules",
       "link": "https://www.foxnews.com/politics/trump-administration-withholds-40m-california-trucker-english-proficiency-rules"
     },
@@ -75,12 +79,8 @@
     {
       "title": "Fox News Politics Newsletter: Military funding on the line",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-october-13th-draft"
-    },
-    {
-      "title": "Russia hands over JFK assassination files to GOP Rep. Anna Paulina Luna in Washington",
-      "link": "https://www.foxnews.com/politics/russia-hands-jfk-assassination-files-gop-rep-anna-paulina-luna-washington"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-16T11:26:54.154Z"
+  "timestamp": "2025-10-16T11:36:36.445Z"
 }
