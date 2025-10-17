@@ -1,16 +1,56 @@
 {
   "fox": [
     {
+      "title": "UN postpones vote on global carbon tax after Trump-led pushback",
+      "link": "https://www.foxnews.com/politics/un-postpones-vote-global-carbon-tax-after-trump-led-pushback"
+    },
+    {
+      "title": "Hamas defends executions of Palestinians after Trump issues stern warning to terror group",
+      "link": "https://www.foxnews.com/world/hamas-defends-executions-palestinians-after-trump-issues-stern-warning-terror-group"
+    },
+    {
+      "title": "Russia proposes 'Putin-Trump Tunnel' with Elon Musk's help to connect nations under Bering Strait",
+      "link": "https://www.foxnews.com/politics/russia-proposes-putin-trump-tunnel-elon-musks-help-connect-nations-bering-strait"
+    },
+    {
+      "title": "Epstein documents: House committee releases transcript with former US attorney who negotiated plea deal",
+      "link": "https://www.foxnews.com/us/epstein-documents-house-committee-releases-transcript-former-us-attorney-who-negotiated-plea-deal"
+    },
+    {
+      "title": "Zelenskyy pitches Trump on Ukraine drone-for-Tomahawk missile exchange as president weighs escalation concerns",
+      "link": "https://www.foxnews.com/world/zelenskyy-pitches-trump-ukraine-drone-for-tomahawk-missile-exchange-president-weighs-escalation-concerns"
+    },
+    {
+      "title": "Travel Portland pushes more tourism, calling anti-ICE protests 'typically peaceful'",
+      "link": "https://www.foxnews.com/travel/travel-portland-pushes-more-tourism-calling-anti-ice-protests-typically-peaceful"
+    },
+    {
+      "title": "Trump says Venezuela's Maduro doesn’t want to ‘f*** around’ with the US",
+      "link": "https://www.foxnews.com/politics/trump-says-venezuelas-maduro-doesnt-want-f-around-us"
+    },
+    {
+      "title": "Johnson shutters House again in bid to keep shutdown heat on Schumer",
+      "link": "https://www.foxnews.com/politics/johnson-shutters-house-again-bid-keep-shutdown-heat-schumer"
+    },
+    {
+      "title": "Lawyers guild's alleged ties to Antifa spark call for DOJ probe",
+      "link": "https://www.foxnews.com/politics/lawyers-guilds-alleged-ties-antifa-spark-call-doj-probe"
+    },
+    {
+      "title": "Trump says 'tremendous bad blood' between Zelenskyy, Putin delaying peace deal despite Middle East momentum",
+      "link": "https://www.foxnews.com/politics/trump-says-tremendous-bad-blood-between-zelenskyy-putin-delaying-peace-deal-despite-middle-east-momentum-"
+    },
+    {
+      "title": "Senators look to block Trump from engaging in ‘hostilities’ in Venezuela",
+      "link": "https://www.foxnews.com/world/senators-look-block-trump-from-engaging-hostilities-venezuela"
+    },
+    {
       "title": "Abbott orders Texas National Guard to Austin in advance of 'Antifa-linked protest'",
       "link": "https://www.foxnews.com/politics/abbott-orders-texas-national-guard-austin-advance-antifa-linked-protest"
     },
     {
       "title": "Thune slams Schumer's 'kingmaker' politics, refuses to 'kiss the ring' in shutdown talks",
       "link": "https://www.foxnews.com/politics/thune-slams-schumers-kingmaker-politics-refuses-kiss-ring-shutdown-talks"
-    },
-    {
-      "title": "Kai Trump 'proud' of grandfather after president oversees historic Gaza ceasefire: 'He’s doing amazing things'",
-      "link": "https://www.foxnews.com/sports/kai-trump-proud-grandfather-after-president-oversees-historic-gaza-ceasefire-hes-doing-amazing-things"
     },
     {
       "title": "Millions expected to flood streets at ‘No Kings’ protests targeting Trump across all 50 states",
@@ -33,46 +73,14 @@
       "link": "https://www.foxnews.com/politics/trumps-u-s-attorneys-blue-states-face-legal-challenges-could-upend-key-prosecutions"
     },
     {
-      "title": "Russia proposes 'Putin-Trump Tunnel' with Elon Musk's help to connect nations under Bering Strait",
-      "link": "https://www.foxnews.com/politics/russia-proposes-putin-trump-tunnel-elon-musks-help-connect-nations-bering-strait"
-    },
-    {
-      "title": "Trump says Venezuela's Maduro doesn’t want to ‘f*** around’ with the US",
-      "link": "https://www.foxnews.com/politics/trump-says-venezuelas-maduro-doesnt-want-f-around-us"
-    },
-    {
-      "title": "Johnson shutters House again in bid to keep shutdown heat on Schumer",
-      "link": "https://www.foxnews.com/politics/johnson-shutters-house-again-bid-keep-shutdown-heat-schumer"
-    },
-    {
-      "title": "Lawyers guild's alleged ties to Antifa spark call for DOJ probe",
-      "link": "https://www.foxnews.com/politics/lawyers-guilds-alleged-ties-antifa-spark-call-doj-probe"
-    },
-    {
-      "title": "Trump says 'tremendous bad blood' between Zelenskyy, Putin delaying peace deal despite Middle East momentum",
-      "link": "https://www.foxnews.com/politics/trump-says-tremendous-bad-blood-between-zelenskyy-putin-delaying-peace-deal-despite-middle-east-momentum-"
-    },
-    {
       "title": "Democrats’ ‘unity’ dinner draws backlash over anti-Trump ‘86 47’ sign linking MAGA to Nazis",
       "link": "https://www.foxnews.com/politics/democrats-unity-dinner-draws-backlash-over-anti-trump-86-47-sign-linking-maga-nazis"
     },
     {
       "title": "Trump rips 'stupid and outdated' Senate tradition blocking US attorney nominees",
       "link": "https://www.foxnews.com/politics/trump-rips-stupid-outdated-senate-tradition-blocking-us-attorney-nominees"
-    },
-    {
-      "title": "Government shutdown putting gun owners rights at risk, Republicans warn",
-      "link": "https://www.foxnews.com/politics/government-shutdown-putting-gun-owners-rights-risk-republicans-warn"
-    },
-    {
-      "title": "Battleground Republicans hold the line as Johnson pressures Dems on shutdown",
-      "link": "https://www.foxnews.com/politics/battleground-republicans-hold-line-johnson-pressures-dems-shutdown"
-    },
-    {
-      "title": "Jason Miyares touts record on crime, fentanyl as Jones scandal roils Virginia race: 'A defining moment'",
-      "link": "https://www.foxnews.com/politics/jason-miyares-touts-record-crime-fentanyl-jones-scandal-roils-virginia-race"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-17T19:33:54.236Z"
+  "timestamp": "2025-10-17T19:47:57.382Z"
 }
