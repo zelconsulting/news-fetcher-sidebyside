@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Bill Maher hails Trump’s Gaza peace breakthrough, says to ‘give credit where credit is due’",
+      "link": "https://www.foxnews.com/media/bill-maher-hails-trumps-gaza-peace-breakthrough-says-give-credit-where-credit-due"
+    },
+    {
+      "title": "New Jersey Democratic governor hopeful attends 'No Kings' protest, vows to fight Trump 'tooth and nail'",
+      "link": "https://www.foxnews.com/politics/new-jersey-democratic-governor-hopeful-attends-no-kings-protest-vows-fight-trump-tooth-nail"
+    },
+    {
+      "title": "DAVID MARCUS: To 2025 Democrats, the extremist is Fetterman, not Mamdani",
+      "link": "https://www.foxnews.com/opinion/david-marcus-2025-democrats-extremist-fetterman-not-mamdani"
+    },
+    {
       "title": "Andrew Cuomo warns socialism could mean the ‘death of New York,’ courts Republican voters in mayoral bid",
       "link": "https://www.foxnews.com/media/andrew-cuomo-warns-socialism-could-mean-death-new-york-courts-republican-voters-mayoral-bid"
     },
@@ -11,10 +23,6 @@
     {
       "title": "From Israel to Ukraine, Trump spends week focused on navigating global conflicts",
       "link": "https://www.foxnews.com/politics/from-israel-ukraine-trump-spends-week-focused-navigating-global-conflicts"
-    },
-    {
-      "title": "New Jersey Democratic governor hopeful attends 'No Kings' protest, vows to fight Trump 'tooth and nail'",
-      "link": "https://www.foxnews.com/politics/new-jersey-democratic-governor-hopeful-attends-no-kings-protest-vows-fight-trump-tooth-nail"
     },
     {
       "title": "Trump admin makes Supreme Court plea for National Guard in Chicago after judge denies 'rebellion' concern",
@@ -74,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-18T19:47:43.320Z"
+  "timestamp": "2025-10-18T20:12:02.465Z"
 }
