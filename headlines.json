@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump releases video of US drone strike on ‘drug-carrying submarine’ in Caribbean that left 2 dead, 2 captured",
+      "link": "https://www.foxnews.com/politics/trump-releases-video-us-drone-strike-drug-carrying-submarine-caribbean-2-dead-2-captured"
+    },
+    {
       "title": "Bill Maher hails Trump’s Gaza peace breakthrough, says to ‘give credit where credit is due’",
       "link": "https://www.foxnews.com/media/bill-maher-hails-trumps-gaza-peace-breakthrough-says-give-credit-where-credit-due"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Bill Maher blasts ‘keffiyeh-wearing college kids’ for silence as Hamas slaughters Palestinians in Gaza",
       "link": "https://www.foxnews.com/media/bill-maher-blasts-keffiyeh-wearing-college-kids-silence-hamas-slaughters-palestinians-gaza"
-    },
-    {
-      "title": "Trump releases video of US drone strike on ‘drug-carrying submarine’ in Caribbean that left 2 dead, 2 captured",
-      "link": "https://www.foxnews.com/politics/trump-releases-video-us-drone-strike-drug-carrying-submarine-caribbean-2-dead-2-captured"
     },
     {
       "title": "From Israel to Ukraine, Trump spends week focused on navigating global conflicts",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-18T20:47:51.198Z"
+  "timestamp": "2025-10-18T21:09:44.718Z"
 }
