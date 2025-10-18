@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Bill Belichick, Jordon Hudson's hot mic moment leaked amid UNC's drama-filled season",
+      "link": "https://www.foxnews.com/sports/bill-belichick-jordon-hudson-hot-mic-moment-leaked-amid-unc-drama-filled-season"
+    },
+    {
       "title": "President Donald Trump commutes former New York GOP Rep. George Santos' prison sentence",
       "link": "https://www.foxnews.com/politics/president-donald-trump-commutes-former-new-york-gop-rep-george-santos-prison-sentence"
     },
@@ -37,16 +41,8 @@
       "link": "https://www.foxnews.com/politics/supreme-court-sets-date-hear-ftc-slaughter-case-test-trumps-firing-powers"
     },
     {
-      "title": "Stephen A. Smith warns ‘not a damn soul’ can beat Vance-Rubio ticket in 2028 presidential election",
-      "link": "https://www.foxnews.com/media/stephen-smith-predicts-not-damn-soul-beat-republican-leader-2028-presidential-election"
-    },
-    {
       "title": "Obama continues tradition of slow-rolled political endorsements as gubernatorial elections hit fever pitch",
       "link": "https://www.foxnews.com/politics/obama-continues-tradition-slow-rolled-political-endorsements-gubernatorial-elections-hit-fever-pitch"
-    },
-    {
-      "title": "Andrea Bocelli gives Trump impromptu Oval Office performance during White House visit",
-      "link": "https://www.foxnews.com/entertainment/andrea-bocelli-gives-trump-impromptu-oval-office-performance-during-white-house-visit"
     },
     {
       "title": "UN postpones vote on global carbon tax after Trump-led pushback",
@@ -79,8 +75,12 @@
     {
       "title": "Thune slams Schumer's 'kingmaker' politics, refuses to 'kiss the ring' in shutdown talks",
       "link": "https://www.foxnews.com/politics/thune-slams-schumers-kingmaker-politics-refuses-kiss-ring-shutdown-talks"
+    },
+    {
+      "title": "Millions expected to flood streets at ‘No Kings’ protests targeting Trump across all 50 states",
+      "link": "https://www.foxnews.com/politics/millions-expected-flood-streets-no-kings-protests-targeting-trump-across-all-50-states"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-17T23:48:05.629Z"
+  "timestamp": "2025-10-18T00:54:15.015Z"
 }
