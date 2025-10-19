@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Kamala Harris says Biden made 'big mistake' by not inviting Musk to EV event in 2021",
+      "link": "https://www.foxnews.com/politics/kamala-harris-says-biden-made-big-mistake-not-inviting-musk-ev-event-2021"
+    },
+    {
       "title": "Protesters nationwide hold 'No Kings' rallies amid government shutdown",
       "link": "https://www.foxnews.com/politics/protesters-nationwide-hold-no-kings-rallies-amid-government-shutdown"
     },
@@ -45,10 +49,6 @@
       "link": "https://www.foxnews.com/media/bill-maher-hails-trumps-gaza-peace-breakthrough-says-give-credit-where-credit-due"
     },
     {
-      "title": "Kamala Harris says Biden made 'big mistake' by not inviting Musk to EV event in 2021",
-      "link": "https://www.foxnews.com/politics/kamala-harris-says-biden-made-big-mistake-not-inviting-musk-ev-event-2021"
-    },
-    {
       "title": "New Jersey Democratic governor hopeful attends 'No Kings' protest, vows to fight Trump 'tooth and nail'",
       "link": "https://www.foxnews.com/politics/new-jersey-democratic-governor-hopeful-attends-no-kings-protest-vows-fight-trump-tooth-nail"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-19T08:33:37.797Z"
+  "timestamp": "2025-10-19T08:48:18.153Z"
 }
