@@ -1,11 +1,23 @@
 {
   "fox": [
     {
-      "title": "Trump administration freezes $11 billion in blue-state infrastructure projects, blames Democrats for shutdown",
+      "title": "Newsom clashes with White House over Marine Corps anniversary celebration highway closure",
+      "link": "https://www.foxnews.com/politics/newsom-clashes-white-house-marine-corps-anniversary-celebration-highway-closure"
+    },
+    {
+      "title": "NYC voters at ‘No Kings’ rally say Zohran Mamdani 'represents everything' Trump is not",
+      "link": "https://www.foxnews.com/politics/nyc-voters-no-kings-rally-say-zohran-mamdani-represents-everything-trump-not"
+    },
+    {
+      "title": "Rutgers conservatives who challenged ‘Dr Antifa’ say they’re being punished as university backs professor",
+      "link": "https://www.foxnews.com/media/rutgers-conservatives-who-challenged-dr-antifa-say-theyre-being-punished-university-backs-professor"
+    },
+    {
+      "title": "Trump administration freezes $11 billion in blue state infrastructure projects, blames Democrats for shutdown",
       "link": "https://www.foxnews.com/politics/trump-administration-freezes-11-billion-blue-state-infrastructure-projects-blames-democrats-shutdown-chaos"
     },
     {
-      "title": "Golf legend Phil Mickelson takes subtle jab at Biden admin in 'No Kings' day post",
+      "title": "Golf legend Phil Mickelson takes subtle jab at Biden administration in 'No Kings' day post",
       "link": "https://www.foxnews.com/sports/golf-legend-phil-mickelson-takes-subtle-jab-biden-admin-no-kings-day-post"
     },
     {
@@ -27,18 +39,6 @@
     {
       "title": "DAVID MARCUS: To 2025 Democrats, the extremist is Fetterman, not Mamdani",
       "link": "https://www.foxnews.com/opinion/david-marcus-2025-democrats-extremist-fetterman-not-mamdani"
-    },
-    {
-      "title": "Andrew Cuomo warns socialism could mean the ‘death of New York,’ courts Republican voters in mayoral bid",
-      "link": "https://www.foxnews.com/media/andrew-cuomo-warns-socialism-could-mean-death-new-york-courts-republican-voters-mayoral-bid"
-    },
-    {
-      "title": "Newsom clashes with White House over Marine Corps anniversary celebration highway closure",
-      "link": "https://www.foxnews.com/politics/newsom-clashes-white-house-marine-corps-anniversary-celebration-highway-closure"
-    },
-    {
-      "title": "NYC voters at ‘No Kings’ rally say Zohran Mamdani 'represents everything' Trump is not",
-      "link": "https://www.foxnews.com/politics/nyc-voters-no-kings-rally-say-zohran-mamdani-represents-everything-trump-not"
     },
     {
       "title": "From Israel to Ukraine, Trump spends week focused on navigating global conflicts",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-18T23:47:35.749Z"
+  "timestamp": "2025-10-19T01:03:38.836Z"
 }
