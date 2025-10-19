@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "WATCH: SNL's 'Weekend Update' Nazi joke about Trump administration gets awkward response from audience",
+      "link": "https://www.foxnews.com/media/watch-snls-weekend-update-nazi-joke-about-trump-administration-gets-awkward-response-from-audience"
+    },
+    {
+      "title": "Trump calls Colombia’s Petro ‘a drug leader,’ says US aid will end payments",
+      "link": "https://www.foxnews.com/politics/trump-calls-colombias-petro-a-drug-leader-says-us-aid-end-payments"
+    },
+    {
       "title": "John Cusack tells Trump to 'go to hell' at Chicago 'No Kings' protest",
       "link": "https://www.foxnews.com/media/john-cusack-tells-trump-go-hell-chicago-no-kings-protest"
     },
@@ -13,16 +21,8 @@
       "link": "https://www.foxnews.com/politics/inside-minds-older-left-wing-women-driving-new-voting-bloc-resistance-grandmas-opposing-trump"
     },
     {
-      "title": "'Dr. Antifa' fled US after doxxing, but infamous handbook promotes tactic and violence against 'Far Right'",
-      "link": "https://www.foxnews.com/us/dr-antifa-fled-us-after-doxxing-infamous-handbook-promotes-tactic-violence-against-far-right"
-    },
-    {
       "title": "FBI agents from '93 WTC attack blast Mamdani for embracing radical imam",
       "link": "https://www.foxnews.com/politics/fbi-agents-93-wtc-attack-blast-mamdani-embracing-radical-imam"
-    },
-    {
-      "title": "Trump calls Colombia’s Petro ‘a drug leader,’ says US aid will end payments",
-      "link": "https://www.foxnews.com/politics/trump-calls-colombias-petro-a-drug-leader-says-us-aid-end-payments"
     },
     {
       "title": "Kamala Harris says Biden made 'big mistake' by not inviting Musk to EV event in 2021",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-19T16:33:57.679Z"
+  "timestamp": "2025-10-19T16:48:50.884Z"
 }
