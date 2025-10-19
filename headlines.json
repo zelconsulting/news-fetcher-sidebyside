@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Protesters nationwide hold 'No Kings' rallies amid government shutdown",
+      "link": "https://www.foxnews.com/politics/protesters-nationwide-hold-no-kings-rallies-amid-government-shutdown"
+    },
+    {
       "title": "George Santos expresses gratitude to Trump following commutation of his 7-year prison sentence",
       "link": "https://www.foxnews.com/politics/george-santos-expresses-gratitude-trump-following-commutation-7-year-prison-sentence"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/media/bill-maher-hails-trumps-gaza-peace-breakthrough-says-give-credit-where-credit-due"
     },
     {
-      "title": "Protesters nationwide hold 'No Kings' rallies amid government shutdown",
-      "link": "https://www.foxnews.com/politics/protesters-nationwide-hold-no-kings-rallies-amid-government-shutdown"
-    },
-    {
       "title": "New Jersey Democratic governor hopeful attends 'No Kings' protest, vows to fight Trump 'tooth and nail'",
       "link": "https://www.foxnews.com/politics/new-jersey-democratic-governor-hopeful-attends-no-kings-protest-vows-fight-trump-tooth-nail"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-19T04:34:15.789Z"
+  "timestamp": "2025-10-19T04:49:35.857Z"
 }
