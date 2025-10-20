@@ -1,28 +1,8 @@
 {
   "fox": [
     {
-      "title": "Trump calls Jay Jones an 'animal,' says 'anybody would be put in prison for what he said'",
-      "link": "https://www.foxnews.com/politics/trump-calls-jay-jones-animal-says-anybody-would-put-prison-what-he-said"
-    },
-    {
-      "title": "‘America First’ attorney general distances himself from McConnell — his former boss — as Kentucky race defines GOP future",
-      "link": "https://www.foxnews.com/politics/america-first-attorney-general-distances-himself-from-mcconnell-his-former-boss-kentucky-race-defines-gop-future"
-    },
-    {
-      "title": "'Goofballs' and hostages: GOP senators say Schumer's shutdown tactics destroying the Senate",
-      "link": "https://www.foxnews.com/politics/goofballs-hostages-gop-senators-say-schumers-shutdown-tactics-destroying-senate"
-    },
-    {
-      "title": "Is Trump’s ‘heat’ on Venezuela the start of a wider campaign for regime change?",
-      "link": "https://www.foxnews.com/politics/trumps-heat-venezuela-start-wider-campaign-regime-change"
-    },
-    {
-      "title": "Archaeologists unearth ancient bishop's lavish bathhouse, shedding light on early Christian life",
-      "link": "https://www.foxnews.com/travel/archaeologists-unearth-ancient-bishops-lavish-bathhouse-shedding-light-christian-life"
-    },
-    {
-      "title": "Trump reacts to 'No Kings' protests by saying 'I'm not a king, I work my ass off'",
-      "link": "https://www.foxnews.com/politics/trump-reacts-no-kings-protests-saying-im-not-king-i-work-my-ass-off"
+      "title": "Battle for governor in closely watched election may be headed for a photo finish",
+      "link": "https://www.foxnews.com/politics/battle-governor-closely-watched-election-may-headed-photo-finish"
     },
     {
       "title": "Reporter's Notebook: Government shutdown stalls as Democrats demand Obamacare subsidy extension",
@@ -43,6 +23,26 @@
     {
       "title": "Trump doubles down on Colombia crackdown, calls Petro ‘lunatic,’ vows to end all US payments over drugs",
       "link": "https://www.foxnews.com/politics/trump-doubles-down-colombia-crackdown-calls-petro-lunatic-vows-end-all-us-payments-over-drugs"
+    },
+    {
+      "title": "Trump calls Jay Jones an 'animal,' says 'anybody would be put in prison for what he said'",
+      "link": "https://www.foxnews.com/politics/trump-calls-jay-jones-animal-says-anybody-would-put-prison-what-he-said"
+    },
+    {
+      "title": "‘America First’ attorney general distances himself from McConnell — his former boss — as Kentucky race defines GOP future",
+      "link": "https://www.foxnews.com/politics/america-first-attorney-general-distances-himself-from-mcconnell-his-former-boss-kentucky-race-defines-gop-future"
+    },
+    {
+      "title": "'Goofballs' and hostages: GOP senators say Schumer's shutdown tactics destroying the Senate",
+      "link": "https://www.foxnews.com/politics/goofballs-hostages-gop-senators-say-schumers-shutdown-tactics-destroying-senate"
+    },
+    {
+      "title": "Is Trump’s ‘heat’ on Venezuela the start of a wider campaign for regime change?",
+      "link": "https://www.foxnews.com/politics/trumps-heat-venezuela-start-wider-campaign-regime-change"
+    },
+    {
+      "title": "Trump reacts to 'No Kings' protests by saying 'I'm not a king, I work my ass off'",
+      "link": "https://www.foxnews.com/politics/trump-reacts-no-kings-protests-saying-im-not-king-i-work-my-ass-off"
     },
     {
       "title": "Trump boards AF1 quickly, using small stairs due to 'increased security measures': WH official",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-20T14:12:10.950Z"
+  "timestamp": "2025-10-20T14:33:36.813Z"
 }
