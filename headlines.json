@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump reacts to 'No Kings' protests by saying 'I'm not a king, I work my ass off'",
+      "link": "https://www.foxnews.com/politics/trump-reacts-no-kings-protests-saying-im-not-king-i-work-my-ass-off"
+    },
+    {
       "title": "George Santos snaps at CNN host over idea Trump gave him 'favorable treatment'",
       "link": "https://www.foxnews.com/media/george-santos-snaps-cnn-host-over-idea-trump-gave-him-favorable-treatment"
     },
@@ -27,18 +31,6 @@
     {
       "title": "George Santos vows not to ‘disappoint’ Trump after surprise release, says he found God in prison",
       "link": "https://www.foxnews.com/media/george-santos-vows-not-disappoint-trump-after-surprise-release-says-he-found-god-prison"
-    },
-    {
-      "title": "Johnson calls FBI’s ‘alarming’ arrest of alleged Hamas terrorist proof of Biden immigration failures",
-      "link": "https://www.foxnews.com/media/johnson-calls-fbi-alarming-arrest-alleged-hamas-terrorist-proof-biden-immigration-failures"
-    },
-    {
-      "title": "Florida fires football coach Billy Napier",
-      "link": "https://www.foxnews.com/sports/florida-fires-football-coach-billy-napier"
-    },
-    {
-      "title": "Karine Jean-Pierre writes she couldn't 'stomach' being a Democrat anymore after party's treatment of Biden",
-      "link": "https://www.foxnews.com/media/karine-jean-pierre-writes-she-couldnt-stomach-being-democrat-anymore-after-partys-treatment-biden"
     },
     {
       "title": "Trump calls Colombia’s Petro ‘a drug leader,’ says US aid will end payments",
@@ -79,8 +71,16 @@
     {
       "title": "WATCH: 'No Kings' protesters at massive NYC rally reveal motivation for taking to the streets: 'Disgusting'",
       "link": "https://www.foxnews.com/politics/watch-no-kings-protesters-at-massive-nyc-rally-reveal-motivation-for-taking-to-the-streets-disgusting"
+    },
+    {
+      "title": "Trump releases video of US drone strike on ‘drug-carrying submarine’ in Caribbean that left 2 dead, 2 captured",
+      "link": "https://www.foxnews.com/politics/trump-releases-video-us-drone-strike-drug-carrying-submarine-caribbean-2-dead-2-captured"
+    },
+    {
+      "title": "New Jersey Democratic governor hopeful attends 'No Kings' protest, vows to fight Trump 'tooth and nail'",
+      "link": "https://www.foxnews.com/politics/new-jersey-democratic-governor-hopeful-attends-no-kings-protest-vows-fight-trump-tooth-nail"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-20T01:01:39.412Z"
+  "timestamp": "2025-10-20T02:51:50.457Z"
 }
