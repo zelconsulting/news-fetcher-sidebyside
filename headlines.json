@@ -1,11 +1,27 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Trump blasts Colombia’s Petro after alleged drug strike death",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-blasts-colombias-petro-after-alleged-drug-strike-death"
+    },
+    {
+      "title": "Trump threatens Hamas if Gaza ceasefire collapses as JD Vance to visit Israel",
+      "link": "https://www.foxnews.com/world/trump-threatens-hamas-if-gaza-ceasefire-collapses-jd-vance-visit-israel"
+    },
+    {
+      "title": "Bernie Sanders says Democrats need to make 'fundamental decision' about what they stand for",
+      "link": "https://www.foxnews.com/media/bernie-sanders-says-democrats-need-make-fundamental-decision-about-what-stand"
+    },
+    {
+      "title": "9th Circuit court rules on Trump's National Guard deployment in Portland",
+      "link": "https://www.foxnews.com/politics/9th-circuit-court-rules-trumps-national-guard-deployment-portland"
+    },
+    {
       "title": "'No Kings' agitator vowed to ‘fight ICE’ with firebombs at blue city's protest: report",
       "link": "https://www.foxnews.com/us/no-kings-agitator-vowed-fight-ice-firebombs-blue-citys-protest-report"
     },
     {
-      "title": "Fire chief's dog escapes unharmed after chewing on lithium-ion battery, sparking house fire",
+      "title": "Assistant fire chief's dog escapes unharmed after chewing on lithium-ion battery, sparking house fire",
       "link": "https://www.foxnews.com/us/fire-chiefs-dog-escapes-unharmed-after-chewing-lithium-ion-battery-sparking-house-fire"
     },
     {
@@ -25,20 +41,8 @@
       "link": "https://www.foxnews.com/politics/colombia-recalls-us-ambassador-after-trump-calls-leader-illegal-drug-leader-threatens-military-action"
     },
     {
-      "title": "Charlamagne tha God says Democrats are losing the shutdown messaging battle",
-      "link": "https://www.foxnews.com/media/charlamagne-tha-god-says-democrats-losing-shutdown-messaging-battle"
-    },
-    {
       "title": "NYC billionaire Catsimatidis calls on Curtis Sliwa to drop NYC mayoral campaign",
       "link": "https://www.foxnews.com/politics/nyc-billionaire-catsimatidis-calls-curtis-sliwa-drop-nyc-mayoral-campaign"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Trump blasts Colombia’s Petro after alleged drug strike death",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-blasts-colombias-petro-after-alleged-drug-strike-death"
-    },
-    {
-      "title": "9th Circuit court rules on Trump's National Guard deployment in Portland",
-      "link": "https://www.foxnews.com/politics/9th-circuit-court-rules-trumps-national-guard-deployment-portland"
     },
     {
       "title": "Battle for governor in closely watched election may be headed for a photo finish",
@@ -75,12 +79,8 @@
     {
       "title": "'Goofballs' and hostages: GOP senators say Schumer's shutdown tactics destroying the Senate",
       "link": "https://www.foxnews.com/politics/goofballs-hostages-gop-senators-say-schumers-shutdown-tactics-destroying-senate"
-    },
-    {
-      "title": "Is Trump’s ‘heat’ on Venezuela the start of a wider campaign for regime change?",
-      "link": "https://www.foxnews.com/politics/trumps-heat-venezuela-start-wider-campaign-regime-change"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-20T20:34:01.721Z"
+  "timestamp": "2025-10-20T20:49:54.979Z"
 }
