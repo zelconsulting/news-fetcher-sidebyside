@@ -1,54 +1,6 @@
 {
   "fox": [
     {
-      "title": "State Department blasts Dems over shutdown, says national security at risk amid Senate battle",
-      "link": "https://www.foxnews.com/politics/state-department-blasts-dems-over-shutdown-says-national-security-risk-amid-senate-battle"
-    },
-    {
-      "title": "Jay Jones murder texts latest case of Democrats circling the scandal wagons",
-      "link": "https://www.foxnews.com/politics/jay-jones-murder-texts-latest-case-democrats-circling-scandal-wagons"
-    },
-    {
-      "title": "Stephen Colbert and Karine Jean-Pierre clash over Biden’s mental acuity, accusations president was betrayed",
-      "link": "https://www.foxnews.com/media/stephen-colbert-karine-jean-pierre-clash-over-bidens-mental-acuity-accusations-president-betrayed"
-    },
-    {
-      "title": "Trump's Operation Warp Speed sparks GOP call for Nobel Peace Prize after ceasefire snub",
-      "link": "https://www.foxnews.com/politics/trumps-operation-warp-speed-sparks-gop-call-nobel-peace-prize-after-ceasefire-snub"
-    },
-    {
-      "title": "Violent symbolism, threats steal show at nationwide 'No Kings' protests",
-      "link": "https://www.foxnews.com/us/violent-symbolism-threats-steal-show-nationwide-no-kings-protests"
-    },
-    {
-      "title": "GOP gubernatorial hopeful predicts shutdown fight will haunt Dems in critical elections",
-      "link": "https://www.foxnews.com/politics/gop-gubernatorial-hopeful-predicts-shutdown-fight-haunt-dems-critical-elections"
-    },
-    {
-      "title": "Mark Wahlberg joins President Trump, Sylvester Stallone, Sydney Sweeney with $37M Florida mansion purchase",
-      "link": "https://www.foxnews.com/entertainment/mark-wahlberg-joins-president-trump-sylvester-stallone-sydney-sweeney-37m-florida-mansion-purchase"
-    },
-    {
-      "title": "‘She lied’: Mikie Sherrill's classmate says involvement in cheating scandal deeper than she claims",
-      "link": "https://www.foxnews.com/politics/she-lied-mikie-sherrill-classmate-says-involvement-cheating-scandal-deeper-than-she-claims"
-    },
-    {
-      "title": "Biden 'rang the bell' after completing radiation therapy for prostate cancer",
-      "link": "https://www.foxnews.com/politics/biden-rang-bell-completing-radiation-therapy-prostate-cancer"
-    },
-    {
-      "title": "Fortnight to Election Day: 5 key 2025 races to watch",
-      "link": "https://www.foxnews.com/politics/fortnight-election-day-5-key-2025-races-watch"
-    },
-    {
-      "title": "President Trump's deportation machine to 'shatter’ records and more top headlines",
-      "link": "https://www.foxnews.com/us/president-trumps-deportation-machine-shatter-records-more-top-headlines"
-    },
-    {
-      "title": "Rutgers chancellor launches safety review, ‘academic freedom’ task force amid ‘Dr Antifa’ uproar",
-      "link": "https://www.foxnews.com/media/rutgers-chancellor-launches-safety-review-academic-freedom-task-force-amid-dr-antifa-uproar"
-    },
-    {
       "title": "Blackburn says Trump support was 'common thread' among lawmakers reportedly targeted by Jack Smith",
       "link": "https://www.foxnews.com/politics/blackburn-says-trump-support-common-thread-among-lawmakers-reportedly-targeted-jack-smith"
     },
@@ -69,6 +21,42 @@
       "link": "https://www.foxnews.com/politics/obama-hits-campaign-trail-boost-democrats-weekend-before-election-day-key-governor-showdowns"
     },
     {
+      "title": "George Santos promises prison reform work after Trump commutes his federal fraud sentence",
+      "link": "https://www.foxnews.com/media/george-santos-promises-prison-reform-work-after-trump-commutes-his-federal-fraud-sentence"
+    },
+    {
+      "title": "State Department blasts Dems over shutdown, says national security at risk amid Senate battle",
+      "link": "https://www.foxnews.com/politics/state-department-blasts-dems-over-shutdown-says-national-security-risk-amid-senate-battle"
+    },
+    {
+      "title": "Jay Jones murder texts latest case of Democrats circling the scandal wagons",
+      "link": "https://www.foxnews.com/politics/jay-jones-murder-texts-latest-case-democrats-circling-scandal-wagons"
+    },
+    {
+      "title": "Republicans push to renew Obamacare subsidies while rejecting Democrats' shutdown tie-in",
+      "link": "https://www.foxnews.com/politics/republicans-push-renew-obamacare-subsidies-while-rejecting-democrats-shutdown-tie-in"
+    },
+    {
+      "title": "Trump's Operation Warp Speed sparks GOP call for Nobel Peace Prize after ceasefire snub",
+      "link": "https://www.foxnews.com/politics/trumps-operation-warp-speed-sparks-gop-call-nobel-peace-prize-after-ceasefire-snub"
+    },
+    {
+      "title": "GOP gubernatorial hopeful predicts shutdown fight will haunt Dems in critical elections",
+      "link": "https://www.foxnews.com/politics/gop-gubernatorial-hopeful-predicts-shutdown-fight-haunt-dems-critical-elections"
+    },
+    {
+      "title": "‘She lied’: Mikie Sherrill's classmate says involvement in cheating scandal deeper than she claims",
+      "link": "https://www.foxnews.com/politics/she-lied-mikie-sherrill-classmate-says-involvement-cheating-scandal-deeper-than-she-claims"
+    },
+    {
+      "title": "Biden 'rang the bell' after completing radiation therapy for prostate cancer",
+      "link": "https://www.foxnews.com/politics/biden-rang-bell-completing-radiation-therapy-prostate-cancer"
+    },
+    {
+      "title": "Fortnight to Election Day: 5 key 2025 races to watch",
+      "link": "https://www.foxnews.com/politics/fortnight-election-day-5-key-2025-races-watch"
+    },
+    {
       "title": "SCOOP: Trump-backed former Navy SEAL launches GOP primary challenge against Massie",
       "link": "https://www.foxnews.com/politics/scoop-trump-backed-former-navy-seal-launches-gop-primary-challenge-against-massie"
     },
@@ -79,8 +67,12 @@
     {
       "title": "Trump admin on pace to shatter deportation record by end of first year: 'Just the beginning'",
       "link": "https://www.foxnews.com/politics/trump-admin-on-pace-shatter-deportation-record-end-first-year-just-the-beginning"
+    },
+    {
+      "title": "‘It’s a joke’: White House dismisses 'No Kings' protests, while Nancy Pelosi rips crown in defiance",
+      "link": "https://www.foxnews.com/politics/its-joke-white-house-dismisses-no-kings-protests-while-nancy-pelosi-rips-crown-defiance"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-21T15:49:04.657Z"
+  "timestamp": "2025-10-21T16:16:37.690Z"
 }
