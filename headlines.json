@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "'No plans' for Trump-Putin meeting 'in the near future,' senior official says",
+      "link": "https://www.foxnews.com/politics/no-plans-trump-putin-meeting-in-near-future-senior-official-says"
+    },
+    {
+      "title": "Bernie Sanders says Trump's not stupid to realize 'system is broken,' even as he makes it worse",
+      "link": "https://www.foxnews.com/media/bernie-sanders-says-trumps-not-stupid-realize-system-broken-even-he-makes-worse"
+    },
+    {
+      "title": "Hillary Clinton fires up voters against Trump's White House ballroom construction: 'Not his house''",
+      "link": "https://www.foxnews.com/politics/hillary-clinton-fires-up-voters-against-trumps-white-house-ballroom-construction-not-his-house"
+    },
+    {
+      "title": "NJ barbershop voters split over Sherrill, Ciattarelli as governor's race tightens",
+      "link": "https://www.foxnews.com/media/nj-barbershop-voters-split-over-sherrill-ciattarelli-governors-race-tightens"
+    },
+    {
+      "title": "Republicans push to renew Obamacare subsidies while rejecting Democrats' shutdown tie-in",
+      "link": "https://www.foxnews.com/politics/republicans-push-renew-obamacare-subsidies-while-rejecting-democrats-shutdown-tie-in"
+    },
+    {
       "title": "Blackburn says Trump support was 'common thread' among lawmakers reportedly targeted by Jack Smith",
       "link": "https://www.foxnews.com/politics/blackburn-says-trump-support-common-thread-among-lawmakers-reportedly-targeted-jack-smith"
     },
@@ -21,28 +41,12 @@
       "link": "https://www.foxnews.com/politics/obama-hits-campaign-trail-boost-democrats-weekend-before-election-day-key-governor-showdowns"
     },
     {
-      "title": "George Santos promises prison reform work after Trump commutes his federal fraud sentence",
-      "link": "https://www.foxnews.com/media/george-santos-promises-prison-reform-work-after-trump-commutes-his-federal-fraud-sentence"
-    },
-    {
       "title": "State Department blasts Dems over shutdown, says national security at risk amid Senate battle",
       "link": "https://www.foxnews.com/politics/state-department-blasts-dems-over-shutdown-says-national-security-risk-amid-senate-battle"
     },
     {
       "title": "Jay Jones murder texts latest case of Democrats circling the scandal wagons",
       "link": "https://www.foxnews.com/politics/jay-jones-murder-texts-latest-case-democrats-circling-scandal-wagons"
-    },
-    {
-      "title": "'No plans' for Trump-Putin meeting 'in the near future,' senior official says",
-      "link": "https://www.foxnews.com/politics/no-plans-trump-putin-meeting-near-future-senior-official-says"
-    },
-    {
-      "title": "Hillary Clinton fires up voters against Trump's White House ballroom construction: 'Not his house''",
-      "link": "https://www.foxnews.com/politics/hillary-clinton-fires-up-voters-against-trumps-white-house-ballroom-construction-not-his-house"
-    },
-    {
-      "title": "Republicans push to renew Obamacare subsidies while rejecting Democrats' shutdown tie-in",
-      "link": "https://www.foxnews.com/politics/republicans-push-renew-obamacare-subsidies-while-rejecting-democrats-shutdown-tie-in"
     },
     {
       "title": "Trump's Operation Warp Speed sparks GOP call for Nobel Peace Prize after ceasefire snub",
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-21T17:41:46.933Z"
+  "timestamp": "2025-10-21T17:49:33.450Z"
 }
