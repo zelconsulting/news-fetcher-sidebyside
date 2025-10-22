@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Dublin protesters clash with police, burn vehicle after migrant accused of sexually assaulting Irish girl",
+      "link": "https://www.foxnews.com/world/dublin-protesters-clash-police-burn-vehicle-after-migrant-accused-sexually-assaulting-irish-girl-10"
+    },
+    {
+      "title": "Jen Psaki urges Democrats to 'burn' DNC talking points, 'talk like a human being'",
+      "link": "https://www.foxnews.com/media/jen-psaki-urges-democrats-burn-dnc-talking-points-talk-like-human-being"
+    },
+    {
       "title": "California Republicans launch voter ID ballot push, need 875K signatures by deadline",
       "link": "https://www.foxnews.com/politics/california-republicans-launch-voter-id-ballot-push-need-875k-signatures-deadline"
     },
@@ -27,18 +35,6 @@
     {
       "title": "Hillary Clinton mocked for 2001 furniture scandal amid Trump ballroom meltdown: 'At least he didn’t steal'",
       "link": "https://www.foxnews.com/politics/hillary-clinton-mocked-2001-furniture-scandal-amid-trump-ballroom-meltdown-at-least-he-didnt-steal"
-    },
-    {
-      "title": "Sports commentator Emily Austin kicks off podcast in hopes of 'open dialogue' for athletes to express politics",
-      "link": "https://www.foxnews.com/sports/sports-commentator-emily-austin-kicks-off-podcast-hopes-open-dialogue-athletes-express-politics"
-    },
-    {
-      "title": "Is Congress stopping millions from saving $4,600 on cheaper health insurance plans?",
-      "link": "https://www.foxnews.com/opinion/congress-stopping-millions-from-saving-4600-cheaper-health-insurance-plans"
-    },
-    {
-      "title": "Karine Jean-Pierre laments George Clooney's 'gut punch' to Joe Biden with NY Times essay",
-      "link": "https://www.foxnews.com/media/karine-jean-pierre-laments-george-clooneys-gut-punch-joe-biden-ny-times-essay"
     },
     {
       "title": "Japan plans to tell Trump it will build up its military after years of 1% defense spending",
@@ -79,8 +75,12 @@
     {
       "title": "Trump celebrates White House demolition as new ballroom rises: ‘Music to my ears’",
       "link": "https://www.foxnews.com/politics/trump-celebrates-white-house-demolition-new-ballroom-rises-music-my-ears"
+    },
+    {
+      "title": "Trump warns ‘I’d rather have a Democrat than a communist’ as NYC mayoral race enters homestretch",
+      "link": "https://www.foxnews.com/politics/trump-warns-rather-have-democrat-than-communist-nyc-mayoral-race-enters-homestretch"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-22T17:48:09.425Z"
+  "timestamp": "2025-10-22T18:19:41.713Z"
 }
