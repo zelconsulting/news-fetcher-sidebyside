@@ -1,6 +1,30 @@
 {
   "fox": [
     {
+      "title": "Giants make history with unprecedented managerial hire from college baseball ranks",
+      "link": "https://www.foxnews.com/sports/giants-make-history-unprecedented-managerial-hire-college-baseball-ranks"
+    },
+    {
+      "title": "Roger Goodell stands firm on Bad Bunny Super Bowl halftime show after Trump calls selection 'ridiculous'",
+      "link": "https://www.foxnews.com/sports/roger-goodell-stands-firm-bad-bunny-super-bowl-halftime-show-after-trump-calls-selection-ridiculous"
+    },
+    {
+      "title": "Jeffries rips ICE as 'out of control,' claims Americans have 'turned on' Trump over immigration",
+      "link": "https://www.foxnews.com/politics/jeffries-rips-ice-out-control-claims-americans-have-turned-on-trump-over-immigration"
+    },
+    {
+      "title": "Ongoing government shutdown threatens holiday travel as pilots rally for lawmakers to reach an agreement",
+      "link": "https://www.foxnews.com/politics/ongoing-government-shutdown-threatens-holiday-travel-pilots-rally-lawmakers-reach-agreement"
+    },
+    {
+      "title": "MAGA star joins Ciattarelli on campaign trail in New Jersey as Republicans aim to flip governor's office",
+      "link": "https://www.foxnews.com/politics/maga-star-joins-ciattarelli-campaign-trail-new-jersey-republicans-aim-flip-governors-office"
+    },
+    {
+      "title": "Cruz leads Senate push to hold China accountable for Beijing church crackdown",
+      "link": "https://www.foxnews.com/politics/cruz-leads-senate-push-hold-china-accountable-beijing-church-crackdown"
+    },
+    {
       "title": "DAVID MARCUS: 5 things New York Republicans need to hear from Andrew Cuomo",
       "link": "https://www.foxnews.com/opinion/david-marcus-5-things-new-york-republicans-need-hear-from-andrew-cuomo"
     },
@@ -29,32 +53,8 @@
       "link": "https://www.foxnews.com/politics/trump-meets-natos-rutte-ukraine-peace-talks-take-center-stage-after-zelenskyy-visit"
     },
     {
-      "title": "Dublin protesters clash with police, burn vehicle after migrant accused of sexually assaulting Irish girl",
-      "link": "https://www.foxnews.com/world/dublin-protesters-clash-police-burn-vehicle-after-migrant-accused-sexually-assaulting-irish-girl-10"
-    },
-    {
-      "title": "Jen Psaki urges Democrats to 'burn' DNC talking points, 'talk like a human being'",
-      "link": "https://www.foxnews.com/media/jen-psaki-urges-democrats-burn-dnc-talking-points-talk-like-human-being"
-    },
-    {
       "title": "California Republicans launch voter ID ballot push, need 875K signatures by deadline",
       "link": "https://www.foxnews.com/politics/california-republicans-launch-voter-id-ballot-push-need-875k-signatures-deadline"
-    },
-    {
-      "title": "Jeffries rips ICE as 'out of control,' claims Americans have 'turned on' Trump over immigration",
-      "link": "https://www.foxnews.com/politics/jeffries-rips-ice-out-control-claims-americans-have-turned-on-trump-over-immigration"
-    },
-    {
-      "title": "Ongoing government shutdown threatens holiday travel as pilots rally for lawmakers to reach an agreement",
-      "link": "https://www.foxnews.com/politics/ongoing-government-shutdown-threatens-holiday-travel-pilots-rally-lawmakers-reach-agreement"
-    },
-    {
-      "title": "MAGA star joins Ciattarelli on campaign trail in New Jersey as Republicans aim to flip governor's office",
-      "link": "https://www.foxnews.com/politics/maga-star-joins-ciattarelli-campaign-trail-new-jersey-republicans-aim-flip-governors-office"
-    },
-    {
-      "title": "Cruz leads Senate push to hold China accountable for Beijing church crackdown",
-      "link": "https://www.foxnews.com/politics/cruz-leads-senate-push-hold-china-accountable-beijing-church-crackdown"
     },
     {
       "title": "Trump suggests DOJ owes him money for past cases",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-22T20:33:53.249Z"
+  "timestamp": "2025-10-22T20:47:47.492Z"
 }
