@@ -1,8 +1,32 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: Trump's ballroom is no vanity project, it's about American grandeur",
+      "link": "https://www.foxnews.com/opinion/david-marcus-trumps-ballroom-no-vanity-project-its-about-american-grandeur"
+    },
+    {
+      "title": "Stephen A. Smith apologizes to Jasmine Crockett after calling out her 'incendiary' politics",
+      "link": "https://www.foxnews.com/media/stephen-a-smith-apologizes-jasmine-crockett-after-calling-out-her-incendiary-politics"
+    },
+    {
+      "title": "Illinois GOP governor candidate loses son, daughter-in-law, 2 grandchildren in helicopter crash",
+      "link": "https://www.foxnews.com/politics/illinois-gop-governor-candidate-loses-son-daughter-2-grandchildren-helicopter-crash"
+    },
+    {
+      "title": "NBA legend Chauncey Billups, Heat's Terry Rozier arrested as part of FBI sports betting probe",
+      "link": "https://www.foxnews.com/sports/nba-legend-chauncey-billups-heats-terry-rozier-arrested-part-fbi-sports-betting-probe"
+    },
+    {
+      "title": "Fiscal disaster scenario during shutdown sends GOP scrambling for new spending plan",
+      "link": "https://www.foxnews.com/politics/fiscal-disaster-scenario-during-shutdown-sends-gop-scrambling-new-spending-plan"
+    },
+    {
+      "title": "Grocery bills in America: Here are the most and least expensive cities",
+      "link": "https://www.foxnews.com/food-drink/grocery-bills-america-here-most-least-expensive-cities"
+    },
+    {
       "title": "Illegal immigrant released by Biden admin accused of killing 3 in fiery crash and more top headlines",
-      "link": "https://www.foxnews.com/us/illegal-immigrant-released-biden-admin-accused-killing-3-fiery-crash-more-top-headlines"
+      "link": "https://www.foxnews.com/us/illegal-immigrant-released-biden-admin-accused-killing-fiery-crash-more-top-headlines"
     },
     {
       "title": "Trump to host roundtable on efforts to thwart cartels, human trafficking operations",
@@ -13,32 +37,8 @@
       "link": "https://www.foxnews.com/politics/newsom-threatens-sue-trump-sends-troops-san-francisco-wannabe-tyrant"
     },
     {
-      "title": "Why elite colleges fear Trump and McMahon's new academic compact tying funding to free speech",
-      "link": "https://www.foxnews.com/opinion/why-elite-colleges-fear-trump-mcmahons-new-academic-compact-tying-funding-free-speech"
-    },
-    {
-      "title": "Trump’s troubling week: Demanding government money, demolishing the East Wing",
-      "link": "https://www.foxnews.com/media/trumps-troubling-week-demanding-government-money-demolishing-east-wing"
-    },
-    {
       "title": "Government shutdown knowledge: gaming out its potential end",
       "link": "https://www.foxnews.com/politics/government-shutdown-knowledge-gaming-out-its-potential-end"
-    },
-    {
-      "title": "Fetterman breaks with Democrats over shutdown, vows to put 'country over party'",
-      "link": "https://www.foxnews.com/media/fetterman-breaks-democrats-over-shutdown-vows-put-country-over-party"
-    },
-    {
-      "title": "Illegal immigrant trucker accused in fatal California crash released by Biden admin after 2022 border crossing",
-      "link": "https://www.foxnews.com/us/illegal-immigrant-trucker-accused-fatal-california-crash-released-biden-admin-after-2022-border-crossing"
-    },
-    {
-      "title": "Illinois GOP governor candidate loses son, daughter-in-law, 2 grandchildren in helicopter crash",
-      "link": "https://www.foxnews.com/politics/illinois-gop-governor-candidate-loses-son-daughter-2-grandchildren-helicopter-crash"
-    },
-    {
-      "title": "Fiscal disaster scenario during shutdown sends GOP scrambling for new spending plan",
-      "link": "https://www.foxnews.com/politics/fiscal-disaster-scenario-during-shutdown-sends-gop-scrambling-new-spending-plan"
     },
     {
       "title": "Trading barbs from light-hearted to vicious, mayoral candidates make final appeal to New Yorkers",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-23T12:25:47.532Z"
+  "timestamp": "2025-10-23T13:06:23.480Z"
 }
