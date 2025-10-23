@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Government shutdown knowledge: gaming out its potential end",
+      "link": "https://www.foxnews.com/politics/government-shutdown-knowledge-gaming-out-its-potential-end"
+    },
+    {
       "title": "Fetterman breaks with Democrats over shutdown, vows to put 'country over party'",
       "link": "https://www.foxnews.com/media/fetterman-breaks-democrats-over-shutdown-vows-put-country-over-party"
     },
@@ -45,10 +49,6 @@
       "link": "https://www.foxnews.com/politics/maine-dem-senate-hopeful-backed-bernie-sanders-apologizes-nazi-style-tattoo-vows-stay-race"
     },
     {
-      "title": "Government shutdown knowledge: gaming out its potential end",
-      "link": "https://www.foxnews.com/politics/government-shutdown-knowledge-gaming-out-its-potential-end"
-    },
-    {
       "title": "Texas Rep Jasmine Crockett weighs Senate bid after redistricting threatens House seat",
       "link": "https://www.foxnews.com/politics/texas-rep-jasmine-crockett-weighs-senate-bid-after-redistricting-threatens-house-seat"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-23T05:12:53.714Z"
+  "timestamp": "2025-10-23T05:32:21.685Z"
 }
