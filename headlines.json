@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump to jet off to Asia as North Korea fires ballistic missiles and China trade questions loom",
+      "link": "https://www.foxnews.com/politics/trump-jet-off-asia-north-korea-fires-ballistic-missiles-china-trade-questions-loom"
+    },
+    {
+      "title": "Democrats, liberal media figures fume over Trump demolishing White House East Wing for ballroom",
+      "link": "https://www.foxnews.com/media/democrats-liberal-media-figures-fume-over-trump-demolishing-white-house-east-wing-ballroom"
+    },
+    {
       "title": "Fox News Politics Newsletter: Zohran Mamdani lands key NYC mayoral endorsement",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-zohran-mamdani-lands-key-nyc-mayoral-endorsement"
     },
@@ -17,16 +25,8 @@
       "link": "https://www.foxnews.com/politics/cruz-cannot-support-trumps-kuwait-ambassador-pick-over-muslim-brotherhood-remarks"
     },
     {
-      "title": "Jean-Pierre refuses to tell CNN whether Biden should be president now, won't read book about his decline",
-      "link": "https://www.foxnews.com/media/jean-pierre-refuses-tell-cnn-whether-biden-should-president-now-wont-read-book-about-his-decline"
-    },
-    {
       "title": "White House says government shutdown could eliminate next inflation report despite optimistic numbers",
       "link": "https://www.foxnews.com/politics/white-house-says-government-shutdown-could-eliminate-next-inflation-report-despite-optimistic-numbers"
-    },
-    {
-      "title": "Ted Cruz calls out Californians accused of jeering girls protesting volleyball game involving trans athlete",
-      "link": "https://www.foxnews.com/sports/ted-cruz-calls-out-californians-accused-jeering-girls-protesting-volleyball-game-involving-trans-athlete"
     },
     {
       "title": "Dem staffer threatened to ‘put a knot’ on GOP lawmaker’s head, judge grants protection order",
@@ -35,10 +35,6 @@
     {
       "title": "Mystery Trump ally donates $130M to cover troops’ paychecks amid shutdown chaos",
       "link": "https://www.foxnews.com/politics/mystery-trump-ally-donates-130m-cover-troops-paychecks-amid-shutdown-chaos"
-    },
-    {
-      "title": "Trump to jet off to Asia as North Korea fires ballistic missiles and China trade questions loom",
-      "link": "https://www.foxnews.com/politics/trump-jet-off-asia-north-korea-fires-ballistic-missiles-china-trade-questions-loom"
     },
     {
       "title": "Nearly all Republican AGs add firepower to Trump's birthright citizenship push",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-24T22:47:54.057Z"
+  "timestamp": "2025-10-24T23:11:26.695Z"
 }
