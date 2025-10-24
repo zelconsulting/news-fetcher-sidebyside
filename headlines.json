@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Dem staffer threatened to ‘put a knot’ on GOP lawmaker’s head, judge grants protection order",
+      "link": "https://www.foxnews.com/politics/dem-staffer-threatened-put-knot-gop-lawmakers-head-judge-grants-protection-order"
+    },
+    {
       "title": "Mystery Trump ally donates $130M to cover troops’ paychecks amid shutdown chaos",
       "link": "https://www.foxnews.com/politics/mystery-trump-ally-donates-130m-cover-troops-paychecks-amid-shutdown-chaos"
     },
@@ -41,12 +45,8 @@
       "link": "https://www.foxnews.com/politics/trump-admin-accuses-hillary-clinton-stealing-white-house-furniture-former-first-lady-slams-ballroom-plan"
     },
     {
-      "title": "Chelsea Clinton rips Trump's 'disregard for history' with White House ballroom construction",
-      "link": "https://www.foxnews.com/media/chelsea-clinton-rips-trumps-disregard-history-white-house-ballroom-construction"
-    },
-    {
-      "title": "Dem staffer threatened to ‘put a knot’ on GOP lawmaker’s head, judge grants protection order",
-      "link": "https://www.foxnews.com/politics/dem-staffer-threatened-put-knot-gop-lawmakers-head-judge-grants-protection-order"
+      "title": "White House says government shutdown could eliminate next inflation report despite optimistic numbers",
+      "link": "https://www.foxnews.com/politics/white-house-says-government-shutdown-could-eliminate-next-inflation-report-despite-optimistic-numbers"
     },
     {
       "title": "Rubio ditches costly conference travel, slashes nearly $100M in Biden-era bloat",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-24T19:48:03.753Z"
+  "timestamp": "2025-10-24T20:13:54.110Z"
 }
