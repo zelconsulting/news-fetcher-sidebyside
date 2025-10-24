@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "White House responds to liberal podcast host calling Stephen Miller a 'Nazi Jew'",
+      "link": "https://www.foxnews.com/media/white-house-responds-liberal-podcast-host-calling-stephen-miller-nazi-jew"
+    },
+    {
+      "title": "Trump reacts to report of B-1 bombers near Venezuela while threatening drug traffickers during WH roundtable",
+      "link": "https://www.foxnews.com/politics/trump-reacts-report-b-1-bombers-near-venezuela-threatening-drug-traffickers-wh-roundtable"
+    },
+    {
       "title": "Josh Hawley turns tables on CNN reporter when asked if Trump White House renovation is destroying history",
       "link": "https://www.foxnews.com/media/josh-hawley-turns-tables-cnn-reporter-when-asked-trump-white-house-renovation-destroying-history"
     },
@@ -33,20 +41,12 @@
       "link": "https://www.foxnews.com/politics/jack-smith-pushes-public-testimony-confront-mischaracterizations-trump-probes"
     },
     {
-      "title": "Rogan says it would be 'hilarious' if Trump became California governor after leaving office, fixed everything",
-      "link": "https://www.foxnews.com/media/rogan-says-would-hilarious-trump-became-californias-governor-after-leaving-office-fixed-everything"
-    },
-    {
-      "title": "Brewery goes viral for defending policy banning kids after 7 p.m.: 'Not a playground'",
-      "link": "https://www.foxnews.com/food-drink/brewery-goes-viral-defending-policy-banning-kids-7-pm-not-playground"
+      "title": "Virginia Lt. Gov. candidate enlists AI to represent Dem opponent after she rejected debate offers",
+      "link": "https://www.foxnews.com/politics/virginia-lt-gov-candidate-enlists-ai-represent-dem-opponent-after-she-rejected-debate-offers"
     },
     {
       "title": "White House says California granted license to illegal immigrant trucker charged in fatal DUI crash",
       "link": "https://www.foxnews.com/politics/white-house-says-california-granted-license-illegal-immigrant-trucker-charged-fatal-dui-crash"
-    },
-    {
-      "title": "Trump reacts to report of B-1 bombers near Venezuela while threatening drug traffickers during WH roundtable",
-      "link": "https://www.foxnews.com/politics/trump-reacts-report-b-1-bombers-near-venezuela-threatening-drug-traffickers-wh-roundtable"
     },
     {
       "title": "Trump 'not interested' in de-escalation with 'unhinged' leader of Colombia, White House says",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-23T23:47:57.762Z"
+  "timestamp": "2025-10-24T00:54:45.393Z"
 }
