@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Zohran Mamdani lands key NYC mayoral endorsement",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-zohran-mamdani-lands-key-nyc-mayoral-endorsement"
+    },
+    {
+      "title": "DOJ sends federal election watchers to California and New Jersey counties amid Republican requests",
+      "link": "https://www.foxnews.com/politics/doj-sends-federal-election-watchers-california-new-jersey-counties-amid-republican-requests"
+    },
+    {
+      "title": "White House responds to reports Trump named new ballroom after himself",
+      "link": "https://www.foxnews.com/politics/white-house-responds-reports-trump-named-new-ballroom-after-himself"
+    },
+    {
+      "title": "Cruz 'cannot support' Trump's Kuwait ambassador pick over Muslim Brotherhood remarks",
+      "link": "https://www.foxnews.com/politics/cruz-cannot-support-trumps-kuwait-ambassador-pick-over-muslim-brotherhood-remarks"
+    },
+    {
+      "title": "Jean-Pierre refuses to tell CNN whether Biden should be president now, won't read book about his decline",
+      "link": "https://www.foxnews.com/media/jean-pierre-refuses-tell-cnn-whether-biden-should-president-now-wont-read-book-about-his-decline"
+    },
+    {
+      "title": "White House says government shutdown could eliminate next inflation report despite optimistic numbers",
+      "link": "https://www.foxnews.com/politics/white-house-says-government-shutdown-could-eliminate-next-inflation-report-despite-optimistic-numbers"
+    },
+    {
+      "title": "Ted Cruz calls out Californians accused of jeering girls protesting volleyball game involving trans athlete",
+      "link": "https://www.foxnews.com/sports/ted-cruz-calls-out-californians-accused-jeering-girls-protesting-volleyball-game-involving-trans-athlete"
+    },
+    {
       "title": "Dem staffer threatened to ‘put a knot’ on GOP lawmaker’s head, judge grants protection order",
       "link": "https://www.foxnews.com/politics/dem-staffer-threatened-put-knot-gop-lawmakers-head-judge-grants-protection-order"
     },
@@ -25,16 +53,8 @@
       "link": "https://www.foxnews.com/politics/johnson-shuts-down-house-pressure-schumer-government-standstill-nears-one-month"
     },
     {
-      "title": "Government expands travel warnings after surge in deadly fake alcohol poisonings",
-      "link": "https://www.foxnews.com/travel/government-expands-travel-warnings-after-surge-deadly-fake-alcohol-poisonings"
-    },
-    {
       "title": "Trump and Kim Jong Un should make 'bold decision' to meet during his Asia trip, South Korean official says",
       "link": "https://www.foxnews.com/politics/trump-kim-jong-un-should-make-bold-decision-meet-during-his-asia-trip-south-korean-official-says"
-    },
-    {
-      "title": "Fox News AI Newsletter: Conservative activist reaches 'breaking point' with Google",
-      "link": "https://www.foxnews.com/tech/ai-newsletter-conservative-activist-reaches-breaking-point-google"
     },
     {
       "title": "Trump parachutes into key 2025 race as GOP aims to flip governor office in blue-leaning state",
@@ -43,26 +63,6 @@
     {
       "title": "Trump admin accuses Hillary Clinton of stealing White House furniture as former first lady slams ballroom plan",
       "link": "https://www.foxnews.com/politics/trump-admin-accuses-hillary-clinton-stealing-white-house-furniture-former-first-lady-slams-ballroom-plan"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Zohran Mamdani lands key NYC mayoral endorsement",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-zohran-mamdani-lands-key-nyc-mayoral-endorsement"
-    },
-    {
-      "title": "DOJ sends federal election watchers to California and New Jersey counties amid Republican requests",
-      "link": "https://www.foxnews.com/politics/doj-sends-federal-election-watchers-california-new-jersey-counties-amid-republican-requests"
-    },
-    {
-      "title": "White House responds to reports Trump named new ballroom after himself",
-      "link": "https://www.foxnews.com/politics/white-house-responds-reports-trump-named-new-ballroom-after-himself"
-    },
-    {
-      "title": "Cruz 'cannot support' Trump's Kuwait ambassador pick over Muslim Brotherhood remarks",
-      "link": "https://www.foxnews.com/politics/cruz-cannot-support-trumps-kuwait-ambassador-pick-over-muslim-brotherhood-remarks"
-    },
-    {
-      "title": "White House says government shutdown could eliminate next inflation report despite optimistic numbers",
-      "link": "https://www.foxnews.com/politics/white-house-says-government-shutdown-could-eliminate-next-inflation-report-despite-optimistic-numbers"
     },
     {
       "title": "Rubio ditches costly conference travel, slashes nearly $100M in Biden-era bloat",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-24T21:10:44.949Z"
+  "timestamp": "2025-10-24T21:26:37.319Z"
 }
