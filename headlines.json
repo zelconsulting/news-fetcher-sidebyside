@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Virginia Giuffre's memoir recounts rape by former prime minister; Epstein's ties to Bill Clinton, Trump",
+      "link": "https://www.foxnews.com/politics/virginia-giuffres-memoir-recounts-rape-former-prime-minister-epsteins-ties-bill-clinton-trump"
+    },
+    {
+      "title": "Schumer accuses Trump of 'skipping town' during shutdown as president heads to Asia for trade talks",
+      "link": "https://www.foxnews.com/politics/schumer-accuses-trump-skipping-town-during-shutdown-president-heads-asia-trade-talks"
+    },
+    {
       "title": "Newsom bails out Planned Parenthood with $140M to keep 100 clinics open after Trump cuts",
       "link": "https://www.foxnews.com/politics/newsom-bails-out-planned-parenthood-140m-keep-100-clinics-open-after-trump-cuts"
     },
@@ -31,14 +39,6 @@
     {
       "title": "Trump to jet off to Asia as North Korea fires ballistic missiles and China trade questions loom",
       "link": "https://www.foxnews.com/politics/trump-jet-off-asia-north-korea-fires-ballistic-missiles-china-trade-questions-loom"
-    },
-    {
-      "title": "Virginia Giuffre's memoir recounts rape by former prime minister; Epstein's ties to Bill Clinton, Trump",
-      "link": "https://www.foxnews.com/politics/virginia-giuffres-memoir-recounts-rape-former-prime-minister-epsteins-ties-bill-clinton-trump"
-    },
-    {
-      "title": "Schumer accuses Trump of 'skipping town' during shutdown as president heads to Asia for trade talks",
-      "link": "https://www.foxnews.com/politics/schumer-accuses-trump-skipping-town-during-shutdown-president-heads-asia-trade-talks"
     },
     {
       "title": "Fox News Politics Newsletter: Zohran Mamdani lands key NYC mayoral endorsement",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-25T09:11:20.913Z"
+  "timestamp": "2025-10-25T09:27:33.800Z"
 }
