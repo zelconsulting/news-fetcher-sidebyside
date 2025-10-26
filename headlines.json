@@ -1,16 +1,20 @@
 {
   "fox": [
     {
+      "title": "Jeffries spars with CBS host on claims the upcoming midterms will be 'rigged elections'",
+      "link": "https://www.foxnews.com/media/jeffries-spars-cbs-host-claims-upcoming-midterms-rigged-elections"
+    },
+    {
+      "title": "NFL fans demand Browns play Shedeur Sanders after latest loss to Patriots",
+      "link": "https://www.foxnews.com/sports/nfl-fans-demand-browns-play-shedeur-sanders-after-latest-loss-patriots"
+    },
+    {
       "title": "PHOTOS: The making of Trump’s White House ballroom, a look at the construction progress",
       "link": "https://www.foxnews.com/politics/photos-inside-making-trumps-ballroom-look-construction-progress"
     },
     {
       "title": "Swalwell demands 2028 Dem candidates vow to destroy Trump's White House ballroom project",
       "link": "https://www.foxnews.com/politics/swalwell-demands-2028-democratic-candidates-vow-destroy-trumps-white-house-ballroom-project"
-    },
-    {
-      "title": "Kamala Harris grilled by BBC journalist on why she didn't raise concerns about Biden's capacity",
-      "link": "https://www.foxnews.com/media/kamala-harris-grilled-bbc-journalist-why-she-didnt-raise-concerns-about-bidens-capacity"
     },
     {
       "title": "First time voting? Here is the ultimate guide to ballot boxes, critical issues on Election Day",
@@ -74,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-26T21:10:26.276Z"
+  "timestamp": "2025-10-26T21:26:16.150Z"
 }
