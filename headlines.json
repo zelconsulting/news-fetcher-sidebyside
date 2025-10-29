@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Riley Gaines and Ocasio-Cortez trade barbs as conservatives defend the former swimmer in ongoing dispute",
+      "link": "https://www.foxnews.com/media/riley-gaines-ocasio-cortez-trade-barbs-conservatives-defend-former-swimmer-ongoing-dispute"
+    },
+    {
+      "title": "CNN host clashes with Democratic lawmaker over government shutdown, SNAP funds",
+      "link": "https://www.foxnews.com/media/cnn-host-clashes-democratic-lawmaker-over-government-shutdown-snap-funds"
+    },
+    {
       "title": "JD Vance addresses possible presidential run with Marco Rubio after Trump teases 'unstoppable' ticket",
       "link": "https://www.foxnews.com/media/jd-vance-addresses-possible-presidential-run-marco-rubio-after-trump-teases-unstoppable-ticket"
     },
@@ -25,20 +33,12 @@
       "link": "https://www.foxnews.com/politics/president-who-got-most-votes-us-history-now-political-kryptonite-2025-campaigns-dodge-biden-harris"
     },
     {
-      "title": "Faith, freedom and the fight against rising antisemitism",
-      "link": "https://www.foxnews.com/opinion/faith-freedom-and-the-fight-against-rising-antisemitism"
-    },
-    {
-      "title": "‘Unprecedented’ antisemitism panel tackles surging national issue",
+      "title": "‘Unprecedented’ panel of federal judges will tackle antisemitism at upcoming Federalist Society conference",
       "link": "https://www.foxnews.com/politics/unprecedented-antisemitism-panel-tackles-surging-national-issue"
     },
     {
       "title": "Beijing is quietly dictating the trade war’s next moves as Trump and Xi prepare to meet",
       "link": "https://www.foxnews.com/politics/beijing-quietly-dictating-trade-wars-next-moves-trump-xi-prepare-meet"
-    },
-    {
-      "title": "CNN's Phillip calls out far-left outrage over MAGA guests on her show, warns not to ignore 'half the country'",
-      "link": "https://www.foxnews.com/media/cnns-phillip-calls-out-far-left-outrage-over-maga-guests-her-show-warns-not-ignore-half-country"
     },
     {
       "title": "Federal court to review case relating to Trump’s authority to send National Guard troops to Portland, Oregon",
@@ -47,10 +47,6 @@
     {
       "title": "House conservatives to lead prayer for end to political violence, government shutdown",
       "link": "https://www.foxnews.com/politics/house-conservatives-lead-prayer-end-political-violence-government-shutdown"
-    },
-    {
-      "title": "‘Unprecedented’ panel of federal judges will tackle antisemitism at upcoming Federalist Society conference",
-      "link": "https://www.foxnews.com/politics/unprecedented-antisemitism-panel-tackles-surging-national-issue"
     },
     {
       "title": "GOP senators push for Charlie Kirk statue in Trump's National Garden of American Heroes",
@@ -79,8 +75,12 @@
     {
       "title": "Trump says China will work with him to stop fentanyl trafficking",
       "link": "https://www.foxnews.com/politics/trump-says-china-work-him-stop-fentanyl-trafficking"
+    },
+    {
+      "title": "Trump says he could deploy US military in American cities, claims ‘courts wouldn’t get involved’",
+      "link": "https://www.foxnews.com/politics/trump-says-he-could-deploy-u-s-military-american-cities-claims-courts-wouldnt-get-involved"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-29T16:48:09.987Z"
+  "timestamp": "2025-10-29T17:12:27.957Z"
 }
