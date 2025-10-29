@@ -1,46 +1,6 @@
 {
   "fox": [
     {
-      "title": "Lawmakers unveil bipartisan GUARD Act after parents blame AI chatbots for teen suicides, violence",
-      "link": "https://www.foxnews.com/politics/lawmakers-unveil-bipartisan-guard-act-parents-blame-ai-chatbots-teen-suicides-violence"
-    },
-    {
-      "title": "Virginia Dems flip on gerrymandering, blame Trump for redistricting reversal",
-      "link": "https://www.foxnews.com/politics/va-dems-were-against-scotty-mander-before-new-push-senate-leader-blames-trump-bet-your-ass"
-    },
-    {
-      "title": "Kylie Kelce warns Cowboys fans who trick-or-treat at her house: 'Raise your kids right'",
-      "link": "https://www.foxnews.com/sports/kylie-kelce-warns-cowboys-fans-who-trick-or-treat-her-house-raise-your-kids-right"
-    },
-    {
-      "title": "Johnson argues Biden pardons 'invalid' after bombshell autopen report",
-      "link": "https://www.foxnews.com/politics/johnson-argues-biden-pardons-invalid-after-bombshell-autopen-report"
-    },
-    {
-      "title": "Bill Gates pivots climate strategy to focus on poverty over carbon emissions reduction",
-      "link": "https://www.foxnews.com/us/bill-gates-pivots-climate-strategy-focus-poverty-carbon-emissions-reduction"
-    },
-    {
-      "title": "Jasmine Crockett asks what Black woman 'hurt' Trump to have him 'obsessing' over her",
-      "link": "https://www.foxnews.com/media/jasmine-crockett-asks-what-black-woman-hurt-trump-have-him-obsessing-over-her"
-    },
-    {
-      "title": "First college offers to join Trump's academic excellence compact after others nationwide dodge agreement",
-      "link": "https://www.foxnews.com/us/first-college-offers-join-trumps-academic-excellence-compact-after-others-nationwide-dodge-agreement"
-    },
-    {
-      "title": "Olympic gold medalist Lindsey Vonn declines to say if she'd accept White House invitation after 2017 refusal",
-      "link": "https://www.foxnews.com/sports/olympic-gold-medalist-lindsey-vonn-shed-accept-white-house-invitation-after-2017-rejection"
-    },
-    {
-      "title": "ABC journalist details phone call with Trump morning after election win",
-      "link": "https://www.foxnews.com/media/abc-journalist-details-phone-call-trump-morning-after-election-win"
-    },
-    {
-      "title": "Mike Johnson, Marjorie Taylor Greene clash in heated private GOP call over shutdown strategy",
-      "link": "https://www.foxnews.com/politics/mike-johnson-marjorie-taylor-greene-clash-heated-private-gop-call-over-shutdown-strategy"
-    },
-    {
       "title": "Transgender rabbi booted from Biden WH headlines pro-Mamdani ad ahead of Election Day",
       "link": "https://www.foxnews.com/politics/transgender-rabbi-booted-from-biden-wh-headlines-pro-mamdani-ad-ahead-election-day"
     },
@@ -55,6 +15,26 @@
     {
       "title": "Fox News Politics Newsletter: Schumer again blocks GOP bid as air traffic controllers go unpaid",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-schumer-again-blocks-gop-bid-air-traffic-controllers-go-unpaid"
+    },
+    {
+      "title": "Terry Rozier's attorney maintains innocence, says government is 'making deals with the devil' for cooperation",
+      "link": "https://www.foxnews.com/sports/terry-roziers-attorney-maintains-innocence-says-government-making-deals-devil-cooperation"
+    },
+    {
+      "title": "Lawmakers unveil bipartisan GUARD Act after parents blame AI chatbots for teen suicides, violence",
+      "link": "https://www.foxnews.com/politics/lawmakers-unveil-bipartisan-guard-act-parents-blame-ai-chatbots-teen-suicides-violence"
+    },
+    {
+      "title": "Virginia Dems flip on gerrymandering, blame Trump for redistricting reversal",
+      "link": "https://www.foxnews.com/politics/va-dems-were-against-scotty-mander-before-new-push-senate-leader-blames-trump-bet-your-ass"
+    },
+    {
+      "title": "Johnson argues Biden pardons 'invalid' after bombshell autopen report",
+      "link": "https://www.foxnews.com/politics/johnson-argues-biden-pardons-invalid-after-bombshell-autopen-report"
+    },
+    {
+      "title": "Mike Johnson, Marjorie Taylor Greene clash in heated private GOP call over shutdown strategy",
+      "link": "https://www.foxnews.com/politics/mike-johnson-marjorie-taylor-greene-clash-heated-private-gop-call-over-shutdown-strategy"
     },
     {
       "title": "State-of-the-art warship steaming for Venezuela to turn the tide in Trump's war on drugs",
@@ -79,8 +59,28 @@
     {
       "title": "Walz repeats debunked claim that Trump considers White House ballroom 'top priority'",
       "link": "https://www.foxnews.com/politics/walz-repeats-debunked-claim-trump-considers-white-house-ballroom-top-priority"
+    },
+    {
+      "title": "House Democrats accuse Trump of trying to 'steal' $230M from taxpayers through DOJ",
+      "link": "https://www.foxnews.com/politics/house-democrats-accuse-trump-trying-steal-230m-from-taxpayers-through-doj"
+    },
+    {
+      "title": "The far left have taken control of the Democratic party platform, and it’s turning voters off",
+      "link": "https://www.foxnews.com/politics/radical-far-left-priorities-have-alienated-democrat-voters-report"
+    },
+    {
+      "title": "Schumer again blocks GOP bid to reopen government as air traffic controllers go unpaid",
+      "link": "https://www.foxnews.com/politics/schumer-again-blocks-gop-bid-reopen-government-air-traffic-controllers-go-unpaid"
+    },
+    {
+      "title": "LOOK: Republicans hand out ‘Get Out of Jail Free’ cards mocking Virginia AG hopeful Jay Jones’ scandals",
+      "link": "https://www.foxnews.com/politics/look-republicans-hand-out-monopoly-style-get-out-jail-free-cards-mocking-virginia-ag-hopeful-jay-jones-scandals"
+    },
+    {
+      "title": "Trump rallies US military's might, floats armed forces pay raise in address to troops in Japan",
+      "link": "https://www.foxnews.com/politics/trump-rallies-us-militarys-might-floats-armed-forces-pay-raise-address-sailors-japan"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-28T23:47:46.241Z"
+  "timestamp": "2025-10-29T01:01:07.665Z"
 }
