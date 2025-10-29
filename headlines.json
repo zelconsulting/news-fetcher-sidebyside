@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump says he could deploy US military in American cities, claims ‘courts wouldn’t get involved’",
+      "link": "https://www.foxnews.com/politics/trump-says-he-could-deploy-u-s-military-american-cities-claims-courts-wouldnt-get-involved"
+    },
+    {
       "title": "Newsom invokes Scripture in attack on GOP over shutdown affecting food assistance: ‘Cruelty is the policy’",
       "link": "https://www.foxnews.com/politics/newsom-invokes-scripture-attack-gop-over-shutdown-affecting-food-assistance-cruelty-policy"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Senate Republicans defy Vance's warning, vote to block Trump's Brazil tariffs amid shutdown",
       "link": "https://www.foxnews.com/politics/senate-republicans-defy-vances-warning-vote-block-trumps-brazil-tariffs-amid-shutdown"
-    },
-    {
-      "title": "Trump says he could deploy US military in American cities, claims ‘courts wouldn’t get involved’",
-      "link": "https://www.foxnews.com/politics/trump-says-he-could-deploy-u-s-military-american-cities-claims-courts-wouldnt-get-involved"
     },
     {
       "title": "Johnson, pressed on Trump 2028, points to Constitution: ‘No path’ to third term presidency",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-29T05:49:17.427Z"
+  "timestamp": "2025-10-29T06:20:05.869Z"
 }
