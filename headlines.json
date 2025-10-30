@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "GOP lawmaker vows he'll investigate NCAA sports betting rule change, warns 'integrity of the game' in crisis",
+      "link": "https://www.foxnews.com/media/gop-lawmaker-vows-hell-investigate-ncaa-sports-betting-rule-change-warns-integrity-game-crisis"
+    },
+    {
+      "title": "Conservatives rip Gen Z House candidate's free speech claim after federal indictment: 'She's lying'",
+      "link": "https://www.foxnews.com/politics/conservatives-rip-gen-z-house-candidates-free-speech-claim-after-federal-indictment"
+    },
+    {
       "title": "TPUSA table flipper arrested for alleged Trump threats ignored FBI warning about violent posts: affidavit",
       "link": "https://www.foxnews.com/us/tpusa-table-flipper-arrested-alleged-trump-threats-ignored-fbi-warning-about-violent-posts-affidavit"
     },
@@ -25,10 +33,6 @@
       "link": "https://www.foxnews.com/politics/va-dems-reject-resolution-condemning-political-violence-while-house-speaker-cuts-off-jay-jones-references"
     },
     {
-      "title": "Trump breaks 33-year nuclear testing silence as world braces for dangerous new arms race",
-      "link": "https://www.foxnews.com/opinion/trump-breaks-33-year-nuclear-testing-silence-world-braces-dangerous-new-arms-race"
-    },
-    {
       "title": "Vance pleads for 'five reasonable Democrats' to step up, end government 'hostage' situation amid aviation woes",
       "link": "https://www.foxnews.com/politics/vance-pleads-five-reasonable-democrats-step-up-end-government-hostage-situation-amid-aviation-woes"
     },
@@ -39,10 +43,6 @@
     {
       "title": "House Republicans divided over Obamacare as GOP eyes fix after shutdown",
       "link": "https://www.foxnews.com/politics/house-republicans-divided-over-obamacare-gop-eyes-fix-after-shutdown"
-    },
-    {
-      "title": "Conservatives rip Gen Z House candidate's free speech claim after federal indictment: 'She's lying'",
-      "link": "https://www.foxnews.com/politics/conservatives-rip-gen-z-house-candidates-free-speech-claim-after-federal-indictment"
     },
     {
       "title": "Thune, GOP reject pushing 'rifle-shot' government funding bills during shutdown",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-30T22:48:04.591Z"
+  "timestamp": "2025-10-30T23:11:30.036Z"
 }
