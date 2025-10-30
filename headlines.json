@@ -1,11 +1,15 @@
 {
   "fox": [
     {
+      "title": "DHS warns of ‘unprecedented violence’ as death threats against ICE officers soar 8,000%",
+      "link": "https://www.foxnews.com/us/dhs-warns-unprecedented-violence-death-threats-against-ice-officers-soar-8000"
+    },
+    {
       "title": "Trump cuts China tariff after Xi signals tougher fentanyl enforcement, rare-earth pause",
       "link": "https://www.foxnews.com/world/trump-xi-meet-effort-resolve-trade-tensions-sparked-us-tariffs"
     },
     {
-      "title": "Trump orders US nuclear weapons testing to begin 'immediately' after Russia tests new missiles",
+      "title": "Trump says US will restart nuclear weapons tests, blames rivals’ actions after Xi meeting",
       "link": "https://www.foxnews.com/politics/trump-orders-us-nuclear-weapons-testing-begin-immediately-after-russia-tests-new-missiles"
     },
     {
@@ -27,10 +31,6 @@
     {
       "title": "America’s quietest crop is set to take center stage in Trump-Xi talks",
       "link": "https://www.foxnews.com/politics/americas-quietest-crop-set-take-center-stage-trump-xi-talks"
-    },
-    {
-      "title": "Trump says US will restart nuclear weapons tests, blames rivals’ actions after Xi meeting",
-      "link": "https://www.foxnews.com/politics/trump-orders-us-nuclear-weapons-testing-begin-immediately-after-russia-tests-new-missiles"
     },
     {
       "title": "Democratic congressional candidate indicted in anti-ICE protest that turned violent in Illinois",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-30T08:55:54.685Z"
+  "timestamp": "2025-10-30T09:15:33.848Z"
 }
