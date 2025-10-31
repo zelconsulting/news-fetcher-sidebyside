@@ -1,16 +1,36 @@
 {
   "fox": [
     {
+      "title": "'The View' co-host says it was 'wholly irresponsible' for Newsom to cast doubt on fair elections under Trump",
+      "link": "https://www.foxnews.com/media/the-view-co-host-says-wholly-irresponsible-newsom-cast-doubt-fair-elections-under-trump"
+    },
+    {
+      "title": "Trump EPA slashes 12 years off sewage cleanup crisis that has rocked California for decades",
+      "link": "https://www.foxnews.com/politics/trump-epa-slashes-12-years-off-sewage-cleanup-crisis-has-rocked-california-decades"
+    },
+    {
+      "title": "SNAP beneficiaries threaten to ransack stores over government shutdown",
+      "link": "https://www.foxnews.com/media/snap-beneficiaries-threaten-ransack-stores-over-government-shutdown"
+    },
+    {
+      "title": "Senate talks show signs of progress as government shutdown grinds into 2nd month",
+      "link": "https://www.foxnews.com/politics/senate-talks-show-signs-progress-government-shutdown-grinds-2nd-month"
+    },
+    {
+      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy'",
+      "link": "https://www.foxnews.com/politics/bombshell-report-shows-foreign-charities-dumped-billions-us-political-advocacy-groups-erode-democracy"
+    },
+    {
       "title": "Trump and Xi skip Taiwan talk despite years of war preparations",
       "link": "https://www.foxnews.com/politics/trump-xi-skip-taiwan-talk-despite-growing-war-risk"
     },
     {
-      "title": "White House responds to reports of Trump preparing to hit military targets inside Venezuela",
-      "link": "https://www.foxnews.com/politics/white-house-responds-reports-trump-preparing-hit-military-targets-inside-venezuela"
+      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy",
+      "link": "https://www.foxnews.com/politics/bombshell-report-shows-foreign-charities-dumped-billions-us-political-advocacy-groups-erode-democracy"
     },
     {
-      "title": "Kamala Harris surprises Jon Stewart with claim that Biden was competent to serve second term",
-      "link": "https://www.foxnews.com/media/kamala-harris-surprises-jon-stewart-claim-biden-competent-serve-second-term"
+      "title": "White House responds to reports of Trump preparing to hit military targets inside Venezuela",
+      "link": "https://www.foxnews.com/politics/white-house-responds-reports-trump-preparing-hit-military-targets-inside-venezuela"
     },
     {
       "title": "As Congress grows older, debate heats up over when to step aside",
@@ -29,28 +49,8 @@
       "link": "https://www.foxnews.com/politics/scary-movie-jay-jones-gop-turns-democratic-ag-hopefuls-scandals-halloween-costumes"
     },
     {
-      "title": "Chauncey Billups hires Trump's former attorney for federal gambling probe investigation",
-      "link": "https://www.foxnews.com/sports/chauncey-billups-hires-trumps-former-attorney-federal-gambling-probe-investigation"
-    },
-    {
-      "title": "'House of horrors' suspect wants victim's new identity revealed; mom slams 'appalling' request: report",
-      "link": "https://www.foxnews.com/us/house-horros-suspect-wants-victims-new-identity-revealed-mom-slams-appalling-request-report"
-    },
-    {
       "title": "Hegseth blasts 'narco-terrorists' targeted by Trump admin as 'the al Qaeda of the Western Hemisphere'",
       "link": "https://www.foxnews.com/politics/hegseth-blasts-narco-terrorists-targeted-trump-admin-the-al-qaeda-western-hemisphere"
-    },
-    {
-      "title": "Trump EPA slashes 12 years off sewage cleanup crisis that has rocked California for decades",
-      "link": "https://www.foxnews.com/politics/trump-epa-slashes-12-years-off-sewage-cleanup-crisis-has-rocked-california-decades"
-    },
-    {
-      "title": "Senate talks show signs of progress as government shutdown grinds into 2nd month",
-      "link": "https://www.foxnews.com/politics/senate-talks-show-signs-progress-government-shutdown-grinds-2nd-month"
-    },
-    {
-      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy'",
-      "link": "https://www.foxnews.com/politics/bombshell-report-shows-foreign-charities-dumped-billions-us-political-advocacy-groups-erode-democracy"
     },
     {
       "title": "How to find your sample ballot for Election Day 2025 with races across states and cities nationwide",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-31T18:47:39.918Z"
+  "timestamp": "2025-10-31T19:09:19.282Z"
 }
