@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump reveals first photos after Lincoln Bedroom's renovation in the White House",
+      "link": "https://www.foxnews.com/politics/trump-reveals-first-photos-lincoln-bedrooms-renovation-white-house"
+    },
+    {
+      "title": "Supreme Court prepares to confront monumental case over Trump executive power and tariff authority",
+      "link": "https://www.foxnews.com/politics/supreme-court-prepares-confront-monumental-case-trump-executive-power-tariff-authority"
+    },
+    {
+      "title": "Civil rights group accuses UC Irvine engineering school of unlawful race-based quotas",
+      "link": "https://www.foxnews.com/media/civil-rights-group-accuses-uc-irvine-engineering-school-unlawful-race-based-quotas"
+    },
+    {
       "title": "House military veterans rip Jeffries for taking pay during shutdown: ‘Insult to Americans'",
       "link": "https://www.foxnews.com/politics/house-military-veterans-rip-jeffries-taking-pay-during-shutdown-insult-americans"
     },
@@ -15,18 +27,6 @@
     {
       "title": "Two judges rule Trump admin must keep SNAP benefits in place  as shutdown drags on",
       "link": "https://www.foxnews.com/politics/two-judges-rule-trump-admin-must-keep-snap-benefits-place-shutdown-drags"
-    },
-    {
-      "title": "Trump designates Nigeria as 'country of particular concern' over widespread Christian persecution, killings",
-      "link": "https://www.foxnews.com/world/trump-designates-nigeria-country-particular-concern-over-widespread-christian-persecution-killings"
-    },
-    {
-      "title": "Trump reveals first photos after Lincoln Bedroom's renovation in the White House",
-      "link": "https://www.foxnews.com/politics/trump-reveals-first-photos-lincoln-bedrooms-renovation-white-house"
-    },
-    {
-      "title": "Supreme Court prepares to confront monumental case over Trump executive power and tariff authority",
-      "link": "https://www.foxnews.com/politics/supreme-court-prepares-confront-monumental-case-trump-executive-power-tariff-authority"
     },
     {
       "title": "Trump EPA slashes 12 years off sewage cleanup crisis that has rocked California for decades",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-31T22:48:01.771Z"
+  "timestamp": "2025-10-31T23:11:59.458Z"
 }
