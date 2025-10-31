@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump stumps for entire Virginia GOP ticket, while yet to formally endorse Earle-Sears",
+      "link": "https://www.foxnews.com/politics/trump-stumps-entire-virginia-gop-ticket-while-yet-formally-endorse-earle-sears"
+    },
+    {
+      "title": "Two judges rule Trump admin must keep SNAP benefits in place  as shutdown drags on",
+      "link": "https://www.foxnews.com/politics/two-judges-rule-trump-admin-must-keep-snap-benefits-place-shutdown-drags"
+    },
+    {
+      "title": "Trump designates Nigeria as 'country of particular concern' over widespread Christian persecution, killings",
+      "link": "https://www.foxnews.com/world/trump-designates-nigeria-country-particular-concern-over-widespread-christian-persecution-killings"
+    },
+    {
       "title": "'The View' co-host says it was 'wholly irresponsible' for Newsom to cast doubt on fair elections under Trump",
       "link": "https://www.foxnews.com/media/the-view-co-host-says-wholly-irresponsible-newsom-cast-doubt-fair-elections-under-trump"
     },
@@ -17,24 +29,12 @@
       "link": "https://www.foxnews.com/politics/senate-talks-show-signs-progress-government-shutdown-grinds-2nd-month"
     },
     {
-      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy'",
+      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy",
       "link": "https://www.foxnews.com/politics/bombshell-report-shows-foreign-charities-dumped-billions-us-political-advocacy-groups-erode-democracy"
     },
     {
       "title": "Trump and Xi skip Taiwan talk despite years of war preparations",
       "link": "https://www.foxnews.com/politics/trump-xi-skip-taiwan-talk-despite-growing-war-risk"
-    },
-    {
-      "title": "Trump stumps for entire Virginia GOP ticket, while yet to formally endorse Earle-Sears",
-      "link": "https://www.foxnews.com/politics/trump-stumps-entire-virginia-gop-ticket-while-yet-formally-endorse-earle-sears"
-    },
-    {
-      "title": "Two judges rule Trump admin must keep SNAP benefits in place  as shutdown drags on",
-      "link": "https://www.foxnews.com/politics/two-judges-rule-trump-admin-must-keep-snap-benefits-place-shutdown-drags"
-    },
-    {
-      "title": "Bombshell report shows foreign charities dumped billions into US political advocacy groups, 'erode' democracy",
-      "link": "https://www.foxnews.com/politics/bombshell-report-shows-foreign-charities-dumped-billions-us-political-advocacy-groups-erode-democracy"
     },
     {
       "title": "White House responds to reports of Trump preparing to hit military targets inside Venezuela",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-10-31T20:14:20.683Z"
+  "timestamp": "2025-10-31T20:33:07.800Z"
 }
