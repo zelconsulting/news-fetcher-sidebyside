@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump White House limits reporters’ access to staff offices in latest move restricting press coverage",
+      "link": "https://www.foxnews.com/media/trump-white-house-limits-reporters-access-staff-offices-latest-move-restricting-press-coverage"
+    },
+    {
       "title": "Illinois lawmakers pass bill banning ICE immigration arrests near courthouses",
       "link": "https://www.foxnews.com/politics/illinois-lawmakers-pass-bill-banning-ice-immigration-arrests-near-courthouses"
     },
@@ -75,12 +79,8 @@
     {
       "title": "Johnson warns against Trump's demand for Senate to go 'nuclear' to end shutdown",
       "link": "https://www.foxnews.com/politics/johnson-warns-against-trumps-demand-senate-go-nuclear-end-shutdown"
-    },
-    {
-      "title": "Alvin Bragg dodges mentioning signature Trump case as he campaigns for district attorney re-election",
-      "link": "https://www.foxnews.com/politics/alvin-bragg-dodges-mentioning-signature-trump-case-he-campaigns-da-re-election"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-01T07:34:49.826Z"
+  "timestamp": "2025-11-01T07:47:48.723Z"
 }
