@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Illinois lawmakers pass bill banning ICE immigration arrests near courthouses",
+      "link": "https://www.foxnews.com/politics/illinois-lawmakers-pass-bill-banning-ice-immigration-arrests-near-courthouses"
+    },
+    {
+      "title": "Federal judge blocks Trump order requiring citizenship proof on federal voter registration forms",
+      "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-order-requiring-citizenship-proof-federal-voter-registration-forms"
+    },
+    {
       "title": "Trump vows to ‘fund SNAP as soon as possible’ if court allows, blasts Democrats over shutdown delay",
       "link": "https://www.foxnews.com/politics/trump-vows-fund-snap-soon-possible-court-allows-blasts-democrats-shutdown-delay"
     },
@@ -25,7 +33,7 @@
       "link": "https://www.foxnews.com/media/civil-rights-group-accuses-uc-irvine-engineering-school-unlawful-race-based-quotas"
     },
     {
-      "title": "House military veterans rip Jeffries for taking pay during shutdown: ‘Insult to Americans'",
+      "title": "House military vets rip Jeffries for dodging question on pay during shutdown: ‘Insult to Americans'",
       "link": "https://www.foxnews.com/politics/house-military-veterans-rip-jeffries-taking-pay-during-shutdown-insult-americans"
     },
     {
@@ -71,16 +79,8 @@
     {
       "title": "Alvin Bragg dodges mentioning signature Trump case as he campaigns for district attorney re-election",
       "link": "https://www.foxnews.com/politics/alvin-bragg-dodges-mentioning-signature-trump-case-he-campaigns-da-re-election"
-    },
-    {
-      "title": "‘Scary Movie’ Jay Jones: GOP turns Democratic AG hopeful’s scandals into Halloween costumes",
-      "link": "https://www.foxnews.com/politics/scary-movie-jay-jones-gop-turns-democratic-ag-hopefuls-scandals-halloween-costumes"
-    },
-    {
-      "title": "Hegseth blasts 'narco-terrorists' targeted by Trump admin as 'the al Qaeda of the Western Hemisphere'",
-      "link": "https://www.foxnews.com/politics/hegseth-blasts-narco-terrorists-targeted-trump-admin-the-al-qaeda-western-hemisphere"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-01T01:01:50.222Z"
+  "timestamp": "2025-11-01T02:48:34.631Z"
 }
