@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Arizona judge resigns after being caught allegedly urinating on street near courthouse: 'This is disgusting'",
+      "link": "https://www.foxnews.com/us/arizona-judge-resigns-after-being-caught-allegedly-urinating-street-near-courthouse-this-disgusting"
+    },
+    {
+      "title": "Bill Clinton spotted at NYC Marathon with bandaged nose while cheering on daughter Chelsea",
+      "link": "https://www.foxnews.com/us/bill-clinton-spotted-nyc-marathon-bandaged-nose-while-cheering-daughter-chelsea"
+    },
+    {
       "title": "Newsom says he saw nothing to suggest Biden couldn't serve through 2029 in NBC interview",
       "link": "https://www.foxnews.com/media/newsom-says-he-saw-nothing-suggest-biden-couldnt-serve-through-2029-nbc-interview"
     },
@@ -11,14 +19,6 @@
     {
       "title": "Trump admin responds to 'Dilbert' creator's plea to 'help save my life' by expediting cancer treatment",
       "link": "https://www.foxnews.com/politics/trump-admin-responds-dilbert-creators-plea-help-save-my-life-expediting-cancer-treatment"
-    },
-    {
-      "title": "Former Bengals star Bob Trumpy dead at 80",
-      "link": "https://www.foxnews.com/sports/former-bengals-star-bob-trumpy-dead-80"
-    },
-    {
-      "title": "Boko Haram kidnapping survivor praises Trump as he weighs 'vicious' military action in Nigeria",
-      "link": "https://www.foxnews.com/media/boko-haram-kidnapping-survivor-praises-trump-he-weighs-vicious-military-action-nigeria"
     },
     {
       "title": "Obama's presence and Trump's policies consume 11th-hour rally to keep NJ blue",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-02T23:35:17.262Z"
+  "timestamp": "2025-11-02T23:47:30.470Z"
 }
