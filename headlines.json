@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "US, China agree to open direct military hotline after Xi-Trump summit",
+      "link": "https://www.foxnews.com/politics/us-china-agree-open-direct-military-hotline-after-xi-trump-summit"
+    },
+    {
       "title": "Fetterman calls for bipartisan cooperation as he continues working across party lines on key issues",
       "link": "https://www.foxnews.com/media/fetterman-calls-bipartisan-cooperation-he-continues-working-across-party-lines-key-issues"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Obama says it's 'like every day is Halloween' as he blames Republicans for government shutdown",
       "link": "https://www.foxnews.com/politics/obama-says-its-like-every-day-halloween-he-blames-republicans-government-shutdown"
-    },
-    {
-      "title": "US, China agree to open direct military hotline after Xi-Trump summit",
-      "link": "https://www.foxnews.com/politics/us-china-agree-open-direct-military-hotline-after-xi-trump-summit"
     },
     {
       "title": "Former Trump official warns Mamdani victory would mark ‘Marxist shift’ for New York City",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-02T09:35:27.393Z"
+  "timestamp": "2025-11-02T09:47:47.693Z"
 }
