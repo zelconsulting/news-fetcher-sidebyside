@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump agrees Maduro’s days as Venezuela’s president are numbered in ‘60 Minutes’ interview",
+      "link": "https://www.foxnews.com/media/trump-agrees-maduros-days-venezuelas-president-numbered-60-minutes-interview"
+    },
+    {
       "title": "Trump says tariffs critical to national security as Supreme Court prepares landmark decision",
       "link": "https://www.foxnews.com/politics/trump-says-tariffs-critical-national-security-supreme-court-prepares-landmark-decision"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/media/newsom-says-he-saw-nothing-suggest-biden-couldnt-serve-through-2029-nbc-interview"
     },
     {
-      "title": "Revolving door of blue city repeat offenders keep being released as DA spent time prosecuting Trump",
-      "link": "https://www.foxnews.com/us/revolving-door-blue-city-repeat-offenders-keep-being-released-da-spent-time-prosecuting-trump"
-    },
-    {
       "title": "Trump admin responds to 'Dilbert' creator's plea to 'help save my life' by expediting cancer treatment",
       "link": "https://www.foxnews.com/politics/trump-admin-responds-dilbert-creators-plea-help-save-my-life-expediting-cancer-treatment"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-03T03:45:54.400Z"
+  "timestamp": "2025-11-03T04:21:28.782Z"
 }
