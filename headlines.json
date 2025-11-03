@@ -1,50 +1,6 @@
 {
   "fox": [
     {
-      "title": "Trump taunts '60 Minutes' during interview, says show paid him 'a lot of money'",
-      "link": "https://www.foxnews.com/media/trump-taunts-60-minutes-during-interview-says-show-paid-him-a-lot-money"
-    },
-    {
-      "title": "Election Day poses early political test for Trump amid lingering shutdown",
-      "link": "https://www.foxnews.com/politics/election-day-poses-early-political-test-trump-amid-lingering-shutdown"
-    },
-    {
-      "title": "Trump taps massive war chest to energize MAGA voters in final 2025 election push and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-taps-massive-war-chest-energize-maga-voters-final-2025-election-push-more-top-headlines"
-    },
-    {
-      "title": "DR. MAKARY, DR OZ: People talk about lowering healthcare costs, but the Trump administration is doing it",
-      "link": "https://www.foxnews.com/opinion/dr-makary-dr-oz-people-talk-about-lowering-health-care-costs-trump-administration-doing"
-    },
-    {
-      "title": "Trump learns how to fend off the Chinese threat like he is reading Sun Tzu",
-      "link": "https://www.foxnews.com/opinion/trump-learns-how-fend-off-chinese-threat-like-he-reading-sun-tzu"
-    },
-    {
-      "title": "Their plan was a flood of illegal immigration. Our answer is an immigration moratorium",
-      "link": "https://www.foxnews.com/opinion/plan-flood-illegal-immigration-our-answer-immigration-moratorium"
-    },
-    {
-      "title": "Trump ignores elections as Democrats stumble on the way to likely victories",
-      "link": "https://www.foxnews.com/media/trump-ignores-elections-democrats-stumble-way-likely-victories"
-    },
-    {
-      "title": "Judge blocks Trump National Guard deployment to Portland, citing lack of justification",
-      "link": "https://www.foxnews.com/politics/chatgpt-said-judge-blocks-trump-national-guard-deployment-portland-citing-lack-justification"
-    },
-    {
-      "title": "NFL broadcaster Cris Collinsworth makes government shutdown joke as Seahawks clobber Commanders",
-      "link": "https://www.foxnews.com/sports/nfl-broadcaster-cris-collinsworth-makes-government-shutdown-joke-seahawks-clobber-commanders"
-    },
-    {
-      "title": "California farmers push back on Prop 50 as Democrats eye new House map",
-      "link": "https://www.foxnews.com/politics/california-farmers-push-back-prop-50-democrats-eye-new-house-map"
-    },
-    {
-      "title": "Denise Richards channels iconic Playboy past 20 years after posing for adult magazine",
-      "link": "https://www.foxnews.com/entertainment/denise-richards-channels-iconic-playboy-past-20-years-posing-adult-magazine"
-    },
-    {
       "title": "Antisemitism watchdog issues scathing ‘alarm bell’ report on Mamdani as NYC election nears",
       "link": "https://www.foxnews.com/politics/antisemitism-watchdog-issues-scathing-alarm-bell-report-mamdani-nyc-election-nears"
     },
@@ -65,6 +21,10 @@
       "link": "https://www.foxnews.com/politics/senate-dem-candidate-who-wrote-he-became-communist-now-says-he-joking"
     },
     {
+      "title": "Erika Kirk to be honored with first-ever Charlie Kirk Legacy Award at Fox Nation's Patriot Awards",
+      "link": "https://www.foxnews.com/media/erika-kirk-honored-first-ever-charlie-kirk-legacy-award-fox-nations-patriot-awards"
+    },
+    {
       "title": "5 key races to watch on Election Day 2025",
       "link": "https://www.foxnews.com/politics/five-key-races-watch-election-day-2025"
     },
@@ -73,14 +33,54 @@
       "link": "https://www.foxnews.com/politics/trump-backs-ice-raid-tactics-says-havent-gone-far-enough"
     },
     {
+      "title": "Trump taunts '60 Minutes' during interview, says show paid him 'a lot of money'",
+      "link": "https://www.foxnews.com/media/trump-taunts-60-minutes-during-interview-says-show-paid-him-a-lot-money"
+    },
+    {
+      "title": "Election Day poses early political test for Trump amid lingering shutdown",
+      "link": "https://www.foxnews.com/politics/election-day-poses-early-political-test-trump-amid-lingering-shutdown"
+    },
+    {
+      "title": "Trump taps massive war chest to energize MAGA voters in final 2025 election push and more top headlines",
+      "link": "https://www.foxnews.com/us/trump-taps-massive-war-chest-energize-maga-voters-final-2025-election-push-more-top-headlines"
+    },
+    {
+      "title": "DR. MAKARY, DR OZ: People talk about lowering healthcare costs, but the Trump administration is doing it",
+      "link": "https://www.foxnews.com/opinion/dr-makary-dr-oz-people-talk-about-lowering-health-care-costs-trump-administration-doing"
+    },
+    {
+      "title": "Judge blocks Trump National Guard deployment to Portland, citing lack of justification",
+      "link": "https://www.foxnews.com/politics/chatgpt-said-judge-blocks-trump-national-guard-deployment-portland-citing-lack-justification"
+    },
+    {
+      "title": "California farmers push back on Prop 50 as Democrats eye new House map",
+      "link": "https://www.foxnews.com/politics/california-farmers-push-back-prop-50-democrats-eye-new-house-map"
+    },
+    {
       "title": "Trump says tariffs critical to national security as Supreme Court prepares landmark decision",
       "link": "https://www.foxnews.com/politics/trump-says-tariffs-critical-national-security-supreme-court-prepares-landmark-decision"
     },
     {
       "title": "Trump admin responds to 'Dilbert' creator's plea to 'help save my life' by expediting cancer treatment",
       "link": "https://www.foxnews.com/politics/trump-admin-responds-dilbert-creators-plea-help-save-my-life-expediting-cancer-treatment"
+    },
+    {
+      "title": "Obama's presence and Trump's policies consume 11th-hour rally to keep NJ blue",
+      "link": "https://www.foxnews.com/politics/obama-draws-big-crowds-voters-who-admit-nj-gubernatorial-race-mostly-about-trump"
+    },
+    {
+      "title": "Zohran Mamdani emerges as Republicans' government shutdown boogeyman",
+      "link": "https://www.foxnews.com/politics/zohran-mamdani-emerges-republicans-government-shutdown-boogeyman"
+    },
+    {
+      "title": "Syria's interim President al-Sharaa expected to meet with Trump in first visit by Syrian leader to White House",
+      "link": "https://www.foxnews.com/politics/syrias-interim-president-al-sharaa-expected-meet-trump-first-visit-syrian-leader-white-house"
+    },
+    {
+      "title": "Trump taps massive war chest to energize MAGA voters in final 2025 election push",
+      "link": "https://www.foxnews.com/politics/trump-taps-massive-war-chest-energize-maga-voters-final-2025-election-push"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-03T15:13:51.974Z"
+  "timestamp": "2025-11-03T15:33:13.478Z"
 }
