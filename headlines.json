@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Mamdani vows to defy Trump in fiery final march from Brooklyn Bridge to City Hall ahead of Election Day",
+      "link": "https://www.foxnews.com/politics/mamdani-vows-defy-trump-fiery-final-march-from-brooklyn-bridge-city-hall-ahead-election-day"
+    },
+    {
+      "title": "Senate returns to work as government shutdown nears longest in US history over Obamacare fight",
+      "link": "https://www.foxnews.com/politics/senate-returns-work-government-shutdown-nears-longest-us-history-over-obamacare-fight"
+    },
+    {
       "title": "Antisemitism watchdog issues scathing ‘alarm bell’ report on Mamdani as NYC election nears",
       "link": "https://www.foxnews.com/politics/antisemitism-watchdog-issues-scathing-alarm-bell-report-mamdani-nyc-election-nears"
     },
@@ -33,24 +41,12 @@
       "link": "https://www.foxnews.com/politics/trump-backs-ice-raid-tactics-says-havent-gone-far-enough"
     },
     {
-      "title": "Trump taunts '60 Minutes' during interview, says show paid him 'a lot of money'",
-      "link": "https://www.foxnews.com/media/trump-taunts-60-minutes-during-interview-says-show-paid-him-a-lot-money"
+      "title": "Winsome Earle-Sears leads GOP ticket in final 'elevator pitch' to voters before Election Day",
+      "link": "https://www.foxnews.com/politics/winsome-earle-sears-leads-gop-ticket-final-elevator-pitch-voters-before-election-day"
     },
     {
       "title": "Election Day poses early political test for Trump amid lingering shutdown",
       "link": "https://www.foxnews.com/politics/election-day-poses-early-political-test-trump-amid-lingering-shutdown"
-    },
-    {
-      "title": "Trump taps massive war chest to energize MAGA voters in final 2025 election push and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-taps-massive-war-chest-energize-maga-voters-final-2025-election-push-more-top-headlines"
-    },
-    {
-      "title": "DR. MAKARY, DR OZ: People talk about lowering healthcare costs, but the Trump administration is doing it",
-      "link": "https://www.foxnews.com/opinion/dr-makary-dr-oz-people-talk-about-lowering-health-care-costs-trump-administration-doing"
-    },
-    {
-      "title": "Senate returns to work as government shutdown nears longest in US history over Obamacare fight",
-      "link": "https://www.foxnews.com/politics/senate-returns-work-government-shutdown-nears-longest-us-history-over-obamacare-fight"
     },
     {
       "title": "Judge blocks Trump National Guard deployment to Portland, citing lack of justification",
@@ -79,8 +75,12 @@
     {
       "title": "Syria's interim President al-Sharaa expected to meet with Trump in first visit by Syrian leader to White House",
       "link": "https://www.foxnews.com/politics/syrias-interim-president-al-sharaa-expected-meet-trump-first-visit-syrian-leader-white-house"
+    },
+    {
+      "title": "Trump taps massive war chest to energize MAGA voters in final 2025 election push",
+      "link": "https://www.foxnews.com/politics/trump-taps-massive-war-chest-energize-maga-voters-final-2025-election-push"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-03T16:45:40.599Z"
+  "timestamp": "2025-11-03T17:11:25.885Z"
 }
