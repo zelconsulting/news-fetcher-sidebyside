@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump ignores elections as Democrats stumble on the way to likely victories",
+      "link": "https://www.foxnews.com/media/trump-ignores-elections-democrats-stumble-way-likely-victories"
+    },
+    {
       "title": "Judge blocks Trump National Guard deployment to Portland, citing lack of justification",
       "link": "https://www.foxnews.com/politics/chatgpt-said-judge-blocks-trump-national-guard-deployment-portland-citing-lack-justification"
     },
@@ -49,10 +53,6 @@
       "link": "https://www.foxnews.com/sports/chiefs-travis-kelce-gets-drilled-bills-defender-jaws-fans-walking-locker-room"
     },
     {
-      "title": "Arizona judge resigns after being caught allegedly urinating on street near courthouse: 'This is disgusting'",
-      "link": "https://www.foxnews.com/us/arizona-judge-resigns-after-being-caught-allegedly-urinating-street-near-courthouse-this-disgusting"
-    },
-    {
       "title": "Trump admin responds to 'Dilbert' creator's plea to 'help save my life' by expediting cancer treatment",
       "link": "https://www.foxnews.com/politics/trump-admin-responds-dilbert-creators-plea-help-save-my-life-expediting-cancer-treatment"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-03T09:16:17.976Z"
+  "timestamp": "2025-11-03T09:41:59.835Z"
 }
