@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Charlotte mayor wins landslide reelection despite controversy over Iryna Zarutska’s slaying",
+      "link": "https://www.foxnews.com/politics/charlotte-mayor-wins-landslide-reelection-despite-controversy-over-iryna-zarutskas-slaying"
+    },
+    {
+      "title": "Key takeaways from the 2025 elections",
+      "link": "https://www.foxnews.com/politics/key-takeaways-from-2025-elections"
+    },
+    {
+      "title": "Supreme Court to weigh Trump tariff powers in blockbuster case",
+      "link": "https://www.foxnews.com/politics/supreme-court-weigh-trump-tariff-powers-blockbuster-case"
+    },
+    {
+      "title": "Texas voters approve requiring judges to deny bail for certain violent felony charges",
+      "link": "https://www.foxnews.com/politics/texas-voters-approve-requiring-judges-deny-bail-certain-violent-felony-charges"
+    },
+    {
       "title": "Democrats sweep high-stakes races in New York, Virginia, New Jersey and more top headlines",
       "link": "https://www.foxnews.com/us/democrats-sweep-high-stakes-races-new-york-virginia-new-jersey-more-top-headlines"
     },
@@ -33,24 +49,8 @@
       "link": "https://www.foxnews.com/opinion/midterm-advice-republicans-bold-strategy-match-trumps-momentum"
     },
     {
-      "title": "When did MAGA become Make Argentina Great Again?",
-      "link": "https://www.foxnews.com/opinion/when-did-maga-become-make-argentina-great-again"
-    },
-    {
-      "title": "2028 already? Off-year elections provide crucial test for Trump and the Democrats",
-      "link": "https://www.foxnews.com/media/2028-already-off-year-elections-provide-crucial-test-trump-democrats"
-    },
-    {
-      "title": "LIZ PEEK: Democrats cheer Mamdani's win — they'll be crying soon enough",
-      "link": "https://www.foxnews.com/opinion/liz-peek-democrats-cheer-mamdanis-win-theyll-crying-soon-enough"
-    },
-    {
       "title": "AOC says Trump stopped MTG's potential Senate run, sparking her 'revenge tour' against GOP",
       "link": "https://www.foxnews.com/politics/aoc-says-trump-stopped-mtgs-potential-senate-run-sparking-her-revenge-tour-against-gop"
-    },
-    {
-      "title": "Texas voters approve requiring judges to deny bail for certain violent felony charges",
-      "link": "https://www.foxnews.com/politics/texas-voters-approve-requiring-judges-deny-bail-certain-violent-felony-charges"
     },
     {
       "title": "Economic anxiety keys Dem sweep in high-stakes races as left leverages voter frustration",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-05T13:06:26.178Z"
+  "timestamp": "2025-11-05T13:43:25.297Z"
 }
