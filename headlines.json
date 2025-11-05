@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Economic anxiety keys Dem sweep in high-stakes races as left leverages voter frustration",
+      "link": "https://www.foxnews.com/politics/economic-anxiety-keys-dem-sweep-high-stakes-races-left-leverages-voter-frustration"
+    },
+    {
+      "title": "Minneapolis mayor’s race advances to ranked choice voting after no candidate reaches 50%",
+      "link": "https://www.foxnews.com/politics/minneapolis-mayors-race-advances-to-ranked-choice-voting-after-no-candidate-reaches-50"
+    },
+    {
+      "title": "California voters pass congressional redistricting proposition in victory for Newsom, Democrats",
+      "link": "https://www.foxnews.com/politics/california-voters-pass-congressional-redistricting-proposition-victory-newsom-democrats"
+    },
+    {
       "title": "Democrats keep Pennsylvania Supreme Court control after 3 justices win retention races",
       "link": "https://www.foxnews.com/politics/pennsylvania-supreme-court-election-results-2025"
     },
@@ -45,18 +57,6 @@
       "link": "https://www.foxnews.com/politics/hitchhikers-guide-stand-potential-break-government-shutdown"
     },
     {
-      "title": "Economic anxiety keys Dem sweep in high-stakes races as left leverages voter frustration",
-      "link": "https://www.foxnews.com/politics/economic-anxiety-keys-dem-sweep-high-stakes-races-left-leverages-voter-frustration"
-    },
-    {
-      "title": "Minneapolis mayor’s race advances to ranked choice voting after no candidate reaches 50%",
-      "link": "https://www.foxnews.com/politics/minneapolis-mayors-race-advances-to-ranked-choice-voting-after-no-candidate-reaches-50"
-    },
-    {
-      "title": "California voters pass congressional redistricting proposition in victory for Newsom, Democrats",
-      "link": "https://www.foxnews.com/politics/california-voters-pass-congressional-redistricting-proposition-victory-newsom-democrats"
-    },
-    {
       "title": "Trump warns Supreme Court tariff showdown is 'life or death' for America",
       "link": "https://www.foxnews.com/politics/trump-warns-supreme-court-tariff-showdown-life-death-america"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-05T04:42:53.760Z"
+  "timestamp": "2025-11-05T04:52:20.063Z"
 }
