@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: David Hogg calls on Dems to reignite ‘American Dream’ after Mamdani win",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-david-hogg-calls-dems-reignite-american-dream-after-mamdani-win"
+    },
+    {
+      "title": "Trump says Mamdani 'thinks it's wonderful to have men playing in women's sports,' mocks trans weightlifter",
+      "link": "https://www.foxnews.com/sports/trump-says-mamdani-thinks-its-wonderful-have-men-playing-womens-sports-mocks-trans-weightlifter"
+    },
+    {
+      "title": "Popular airport could become 'Donald J Trump International' under new bill",
+      "link": "https://www.foxnews.com/travel/popular-airport-could-become-donald-j-trump-international-under-new-bill"
+    },
+    {
       "title": "Virginia slammed for ‘truly demonic’ election that excused political violence to spite Trump, critics say",
       "link": "https://www.foxnews.com/politics/virginia-slammed-truly-demonic-election-excused-political-violence-spite-trump-critics-say"
     },
@@ -27,18 +39,6 @@
     {
       "title": "Pentagon faces bipartisan criticism over lack of communication with Congress",
       "link": "https://www.foxnews.com/politics/pentagon-faces-bipartisan-criticism-over-lack-communication-congress"
-    },
-    {
-      "title": "Eric Trump angered by lack of answers on Butler assassination attempt, says we still 'know nothing'",
-      "link": "https://www.foxnews.com/media/eric-trump-angered-lack-answers-butler-assassination-attempt-says-we-still-know-nothing"
-    },
-    {
-      "title": "Whoopi Goldberg tells Democratic Party leadership to 'get out of the way' of its own candidates",
-      "link": "https://www.foxnews.com/media/whoopi-goldberg-tells-democratic-party-leadership-get-out-way-its-own-candidates"
-    },
-    {
-      "title": "Fox News Politics Newsletter: David Hogg calls on Dems to reignite ‘American Dream’ after Mamdani win",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-david-hogg-calls-dems-reignite-american-dream-after-mamdani-win"
     },
     {
       "title": "Jewish groups issue post-election warning to Mamdani as he prepares to lead New York City",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-05T23:47:34.917Z"
+  "timestamp": "2025-11-06T00:59:44.797Z"
 }
