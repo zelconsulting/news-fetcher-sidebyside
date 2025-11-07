@@ -1,6 +1,38 @@
 {
   "fox": [
     {
+      "title": "‘Ruthless’ selects least patriotic Americans after Melania Trump named Fox Nation’s ‘Patriot of the Year’",
+      "link": "https://www.foxnews.com/media/ruthless-selects-least-patriotic-americans-after-melania-trump-named-fox-nations-patriot-year"
+    },
+    {
+      "title": "James Carville says he'd 'find a convicted pedophile' to run against Republicans after election wins",
+      "link": "https://www.foxnews.com/politics/james-carville-says-hed-find-convicted-pedophile-run-against-republicans-after-election-wins"
+    },
+    {
+      "title": "Congressional Budget Office hit by cyberattack, raising concerns over US government network security",
+      "link": "https://www.foxnews.com/politics/congressional-budget-office-hit-cyberattack-raising-concerns-over-us-government-network-security"
+    },
+    {
+      "title": "Ex-FIFA exec accuses President Gianni Infantino of violating political neutrality rule by praising Trump",
+      "link": "https://www.foxnews.com/sports/ex-fifa-exec-accuses-president-gianni-infantino-violating-rule-praising-trump"
+    },
+    {
+      "title": "Obama gloats over Dem election victories, says they prove Americans 'don't want cruelty'",
+      "link": "https://www.foxnews.com/media/obama-gloats-over-dem-election-victories-says-prove-americans-dont-want-cruelty"
+    },
+    {
+      "title": "Oregon girls who protested trans athlete at track and field medal podium score legal win in lawsuit",
+      "link": "https://www.foxnews.com/sports/oregon-girls-who-protested-trans-athlete-track-field-medal-podium-score-legal-win-lawsuit"
+    },
+    {
+      "title": "Hungarian leader says he wants to hire Karoline Leavitt after she rips 'fake news' in impromptu takedown",
+      "link": "https://www.foxnews.com/politics/hungarian-leader-says-he-wants-hire-karoline-leavitt-after-she-rips-fake-news-impromptu-takedown"
+    },
+    {
+      "title": "Cornell University to pay $60M in deal with Trump administration to restore federal funding",
+      "link": "https://www.foxnews.com/politics/cornell-university-pay-60m-deal-trump-administration-restore-federal-funding"
+    },
+    {
       "title": "Trump to attend Commanders game against Lions to honor military veterans",
       "link": "https://www.foxnews.com/sports/trump-attend-commanders-game-against-lions-honor-military-veterans"
     },
@@ -13,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/thune-says-wheels-came-off-republicans-mull-next-shutdown-move"
     },
     {
-      "title": "Charlamagne Tha God calls on Dems to 'stop playing politics with people's lives' and reopen the government",
-      "link": "https://www.foxnews.com/media/charlamagne-tha-god-calls-dems-stop-playing-politics-peoples-lives-reopen-government"
-    },
-    {
       "title": "Trump says Hungary's border stance keeps crime down, says Europe 'flooding' with migrants",
       "link": "https://www.foxnews.com/politics/trump-says-hungarys-border-stance-keeps-crime-down-europe-flooding-migrants"
     },
@@ -25,28 +53,8 @@
       "link": "https://www.foxnews.com/politics/new-york-reportedly-prepares-oppose-potential-federal-crackdown-trump-big-apple"
     },
     {
-      "title": "Trump pardons ex-MLB star Darryl Strawberry after faith, sobriety turnaround",
-      "link": "https://www.foxnews.com/sports/trump-pardons-mlb-darryl-strawberry-christianity-sobriety"
-    },
-    {
-      "title": "Jon Stewart tempers Democrats' expectations after election victories, says party is still 'a mess'",
-      "link": "https://www.foxnews.com/media/jon-stewart-tempers-democrats-expectations-after-election-victories-says-party-still-a-mess"
-    },
-    {
       "title": "Obama once urged Black men to back Harris — then he, Democrats reversed race rhetoric legacy in 2025",
       "link": "https://www.foxnews.com/politics/obama-once-urged-black-men-back-harris-he-democrats-reversed-race-rhetoric-legacy-2025"
-    },
-    {
-      "title": "Congressional Budget Office hit by cyberattack, raising concerns over US government network security",
-      "link": "https://www.foxnews.com/politics/congressional-budget-office-hit-cyberattack-raising-concerns-over-us-government-network-security"
-    },
-    {
-      "title": "Hungarian leader says he wants to hire Karoline Leavitt after she rips 'fake news' in impromptu takedown",
-      "link": "https://www.foxnews.com/politics/hungarian-leader-says-he-wants-hire-karoline-leavitt-after-she-rips-fake-news-impromptu-takedown"
-    },
-    {
-      "title": "Cornell University to pay $60M in deal with Trump administration to restore federal funding",
-      "link": "https://www.foxnews.com/politics/cornell-university-pay-60m-deal-trump-administration-restore-federal-funding"
     },
     {
       "title": "House GOP civil war ignites over 'ludicrous' bill to defund NYC while Mamdani is mayor",
@@ -74,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-07T21:48:05.483Z"
+  "timestamp": "2025-11-07T22:11:25.441Z"
 }
