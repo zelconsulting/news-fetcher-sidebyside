@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Melania Trump named Fox Nation’s ‘Patriot of the Year’ for global children’s advocacy work",
+      "link": "https://www.foxnews.com/media/melania-trump-named-fox-nations-patriot-year-global-childrens-advocacy-work"
+    },
+    {
       "title": "Key Trump ally jumps into New York governor's race days after shocking Mamdani mayoral victory",
       "link": "https://www.foxnews.com/politics/maga-star-stefanik-jumps-new-york-governor-race-days-after-shocking-mamdani-nyc-mayoral-win"
     },
@@ -31,10 +35,6 @@
     {
       "title": "Supreme Court hands Trump victory on transgender passport policy change",
       "link": "https://www.foxnews.com/politics/supreme-court-hands-trump-major-win-transgender-passport-policy-change"
-    },
-    {
-      "title": "Multiple people arrested ahead of soccer game involving Israeli team amid protests",
-      "link": "https://www.foxnews.com/sports/multiple-people-arrested-ahead-soccer-game-involving-israeli-team-amid-protests"
     },
     {
       "title": "Senate Republicans block bipartisan effort to halt military action, drug boat strikes in the Caribbean",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-07T04:42:03.909Z"
+  "timestamp": "2025-11-07T04:51:21.489Z"
 }
