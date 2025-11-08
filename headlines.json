@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Progressive-backed candidate convicted in man's killing wins city council election",
+      "link": "https://www.foxnews.com/politics/progressive-backed-candidate-convicted-in-mans-killing-wins-city-council-election"
+    },
+    {
+      "title": "Trump’s own SCOTUS picks could wind up hurting him on tariffs",
+      "link": "https://www.foxnews.com/politics/supreme-court-justices-show-skepticism-trumps-emergency-tariff-powers-during-oral-arguments"
+    },
+    {
       "title": "The new Mafia: Trump, civil RICO and the global intifada",
       "link": "https://www.foxnews.com/opinion/new-mafia-trump-civil-rico-global-intifada"
     },
@@ -41,14 +49,6 @@
       "link": "https://www.foxnews.com/politics/supreme-court-blocks-lower-court-order-forcing-trump-administration-fully-fund-snap-program"
     },
     {
-      "title": "Progressive-backed candidate convicted in man's killing wins city council election",
-      "link": "https://www.foxnews.com/politics/progressive-backed-candidate-convicted-in-mans-killing-wins-city-council-election"
-    },
-    {
-      "title": "Trump’s own SCOTUS picks could wind up hurting him on tariffs",
-      "link": "https://www.foxnews.com/politics/supreme-court-justices-show-skepticism-trumps-emergency-tariff-powers-during-oral-arguments"
-    },
-    {
       "title": "Dems block GOP bill ensuring federal worker, military paychecks continue during shutdown",
       "link": "https://www.foxnews.com/politics/dems-block-gop-bill-ensuring-federal-worker-military-paychecks-continue-during-shutdown"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-08T13:23:02.435Z"
+  "timestamp": "2025-11-08T13:37:59.893Z"
 }
