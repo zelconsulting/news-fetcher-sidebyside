@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "White House reacts after report claims Trump wants new Commanders DC stadium named for him",
+      "link": "https://www.foxnews.com/sports/white-house-reacts-report-claims-trump-wants-new-commanders-dc-stadium-named-for-him"
+    },
+    {
+      "title": "Bill Maher says he doesn't 'give a s---' about Trump's White House remodel, slams press coverage",
+      "link": "https://www.foxnews.com/media/bill-maher-says-he-doesnt-give-s-about-trumps-white-house-remodel-slams-press-coverage"
+    },
+    {
+      "title": "Dem House hopeful vows to help working class despite record of hiking taxes",
+      "link": "https://www.foxnews.com/politics/dem-house-hopeful-vows-help-working-class-despite-record-hiking-taxes"
+    },
+    {
+      "title": "Trump urges Senate Republicans to redirect funds from Obamacare-backed insurers, pay Americans directly",
+      "link": "https://www.foxnews.com/politics/trump-urges-senate-republicans-redirect-funds-obamacare-backed-insurers-pay-americans-directly"
+    },
+    {
       "title": "NYC students expose 'extremist' professors fostering campus antisemitism at major universities",
       "link": "https://www.foxnews.com/us/nyc-students-expose-extremist-professors-fostering-campus-antisemitism-major-universities"
     },
@@ -17,28 +33,12 @@
       "link": "https://www.foxnews.com/politics/supreme-court-justices-show-skepticism-trumps-emergency-tariff-powers-during-oral-arguments"
     },
     {
-      "title": "The new Mafia: Trump, civil RICO and the global intifada",
-      "link": "https://www.foxnews.com/opinion/new-mafia-trump-civil-rico-global-intifada"
-    },
-    {
       "title": "Socialist wave spreads coast to coast as progressive Democrats rally around Zohran Mamdani's NYC win",
       "link": "https://www.foxnews.com/politics/socialist-wave-spreads-coast-coast-progressive-democrats-rally-around-zohran-mamdanis-nyc-win"
     },
     {
       "title": "State Dept says G20 boycott tied to South Africa’s ‘government-sponsored discrimination’ against Afrikaners",
       "link": "https://www.foxnews.com/politics/state-dept-says-g20-boycott-tied-south-africas-government-sponsored-discrimination-against-afrikaners"
-    },
-    {
-      "title": "Bill Maher says Democrats have ‘pretty big split’ in party after election wins",
-      "link": "https://www.foxnews.com/media/bill-maher-says-democrats-have-pretty-big-split-party-after-election-wins"
-    },
-    {
-      "title": "Dem House hopeful vows to help working class despite record of hiking taxes",
-      "link": "https://www.foxnews.com/politics/dem-house-hopeful-vows-help-working-class-despite-record-hiking-taxes"
-    },
-    {
-      "title": "Trump urges Senate Republicans to redirect funds from Obamacare-backed insurers, pay Americans directly",
-      "link": "https://www.foxnews.com/politics/trump-urges-senate-republicans-redirect-funds-obamacare-backed-insurers-pay-americans-directly"
     },
     {
       "title": "WATCH: Dem lawmakers attempt to explain why stock market is booming despite Trump tariffs",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-08T16:49:25.944Z"
+  "timestamp": "2025-11-08T17:09:51.358Z"
 }
