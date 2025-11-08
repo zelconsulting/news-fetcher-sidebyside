@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "The new Mafia: Trump, civil RICO and the global intifada",
+      "link": "https://www.foxnews.com/opinion/new-mafia-trump-civil-rico-global-intifada"
+    },
+    {
+      "title": "Socialist wave spreads coast to coast as progressive Democrats rally around Zohran Mamdani's NYC win",
+      "link": "https://www.foxnews.com/politics/socialist-wave-spreads-coast-coast-progressive-democrats-rally-around-zohran-mamdanis-nyc-win"
+    },
+    {
+      "title": "State Dept says G20 boycott tied to South Africa’s ‘government-sponsored discrimination’ against Afrikaners",
+      "link": "https://www.foxnews.com/politics/state-dept-says-g20-boycott-tied-south-africas-government-sponsored-discrimination-against-afrikaners"
+    },
+    {
       "title": "Bill Maher says Democrats have ‘pretty big split’ in party after election wins",
       "link": "https://www.foxnews.com/media/bill-maher-says-democrats-have-pretty-big-split-party-after-election-wins"
     },
@@ -29,28 +41,12 @@
       "link": "https://www.foxnews.com/politics/supreme-court-blocks-lower-court-order-forcing-trump-administration-fully-fund-snap-program"
     },
     {
-      "title": "Jason Aldean performs new single at Patriot Awards, announces upcoming album release date",
-      "link": "https://www.foxnews.com/entertainment/jason-aldean-performs-new-single-patriot-awards-announces-upcoming-album-release-date"
-    },
-    {
-      "title": "Billy Bob Thornton claims there's a 'prejudice in Hollywood' against Southerners",
-      "link": "https://www.foxnews.com/entertainment/billy-bob-thornton-claims-theres-prejudice-hollywood-against-southerners"
+      "title": "Trump’s own SCOTUS picks could wind up hurting him on tariffs",
+      "link": "https://www.foxnews.com/politics/supreme-court-justices-show-skepticism-trumps-emergency-tariff-powers-during-oral-arguments"
     },
     {
       "title": "Dems block GOP bill ensuring federal worker, military paychecks continue during shutdown",
       "link": "https://www.foxnews.com/politics/dems-block-gop-bill-ensuring-federal-worker-military-paychecks-continue-during-shutdown"
-    },
-    {
-      "title": "Raven-Symoné defends Bill Cosby's legacy despite 'horrific' sexual assault accusations from multiple women",
-      "link": "https://www.foxnews.com/entertainment/raven-symone-defends-bill-cosbys-legacy-despite-horrific-sexual-assault-accusations-multiple-women"
-    },
-    {
-      "title": "Socialist wave spreads coast to coast as progressive Democrats rally around Zohran Mamdani's NYC win",
-      "link": "https://www.foxnews.com/politics/socialist-wave-spreads-coast-coast-progressive-democrats-rally-around-zohran-mamdanis-nyc-win"
-    },
-    {
-      "title": "State Dept says G20 boycott tied to South Africa’s ‘government-sponsored discrimination’ against Afrikaners",
-      "link": "https://www.foxnews.com/politics/state-dept-says-g20-boycott-tied-south-africas-government-sponsored-discrimination-against-afrikaners"
     },
     {
       "title": "EXCLUSIVE: House Republican targets ‘woke’ testing in bill to restore classical education at military schools",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-08T12:21:35.034Z"
+  "timestamp": "2025-11-08T12:58:09.837Z"
 }
