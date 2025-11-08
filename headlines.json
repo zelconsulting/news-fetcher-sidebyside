@@ -1,12 +1,24 @@
 {
   "fox": [
     {
+      "title": "Crypto founder pardoned by Trump denies having ties to president's family",
+      "link": "https://www.foxnews.com/media/crypto-founder-pardoned-trump-denies-having-ties-trump-family"
+    },
+    {
+      "title": "Federal judge rules Trump's Portland National Guard deployment unconstitutional in permanent injunction",
+      "link": "https://www.foxnews.com/politics/federal-judge-rules-trumps-portland-national-guard-deployment-unconstitutional-permanent-injunction"
+    },
+    {
+      "title": "The Hitchhiker’s Guide to a potential procedrual vote on an interim spending bill",
+      "link": "https://www.foxnews.com/politics/hitchhikers-guide-potential-procedrual-vote-interim-spending-bill"
+    },
+    {
       "title": "House Dem reveals why she hijacked Speaker Johnson's presser with viral outburst",
       "link": "https://www.foxnews.com/politics/house-dem-reveals-why-she-hijacked-speaker-johnsons-presser-viral-outburst"
     },
     {
-      "title": "Appeals court denies Trump administration request to block SNAP funding order during government shutdown",
-      "link": "https://www.foxnews.com/politics/federal-appeals-court-denies-trump-administration-request-block-snap-funding-order-government-shutdown"
+      "title": "Supreme Court blocks lower court order forcing Trump administration to fully fund SNAP program",
+      "link": "https://www.foxnews.com/politics/supreme-court-blocks-lower-court-order-forcing-trump-administration-fully-fund-snap-program"
     },
     {
       "title": "Jason Aldean performs new single at Patriot Awards, announces upcoming album release date",
@@ -37,32 +49,12 @@
       "link": "https://www.foxnews.com/entertainment/duck-dynasty-star-phil-robertsons-household-ban-country-music-baffled-his-sons"
     },
     {
-      "title": "Fox News True Crime Newsletter: Alex Murdaugh cries foul, Bryan Kohberger's idea, 'house of horrors' reveal",
-      "link": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-alex-murdaugh-cries-foul-bryan-kohberger-idea-house-horrors-reveal"
-    },
-    {
       "title": "Fox News Politics Newsletter: Trump, Mamdani front-and-center in Empire State battle",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-mamdani-front-and-center-empire-state-battle"
     },
     {
-      "title": "‘Ruthless’ selects least patriotic Americans after Melania Trump named Fox Nation’s ‘Patriot of the Year’",
-      "link": "https://www.foxnews.com/media/ruthless-selects-least-patriotic-americans-after-melania-trump-named-fox-nations-patriot-year"
-    },
-    {
       "title": "James Carville says he'd 'find a convicted pedophile' to run against Republicans after election wins",
       "link": "https://www.foxnews.com/politics/james-carville-says-hed-find-convicted-pedophile-run-against-republicans-after-election-wins"
-    },
-    {
-      "title": "Federal judge rules Trump's Portland National Guard deployment unconstitutional in permanent injunction",
-      "link": "https://www.foxnews.com/politics/federal-judge-rules-trumps-portland-national-guard-deployment-unconstitutional-permanent-injunction"
-    },
-    {
-      "title": "The Hitchhiker’s Guide to a potential procedrual vote on an interim spending bill",
-      "link": "https://www.foxnews.com/politics/hitchhikers-guide-potential-procedrual-vote-interim-spending-bill"
-    },
-    {
-      "title": "Supreme Court blocks lower court order forcing Trump administration to fully fund SNAP program",
-      "link": "https://www.foxnews.com/politics/supreme-court-blocks-lower-court-order-forcing-trump-administration-fully-fund-snap-program"
     },
     {
       "title": "Congressional Budget Office hit by cyberattack, raising concerns over US government network security",
@@ -79,8 +71,16 @@
     {
       "title": "Trump considers granting Hungary exemption on Russian oil just weeks after imposing sanctions",
       "link": "https://www.foxnews.com/politics/trump-considers-granting-hungary-exemption-russian-oil-just-weeks-after-imposing-sanctions"
+    },
+    {
+      "title": "Thune says 'wheels came off' as Republicans mull next shutdown move",
+      "link": "https://www.foxnews.com/politics/thune-says-wheels-came-off-republicans-mull-next-shutdown-move"
+    },
+    {
+      "title": "Trump says Hungary's border stance keeps crime down, says Europe 'flooding' with migrants",
+      "link": "https://www.foxnews.com/politics/trump-says-hungarys-border-stance-keeps-crime-down-europe-flooding-migrants"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-08T03:47:32.817Z"
+  "timestamp": "2025-11-08T04:14:23.133Z"
 }
