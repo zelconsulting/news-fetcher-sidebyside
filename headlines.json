@@ -1,11 +1,23 @@
 {
   "fox": [
     {
+      "title": "Republicans turn their attention to bashing Obamacare as shutdown enters day 39",
+      "link": "https://www.foxnews.com/politics/republicans-turn-attention-bashing-obamacare-shutdown-enters-day-39"
+    },
+    {
+      "title": "Billy Bob Thornton calls out celebrities for bringing politics to Hollywood award shows",
+      "link": "https://www.foxnews.com/entertainment/billy-bob-thornton-calls-out-celebrities-bringing-politics-hollywood-award-shows"
+    },
+    {
+      "title": "Jimmy Kimmel's wife is 'angry all the time' after losing relationships with Trump-voting family members",
+      "link": "https://www.foxnews.com/media/jimmy-kimmels-wife-angry-all-time-after-losing-relationships-trump-voting-family-members"
+    },
+    {
       "title": "Manhunt underway after gunman allegedly fires at federal agents during Chicago immigration enforcement action",
       "link": "https://www.foxnews.com/us/manhunt-underway-gunman-allegedly-fires-federal-agents-chicago-immigration-enforcement-action"
     },
     {
-      "title": "Senate in limbo as Thune eyes long-haul until shutdown ends",
+      "title": "Senate in limbo as Thune eyes long haul until shutdown ends",
       "link": "https://www.foxnews.com/politics/senate-limbo-thune-eyes-long-haul-until-shutdown-ends"
     },
     {
@@ -23,18 +35,6 @@
     {
       "title": "Biden claims 'Democratic Party is back' after election, says late son 'should have been the president, not me'",
       "link": "https://www.foxnews.com/politics/biden-claims-democratic-party-back-after-election-says-late-son-should-have-been-president-not-me"
-    },
-    {
-      "title": "Fox News Entertainment Newsletter: Nicki Minaj praises Trump shoutout, 'Duck Dynasty' star's country music ban",
-      "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-nicki-minaj-praises-trump-shoutout-duck-dynasty-stars-country-music-ban"
-    },
-    {
-      "title": "Colorado college student government reverses course on TPUSA chapter after emergency meeting",
-      "link": "https://www.foxnews.com/media/colorado-college-student-government-rescinds-vote-denying-tpusa-chapter-emergency-meeting"
-    },
-    {
-      "title": "Republicans turn their attention to bashing Obamacare as shutdown enters day 39",
-      "link": "https://www.foxnews.com/politics/republicans-turn-attention-bashing-obamacare-shutdown-enters-day-39"
     },
     {
       "title": "Dem House hopeful vows to help working class despite record of hiking taxes",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-08T22:47:49.708Z"
+  "timestamp": "2025-11-08T23:11:01.675Z"
 }
