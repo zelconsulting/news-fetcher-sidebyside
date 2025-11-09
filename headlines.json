@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Senate could take test vote on new spending bill as early as Sunday afternoon",
+      "link": "https://www.foxnews.com/politics/senate-could-take-test-vote-new-spending-bill-early-sunday-afternoon"
+    },
+    {
+      "title": "Reckoning looms for politicians as longest government shutdown persists",
+      "link": "https://www.foxnews.com/politics/reckoning-looms-politicians-longest-government-shutdown-persists"
+    },
+    {
       "title": "Newsom tells Texas crowd taking back House is 'the whole thing' for Democrats in 2026",
       "link": "https://www.foxnews.com/politics/newsom-tells-texas-crowd-taking-back-house-whole-thing-democrats-2026"
     },
@@ -25,16 +33,8 @@
       "link": "https://www.foxnews.com/politics/senate-limbo-thune-eyes-long-haul-until-shutdown-ends"
     },
     {
-      "title": "Washington Post editorial says Mamdani 'drops the mask' after election win, offers 'seething' victory speech",
-      "link": "https://www.foxnews.com/media/washington-post-editorial-says-mamdani-drops-mask-after-election-win-offers-seething-victory-speech"
-    },
-    {
       "title": "Pelosi earned more than $130 million in stock profits, return of 16,930%, during time in Congress: report",
       "link": "https://www.foxnews.com/politics/pelosi-earned-more-than-130-million-stock-profits-return-16930-during-time-congress-report"
-    },
-    {
-      "title": "Reckoning looms for politicians as longest government shutdown persists",
-      "link": "https://www.foxnews.com/politics/reckoning-looms-politicians-longest-government-shutdown-persists"
     },
     {
       "title": "Biden claims 'Democratic Party is back' after election, says late son 'should have been the president, not me'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-09T01:02:34.123Z"
+  "timestamp": "2025-11-09T02:50:10.835Z"
 }
