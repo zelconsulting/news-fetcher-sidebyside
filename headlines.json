@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "BBC director-general and UK news chief both resign over Trump speech editing scandal",
+      "link": "https://www.foxnews.com/media/bbc-director-general-uk-news-chief-both-resign-over-trump-speech-editing-scandal"
+    },
+    {
       "title": "Republicans unveil key piece of shutdown puzzle in bid to reopen government",
       "link": "https://www.foxnews.com/politics/republicans-unveil-key-piece-shutdown-puzzle-bid-reopen-government"
     },
@@ -75,12 +79,8 @@
     {
       "title": "Progressive-backed candidate convicted in man's killing wins city council election",
       "link": "https://www.foxnews.com/politics/progressive-backed-candidate-convicted-in-mans-killing-wins-city-council-election"
-    },
-    {
-      "title": "Trump’s own SCOTUS picks could wind up hurting him on tariffs",
-      "link": "https://www.foxnews.com/politics/supreme-court-justices-show-skepticism-trumps-emergency-tariff-powers-during-oral-arguments"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-09T21:33:55.070Z"
+  "timestamp": "2025-11-09T21:47:57.175Z"
 }
