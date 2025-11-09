@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Republicans unveil key piece of shutdown puzzle in bid to reopen government",
+      "link": "https://www.foxnews.com/politics/republicans-unveil-key-piece-shutdown-puzzle-bid-reopen-government"
+    },
+    {
       "title": "Senator Ron Johnson warns GOP will be in ‘big trouble’ if party ignores Democrats’ plan to ‘nuke’ filibuster",
       "link": "https://www.foxnews.com/media/sen-johnson-warns-republicans-big-trouble-ignore-democrats-plan-nuke-filibuster"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Bill Maher compares Constitution to the Bible as 'sacred text' people don't actually read",
       "link": "https://www.foxnews.com/media/bill-maher-compares-constitution-bible-sacred-text-people-dont-actually-read"
-    },
-    {
-      "title": "Republicans unveil key piece of shutdown puzzle in bid to reopen government",
-      "link": "https://www.foxnews.com/politics/republicans-unveil-key-piece-shutdown-puzzle-bid-reopen-government"
     },
     {
       "title": "‘Genocide can’t be ignored’: GOP lawmaker backs Trump’s threat of military action in Nigeria",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-09T20:47:31.655Z"
+  "timestamp": "2025-11-09T21:10:09.849Z"
 }
