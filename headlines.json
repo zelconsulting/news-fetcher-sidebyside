@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Bill Maher, Cheryl Hines attack the left, say Democrats just want to 'cut you off'",
+      "link": "https://www.foxnews.com/media/bill-maher-cheryl-hines-attack-left-say-democrats-just-want-cut-you-off"
+    },
+    {
+      "title": "Democratic senator stands firm after defying party, says it’s time to ‘turn the government back on’",
+      "link": "https://www.foxnews.com/media/dem-lawmaker-stands-firm-after-defying-party-says-its-time-turn-government-back-on"
+    },
+    {
       "title": "Senate vote to end government shutdown ignites Democrat civil war",
       "link": "https://www.foxnews.com/politics/senate-vote-end-government-shutdown-ignites-democrat-civil-war"
     },
@@ -37,16 +45,8 @@
       "link": "https://www.foxnews.com/politics/trump-welcomes-syrian-president-washington-high-profile-visit-shutdown-deal-takes-shape"
     },
     {
-      "title": "Commanders fans face backlash for booing Trump during US military ceremony",
-      "link": "https://www.foxnews.com/sports/commanders-fans-face-backlash-booing-trump-during-us-military-ceremony"
-    },
-    {
-      "title": "Tony Romo goes viral again for eyebrow-raising 'DTF' comment during Patriots-Buccaneers broadcast",
-      "link": "https://www.foxnews.com/sports/tony-romo-goes-viral-again-eyebrow-raising-dtf-comment-during-patriots-buccaneers-broadcast"
-    },
-    {
-      "title": "Democrats split from Schumer as Senate advances plan to reopen government and more top headlines",
-      "link": "https://www.foxnews.com/us/democrats-split-from-schumer-senate-advances-plan-reopen-government-more-top-headlines"
+      "title": "Judge set to choose new congressional map in fight that could reshape House control",
+      "link": "https://www.foxnews.com/politics/judge-set-choose-new-congressional-map-fight-could-reshape-house-control"
     },
     {
       "title": "Democratic lawmakers reel after Senate votes to reopen government: 'Republican-made healthcare crisis'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-10T16:47:16.225Z"
+  "timestamp": "2025-11-10T17:12:04.209Z"
 }
