@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "In a SNAP, Trump blamed for blocking food assistance to low-income families",
+      "link": "https://www.foxnews.com/opinion/snap-trump-blamed-blocking-food-assistance-low-income-families"
+    },
+    {
       "title": "Sanders calls out 8 Senate Democrats for 'very, very bad vote' on government funding measure",
       "link": "https://www.foxnews.com/politics/sanders-calls-out-8-senate-democrats-very-very-bad-vote-government-funding-measure"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Trump arrives at Commanders' stadium for NFL 'Salute to Service' festivities",
       "link": "https://www.foxnews.com/sports/trump-arrives-commanders-stadium-nfl-salute-service-festivities"
-    },
-    {
-      "title": "Dolphins stun Bills with blowout win behind De'Von Achane's big day",
-      "link": "https://www.foxnews.com/sports/dolphins-stun-bills-blowout-win-behind-devon-achanes-big-day"
     },
     {
       "title": "Senate Democrats, Republicans reach deal to reopen government",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-10T08:19:16.286Z"
+  "timestamp": "2025-11-10T08:47:07.790Z"
 }
