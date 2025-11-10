@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Reporter's Notebook: Paul stands firm against spending bill as shutdown clock ticks",
+      "link": "https://www.foxnews.com/politics/reporters-notebook-paul-stands-firm-against-spending-bill-shutdown-clock-ticks"
+    },
+    {
+      "title": "Democrats attempt last-ditch effort to save Obamacare subsidies as shutdown end draws near",
+      "link": "https://www.foxnews.com/politics/democrats-attempt-last-ditch-effort-save-obamacare-subsidies-shutdown-end-draws-near"
+    },
+    {
       "title": "Another House Dem drops out of 2026 rat race as party faces generational reckoning",
       "link": "https://www.foxnews.com/politics/another-house-dem-drops-out-2026-rat-race-party-faces-generational-reckoning"
     },
@@ -45,18 +53,6 @@
       "link": "https://www.foxnews.com/media/bill-maher-cheryl-hines-attack-left-say-democrats-just-want-cut-you-off"
     },
     {
-      "title": "Democratic senator stands firm after defying party, says it’s time to ‘turn the government back on’",
-      "link": "https://www.foxnews.com/media/dem-lawmaker-stands-firm-after-defying-party-says-its-time-turn-government-back-on"
-    },
-    {
-      "title": "Reporter's Notebook: Paul stands firm against spending bill as shutdown clock ticks",
-      "link": "https://www.foxnews.com/politics/reporters-notebook-paul-stands-firm-against-spending-bill-shutdown-clock-ticks"
-    },
-    {
-      "title": "Democrats attempt last-ditch effort to save Obamacare subsidies as shutdown end draws near",
-      "link": "https://www.foxnews.com/politics/democrats-attempt-last-ditch-effort-save-obamacare-subsidies-shutdown-end-draws-near"
-    },
-    {
       "title": "Senate vote to end government shutdown ignites Democrat civil war",
       "link": "https://www.foxnews.com/politics/senate-vote-end-government-shutdown-ignites-democrat-civil-war"
     },
@@ -79,8 +75,12 @@
     {
       "title": "Eight Senate Democrats break ranks with party leadership to end historic government shutdown",
       "link": "https://www.foxnews.com/politics/eight-senate-democrats-break-ranks-party-leadership-end-historic-government-shutdown"
+    },
+    {
+      "title": "Trump welcomes Syrian president to Washington in high-profile visit as shutdown deal takes shape",
+      "link": "https://www.foxnews.com/politics/trump-welcomes-syrian-president-washington-high-profile-visit-shutdown-deal-takes-shape"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-10T19:48:02.999Z"
+  "timestamp": "2025-11-10T20:14:59.569Z"
 }
