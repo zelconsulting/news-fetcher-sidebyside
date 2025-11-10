@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump’s warning to Nigeria offers hope to nation's persecuted Christians",
+      "link": "https://www.foxnews.com/world/trumps-warning-nigeria-offers-hope-nations-persecuted-christians"
+    },
+    {
+      "title": "Mike Johnson eyes Wednesday vote with end of government shutdown in sight",
+      "link": "https://www.foxnews.com/politics/mike-johnson-eyes-wednesday-vote-end-government-shutdown-sight"
+    },
+    {
+      "title": "Mamdani’s wife’s 'student sketchbook’ art is Hunter Biden effect all over again, says US artist",
+      "link": "https://www.foxnews.com/politics/mamdanis-wifes-student-sketchbook-art-hunter-biden-effect-all-over-again-says-us-artist"
+    },
+    {
       "title": "Reporter's Notebook: Paul stands firm against spending bill as shutdown clock ticks",
       "link": "https://www.foxnews.com/politics/reporters-notebook-paul-stands-firm-against-spending-bill-shutdown-clock-ticks"
     },
@@ -41,24 +53,8 @@
       "link": "https://www.foxnews.com/politics/watchdog-how-universities-rebranding-dei-skirt-trumps-crackdown"
     },
     {
-      "title": "Three DC homicides in six hours test Trump’s claim of safer Washington",
-      "link": "https://www.foxnews.com/us/three-dc-homicides-six-hours-test-trumps-claim-safer-washington"
-    },
-    {
       "title": "Judge set to choose new congressional map in fight that could reshape House control",
       "link": "https://www.foxnews.com/politics/judge-set-choose-new-congressional-map-fight-could-reshape-house-control"
-    },
-    {
-      "title": "Bill Maher, Cheryl Hines attack the left, say Democrats just want to 'cut you off'",
-      "link": "https://www.foxnews.com/media/bill-maher-cheryl-hines-attack-left-say-democrats-just-want-cut-you-off"
-    },
-    {
-      "title": "Mike Johnson eyes Wednesday vote with end of government shutdown in sight",
-      "link": "https://www.foxnews.com/politics/mike-johnson-eyes-wednesday-vote-end-government-shutdown-sight"
-    },
-    {
-      "title": "Mamdani’s wife’s 'student sketchbook’ art is Hunter Biden effect all over again, says US artist",
-      "link": "https://www.foxnews.com/politics/mamdanis-wifes-student-sketchbook-art-hunter-biden-effect-all-over-again-says-us-artist"
     },
     {
       "title": "Senate vote to end government shutdown ignites Democrat civil war",
@@ -79,8 +75,12 @@
     {
       "title": "Johnson takes victory lap in first comments after Senate shutdown deal: 'Vindicated'",
       "link": "https://www.foxnews.com/politics/mike-johnson-speaks-out-after-senate-breakthrough-government-shutdown"
+    },
+    {
+      "title": "Eight Senate Democrats break ranks with party leadership to end historic government shutdown",
+      "link": "https://www.foxnews.com/politics/eight-senate-democrats-break-ranks-party-leadership-end-historic-government-shutdown"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-10T21:28:58.503Z"
+  "timestamp": "2025-11-10T21:40:17.924Z"
 }
