@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Trump to host Syrian president in historic White House meeting amid push for regional peace",
+      "link": "https://www.foxnews.com/world/trump-host-syrian-president-historic-white-house-meeting-amid-push-regional-peace"
+    },
+    {
+      "title": "Democratic lawmakers reel after Senate votes to reopen government: 'Republican-made health care crisis'",
+      "link": "https://www.foxnews.com/politics/democratic-lawmakers-reel-senate-votes-reopen-government-republican-made-health-care-crisis"
+    },
+    {
+      "title": "NEWT GINGRICH: Trump could fix our broken prison system and help Make America Safe Again",
+      "link": "https://www.foxnews.com/opinion/newt-gingrich-trump-could-fix-our-broken-prison-system-help-make-america-safe-again"
+    },
+    {
+      "title": "It’s not just the economy — this is how Democrats beat the GOP across the country",
+      "link": "https://www.foxnews.com/opinion/its-not-just-economy-how-democrats-beat-gop-across-country"
+    },
+    {
       "title": "In a SNAP, Trump blamed for blocking food assistance to low-income families",
       "link": "https://www.foxnews.com/opinion/snap-trump-blamed-blocking-food-assistance-low-income-families"
     },
@@ -27,22 +43,6 @@
     {
       "title": "Hitchhiker’s Guide to what to expect tonight on the government shutdown",
       "link": "https://www.foxnews.com/politics/hitchhikers-guide-what-expect-tonight-government-shutdown"
-    },
-    {
-      "title": "Trump says Commanders 'have to get a touchdown' while in FOX booth; Washington's QB finds receiver for score",
-      "link": "https://www.foxnews.com/sports/trump-calls-commanders-touchdown-drive-against-lions"
-    },
-    {
-      "title": "Lions' Amon-Ra St Brown does Trump's signature dance to celebrate touchdown vs Commanders",
-      "link": "https://www.foxnews.com/sports/lions-amon-ra-st-brown-does-trumps-signature-dance-celebrate-touchdown-vs-commanders"
-    },
-    {
-      "title": "Trump arrives at Commanders' stadium for NFL 'Salute to Service' festivities",
-      "link": "https://www.foxnews.com/sports/trump-arrives-commanders-stadium-nfl-salute-service-festivities"
-    },
-    {
-      "title": "Democratic lawmakers reel after Senate votes to reopen government: 'Republican-made health care crisis'",
-      "link": "https://www.foxnews.com/politics/democratic-lawmakers-reel-senate-votes-reopen-government-republican-made-health-care-crisis"
     },
     {
       "title": "Senate Democrats, Republicans reach deal to reopen government",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-10T11:11:34.856Z"
+  "timestamp": "2025-11-10T11:27:28.183Z"
 }
