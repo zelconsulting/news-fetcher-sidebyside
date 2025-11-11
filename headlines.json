@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Among Richmond’s ghosts, I discovered grace — and a deeper faith in freedom",
+      "link": "https://www.foxnews.com/opinion/among-richmonds-ghosts-i-discovered-grace-deeper-faith-freedom"
+    },
+    {
+      "title": "Likely end of government shutdown in sight as House lawmakers poised to clear final hurdles",
+      "link": "https://www.foxnews.com/politics/likely-end-government-shutdown-sight-house-lawmakers-poised-clear-final-hurdles"
+    },
+    {
+      "title": "Sexual harassment allegation that derailed Democrat's congressional campaign results in defamation settlement",
+      "link": "https://www.foxnews.com/politics/sexual-harassment-allegation-that-derailed-democrats-congressional-campaign-results-in-defamation-settlement"
+    },
+    {
       "title": "Parents' rights group releases scathing 'Lookout' warning targeting top 2 teachers unions: 'Indoctrination'",
       "link": "https://www.foxnews.com/politics/parents-rights-group-releases-scathing-lookout-warning-targeting-top-2-teachers-unions-indoctrination"
     },
@@ -25,28 +37,8 @@
       "link": "https://www.foxnews.com/politics/mamdanis-top-incoming-aide-chief-architect-radical-proposal-overhauling-nypd"
     },
     {
-      "title": "Senate ends 41-day government shutdown stalemate and more top headlines",
-      "link": "https://www.foxnews.com/us/senate-ends-41-day-government-shutdown-stalemate-more-top-headlines"
-    },
-    {
-      "title": "Liberal media figures turn on Democrats after controversial government shutdown vote with Republicans",
-      "link": "https://www.foxnews.com/media/liberal-media-figures-turn-democrats-after-controversial-government-shutdown-vote-republicans"
-    },
-    {
       "title": "Top House committee chairman reveals he won't seek re-election in 2026",
       "link": "https://www.foxnews.com/politics/top-house-committee-chairman-reveals-he-wont-seek-re-election-2026"
-    },
-    {
-      "title": "Trump’s America First strategy builds deterrence through strong US-Israel alliance, experts say",
-      "link": "https://www.foxnews.com/world/trumps-america-first-strategy-builds-deterrence-through-strong-us-israel-alliance-experts-say"
-    },
-    {
-      "title": "Likely end of government shutdown in sight as House lawmakers poised to clear final hurdles",
-      "link": "https://www.foxnews.com/politics/likely-end-government-shutdown-sight-house-lawmakers-poised-clear-final-hurdles"
-    },
-    {
-      "title": "Sexual harassment allegation that derailed Democrat's congressional campaign results in defamation settlement",
-      "link": "https://www.foxnews.com/politics/sexual-harassment-allegation-that-derailed-democrats-congressional-campaign-results-in-defamation-settlement"
     },
     {
       "title": "Senate ends 41-day government shutdown stalemate, sends bipartisan deal to House",
@@ -79,8 +71,16 @@
     {
       "title": "Mamdani’s wife’s 'student sketchbook’ art is Hunter Biden effect all over again, says US artist",
       "link": "https://www.foxnews.com/politics/mamdanis-wifes-student-sketchbook-art-hunter-biden-effect-all-over-again-says-us-artist"
+    },
+    {
+      "title": "Reporter's Notebook: Paul stands firm against spending bill as shutdown clock ticks",
+      "link": "https://www.foxnews.com/politics/reporters-notebook-paul-stands-firm-against-spending-bill-shutdown-clock-ticks"
+    },
+    {
+      "title": "Democrats attempt last-ditch effort to save Obamacare subsidies as shutdown end draws near",
+      "link": "https://www.foxnews.com/politics/democrats-attempt-last-ditch-effort-save-obamacare-subsidies-shutdown-end-draws-near"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-11T15:13:44.339Z"
+  "timestamp": "2025-11-11T15:33:58.217Z"
 }
