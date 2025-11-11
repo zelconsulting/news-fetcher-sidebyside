@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "Angus King claims progressive critics have been 'spun up' to support government shutdown",
+      "link": "https://www.foxnews.com/media/angus-king-claims-progressive-critics-have-been-spun-up-support-government-shutdown"
+    },
+    {
+      "title": "Dems accuse EPA of trying to kill greenhouse gas reporting program that aids cap-and-trade",
+      "link": "https://www.foxnews.com/politics/dems-accuse-epa-trying-kill-greenhouse-gas-reporting-program-aids-cap-and-trade"
+    },
+    {
+      "title": "Democrat lawmaker blasts Senate colleagues for caving in shutdown deal",
+      "link": "https://www.foxnews.com/politics/democrat-lawmaker-blasts-senate-colleagues-caving-shutdown-deal"
+    },
+    {
+      "title": "Senate reaches temporary truce to end record shutdown, but January battle looms",
+      "link": "https://www.foxnews.com/politics/senate-reaches-temporary-truce-end-record-shutdown-january-battle-looms"
+    },
+    {
+      "title": "‘South Park’ creators say they’re ‘down the middle’ despite Trump takedowns",
+      "link": "https://www.foxnews.com/media/south-park-creators-say-theyre-down-middle-despite-trump-takedowns"
+    },
+    {
+      "title": "John Fetterman sides with GOP in Senate vote, says Democrats ‘crossed a line’ putting politics over country",
+      "link": "https://www.foxnews.com/media/john-fetterman-sides-gop-senate-vote-end-government-shutdown-says-democrats-crossed-line"
+    },
+    {
+      "title": "Texas AG Ken Paxton sues Latino voter group Jolt for allegedly registering illegal immigrants",
+      "link": "https://www.foxnews.com/politics/texas-ag-ken-paxton-sues-latino-voter-group-jolt-allegedly-registering-illegal-immigrants"
+    },
+    {
       "title": "Outgoing boss insists BBC ‘not institutionally biased’ despite stepping down over Trump documentary scandal",
       "link": "https://www.foxnews.com/media/outgoing-boss-insists-bbc-not-institutionally-biased-despite-stepping-down-over-trump-documentary-scandal"
     },
@@ -17,36 +45,8 @@
       "link": "https://www.foxnews.com/politics/call-duty-battle-house-republicans-democrats-looking-veterans"
     },
     {
-      "title": "Washington Post editorial praises Senate Democrats who voted to end shutdown, calls failure 'inevitable'",
-      "link": "https://www.foxnews.com/media/washington-post-editorial-praises-senate-democrats-who-voted-end-shutdown-calls-failure-inevitable"
-    },
-    {
-      "title": "David Axelrod says Chuck Schumer is 'in bigger trouble' after government shutdown turmoil",
-      "link": "https://www.foxnews.com/media/david-axelrod-says-chuck-schumer-in-bigger-trouble-after-government-shutdown-turmoil"
-    },
-    {
-      "title": "Fox News Entertainment Newsletter: Billy Bob Thornton slams celebrities, 'Bill & Ted' star escapes Hollywood",
-      "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-billy-bob-thornton-slams-celebrities-bill-ted-star-escapes-hollywood"
-    },
-    {
       "title": "Trump lays wreath at Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day",
       "link": "https://www.foxnews.com/politics/trump-lays-wreath-tomb-unknown-soldier-arlington-national-cemetery-veterans-day"
-    },
-    {
-      "title": "Dems accuse EPA of trying to kill greenhouse gas reporting program that aids cap-and-trade",
-      "link": "https://www.foxnews.com/politics/dems-accuse-epa-trying-kill-greenhouse-gas-reporting-program-aids-cap-and-trade"
-    },
-    {
-      "title": "Democrat lawmaker blasts Senate colleagues for caving in shutdown deal",
-      "link": "https://www.foxnews.com/politics/democrat-lawmaker-blasts-senate-colleagues-caving-shutdown-deal"
-    },
-    {
-      "title": "Senate reaches temporary truce to end record shutdown, but January battle looms",
-      "link": "https://www.foxnews.com/politics/senate-reaches-temporary-truce-end-record-shutdown-january-battle-looms"
-    },
-    {
-      "title": "Texas AG Ken Paxton sues Latino voter group Jolt for allegedly registering illegal immigrants",
-      "link": "https://www.foxnews.com/politics/texas-ag-ken-paxton-sues-latino-voter-group-jolt-allegedly-registering-illegal-immigrants"
     },
     {
       "title": "Democrats, left empty-handed in shutdown, turn fury on Schumer",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-11T20:13:50.687Z"
+  "timestamp": "2025-11-11T20:33:25.302Z"
 }
