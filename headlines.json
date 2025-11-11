@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "Trump lays wreath at Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day",
+      "link": "https://www.foxnews.com/politics/trump-lays-wreath-tomb-unknown-soldier-arlington-national-cemetery-veterans-day"
+    },
+    {
+      "title": "Democrats, left empty-handed in shutdown, turn fury on Schumer",
+      "link": "https://www.foxnews.com/politics/democrats-left-empty-handed-shutdown-turn-fury-schumer"
+    },
+    {
+      "title": "NFL veteran takes swipe at Lions star Amon-Ra St Brown for doing Trump dance after TD",
+      "link": "https://www.foxnews.com/sports/nfl-veteran-takes-swipe-lions-star-amon-ra-st-brown-doing-trump-dance-after-td"
+    },
+    {
+      "title": "Red state judge chooses new congressional map in fight that could reshape House control",
+      "link": "https://www.foxnews.com/politics/red-state-judge-chooses-new-congressional-map-fight-could-reshape-house-control"
+    },
+    {
+      "title": "Late-night comedians tear into Democrats after voting to end government shutdown",
+      "link": "https://www.foxnews.com/media/late-night-comedians-tear-democrats-after-voting-end-government-shutdown"
+    },
+    {
+      "title": "From combat boots to the campaign trail: Army veteran marches into Michigan congressional race",
+      "link": "https://www.foxnews.com/politics/from-combat-boots-campaign-trail-army-veteran-marches-michigan-congressional-race"
+    },
+    {
+      "title": "Trump doubles down on plan for 600,000 Chinese student visas despite MAGA backlash",
+      "link": "https://www.foxnews.com/politics/trump-doubles-down-plan-600000-chinese-student-visas-despite-maga-backlash"
+    },
+    {
       "title": "Among Richmond’s ghosts, I discovered grace — and a deeper faith in freedom",
       "link": "https://www.foxnews.com/opinion/among-richmonds-ghosts-i-discovered-grace-deeper-faith-freedom"
     },
@@ -17,40 +45,8 @@
       "link": "https://www.foxnews.com/politics/parents-rights-group-releases-scathing-lookout-warning-targeting-top-2-teachers-unions-indoctrination"
     },
     {
-      "title": "Trump pushes back after Michelle Obama knocks East Wing renovation, calling old arrangement ‘a disaster'",
-      "link": "https://www.foxnews.com/media/trump-pushes-back-after-michelle-obama-knocks-east-wing-renovation-calling-old-arrangement-a-disaster"
-    },
-    {
-      "title": "Kamala Harris claims Democratic Party took Black women for granted during 2024 election",
-      "link": "https://www.foxnews.com/media/kamala-harris-claims-democratic-party-took-black-women-granted-during-2024-election"
-    },
-    {
       "title": "Trump asks Supreme Court to overturn E Jean Carroll case verdict",
       "link": "https://www.foxnews.com/politics/trump-asks-supreme-court-overturn-e-jean-carroll-case-verdict"
-    },
-    {
-      "title": "Maine town official refuses to apologize after calling opponents of trans athlete policy ‘pedophilic’",
-      "link": "https://www.foxnews.com/media/maine-town-official-refuses-apologize-after-calling-opponents-trans-athlete-policy-pedophilic"
-    },
-    {
-      "title": "Trump lays wreath at Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day",
-      "link": "https://www.foxnews.com/politics/trump-lays-wreath-tomb-unknown-soldier-arlington-national-cemetery-veterans-day"
-    },
-    {
-      "title": "Democrats, left empty-handed in shutdown, turn fury on Schumer",
-      "link": "https://www.foxnews.com/politics/democrats-left-empty-handed-shutdown-turn-fury-schumer"
-    },
-    {
-      "title": "Red state judge chooses new congressional map in fight that could reshape House control",
-      "link": "https://www.foxnews.com/politics/red-state-judge-chooses-new-congressional-map-fight-could-reshape-house-control"
-    },
-    {
-      "title": "From combat boots to the campaign trail: Army veteran marches into Michigan congressional race",
-      "link": "https://www.foxnews.com/politics/from-combat-boots-campaign-trail-army-veteran-marches-michigan-congressional-race"
-    },
-    {
-      "title": "Trump doubles down on plan for 600,000 Chinese student visas despite MAGA backlash",
-      "link": "https://www.foxnews.com/politics/trump-doubles-down-plan-600000-chinese-student-visas-despite-maga-backlash"
     },
     {
       "title": "Mamdani's top incoming aide was 'chief architect' of radical proposal overhauling NYPD",
@@ -79,8 +75,12 @@
     {
       "title": "Trump ally jumps into crowded GOP primary in race to flip swing state House seat",
       "link": "https://www.foxnews.com/politics/trump-ally-jumps-crowded-gop-primary-race-flip-swing-state-house-seat"
+    },
+    {
+      "title": "Fox News Politics Newsletter: Mike Johnson eyes Wednesday vote, shutdown end near",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-mike-johnson-eyes-wednesday-vote-shutdown-end-near"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-11T16:46:49.578Z"
+  "timestamp": "2025-11-11T17:11:40.623Z"
 }
