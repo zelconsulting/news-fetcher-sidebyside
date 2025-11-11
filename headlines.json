@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Trump honors veterans at Arlington National Ceremony",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-honors-veterans-at-arlington-national-ceremony"
+    },
+    {
+      "title": "Newsom claims Trump is ‘handing the future to China’ at Brazilian climate confab that WH skipped",
+      "link": "https://www.foxnews.com/politics/newsom-claims-trump-handing-future-china-brazilian-climate-confab-wh-skipped"
+    },
+    {
+      "title": "Russia’s gas gamble backfires as Trump’s energy vision reshapes Europe",
+      "link": "https://www.foxnews.com/politics/russias-gas-gamble-backfires-trumps-energy-vision-reshapes-europe"
+    },
+    {
+      "title": "Trump reflects on sports' impact on life, says you have to keep fighting no matter the circumstance",
+      "link": "https://www.foxnews.com/sports/trump-reflects-sports-impact-life-says-you-have-keep-fighting-no-matter-circumstance"
+    },
+    {
       "title": "Angus King claims progressive critics have been 'spun up' to support government shutdown",
       "link": "https://www.foxnews.com/media/angus-king-claims-progressive-critics-have-been-spun-up-support-government-shutdown"
     },
@@ -17,36 +33,12 @@
       "link": "https://www.foxnews.com/politics/senate-reaches-temporary-truce-end-record-shutdown-january-battle-looms"
     },
     {
-      "title": "‘South Park’ creators say they’re ‘down the middle’ despite Trump takedowns",
-      "link": "https://www.foxnews.com/media/south-park-creators-say-theyre-down-middle-despite-trump-takedowns"
-    },
-    {
-      "title": "John Fetterman sides with GOP in Senate vote, says Democrats ‘crossed a line’ putting politics over country",
-      "link": "https://www.foxnews.com/media/john-fetterman-sides-gop-senate-vote-end-government-shutdown-says-democrats-crossed-line"
-    },
-    {
       "title": "Texas AG Ken Paxton sues Latino voter group Jolt for allegedly registering illegal immigrants",
       "link": "https://www.foxnews.com/politics/texas-ag-ken-paxton-sues-latino-voter-group-jolt-allegedly-registering-illegal-immigrants"
     },
     {
-      "title": "Outgoing boss insists BBC ‘not institutionally biased’ despite stepping down over Trump documentary scandal",
-      "link": "https://www.foxnews.com/media/outgoing-boss-insists-bbc-not-institutionally-biased-despite-stepping-down-over-trump-documentary-scandal"
-    },
-    {
-      "title": "UC Berkeley chaos outside Turning Point gathering ends in multiple arrests as conservative event runs smoothly",
-      "link": "https://www.foxnews.com/us/uc-berkeley-chaos-outside-turning-point-gathering-ends-multiple-arrests-conservative-event-runs-smoothly"
-    },
-    {
       "title": "‘Woke lawfare’ exposed: Attorney unmasks carbon tax intent behind massive oil litigation",
       "link": "https://www.foxnews.com/politics/woke-lawfare-exposed-attorney-unmasks-carbon-tax-intent-behind-massive-oil-litigation"
-    },
-    {
-      "title": "Newsom claims Trump is ‘handing the future to China’ at Brazilian climate confab that WH skipped",
-      "link": "https://www.foxnews.com/politics/newsom-claims-trump-handing-future-china-brazilian-climate-confab-wh-skipped"
-    },
-    {
-      "title": "Russia’s gas gamble backfires as Trump’s energy vision reshapes Europe",
-      "link": "https://www.foxnews.com/politics/russias-gas-gamble-backfires-trumps-energy-vision-reshapes-europe"
     },
     {
       "title": "Call to duty: In battle for House, Republicans and Democrats looking to veterans",
@@ -79,8 +71,16 @@
     {
       "title": "Sexual harassment allegation that derailed Democrat's congressional campaign results in defamation settlement",
       "link": "https://www.foxnews.com/politics/sexual-harassment-allegation-that-derailed-democrats-congressional-campaign-results-in-defamation-settlement"
+    },
+    {
+      "title": "Parents' rights group releases scathing 'Lookout' warning targeting top 2 teachers unions: 'Indoctrination'",
+      "link": "https://www.foxnews.com/politics/parents-rights-group-releases-scathing-lookout-warning-targeting-top-2-teachers-unions-indoctrination"
+    },
+    {
+      "title": "Trump asks Supreme Court to overturn E Jean Carroll case verdict",
+      "link": "https://www.foxnews.com/politics/trump-asks-supreme-court-overturn-e-jean-carroll-case-verdict"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-11T21:39:26.797Z"
+  "timestamp": "2025-11-11T21:47:56.891Z"
 }
