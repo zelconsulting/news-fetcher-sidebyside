@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Bill to end government shutdown survives key hurdle before House-wide vote",
+      "link": "https://www.foxnews.com/politics/bill-end-government-shutdown-survives-key-hurdle-before-house-wide-vote"
+    },
+    {
       "title": "Reagan-appointed judge resigns in protest of Trump, warns of president's 'assault on the rule of law'",
       "link": "https://www.foxnews.com/politics/reagan-appointed-judge-resigns-protest-trump-warns-presidents-assault-rule-law"
     },
@@ -31,10 +35,6 @@
     {
       "title": "Rogan warns that liberal celebration of Kirk assassination shows we're closer to 'civil war' than he thought",
       "link": "https://www.foxnews.com/media/rogan-warns-aftermath-kirk-assassination-shows-were-closer-civil-war-than-he-thought"
-    },
-    {
-      "title": "Bill to end government shutdown survives key hurdle before House-wide vote",
-      "link": "https://www.foxnews.com/politics/bill-end-government-shutdown-survives-key-hurdle-before-house-wide-vote"
     },
     {
       "title": "Ilhan Omar fires back after Trump's Constitution dig: 'Unlike you, I can read'",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-12T08:18:18.314Z"
+  "timestamp": "2025-11-12T08:47:25.157Z"
 }
