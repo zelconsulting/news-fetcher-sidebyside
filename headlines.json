@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump makes formal request to Israeli president to pardon Netanyahu",
+      "link": "https://www.foxnews.com/politics/trump-makes-formal-request-israeli-president-pardon-netanyahu"
+    },
+    {
+      "title": "Scalise reveals post-shutdown GOP battle plan as House readies for intense new schedule",
+      "link": "https://www.foxnews.com/politics/scalise-reveals-post-shutdown-gop-battle-plan-house-readies-intense-new-schedule"
+    },
+    {
       "title": "Cowboys exec backs Bad Bunny as Super Bowl halftime performer, says sport does all it can to avoid politics",
       "link": "https://www.foxnews.com/sports/cowboys-exec-backs-bad-bunny-super-bowl-halftime-performer-says-sport-does-all-can-avoid-politics"
     },
@@ -37,14 +45,6 @@
       "link": "https://www.foxnews.com/opinion/gen-z-loves-both-trump-mamdani-same-reason"
     },
     {
-      "title": "Trump’s 50-year mortgage just introduces a new kind of debt",
-      "link": "https://www.foxnews.com/opinion/trumps-50-year-mortgage-just-introduces-new-kind-debt"
-    },
-    {
-      "title": "Police raid on newspaper prompts $3M payout, apology amid press freedom outcry",
-      "link": "https://www.foxnews.com/media/police-raid-newspaper-prompts-3m-payout-apology-amid-press-freedom-outcry"
-    },
-    {
       "title": "Bill to end government shutdown survives key hurdle before House-wide vote",
       "link": "https://www.foxnews.com/politics/bill-end-government-shutdown-survives-key-hurdle-before-house-wide-vote"
     },
@@ -55,14 +55,6 @@
     {
       "title": "Trump says Chicago crime has fallen dramatically despite 'extraordinary resistance' from local Democrats",
       "link": "https://www.foxnews.com/politics/trump-says-chicago-crime-has-fallen-dramatically-despite-extraordinary-resistance-from-local-democrats"
-    },
-    {
-      "title": "Trump makes formal request to Israeli president to pardon Netanyahu",
-      "link": "https://www.foxnews.com/politics/trump-makes-formal-request-israeli-president-pardon-netanyahu"
-    },
-    {
-      "title": "Scalise reveals post-shutdown GOP battle plan as House readies for intense new schedule",
-      "link": "https://www.foxnews.com/politics/scalise-reveals-post-shutdown-gop-battle-plan-house-readies-intense-new-schedule"
     },
     {
       "title": "Jeffries reveals last-minute move to extend COVID-era subsidies as House shutdown vote looms",
@@ -79,8 +71,16 @@
     {
       "title": "Ilhan Omar fires back after Trump's Constitution dig: 'Unlike you, I can read'",
       "link": "https://www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-constitution-dig-unlike-you-i-can-read"
+    },
+    {
+      "title": "Fox News Politics Newsletter: Trump honors veterans at Arlington National Ceremony",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-honors-veterans-at-arlington-national-ceremony"
+    },
+    {
+      "title": "Newsom claims Trump is ‘handing the future to China’ at Brazilian climate confab that WH skipped",
+      "link": "https://www.foxnews.com/politics/newsom-claims-trump-handing-future-china-brazilian-climate-confab-wh-skipped"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-12T13:44:02.068Z"
+  "timestamp": "2025-11-12T13:54:49.348Z"
 }
