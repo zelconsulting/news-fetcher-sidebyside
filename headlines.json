@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump says Chicago crime has fallen dramatically despite 'extraordinary resistance' from local Democrats",
+      "link": "https://www.foxnews.com/politics/trump-says-chicago-crime-has-fallen-dramatically-despite-extraordinary-resistance-from-local-democrats"
+    },
+    {
       "title": "Trump grows frustrated with GOP for not touting his ‘greatest economy in history’",
       "link": "https://www.foxnews.com/media/trump-grows-frustrated-gop-not-touting-his-greatest-economy-history"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Rogan warns that liberal celebration of Kirk assassination shows we're closer to 'civil war' than he thought",
       "link": "https://www.foxnews.com/media/rogan-warns-aftermath-kirk-assassination-shows-were-closer-civil-war-than-he-thought"
-    },
-    {
-      "title": "Trump says Chicago crime has fallen dramatically despite 'extraordinary resistance' from local Democrats",
-      "link": "https://www.foxnews.com/politics/trump-says-chicago-crime-has-fallen-dramatically-despite-extraordinary-resistance-from-local-democrats"
     },
     {
       "title": "Ilhan Omar fires back after Trump's Constitution dig: 'Unlike you, I can read'",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-12T03:59:34.846Z"
+  "timestamp": "2025-11-12T04:28:09.902Z"
 }
