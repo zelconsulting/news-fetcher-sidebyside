@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump signs bill ending longest government shutdown in US history",
+      "link": "https://www.foxnews.com/politics/trump-signs-bill-ending-longest-government-shutdown-us-history"
+    },
+    {
       "title": "Speaker Johnson accuses Dems of choosing politics over hungry Americans after House votes to reopen government",
       "link": "https://www.foxnews.com/media/speaker-johnson-accuses-dems-choosing-politics-over-hungry-americans-after-house-votes-reopen-government"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Congress sends bill ending longest government shutdown in history to Trump's desk",
       "link": "https://www.foxnews.com/politics/congress-sends-bill-ending-longest-government-shutdown-in-history-trumps-desk"
-    },
-    {
-      "title": "Trump signs bill ending longest government shutdown in US history",
-      "link": "https://www.foxnews.com/politics/trump-signs-bill-ending-longest-government-shutdown-us-history"
     },
     {
       "title": "White House hits back after JFK’s grandson calls RFK Jr. a ‘rabid dog’",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-13T05:13:26.909Z"
+  "timestamp": "2025-11-13T05:34:13.291Z"
 }
