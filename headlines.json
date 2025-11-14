@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Biden admin gave protected status to Honduran man later charged in child rape and torture case of niece",
+      "link": "https://www.foxnews.com/us/biden-admin-gave-protected-status-honduran-man-later-charged-child-rape-torture-case-niece"
+    },
+    {
+      "title": "Federal judge slams brakes on Trump admin rule limiting commercial driver's licenses for immigrants",
+      "link": "https://www.foxnews.com/politics/federal-judge-slams-brakes-trump-admin-rule-limiting-commercial-drivers-licenses-immigrants"
+    },
+    {
+      "title": "White House rips Katie Couric after pressing Fetterman to disavow Charlie Kirk, Trump",
+      "link": "https://www.foxnews.com/media/white-house-rips-katie-couric-after-pressing-fetterman-disavow-charlie-kirk-trump"
+    },
+    {
       "title": "Newsom pushes climate record abroad as Californians shoulder America’s highest gas costs",
       "link": "https://www.foxnews.com/politics/newsom-pushes-climate-record-abroad-californians-shoulder-americas-highest-gas-costs"
     },
@@ -13,10 +25,6 @@
       "link": "https://www.foxnews.com/politics/how-closed-door-negotiations-guarantee-ended-longest-government-shutdown-record"
     },
     {
-      "title": "Anti-ICE Illinois agitators clash with officers outside Chicago immigration facility; arrests made",
-      "link": "https://www.foxnews.com/us/anti-ice-illinois-agitators-clash-officers-outside-chicago-immigration-facility-arrests-made"
-    },
-    {
       "title": "Anti-Trump network behind mass protests cracks open war chest against Dems who backed reopening government",
       "link": "https://www.foxnews.com/politics/anti-trump-network-behind-mass-protests-cracks-open-war-chest-against-dems-who-backed-reopening-government"
     },
@@ -25,16 +33,8 @@
       "link": "https://www.foxnews.com/politics/new-prosecutor-takes-trumps-georgia-election-case-after-fani-willis-disqualified"
     },
     {
-      "title": "10M Americans hit in government contractor data breach",
-      "link": "https://www.foxnews.com/tech/10-million-americans-hit-government-contractor-data-breach"
-    },
-    {
       "title": "Trump to ask DOJ to investigate Epstein ties to Democrats, banks",
       "link": "https://www.foxnews.com/politics/trump-ask-doj-investigate-epstein-ties-democrats-banks"
-    },
-    {
-      "title": "Federal judge slams brakes on Trump admin rule limiting commercial driver's licenses for immigrants",
-      "link": "https://www.foxnews.com/politics/federal-judge-slams-brakes-trump-admin-rule-limiting-commercial-drivers-licenses-immigrants"
     },
     {
       "title": "GOP unity shattered by controversial measure in government shutdown bill",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-14T19:47:57.150Z"
+  "timestamp": "2025-11-14T20:14:38.806Z"
 }
