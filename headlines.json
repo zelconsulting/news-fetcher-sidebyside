@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Transgender Air Force members sue Trump admin after losing retirement benefits",
+      "link": "https://www.foxnews.com/politics/transgender-air-force-members-sue-trump-admin-losing-retirement-benefits"
+    },
+    {
       "title": "Patriots handle AFC East rival Jets at home behind TreVeyon Henderson's 3-touchdown night",
       "link": "https://www.foxnews.com/sports/patriots-handle-afc-east-rival-jets-home-behind-treveyon-hendersons-3-touchdown-night"
     },
@@ -23,10 +27,6 @@
     {
       "title": "UN Ambassador Waltz reveals Trump's Middle East peace plan is ‘the only way forward’",
       "link": "https://www.foxnews.com/politics/un-ambassador-waltz-reveals-trumps-middle-east-peace-plan-only-way-forward"
-    },
-    {
-      "title": "Transgender Air Force members sue Trump admin after losing retirement benefits",
-      "link": "https://www.foxnews.com/politics/transgender-air-force-members-sue-trump-admin-losing-retirement-benefits"
     },
     {
       "title": "Observers stunned as Nikki Haley takes harder line than Trump on Chinese student visa plan",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-14T09:17:09.022Z"
+  "timestamp": "2025-11-14T09:40:03.003Z"
 }
