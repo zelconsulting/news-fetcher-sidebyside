@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Pennsylvania bill seeks to legalize flying cars",
+      "link": "https://www.foxnews.com/tech/pennsylvania-bill-seeks-legalize-flying-cars"
+    },
+    {
+      "title": "Trump gives ex-ally Greene new nickname after dropped endorsement, says she betrayed 'entire Republican Party'",
+      "link": "https://www.foxnews.com/politics/trump-gives-ex-ally-greene-new-nickname-dropped-endorsement-says-she-betrayed-entire-republican-party"
+    },
+    {
       "title": "Trump nominates attorney helping lead lawsuits over UPenn, SJSU trans athlete scandals for federal judgeship",
       "link": "https://www.foxnews.com/sports/trump-appoints-lawyer-leading-lawsuit-vs-upenn-over-lia-thomas-scandal-federal-judge-position"
     },
@@ -27,10 +35,6 @@
     {
       "title": "Socialist wave goes coast-to-coast as historic wins shake up the 2025 mayoral elections",
       "link": "https://www.foxnews.com/politics/democratic-socialists-win-mayoral-races-new-york-city-seattle-historic-victories"
-    },
-    {
-      "title": "Trump gives ex-ally Greene new nickname after dropped endorsement, says she betrayed 'entire Republican Party'",
-      "link": "https://www.foxnews.com/politics/trump-gives-ex-ally-greene-new-nickname-dropped-endorsement-says-she-betrayed-entire-republican-party"
     },
     {
       "title": "Trump administration stays silent as massive Ukraine corruption scandal rocks Zelenskyy's inner circle",
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-15T16:48:56.809Z"
+  "timestamp": "2025-11-15T17:09:28.956Z"
 }
