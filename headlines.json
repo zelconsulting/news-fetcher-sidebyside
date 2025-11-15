@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "UC Berkeley TPUSA members navigate polarized campus following protests and arrests",
+      "link": "https://www.foxnews.com/media/uc-berkeley-students-claim-conservatives-targeted-amid-protests-tpusa-event"
+    },
+    {
+      "title": "Indiana Senate Republicans reject Trump-backed redistricting push, decline to meet in December",
+      "link": "https://www.foxnews.com/politics/indiana-senate-republicans-reject-trump-backed-redistricting-push-decline-meet-december"
+    },
+    {
       "title": "James Carville urges Democrats to consider expanding Supreme Court if they regain power",
       "link": "https://www.foxnews.com/media/james-carville-urges-democrats-consider-expanding-supreme-court-regain-power"
     },
@@ -9,7 +17,7 @@
       "link": "https://www.foxnews.com/sports/former-patriots-star-asante-samuel-calls-bill-belichick-hypocrite-over-relationship-jordon-hudson"
     },
     {
-      "title": "Fox News Entertainment Newsletter: Ozzy Osbourne's family praises Trump, Jennifer Aniston strips down",
+      "title": "Fox News Entertainment Newsletter: Ozzy Osbourne's family praises Trump; Jennifer Aniston strips down",
       "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-ozzy-osbournes-family-praises-trump-jennifer-aniston-strips-down"
     },
     {
@@ -21,24 +29,12 @@
       "link": "https://www.foxnews.com/entertainment/jon-voight-pleads-trump-save-new-york-socialist-crap-city-fate-mamdani"
     },
     {
-      "title": "Former UK prime minister slams BBC as ‘laughingstock’ while Trump readies $1B lawsuit over Jan 6 video scandal",
+      "title": "Former UK prime minister slams BBC as ‘laughingstock’ as Trump readies $1B lawsuit over Jan. 6 video scandal",
       "link": "https://www.foxnews.com/media/former-uk-prime-minister-slams-bbc-laughingstock-while-trump-readies-1b-lawsuit-over-jan-6-video-scandal"
     },
     {
       "title": "Trump ends shutdown, faces backlash and makes surprise Epstein move amid chaotic week",
       "link": "https://www.foxnews.com/politics/trump-ends-shutdown-faces-backlash-makes-surprise-epstein-move-amid-chaotic-week"
-    },
-    {
-      "title": "Bill Maher tears into socialism and begs Democrats to embrace moderate candidates",
-      "link": "https://www.foxnews.com/media/bill-maher-tears-socialism-begs-democrats-embrace-moderate-candidates"
-    },
-    {
-      "title": "Pennsylvania bill seeks to legalize flying cars",
-      "link": "https://www.foxnews.com/tech/pennsylvania-bill-seeks-legalize-flying-cars"
-    },
-    {
-      "title": "Indiana Senate Republicans reject Trump-backed redistricting push, decline to meet in December",
-      "link": "https://www.foxnews.com/politics/indiana-senate-republicans-reject-trump-backed-redistricting-push-decline-meet-december"
     },
     {
       "title": "Trump gives ex-ally Greene new nickname after dropped endorsement, says she betrayed 'entire Republican Party'",
@@ -79,8 +75,12 @@
     {
       "title": "Ex-judges blast top Trump DOJ official for declaring ‘war’ on courts",
       "link": "https://www.foxnews.com/politics/ex-judges-blast-top-trump-doj-official-declaring-war-courts"
+    },
+    {
+      "title": "AG Bondi announces DOJ investigation into Bill Clinton, other Democrats over alleged Epstein ties",
+      "link": "https://www.foxnews.com/politics/ag-bondi-announces-doj-investigation-bill-clinton-other-democrats-over-alleged-epstein-ties"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-15T22:47:46.308Z"
+  "timestamp": "2025-11-15T23:11:31.090Z"
 }
