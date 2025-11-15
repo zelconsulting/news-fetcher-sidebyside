@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Socialist wave goes coast-to-coast as historic wins shake up the 2025 mayoral elections",
+      "link": "https://www.foxnews.com/politics/democratic-socialists-win-mayoral-races-new-york-city-seattle-historic-victories"
+    },
+    {
+      "title": "Trump administration stays silent as massive Ukraine corruption scandal rocks Zelenskyy's inner circle",
+      "link": "https://www.foxnews.com/politics/trump-administration-stays-silent-massive-ukraine-corruption-scandal-rocks-zelenskys-inner-circle"
+    },
+    {
       "title": "Bill Maher encourages young men to drink more and get out of their parents’ basement",
       "link": "https://www.foxnews.com/media/bill-maher-encourages-young-men-drink-more-get-out-parents-basement"
     },
@@ -41,14 +49,6 @@
       "link": "https://www.foxnews.com/politics/ex-judges-blast-top-trump-doj-official-declaring-war-courts"
     },
     {
-      "title": "Socialist wave goes coast-to-coast as historic wins shake up the 2025 mayoral elections",
-      "link": "https://www.foxnews.com/politics/democratic-socialists-win-mayoral-races-new-york-city-seattle-historic-victories"
-    },
-    {
-      "title": "Trump administration stays silent as massive Ukraine corruption scandal rocks Zelenskyy's inner circle",
-      "link": "https://www.foxnews.com/politics/trump-administration-stays-silent-massive-ukraine-corruption-scandal-rocks-zelenskys-inner-circle"
-    },
-    {
       "title": "AG Bondi announces DOJ investigation into Bill Clinton, other Democrats over alleged Epstein ties",
       "link": "https://www.foxnews.com/politics/ag-bondi-announces-doj-investigation-bill-clinton-other-democrats-over-alleged-epstein-ties"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-15T11:09:25.463Z"
+  "timestamp": "2025-11-15T11:23:34.329Z"
 }
