@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Bill Maher encourages young men to drink more and get out of their parents’ basement",
+      "link": "https://www.foxnews.com/media/bill-maher-encourages-young-men-drink-more-get-out-parents-basement"
+    },
+    {
       "title": "Trump announces lawsuit of up to $5 billion against BBC over edited Jan 6 speech documentary",
       "link": "https://www.foxnews.com/media/trump-announces-lawsuit-up-5-billion-against-bbc-over-edited-jan-6-speech-documentary"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Ex-judges blast top Trump DOJ official for declaring ‘war’ on courts",
       "link": "https://www.foxnews.com/politics/ex-judges-blast-top-trump-doj-official-declaring-war-courts"
-    },
-    {
-      "title": "Kai Trump reveals mental change that led to improvement on second day of LPGA debut",
-      "link": "https://www.foxnews.com/sports/kai-trump-reveals-mental-change-led-improvement-second-day-lpga-debut"
     },
     {
       "title": "AG Bondi announces DOJ investigation into Bill Clinton, other Democrats over alleged Epstein ties",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-15T08:50:59.129Z"
+  "timestamp": "2025-11-15T09:11:55.483Z"
 }
