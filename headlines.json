@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "FCC chair shares Trump post urging NBC to fire late-night host Seth Meyers, raising eyebrows",
+      "link": "https://www.foxnews.com/media/fcc-chair-shares-trump-post-urging-nbc-fire-late-night-host-seth-meyers-raising-eyebrows"
+    },
+    {
       "title": "Marjorie Taylor Greene says she hopes to 'make up' with Trump amid ongoing feud",
       "link": "https://www.foxnews.com/media/marjorie-taylor-greene-says-she-hopes-make-up-trump-amid-ongoing-feud"
     },
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-16T17:10:09.162Z"
+  "timestamp": "2025-11-16T17:27:37.826Z"
 }
