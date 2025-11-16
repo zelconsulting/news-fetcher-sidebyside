@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Chip Carter marvels at bipartisanship he witnessed at Habitat for Humanity, father's funeral",
+      "link": "https://www.foxnews.com/media/chip-carter-marvels-bipartisanship-he-witnessed-habitat-humanity-fathers-funeral"
+    },
+    {
+      "title": "Religious freedom fight grows in Massachusetts community over statues honoring police and firefighters",
+      "link": "https://www.foxnews.com/us/religious-freedom-fight-grows-massachusetts-community-over-statues-honoring-police-firefighters"
+    },
+    {
+      "title": "Zelenskyy moves to 'clean up' Ukraine's energy sector as corruption scandal rocks leadership",
+      "link": "https://www.foxnews.com/politics/zelenskyy-moves-clean-up-ukraines-energy-sector-corruption-scandal-rocks-leadership"
+    },
+    {
       "title": "Michelle Obama says America 'not ready' for woman president: 'We saw in this past election'",
       "link": "https://www.foxnews.com/politics/michelle-obama-says-america-not-ready-woman-president-we-saw-past-election"
     },
@@ -17,20 +29,8 @@
       "link": "https://www.foxnews.com/politics/laura-loomer-teases-georgia-move-president-trump-says-wants-marjorie-taylor-greene-primaried"
     },
     {
-      "title": "More than 100 officers injured as protesters attack police, breach barrier at Mexico's National Palace",
-      "link": "https://www.foxnews.com/world/protesters-attack-police-breach-barrier-mexicos-national-palace-rally-cartel-violence"
-    },
-    {
-      "title": "UC Berkeley TPUSA members navigate polarized campus following protests and arrests",
-      "link": "https://www.foxnews.com/media/uc-berkeley-students-claim-conservatives-targeted-amid-protests-tpusa-event"
-    },
-    {
       "title": "Indiana Senate Republicans reject Trump-backed redistricting push, decline to meet in December",
       "link": "https://www.foxnews.com/politics/indiana-senate-republicans-reject-trump-backed-redistricting-push-decline-meet-december"
-    },
-    {
-      "title": "Zelenskyy moves to 'clean up' Ukraine's energy sector as corruption scandal rocks leadership",
-      "link": "https://www.foxnews.com/politics/zelenskyy-moves-clean-up-ukraines-energy-sector-corruption-scandal-rocks-leadership"
     },
     {
       "title": "Trump issues fresh pardons for Jan 6 defendants, including woman accused of threatening FBI on social media",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-16T13:38:43.924Z"
+  "timestamp": "2025-11-16T13:47:18.171Z"
 }
