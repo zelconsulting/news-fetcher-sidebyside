@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Protesters attack police, breach barrier at Mexico's National Palace during rally against cartel violence",
+      "link": "https://www.foxnews.com/world/protesters-attack-police-breach-barrier-mexicos-national-palace-rally-cartel-violence"
+    },
+    {
       "title": "UC Berkeley TPUSA members navigate polarized campus following protests and arrests",
       "link": "https://www.foxnews.com/media/uc-berkeley-students-claim-conservatives-targeted-amid-protests-tpusa-event"
     },
@@ -27,10 +31,6 @@
     {
       "title": "Jon Voight pleads with Trump to save New York from 'socialist crap city' fate with Mamdani",
       "link": "https://www.foxnews.com/entertainment/jon-voight-pleads-trump-save-new-york-socialist-crap-city-fate-mamdani"
-    },
-    {
-      "title": "Former UK prime minister slams BBC as ‘laughingstock’ as Trump readies $1B lawsuit over Jan. 6 video scandal",
-      "link": "https://www.foxnews.com/media/former-uk-prime-minister-slams-bbc-laughingstock-while-trump-readies-1b-lawsuit-over-jan-6-video-scandal"
     },
     {
       "title": "Trump ends shutdown, faces backlash and makes surprise Epstein move amid chaotic week",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-15T23:47:18.828Z"
+  "timestamp": "2025-11-16T01:04:02.827Z"
 }
