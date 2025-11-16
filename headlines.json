@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Federal immigration enforcement sweeps Charlotte months after Ukrainian refugee killing shocked nation",
+      "link": "https://www.foxnews.com/us/federal-immigration-enforcement-sweeps-charlotte-months-ukrainian-refugee-killing-shocked-nation"
+    },
+    {
+      "title": "Laura Loomer teases Georgia move after President Trump says he wants Marjorie Taylor Greene primaried",
+      "link": "https://www.foxnews.com/politics/laura-loomer-teases-georgia-move-president-trump-says-wants-marjorie-taylor-greene-primaried"
+    },
+    {
       "title": "More than 100 officers injured as protesters attack police, breach barrier at Mexico's National Palace",
       "link": "https://www.foxnews.com/world/protesters-attack-police-breach-barrier-mexicos-national-palace-rally-cartel-violence"
     },
@@ -11,22 +19,6 @@
     {
       "title": "Indiana Senate Republicans reject Trump-backed redistricting push, decline to meet in December",
       "link": "https://www.foxnews.com/politics/indiana-senate-republicans-reject-trump-backed-redistricting-push-decline-meet-december"
-    },
-    {
-      "title": "James Carville urges Democrats to consider expanding Supreme Court if they regain power",
-      "link": "https://www.foxnews.com/media/james-carville-urges-democrats-consider-expanding-supreme-court-regain-power"
-    },
-    {
-      "title": "Former Patriots star Asante Samuel calls Bill Belichick a 'hypocrite' over relationship with Jordon Hudson",
-      "link": "https://www.foxnews.com/sports/former-patriots-star-asante-samuel-calls-bill-belichick-hypocrite-over-relationship-jordon-hudson"
-    },
-    {
-      "title": "Fox News Entertainment Newsletter: Ozzy Osbourne's family praises Trump; Jennifer Aniston strips down",
-      "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-ozzy-osbournes-family-praises-trump-jennifer-aniston-strips-down"
-    },
-    {
-      "title": "Laura Loomer teases Georgia move after President Trump says he wants Marjorie Taylor Greene primaried",
-      "link": "https://www.foxnews.com/politics/laura-loomer-teases-georgia-move-president-trump-says-wants-marjorie-taylor-greene-primaried"
     },
     {
       "title": "Trump issues fresh pardons for Jan 6 defendants, including woman accused of threatening FBI on social media",
@@ -78,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-16T02:54:40.282Z"
+  "timestamp": "2025-11-16T03:44:50.851Z"
 }
