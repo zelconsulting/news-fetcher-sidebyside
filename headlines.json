@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Marjorie Taylor Greene says she hopes to 'make up' with Trump amid ongoing feud",
+      "link": "https://www.foxnews.com/media/marjorie-taylor-greene-says-she-hopes-make-up-trump-amid-ongoing-feud"
+    },
+    {
       "title": "Track star who protested trans athlete alleges she wasn't given her medal for months until she filed a lawsuit",
       "link": "https://www.foxnews.com/sports/track-star-who-protested-trans-athlete-alleges-she-wasnt-given-her-medal-months-until-she-filed-lawsuit"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Michelle Obama says America 'not ready' for woman president: 'We saw in this past election'",
       "link": "https://www.foxnews.com/politics/michelle-obama-says-america-not-ready-woman-president-we-saw-past-election"
-    },
-    {
-      "title": "Britain announces sweeping asylum policy shift to cut protections for refugees",
-      "link": "https://www.foxnews.com/world/britain-announces-sweeping-asylum-policy-shift-cut-protections-refugees"
-    },
-    {
-      "title": "Federal immigration enforcement sweeps Charlotte months after Ukrainian refugee killing shocked nation",
-      "link": "https://www.foxnews.com/us/federal-immigration-enforcement-sweeps-charlotte-months-ukrainian-refugee-killing-shocked-nation"
     },
     {
       "title": "Laura Loomer teases Georgia move after President Trump says he wants Marjorie Taylor Greene primaried",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-16T15:47:48.708Z"
+  "timestamp": "2025-11-16T16:13:34.120Z"
 }
