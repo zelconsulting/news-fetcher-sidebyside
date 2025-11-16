@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Michelle Obama says America 'not ready' for woman president: 'We saw in this past election'",
+      "link": "https://www.foxnews.com/politics/michelle-obama-says-america-not-ready-woman-president-we-saw-past-election"
+    },
+    {
+      "title": "Britain announces sweeping asylum policy shift to cut protections for refugees",
+      "link": "https://www.foxnews.com/world/britain-announces-sweeping-asylum-policy-shift-cut-protections-refugees"
+    },
+    {
       "title": "Federal immigration enforcement sweeps Charlotte months after Ukrainian refugee killing shocked nation",
       "link": "https://www.foxnews.com/us/federal-immigration-enforcement-sweeps-charlotte-months-ukrainian-refugee-killing-shocked-nation"
     },
@@ -19,10 +27,6 @@
     {
       "title": "Indiana Senate Republicans reject Trump-backed redistricting push, decline to meet in December",
       "link": "https://www.foxnews.com/politics/indiana-senate-republicans-reject-trump-backed-redistricting-push-decline-meet-december"
-    },
-    {
-      "title": "Michelle Obama says America 'not ready' for woman president: 'We saw in this past election'",
-      "link": "https://www.foxnews.com/politics/michelle-obama-says-america-not-ready-woman-president-we-saw-past-election"
     },
     {
       "title": "Trump issues fresh pardons for Jan 6 defendants, including woman accused of threatening FBI on social media",
@@ -74,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-16T09:28:57.491Z"
+  "timestamp": "2025-11-16T09:39:13.668Z"
 }
