@@ -1,6 +1,38 @@
 {
   "fox": [
     {
+      "title": "Protesters scream 'Get the f--- out of my city!' at federal agents during immigration raid",
+      "link": "https://www.foxnews.com/us/protesters-scream-get-f-out-my-city-federal-agents-during-immigration-raid"
+    },
+    {
+      "title": "Legal analyst predicts Trump could win 'considerable' damages from BBC documentary lawsuit",
+      "link": "https://www.foxnews.com/media/legal-analyst-predicts-trump-could-win-considerable-damages-from-bbc-documentary-lawsuit"
+    },
+    {
+      "title": "Zeldin overhauls Biden-era water rule to end ‘weaponization’ that led ‘puddles’ to trigger pricy permits",
+      "link": "https://www.foxnews.com/politics/zeldin-overhauls-biden-era-water-rule-end-weaponization-led-puddles-trigger-pricy-permits"
+    },
+    {
+      "title": "Illegal immigrant with rap sheet charged in hammer attack on woman jogging in park, released under Biden: DHS",
+      "link": "https://www.foxnews.com/us/illegal-immigrant-rap-sheet-charged-hammer-attack-woman-jogging-park-released-under-biden-dhs"
+    },
+    {
+      "title": "Former BBC director-general tells network they shouldn't agree to pay Trump any money",
+      "link": "https://www.foxnews.com/media/ex-bbc-director-general-tells-network-shouldnt-agree-pay-trump-any-money"
+    },
+    {
+      "title": "Majority of Democrats say 'extremist political rhetoric' contributed to Charlie Kirk assassination: poll",
+      "link": "https://www.foxnews.com/politics/majority-democrats-say-extremist-political-rhetoric-contributed-charlie-kirk-assassination-poll"
+    },
+    {
+      "title": "House Republicans say Dems twisting Epstein probe to smear Trump in new memo",
+      "link": "https://www.foxnews.com/politics/house-republicans-say-dems-twisting-epstein-probe-smear-trump-new-memo"
+    },
+    {
+      "title": "Trump targets red state Republican lawmakers in push for congressional redistricting",
+      "link": "https://www.foxnews.com/politics/trump-targets-red-state-republican-lawmakers-push-congressional-redistricting"
+    },
+    {
       "title": "Supreme Court agrees to review Trump admin effort to limit immigrant asylum processing claims at border",
       "link": "https://www.foxnews.com/politics/supreme-court-agrees-review-trump-admin-effort-limit-immigrant-asylum-processing-claims-border"
     },
@@ -9,16 +41,8 @@
       "link": "https://www.foxnews.com/politics/pence-group-blasts-trumps-drug-pricing-plan-socialist-new-ad-campaign"
     },
     {
-      "title": "Bill Maher open to voting Republican but says party would have to be 'very different'",
-      "link": "https://www.foxnews.com/media/bill-maher-open-voting-republican-says-party-would-have-very-different"
-    },
-    {
       "title": "Maine Rep Laurel Libby won’t seek re-election, partners with Sentinel Action Fund in $4M boost for Sen Collins",
       "link": "https://www.foxnews.com/politics/maine-rep-laurel-libby-wont-seek-re-election-partners-sentinel-action-fund-4m-boost-sen-collins"
-    },
-    {
-      "title": "Dr. Mehmet Oz teases Trump administration’s plan to overhaul Obamacare",
-      "link": "https://www.foxnews.com/media/dr-mehmet-oz-teases-trump-administrations-plan-overhaul-obamacare"
     },
     {
       "title": "Trump set to host Saudi Arabia's powerful crown prince at the White House this week",
@@ -29,28 +53,12 @@
       "link": "https://www.foxnews.com/politics/trump-says-mamdani-meeting-works-well-work-something-out"
     },
     {
-      "title": "Trump reveals Maduro 'would like to talk' as military options on table for Venezuela and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-reveals-maduro-military-options-venezuela-more-top-headlines"
-    },
-    {
       "title": "Trump continues hammering MTG after she labels his attacks 'a dog whistle to dangerous radicals'",
       "link": "https://www.foxnews.com/politics/trump-continues-hammering-mtg-after-she-labels-his-attacks-a-dog-whistle-dangerous-radicals"
     },
     {
       "title": "VA to restore education benefits eligibility to veterans ousted under Biden-era COVID vaccine mandate",
       "link": "https://www.foxnews.com/politics/va-restore-education-benefits-eligibility-veterans-ousted-under-biden-era-covid-vaccine-mandate"
-    },
-    {
-      "title": "Zeldin overhauls Biden-era water rule to end ‘weaponization’ that led ‘puddles’ to trigger pricy permits",
-      "link": "https://www.foxnews.com/politics/zeldin-overhauls-biden-era-water-rule-end-weaponization-led-puddles-trigger-pricy-permits"
-    },
-    {
-      "title": "Majority of Democrats say 'extremist political rhetoric' contributed to Charlie Kirk assassination: poll",
-      "link": "https://www.foxnews.com/politics/majority-democrats-say-extremist-political-rhetoric-contributed-charlie-kirk-assassination-poll"
-    },
-    {
-      "title": "House Republicans say Dems twisting Epstein probe to smear Trump in new memo",
-      "link": "https://www.foxnews.com/politics/house-republicans-say-dems-twisting-epstein-probe-smear-trump-new-memo"
     },
     {
       "title": "Trump calls on House Republicans to vote to release Epstein files: 'We have nothing to hide'",
@@ -74,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-17T17:48:42.772Z"
+  "timestamp": "2025-11-17T18:18:22.533Z"
 }
