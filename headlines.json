@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump reveals Maduro 'would like to talk' as military options remain on the table for Venezuela",
+      "link": "https://www.foxnews.com/politics/trump-reveals-maduro-would-like-talk-military-options-remain-table-venezuela"
+    },
+    {
+      "title": "NFL Week 11 scores: Josh Allen's dominance lifts Bills to win, multiple games finish tight",
+      "link": "https://www.foxnews.com/sports/nfl-week-11-scores-josh-allens-dominance-lifts-bills-win-multiple-games-finish-tight"
+    },
+    {
       "title": "‘Golden toilet’ scandal: Zelenskyy faces deepest crisis yet as allies accused in $100M wartime scheme",
       "link": "https://www.foxnews.com/world/golden-toilet-scandal-zelenskyy-faces-deepest-crisis-yet-allies-accused-100m-wartime-scheme"
     },
@@ -19,10 +27,6 @@
     {
       "title": "Marjorie Taylor Greene apologizes for taking part in 'toxic politics' amid Trump attacks",
       "link": "https://www.foxnews.com/media/marjorie-taylor-greene-apologizes-taking-part-toxic-politics-amid-trump-attacks"
-    },
-    {
-      "title": "Trump reveals Maduro 'would like to talk' as military options remain on the table for Venezuela",
-      "link": "https://www.foxnews.com/politics/trump-reveals-maduro-would-like-talk-military-options-remain-table-venezuela"
     },
     {
       "title": "Zelenskyy moves to 'clean up' Ukraine's energy sector as corruption scandal rocks leadership",
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-17T02:51:36.784Z"
+  "timestamp": "2025-11-17T03:44:24.240Z"
 }
