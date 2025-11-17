@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "‘Golden toilet’ scandal: Zelenskyy faces deepest crisis yet as allies accused in $100M wartime scheme",
+      "link": "https://www.foxnews.com/world/golden-toilet-scandal-zelenskyy-faces-deepest-crisis-yet-allies-accused-100m-wartime-scheme"
+    },
+    {
+      "title": "'Pawn Stars' Rick Harrison backs Trump on America's deadly fentanyl epidemic, fighting 'terrorist' dealers",
+      "link": "https://www.foxnews.com/entertainment/pawn-stars-rick-harrison-backs-trump-americas-deadly-fentanyl-epidemic-fighting-terrorist-dealers"
+    },
+    {
       "title": "Josh Allen's six touchdowns push Bills past Buccaneers in thriller",
       "link": "https://www.foxnews.com/sports/josh-allens-six-touchdowns-push-bills-past-buccaneers-nfl-thriller"
     },
@@ -13,20 +21,8 @@
       "link": "https://www.foxnews.com/media/marjorie-taylor-greene-apologizes-taking-part-toxic-politics-amid-trump-attacks"
     },
     {
-      "title": "Trump's $5 billion lawsuit threat against BBC comes amid spate of legal wins over media companies",
-      "link": "https://www.foxnews.com/media/trumps-5-billion-lawsuit-threat-against-bbc-comes-amid-spate-legal-wins-over-media-companies"
-    },
-    {
-      "title": "Marjorie Greene says Trump's 'traitor' label could put her life in danger",
-      "link": "https://www.foxnews.com/media/marjorie-greene-says-trumps-traitor-label-could-put-her-life-danger"
-    },
-    {
-      "title": "Houston thug charged with murder after 8 arrests shows ‘revolving door’ failures: GOP lawmaker",
-      "link": "https://www.foxnews.com/us/houston-thug-charged-murder-after-8-arrests-shows-revolving-door-failures-gop-lawmaker"
-    },
-    {
-      "title": "Niger fallout under Biden leaves US troops ‘blind’ in battle with terror groups",
-      "link": "https://www.foxnews.com/world/biden-admins-diplomatic-failure-niger-leaves-us-without-eyes-sky-terror-fight"
+      "title": "Trump reveals Maduro 'would like to talk' as military options remain on the table for Venezuela",
+      "link": "https://www.foxnews.com/politics/trump-reveals-maduro-would-like-talk-military-options-remain-table-venezuela"
     },
     {
       "title": "Zelenskyy moves to 'clean up' Ukraine's energy sector as corruption scandal rocks leadership",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-17T01:01:12.411Z"
+  "timestamp": "2025-11-17T02:51:36.784Z"
 }
