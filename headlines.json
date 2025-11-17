@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump calls on House Republicans to vote to release Epstein files: 'We have nothing to hide'",
+      "link": "https://www.foxnews.com/politics/trump-calls-house-republicans-vote-release-epstein-files-we-have-nothing-hide"
+    },
+    {
       "title": "Trump reveals Maduro 'would like to talk' as military options remain on the table for Venezuela",
       "link": "https://www.foxnews.com/politics/trump-reveals-maduro-would-like-talk-military-options-remain-table-venezuela"
     },
@@ -23,14 +27,6 @@
     {
       "title": "Hunter Biden urges Democrat to 'turn the temperature up' when pressed on extremism",
       "link": "https://www.foxnews.com/media/hunter-biden-urges-democrat-turn-temperature-up-when-pressed-extremism"
-    },
-    {
-      "title": "Marjorie Taylor Greene apologizes for taking part in 'toxic politics' amid Trump attacks",
-      "link": "https://www.foxnews.com/media/marjorie-taylor-greene-apologizes-taking-part-toxic-politics-amid-trump-attacks"
-    },
-    {
-      "title": "Trump calls on House Republicans to vote to release Epstein files: 'We have nothing to hide'",
-      "link": "https://www.foxnews.com/politics/trump-calls-house-republicans-vote-release-epstein-files-we-have-nothing-hide"
     },
     {
       "title": "Zelenskyy moves to 'clean up' Ukraine's energy sector as corruption scandal rocks leadership",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-17T05:34:34.294Z"
+  "timestamp": "2025-11-17T05:49:44.903Z"
 }
