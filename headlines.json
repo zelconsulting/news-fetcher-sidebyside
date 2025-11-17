@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "‘Radical Left’ shutdown message ignites firestorm as Democrats push for federal probe",
+      "link": "https://www.foxnews.com/politics/radical-left-shutdown-message-ignites-firestorm-democrats-push-federal-probe"
+    },
+    {
+      "title": "Trump targets red state Republican lawmakers in push for congressional redistricting",
+      "link": "https://www.foxnews.com/politics/trump-targets-red-state-republican-lawmakers-push-congressional-redistricting"
+    },
+    {
       "title": "Protesters scream 'Get the f--- out of my city!' at federal agents during immigration raid",
       "link": "https://www.foxnews.com/us/protesters-scream-get-f-out-my-city-federal-agents-during-immigration-raid"
     },
@@ -17,24 +25,12 @@
       "link": "https://www.foxnews.com/us/illegal-immigrant-rap-sheet-charged-hammer-attack-woman-jogging-park-released-under-biden-dhs"
     },
     {
-      "title": "Former BBC director-general tells network they shouldn't agree to pay Trump any money",
-      "link": "https://www.foxnews.com/media/ex-bbc-director-general-tells-network-shouldnt-agree-pay-trump-any-money"
-    },
-    {
       "title": "Majority of Democrats say 'extremist political rhetoric' contributed to Charlie Kirk assassination: poll",
       "link": "https://www.foxnews.com/politics/majority-democrats-say-extremist-political-rhetoric-contributed-charlie-kirk-assassination-poll"
     },
     {
       "title": "House Republicans say Dems twisting Epstein probe to smear Trump in new memo",
       "link": "https://www.foxnews.com/politics/house-republicans-say-dems-twisting-epstein-probe-smear-trump-new-memo"
-    },
-    {
-      "title": "‘Radical Left’ shutdown message ignites firestorm as Democrats push for federal probe",
-      "link": "https://www.foxnews.com/politics/radical-left-shutdown-message-ignites-firestorm-democrats-push-federal-probe"
-    },
-    {
-      "title": "Trump targets red state Republican lawmakers in push for congressional redistricting",
-      "link": "https://www.foxnews.com/politics/trump-targets-red-state-republican-lawmakers-push-congressional-redistricting"
     },
     {
       "title": "Supreme Court agrees to review Trump admin effort to limit immigrant asylum processing claims at border",
@@ -78,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-17T18:47:50.343Z"
+  "timestamp": "2025-11-17T19:09:32.055Z"
 }
