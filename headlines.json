@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump admin sues over California law banning ICE from wearing face masks to shield identities",
+      "link": "https://www.foxnews.com/politics/trump-admin-sues-over-california-law-banning-ice-from-wearing-face-masks-shield-identities"
+    },
+    {
       "title": "Larry Summers steps back from public roles after House release of Epstein correspondence",
       "link": "https://www.foxnews.com/us/larry-summers-steps-public-roles-house-release-epstein-correspondence"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Democratic lawmaker doubles down on fellow Dem, accusing them of 'election subversion'",
       "link": "https://www.foxnews.com/media/house-rep-warns-one-does-not-save-democracy-subverting-it-doubles-down-move-condemn-fellow-democrat"
-    },
-    {
-      "title": "Trump admin sues over California law banning ICE from wearing face masks to shield identities",
-      "link": "https://www.foxnews.com/politics/trump-admin-sues-over-california-law-banning-ice-from-wearing-face-masks-shield-identities"
     },
     {
       "title": "9/11 families urge Trump to press Saudis for accountability ahead of MBS visit to DC: 'Overwhelming evidence'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-18T08:18:01.467Z"
+  "timestamp": "2025-11-18T08:46:56.430Z"
 }
