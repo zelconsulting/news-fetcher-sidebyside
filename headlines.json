@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Larry Summers steps back from public roles after House release of Epstein correspondence",
+      "link": "https://www.foxnews.com/us/larry-summers-steps-public-roles-house-release-epstein-correspondence"
+    },
+    {
       "title": "Rep Raskin says Democrats have 'huge' tent with room for MTG after her recent rift with Trump, GOP leaders",
       "link": "https://www.foxnews.com/politics/rep-raskin-says-democrats-huge-tent-room-mtg-her-recent-rift-trump-gop-leaders"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Democratic lawmaker doubles down on fellow Dem, accusing them of 'election subversion'",
       "link": "https://www.foxnews.com/media/house-rep-warns-one-does-not-save-democracy-subverting-it-doubles-down-move-condemn-fellow-democrat"
-    },
-    {
-      "title": "Trump would-be assassin in Butler had massive 'digital footprint,’ alleges columnist",
-      "link": "https://www.foxnews.com/media/trump-would-be-assassin-butler-had-massive-digital-footprint-alleges-columnist"
     },
     {
       "title": "9/11 families urge Trump to press Saudis for accountability ahead of MBS visit to DC: 'Overwhelming evidence'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-18T04:27:43.515Z"
+  "timestamp": "2025-11-18T04:44:14.278Z"
 }
