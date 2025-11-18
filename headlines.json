@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Headed for the exits: Why 3 dozen House members aren't running for re-election",
+      "link": "https://www.foxnews.com/politics/headed-exits-why-3-dozen-house-members-arent-running-re-election"
+    },
+    {
+      "title": "Trump immigration enforcement focus to expand to new city, mayor indicates",
+      "link": "https://www.foxnews.com/politics/trump-immigration-enforcement-focus-expands-new-city-mayor-indicates"
+    },
+    {
       "title": "Bill Maher confronts liberal comedian over claim the left stayed 'scientific'",
       "link": "https://www.foxnews.com/media/bill-maher-confronts-liberal-comedian-over-claim-left-stayed-scientific"
     },
@@ -41,14 +49,6 @@
       "link": "https://www.foxnews.com/politics/marine-veteran-launches-senate-campaign-invoking-far-left-radical-target-dems"
     },
     {
-      "title": "Headed for the exits: Why 3-dozen House members aren't running for re-election",
-      "link": "https://www.foxnews.com/politics/headed-exits-why-3-dozen-house-members-arent-running-re-election"
-    },
-    {
-      "title": "Trump immigration enforcement focus to expand to new city, mayor indicates",
-      "link": "https://www.foxnews.com/politics/trump-immigration-enforcement-focus-expands-new-city-mayor-indicates"
-    },
-    {
       "title": "House GOP braces for Epstein files vote as concerns remain despite Trump's green light",
       "link": "https://www.foxnews.com/politics/house-gop-braces-epstein-files-vote-concerns-remain-despite-trumps-green-light"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-18T15:14:14.143Z"
+  "timestamp": "2025-11-18T15:36:22.300Z"
 }
