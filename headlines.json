@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "House Dem slammed for 'sick' defense of colleague caught texting Epstein during 2019 hearing",
+      "link": "https://www.foxnews.com/politics/house-dem-slammed-sick-defense-colleague-caught-texting-epstein-during-2019-hearing"
+    },
+    {
+      "title": "DHS launching massive immigration operation in Louisiana, Mississippi: 'Swamp Sweep'",
+      "link": "https://www.foxnews.com/politics/dhs-launching-massive-immigration-operation-louisiana-mississippi-swamp-sweep"
+    },
+    {
       "title": "Anti-Islam protesters, Muslims clash in Dearborn, Michigan, after man attempts to burn Quran",
       "link": "https://www.foxnews.com/us/anti-islam-protesters-muslims-clash-dearborn-michigan-after-man-attempts-burn-quran"
     },
@@ -31,14 +39,6 @@
     {
       "title": "Trump's praise for McDonald's Filet-O-Fish sparks nostalgia — and a saucy debate",
       "link": "https://www.foxnews.com/food-drink/trumps-praise-mcdonalds-filet-o-fish-sparks-nostalgia-saucy-debate"
-    },
-    {
-      "title": "House Dem slammed for 'sick' defense of colleague caught texting Epstein during 2019 hearing",
-      "link": "https://www.foxnews.com/politics/house-dem-slammed-sick-defense-colleague-caught-texting-epstein-during-2019-hearing"
-    },
-    {
-      "title": "DHS launching massive immigration operation in Louisiana, Mississippi: 'Swamp Sweep'",
-      "link": "https://www.foxnews.com/politics/dhs-launching-massive-immigration-operation-louisiana-mississippi-swamp-sweep"
     },
     {
       "title": "Fox News Politics Newsletter: House votes to release Epstein files",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-19T03:59:14.602Z"
+  "timestamp": "2025-11-19T04:27:12.788Z"
 }
