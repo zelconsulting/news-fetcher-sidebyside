@@ -1,32 +1,12 @@
 {
   "fox": [
     {
-      "title": "Climate deadlines collide with politics as Dem-led states chase Big Oil in court but spare local refiners",
-      "link": "https://www.foxnews.com/politics/climate-deadlines-collide-politics-dem-led-states-chase-big-oil-court-spare-local-refiners"
-    },
-    {
-      "title": "Dem lawmaker sets litmus test for party with 5th Trump impeachment effort",
-      "link": "https://www.foxnews.com/politics/dem-lawmaker-sets-litmus-test-party-5th-trump-impeachment-effort"
-    },
-    {
-      "title": "Trump’s trillion-dollar Saudi deal could reshape markets — if the money ever materializes",
-      "link": "https://www.foxnews.com/politics/trumps-trillion-dollar-saudi-deal-could-reshape-markets-money-ever-materializes"
-    },
-    {
-      "title": "Survey says: Issue that helped Trump and Republicans in 2024 hurts them now",
-      "link": "https://www.foxnews.com/politics/survey-says-issue-helped-trump-republicans-2024-hurt-them-now"
-    },
-    {
-      "title": "Trump demands 'bum' Jimmy Kimmel be thrown off the air",
-      "link": "https://www.foxnews.com/media/trump-demands-bum-jimmy-kimmel-thrown-off-air"
-    },
-    {
-      "title": "Ronaldo thanks Trump for 'warm welcome' during White House visit, dinner meeting with Saudi crown prince",
-      "link": "https://www.foxnews.com/sports/ronaldo-thanks-trump-warm-welcome-during-white-house-visit-dinner-meeting-saudi-crown-prince"
-    },
-    {
       "title": "Leavitt doesn't mince words ahead of Mamdani-Trump meeting: 'Communist coming to the White House'",
       "link": "https://www.foxnews.com/politics/leavitt-doesnt-mince-words-ahead-mamdani-trump-meeting-communist-coming-white-house"
+    },
+    {
+      "title": "FOX News Media promotes Bill Melugin to congressional correspondent",
+      "link": "https://www.foxnews.com/media/fox-news-media-promotes-bill-melugin-congressional-correspondent"
     },
     {
       "title": "Tennessee Democratic candidate caught saying she 'hates' Nashville, country music in resurfaced clip",
@@ -45,8 +25,28 @@
       "link": "https://www.foxnews.com/politics/trump-threatens-cut-75m-from-pennsylvania-over-illegal-immigrant-cdl-scandal"
     },
     {
+      "title": "ICE deports MS-13 gang leader who tried to 'game our immigration system' under Biden administration, DHS says",
+      "link": "https://www.foxnews.com/us/ice-deports-ms-13-gang-leader-who-tried-game-our-immigration-system-under-biden-administration-dhs-says"
+    },
+    {
       "title": "Schumer, Jeffries accuse Trump of calling for 'execution of elected officials'",
       "link": "https://www.foxnews.com/politics/schumer-jeffries-accuse-trump-calling-execution-elected-officials"
+    },
+    {
+      "title": "Climate deadlines collide with politics as Dem-led states chase Big Oil in court but spare local refiners",
+      "link": "https://www.foxnews.com/politics/climate-deadlines-collide-politics-dem-led-states-chase-big-oil-court-spare-local-refiners"
+    },
+    {
+      "title": "Dem lawmaker sets litmus test for party with 5th Trump impeachment effort",
+      "link": "https://www.foxnews.com/politics/dem-lawmaker-sets-litmus-test-party-5th-trump-impeachment-effort"
+    },
+    {
+      "title": "Trump’s trillion-dollar Saudi deal could reshape markets — if the money ever materializes",
+      "link": "https://www.foxnews.com/politics/trumps-trillion-dollar-saudi-deal-could-reshape-markets-money-ever-materializes"
+    },
+    {
+      "title": "Survey says: Issue that helped Trump and Republicans in 2024 hurts them now",
+      "link": "https://www.foxnews.com/politics/survey-says-issue-helped-trump-republicans-2024-hurt-them-now"
     },
     {
       "title": "Graham demands Democrats explain 'refuse illegal orders' message to troops",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-20T19:47:59.219Z"
+  "timestamp": "2025-11-20T20:14:56.244Z"
 }
