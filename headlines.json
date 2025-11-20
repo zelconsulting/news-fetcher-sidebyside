@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump says he will meet NYC Mayor-elect Zohran Mamdani this week",
+      "link": "https://www.foxnews.com/politics/trump-says-he-meet-nyc-mayor-elect-zohran-mamdani-week"
+    },
+    {
+      "title": "House votes to repeal controversial Arctic Frost provision from government shutdown bill",
+      "link": "https://www.foxnews.com/politics/house-votes-repeal-controversial-arctic-frost-provision-from-government-shutdown-bill"
+    },
+    {
+      "title": "Epstein files to go public as Trump says he signed law authorizing release of records",
+      "link": "https://www.foxnews.com/politics/epstein-files-go-public-trump-says-he-signed-law-authorizing-release-records"
+    },
+    {
       "title": "Leavitt demands Senate GOP ‘get off their butts’ and abolish filibuster rule to advance Trump's agenda",
       "link": "https://www.foxnews.com/media/leavitt-demands-senate-gop-get-off-butts-abolish-filibuster-rule-advance-trumps-agenda"
     },
@@ -29,6 +41,10 @@
       "link": "https://www.foxnews.com/politics/melania-trump-says-ai-reshape-war-profoundly-nuclear-weapons-visit-marines"
     },
     {
+      "title": "Dem congresswoman indicted for 'particularly selfish' alleged theft of FEMA relief funds for campaign use",
+      "link": "https://www.foxnews.com/politics/dem-congresswoman-indicted-particularly-selfish-alleged-theft-fema-relief-funds-campaign-use"
+    },
+    {
       "title": "GOP bill brewing in House to reform civil litigation sparks opposition from conservative groups",
       "link": "https://www.foxnews.com/politics/gop-bill-brewing-in-house-reforming-civil-litigation-sparks-opposition-from-conservative-groups"
     },
@@ -37,28 +53,12 @@
       "link": "https://www.foxnews.com/politics/att-gave-jack-smith-then-house-speaker-mccarthys-personal-cellphone-records-amid-j6-investigation"
     },
     {
-      "title": "White House press secretary Karoline Leavitt defends decision to limit reporter access to staff offices",
-      "link": "https://www.foxnews.com/media/white-house-press-secretary-karoline-leavitt-defends-decision-limit-reporter-access-staff-offices"
-    },
-    {
       "title": "Boasberg plans to move quickly on Trump contempt inquiry in major immigration case",
       "link": "https://www.foxnews.com/politics/boasberg-plans-move-quickly-trump-contempt-inquiry-major-immigration-case"
     },
     {
       "title": "Trump teases Musk at forum as once-frosty dynamic seems to take a turn",
       "link": "https://www.foxnews.com/politics/trump-teases-musk-forum-once-frosty-dynamic-seems-take-turn"
-    },
-    {
-      "title": "Trump says he will meet NYC Mayor-elect Zohran Mamdani this week",
-      "link": "https://www.foxnews.com/politics/trump-says-he-meet-nyc-mayor-elect-zohran-mamdani-week"
-    },
-    {
-      "title": "House votes to repeal controversial Arctic Frost provision from government shutdown bill",
-      "link": "https://www.foxnews.com/politics/house-votes-repeal-controversial-arctic-frost-provision-from-government-shutdown-bill"
-    },
-    {
-      "title": "Epstein files to go public as Trump says he signed law authorizing release of records",
-      "link": "https://www.foxnews.com/politics/epstein-files-go-public-trump-says-he-signed-law-authorizing-release-records"
     },
     {
       "title": "Trump explains trans sports controversy to Saudi investors who he says 'don't do a lot of transitioning'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-20T02:40:49.594Z"
+  "timestamp": "2025-11-20T03:34:02.143Z"
 }
