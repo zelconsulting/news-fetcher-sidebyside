@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Muslim civil rights group CAIR sues Texas over Abbott's ‘terrorist’ designation",
+      "link": "https://www.foxnews.com/politics/muslim-civil-rights-group-cair-sues-texas-over-abbotts-terrorist-designation"
+    },
+    {
       "title": "Immigrants fined up to $1.8 million for remaining in US sue Trump administration",
       "link": "https://www.foxnews.com/politics/immigrants-fined-up-1-8-million-remaining-us-sue-trump-administration"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/rnc-fueled-trump-vance-tops-rival-dnc-october-fundraising-race"
     },
     {
-      "title": "Muslim civil rights group CAIR sues Texas over Abbott's ‘terrorist’ designation",
-      "link": "https://www.foxnews.com/politics/muslim-civil-rights-group-cair-sues-texas-over-abbotts-terrorist-designation"
-    },
-    {
       "title": "Fox News Poll: How do voters feel about AI? It’s complicated",
       "link": "https://www.foxnews.com/politics/fox-news-poll-how-do-voters-feel-about-ai-its-complicated"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-21T09:14:00.566Z"
+  "timestamp": "2025-11-21T09:33:18.186Z"
 }
