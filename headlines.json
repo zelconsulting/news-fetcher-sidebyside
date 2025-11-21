@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Immigrants fined up to $1.8 million for remaining in US sue Trump administration",
+      "link": "https://www.foxnews.com/politics/immigrants-fined-up-1-8-million-remaining-us-sue-trump-administration"
+    },
+    {
       "title": "Texans upset Bills to shake up AFC playoff picture",
       "link": "https://www.foxnews.com/sports/texans-upset-bills-shake-up-afc-playoff-picture"
     },
@@ -35,10 +39,6 @@
     {
       "title": "War chest: RNC, fueled by Trump, Vance, tops rival DNC in fundraising race",
       "link": "https://www.foxnews.com/politics/rnc-fueled-trump-vance-tops-rival-dnc-october-fundraising-race"
-    },
-    {
-      "title": "Immigrants fined up to $1.8 million for remaining in US sue Trump administration",
-      "link": "https://www.foxnews.com/politics/immigrants-fined-up-1-8-million-remaining-us-sue-trump-administration"
     },
     {
       "title": "Fox News Poll: How do voters feel about AI? It’s complicated",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-21T06:50:51.151Z"
+  "timestamp": "2025-11-21T07:13:45.569Z"
 }
