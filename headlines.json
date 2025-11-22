@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "My family was poisoned at Camp Lejeune, and the government must make it right",
+      "link": "https://www.foxnews.com/opinion/my-family-poisoned-camp-lejeune-government-must-make-right"
+    },
+    {
       "title": "Doubling Down: Top House Democrat says focus on high prices ‘absolutely going to continue’",
       "link": "https://www.foxnews.com/politics/doubling-down-top-house-democrat-says-focus-high-prices-absolutely-going-continue"
     },
@@ -75,12 +79,8 @@
     {
       "title": "White House dubs Dem a scam victim after he fumes Rubio wouldn’t fund climate trip",
       "link": "https://www.foxnews.com/politics/white-house-dubs-dem-scam-victim-after-he-fumes-rubio-wouldnt-fund-climate-trip"
-    },
-    {
-      "title": "Graham says Trump wants to 'move the bill' on Russia sanctions, but procedural hurdles await",
-      "link": "https://www.foxnews.com/politics/graham-says-trump-wants-move-bill-russia-sanctions-procedural-hurdles-await"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-22T12:21:31.261Z"
+  "timestamp": "2025-11-22T12:57:38.710Z"
 }
