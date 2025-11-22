@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Bill Maher swipes Michelle Obama's 'bad attitude' for saying America isn't ready for a woman president",
+      "link": "https://www.foxnews.com/media/bill-maher-swipes-michelle-obamas-bad-attitude-saying-america-ready-woman-president"
+    },
+    {
+      "title": "WATCH: Democrats struggle to defend Schumer after shutdown ends with few wins",
+      "link": "https://www.foxnews.com/politics/watch-democrats-struggle-defend-schumer-after-shutdown-ends-few-wins"
+    },
+    {
       "title": "It won’t get any better: Washington faces another looming government shutdown",
       "link": "https://www.foxnews.com/politics/it-wont-get-any-better-washington-faces-another-looming-government-shutdown"
     },
@@ -35,14 +43,6 @@
     {
       "title": "Top GOP chair issues stark warning to Clintons if they defy deposition subpoenas in Epstein investigation",
       "link": "https://www.foxnews.com/politics/top-gop-chair-issues-stark-warning-clintons-defy-depositions-epstein-investigation"
-    },
-    {
-      "title": "Tyreek Hill praises Chiefs coach as a 'f---ing animal' after disagreeing with Trump on NFL kickoff rule",
-      "link": "https://www.foxnews.com/sports/tyreek-hill-praises-chiefs-coach-f-ing-animal-disagreeing-trump-nfl-kickoff-rule"
-    },
-    {
-      "title": "WATCH: Democrats struggle to defend Schumer after shutdown ends with few wins",
-      "link": "https://www.foxnews.com/politics/watch-democrats-struggle-defend-schumer-after-shutdown-ends-few-wins"
     },
     {
       "title": "Fox News Politics Newsletter: Trump, Mamdani set for Oval Office face-off",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-22T09:29:20.909Z"
+  "timestamp": "2025-11-22T09:38:59.870Z"
 }
