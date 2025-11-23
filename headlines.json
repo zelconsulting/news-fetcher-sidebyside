@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump says Dems who told military to defy illegal orders committed 'sedition at the highest level'",
+      "link": "https://www.foxnews.com/politics/trump-says-dems-told-military-defy-illegal-orders-committed-sedition-highest-level"
+    },
+    {
       "title": "New Jersey ‘MAGA mom’ school board member allegedly targeted in 'vile' text scandal: ‘They wanted me dead’",
       "link": "https://www.foxnews.com/us/new-jersey-maga-mom-school-board-member-targeted-vile-text-scandal-they-wanted-me-dead"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Bill Maher hits back at Larry David's 'dumb' NYT op-ed criticizing his dinner with Trump",
       "link": "https://www.foxnews.com/media/bill-maher-hits-back-larry-davids-dumb-nyt-op-ed-criticizing-his-dinner-trump"
-    },
-    {
-      "title": "Trump says Dems who told military to defy illegal orders committed 'sedition at the highest level'",
-      "link": "https://www.foxnews.com/politics/trump-says-dems-told-military-defy-illegal-orders-committed-sedition-highest-level"
     },
     {
       "title": "California gubernatorial hopeful Eric Swalwell embraces role as Trump's loudest critic amid new DOJ probe",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-23T11:33:38.001Z"
+  "timestamp": "2025-11-23T11:47:58.871Z"
 }
