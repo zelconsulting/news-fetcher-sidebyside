@@ -1,7 +1,11 @@
 {
   "fox": [
     {
-      "title": "Cheryl Hines says 'stress' of RFK Jr.'s decision to endorse Trump led to urgent care visit",
+      "title": "Hillary Clinton 'daydreaming' about national sound system announcement that Trump is 'gone'",
+      "link": "https://www.foxnews.com/media/hillary-clinton-daydreaming-about-national-sound-system-announcement-trump-is-gone"
+    },
+    {
+      "title": "Cheryl Hines says 'stress' of RFK Jr's decision to endorse Trump led to urgent care visit",
       "link": "https://www.foxnews.com/entertainment/cheryl-hines-suffered-serious-health-emergency-after-rfk-jr-discussed-endorsing-trump"
     },
     {
@@ -23,10 +27,6 @@
     {
       "title": "Trump trade official says $2K tariff payments won't fuel inflation as revenues climb",
       "link": "https://www.foxnews.com/politics/trump-trade-official-says-2k-tariff-payments-wont-fuel-inflation-revenues-climb"
-    },
-    {
-      "title": "Ivanka Trump’s new water workout could promote healthy aging, expert says",
-      "link": "https://www.foxnews.com/health/ivanka-trump-new-water-workout-could-promote-healthy-aging-expert-says"
     },
     {
       "title": "Obama wanted shutdown pain to be felt by Americans, while Trump kept focus on Washington, experts argue",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-23T19:47:53.392Z"
+  "timestamp": "2025-11-23T20:13:56.201Z"
 }
