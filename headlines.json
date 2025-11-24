@@ -1,6 +1,30 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Judge tosses Comey, James indictments",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-judge-tosses-comey-james-indictments"
+    },
+    {
+      "title": "'Full House' star Jodie Sweetin blacked out at Candace Cameron Bure's wedding at age 14",
+      "link": "https://www.foxnews.com/entertainment/jodie-sweetin-blacked-out-candace-cameron-bures-wedding-age-14"
+    },
+    {
+      "title": "Airlines pull Venezuela flights amid safety warning, as Trump ratchets up pressure on Maduro",
+      "link": "https://www.foxnews.com/world/airlines-pull-venezuela-flights-safety-warning-trump-ratchets-pressure-maduro"
+    },
+    {
+      "title": "Cory Booker admits Democrats 'failed in my generation' in scathing assessment of his own party",
+      "link": "https://www.foxnews.com/media/cory-booker-admits-democrats-failed-my-generation-scathing-assessment-his-own-party"
+    },
+    {
+      "title": "Justice Thomas rebukes SCOTUS for denying widow’s case, says it lets government dodge blame",
+      "link": "https://www.foxnews.com/politics/justice-thomas-rebukes-scotus-denying-widows-case-says-lets-government-dodge-blame"
+    },
+    {
+      "title": "Five reasons Trump's Ukraine plan is deal Putin can't afford to refuse",
+      "link": "https://www.foxnews.com/opinion/five-reasons-trumps-ukraine-plan-deal-putin-cant-afford-refuse"
+    },
+    {
       "title": "Australian senator wears burqa after move to block her face-covering ban bill",
       "link": "https://www.foxnews.com/world/australian-senator-wears-burqa-after-move-block-her-face-covering-ban-bill"
     },
@@ -25,36 +49,12 @@
       "link": "https://www.foxnews.com/politics/deep-pocketed-conservative-group-once-odds-trump-now-all-in-help-him-win"
     },
     {
-      "title": "Dem congressman pressed on what Trump orders 'specifically' were illegal",
-      "link": "https://www.foxnews.com/media/dem-congressman-pressed-what-trump-orders-specifically-were-illegal"
-    },
-    {
-      "title": "Vanity Fair left surprised by latest romantic allegations against scandal-plagued journalist Olivia Nuzzi",
-      "link": "https://www.foxnews.com/media/vanity-fair-left-surprised-latest-romantic-allegations-against-scandal-plagued-journalist-olivia-nuzzi"
-    },
-    {
       "title": "Trump's main DOGE office shutters — but its war on government waste isn't over",
       "link": "https://www.foxnews.com/politics/trumps-main-doge-office-shutters-its-war-government-waste-isnt-over"
     },
     {
       "title": "Trump signals plan to designate Muslim Brotherhood a terrorist organization",
       "link": "https://www.foxnews.com/politics/trump-signals-plan-designate-muslim-brotherhood-terrorist-organization"
-    },
-    {
-      "title": "Cops swarm Epstein records vault after ‘cover-up’ claims, online protest chatter light up the web: report",
-      "link": "https://www.foxnews.com/us/cops-swarm-epstein-records-vault-after-cover-up-claims-online-protest-chatter-light-up-web-report"
-    },
-    {
-      "title": "NATO chief 'sure' Trump's Ukraine-Russia peace plan will succeed despite 'difficult' talks",
-      "link": "https://www.foxnews.com/media/nato-chief-sure-trumps-ukraine-russia-peace-plan-succeed-despite-difficult-talks"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Judge tosses Comey, James indictments",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-judge-tosses-comey-james-indictments"
-    },
-    {
-      "title": "Justice Thomas rebukes SCOTUS for denying widow’s case, says it lets government dodge blame",
-      "link": "https://www.foxnews.com/politics/justice-thomas-rebukes-scotus-denying-widows-case-says-lets-government-dodge-blame"
     },
     {
       "title": "GOP senator calls Mamdani's Netanyahu arrest vow a 'grave threat' as he introduces defund bill",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-24T21:47:51.731Z"
+  "timestamp": "2025-11-24T22:11:40.447Z"
 }
