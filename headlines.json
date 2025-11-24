@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "California governor candidate Eric Swalwell wants people to be able to 'vote by phone'",
+      "link": "https://www.foxnews.com/media/california-governor-candidate-eric-swalwell-wants-people-able-vote-phone"
+    },
+    {
       "title": "Trump claims GOP has 'never been so united,' calls Greene and other Republicans 'lowlifes'",
       "link": "https://www.foxnews.com/politics/trump-claims-gop-has-never-been-so-united-calls-greene-other-republicans-lowlifes"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Jasmine Crockett calls out Marjorie Taylor Greene for resigning from Congress amid Trump feud",
       "link": "https://www.foxnews.com/media/jasmine-crockett-calls-out-marjorie-taylor-greene-resigning-from-congress-amid-trump-feud"
-    },
-    {
-      "title": "Democratic strategist calls Mamdani's Trump meeting 'weak' after tough campaign talk",
-      "link": "https://www.foxnews.com/media/democratic-strategist-calls-mamdanis-trump-meeting-weak-after-tough-campaign-talk"
     },
     {
       "title": "Trump’s wild Mamdani flip — the insults that came before the love fest",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-24T02:59:31.035Z"
+  "timestamp": "2025-11-24T03:57:15.671Z"
 }
