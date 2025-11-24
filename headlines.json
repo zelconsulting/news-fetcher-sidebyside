@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump claims GOP has 'never been so united,' calls Greene and other Republicans 'lowlifes'",
+      "link": "https://www.foxnews.com/politics/trump-claims-gop-has-never-been-so-united-calls-greene-other-republicans-lowlifes"
+    },
+    {
       "title": "'ShamWow' guy files to run for Congress in Texas as Republican candidate",
       "link": "https://www.foxnews.com/politics/shamwow-guy-files-run-congress-texas-republican-candidate"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Democratic strategist calls Mamdani's Trump meeting 'weak' after tough campaign talk",
       "link": "https://www.foxnews.com/media/democratic-strategist-calls-mamdanis-trump-meeting-weak-after-tough-campaign-talk"
-    },
-    {
-      "title": "Hillary Clinton 'daydreaming' about national sound system announcement that Trump is 'gone'",
-      "link": "https://www.foxnews.com/media/hillary-clinton-daydreaming-about-national-sound-system-announcement-trump-is-gone"
-    },
-    {
-      "title": "Trump claims GOP has 'never been so united,' calls Greene and other Republicans 'lowlifes'",
-      "link": "https://www.foxnews.com/politics/trump-claims-gop-has-never-been-so-united-calls-greene-other-republicans-lowlifes"
     },
     {
       "title": "Trump’s wild Mamdani flip — the insults that came before the love fest",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-24T01:03:58.412Z"
+  "timestamp": "2025-11-24T02:59:31.035Z"
 }
