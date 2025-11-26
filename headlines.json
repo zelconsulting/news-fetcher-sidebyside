@@ -1,20 +1,16 @@
 {
   "fox": [
     {
+      "title": "Showdown for the House: Democrats, Republicans brace for high-stakes midterm clash",
+      "link": "https://www.foxnews.com/politics/showdown-house-democrats-republicans-brace-high-stakes-midterm-clash"
+    },
+    {
       "title": "US envoy gave Russian aide tips on how to sell Ukraine deal to Trump: report",
       "link": "https://www.foxnews.com/politics/us-envoy-gave-russian-aide-tips-how-sell-ukraine-deal-trump-report"
     },
     {
       "title": "Democratic lawmaker says military can be a 'check' on President Trump to 'save us' and more top headlines",
       "link": "https://www.foxnews.com/us/dem-lawmaker-military-check-trump-and-more-top-headlines"
-    },
-    {
-      "title": "Jimmy Kimmel welcomes former Trump ‘superfan’ MTG to ‘reality’ amid ongoing feud",
-      "link": "https://www.foxnews.com/media/jimmy-kimmel-welcomes-former-trump-superfan-mtg-reality-amid-ongoing-feud"
-    },
-    {
-      "title": "Showdown for the House: Democrats, Republicans brace for high-stakes midterm clash",
-      "link": "https://www.foxnews.com/politics/showdown-house-democrats-republicans-brace-high-stakes-midterm-clash"
     },
     {
       "title": "Rep. Swalwell sues Trump official over mortgage fraud allegations: ‘A gross abuse of power’",
@@ -70,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-26T14:52:37.331Z"
+  "timestamp": "2025-11-26T15:12:23.070Z"
 }
