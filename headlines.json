@@ -1,20 +1,28 @@
 {
   "fox": [
     {
+      "title": "Seattle's socialist mayor-elect Katie Wilson open to meeting with President Trump",
+      "link": "https://www.foxnews.com/media/seattles-socialist-mayor-elect-katie-wilson-open-meeting-president-trump"
+    },
+    {
+      "title": "Georgia moves to drop 2020 election interference case against Trump",
+      "link": "https://www.foxnews.com/politics/georgia-moves-drop-2020-election-interference-case-against-trump"
+    },
+    {
+      "title": "Trump touts 'progress' on Ukraine-Russia deal, admits it's 'one of the more difficult' conflicts to solve",
+      "link": "https://www.foxnews.com/world/trump-touts-progress-ukraine-russia-deal-admits-its-one-more-difficult-conflicts-solve"
+    },
+    {
+      "title": "Joy Reid says Dems' brand tainted by focus on trans politics and immigrants, abandoned rural White voters",
+      "link": "https://www.foxnews.com/media/joy-reid-says-dems-brand-tainted-focus-trans-politics-immigrants-abandoned-rural-white-voters"
+    },
+    {
       "title": "Showdown for the House: Democrats, Republicans brace for high-stakes midterm clash",
       "link": "https://www.foxnews.com/politics/showdown-house-democrats-republicans-brace-high-stakes-midterm-clash"
     },
     {
       "title": "US envoy gave Russian aide tips on how to sell Ukraine deal to Trump: report",
       "link": "https://www.foxnews.com/politics/us-envoy-gave-russian-aide-tips-how-sell-ukraine-deal-trump-report"
-    },
-    {
-      "title": "Democratic lawmaker says military can be a 'check' on President Trump to 'save us' and more top headlines",
-      "link": "https://www.foxnews.com/us/dem-lawmaker-military-check-trump-and-more-top-headlines"
-    },
-    {
-      "title": "Georgia moves to drop 2020 election interference case against Trump",
-      "link": "https://www.foxnews.com/politics/georgia-moves-drop-2020-election-interference-case-against-trump"
     },
     {
       "title": "Rep. Swalwell sues Trump official over mortgage fraud allegations: ‘A gross abuse of power’",
@@ -66,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-26T16:48:10.387Z"
+  "timestamp": "2025-11-26T17:12:08.827Z"
 }
