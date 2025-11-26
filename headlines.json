@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Oregon educators win 650K settlement after school district fired them over gender policy comments",
+      "link": "https://www.foxnews.com/media/oregon-educators-win-650k-settlement-after-school-district-fired-them-over-gender-policy-comments"
+    },
+    {
       "title": "NYC Council welcomes new mayor with bill that would dramatically raise salaries for city officials",
       "link": "https://www.foxnews.com/politics/nyc-council-welcomes-new-mayor-bill-dramatically-raise-salaries-city-officials"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Trump calls Chicago ‘out of control’ after train attack left woman critically burned",
       "link": "https://www.foxnews.com/politics/trump-calls-chicago-out-control-after-train-attack-left-woman-critically-burned"
-    },
-    {
-      "title": "Liberal 'View' co-host agrees with Trump transportation sec on call to dress better while traveling",
-      "link": "https://www.foxnews.com/media/liberal-view-co-host-agrees-trump-transportation-sec-call-dress-better-while-traveling"
     },
     {
       "title": "Republicans try to quash concerns of more exits following Marjorie Taylor Greene's surprise resignation",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-25T23:48:07.766Z"
+  "timestamp": "2025-11-26T01:00:24.190Z"
 }
