@@ -1,11 +1,27 @@
 {
   "fox": [
     {
+      "title": "Patriots place star offensive player on IR with knee injury ahead of stretch run",
+      "link": "https://www.foxnews.com/sports/patriots-place-star-offensive-player-ir-knee-injury-ahead-stretch-run"
+    },
+    {
+      "title": "Letterman hammers ‘dictator’ Trump’s Truth Social post attacking another late-night host",
+      "link": "https://www.foxnews.com/media/letterman-defends-meyers-dictator-trumps-truth-social-posts-attacking-late-night-host"
+    },
+    {
+      "title": "Trump 'took notes from the Grinch': States sue over SNAP program changes",
+      "link": "https://www.foxnews.com/politics/trump-took-notes-from-grinch-states-sue-over-snap-program-changes"
+    },
+    {
+      "title": "Weakening incomes add new strain to households already hit by high prices",
+      "link": "https://www.foxnews.com/politics/prices-remain-high-bigger-worry-now-falling-incomes"
+    },
+    {
       "title": "Trump blocks South Africa from 2026 G20 summit for alleged 'horrific human rights abuses'",
       "link": "https://www.foxnews.com/politics/trump-blocks-south-africa-from-2026-g20-summit-alleged-horrific-human-rights-abuses"
     },
     {
-      "title": "Law enforcement responding after 2 National Guard members shot near White House",
+      "title": "Two National Guard members shot near White House, suspect in custody: police",
       "link": "https://www.foxnews.com/us/law-enforcement-responding-2-national-guard-members-shot-near-white-house"
     },
     {
@@ -31,22 +47,6 @@
     {
       "title": "Appeals court upholds $1 million penalty against Trump over 'frivolous' Clinton, Comey lawsuit",
       "link": "https://www.foxnews.com/politics/appeals-court-upholds-1-million-penalty-against-trump-over-frivolous-clinton-comey-lawsuit"
-    },
-    {
-      "title": "Trump scolds New York Times as 'creeps' over ‘hit piece’ questioning his energy levels, schedule",
-      "link": "https://www.foxnews.com/media/trump-scolds-new-york-times-creeps-over-hit-piece-questioning-his-energy-levels-schedule"
-    },
-    {
-      "title": "Mamdani speaks about 'weirdest thing' he saw during Trump White House visit",
-      "link": "https://www.foxnews.com/media/mamdani-speaks-about-weirdest-thing-he-saw-during-trump-white-house-visit"
-    },
-    {
-      "title": "Trump 'took notes from the Grinch': States sue over SNAP program changes",
-      "link": "https://www.foxnews.com/politics/trump-took-notes-from-grinch-states-sue-over-snap-program-changes"
-    },
-    {
-      "title": "Weakening incomes add new strain to households already hit by high prices",
-      "link": "https://www.foxnews.com/politics/prices-remain-high-bigger-worry-now-falling-incomes"
     },
     {
       "title": "Judge dismisses 2020 election interference case against Trump, granting Georgia's request",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-26T21:38:27.926Z"
+  "timestamp": "2025-11-26T21:47:53.020Z"
 }
