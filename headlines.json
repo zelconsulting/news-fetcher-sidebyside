@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Rep. Swalwell sues Trump official over mortgage fraud allegations: ‘A gross abuse of power’",
+      "link": "https://www.foxnews.com/politics/rep-swalwell-sues-trump-official-mortgage-fraud-allegations-gross-abuse-power"
+    },
+    {
       "title": "Paramount revives 'Rush Hour' franchise reportedly after Trump's request",
       "link": "https://www.foxnews.com/media/paramount-revives-rush-hour-franchise-reportedly-after-trumps-request"
     },
@@ -31,10 +35,6 @@
     {
       "title": "White House calls MS NOW story about Trump considering firing Kash Patel 'completely made up'",
       "link": "https://www.foxnews.com/media/white-house-calls-ms-now-story-trump-considering-firing-kash-patel-completely-made-up"
-    },
-    {
-      "title": "Rep. Swalwell sues Trump official over mortgage fraud allegations: ‘A gross abuse of power’",
-      "link": "https://www.foxnews.com/politics/rep-swalwell-sues-trump-official-mortgage-fraud-allegations-gross-abuse-power"
     },
     {
       "title": "Fox News Politics Newsletter: Former Army captain warns Dems’ ‘unpatriotic’ video could spark chaos",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-26T05:49:04.586Z"
+  "timestamp": "2025-11-26T06:20:06.572Z"
 }
