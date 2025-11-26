@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Fox News Sports Huddle Newsletter: 'World's Strongest Woman' talks trans scandal, USA Fencing seeks trust",
+      "link": "https://www.foxnews.com/sports/fox-news-sports-huddle-newsletter-worlds-strongest-woman-talks-trans-scandal-usa-fencing-seeks-trust"
+    },
+    {
+      "title": "Bipartisan support, outrage pour in after 'targeted' DC shooting of National Guardsmen: 'Horrific'",
+      "link": "https://www.foxnews.com/politics/bipartisan-support-outrage-pour-after-targeted-dc-shooting-national-guardsmen-horrific"
+    },
+    {
+      "title": "Washington Democrat says he believes Trump issued illegal orders to the military",
+      "link": "https://www.foxnews.com/media/washington-democrat-says-he-believes-trump-issued-illegal-orders-military"
+    },
+    {
       "title": "Fox News Politics Newsletter: US envoy gave Russian aide tips on selling Ukraine deal",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-us-envoy-gave-russian-aide-tips-on-selling-ukraine-deal"
     },
@@ -25,7 +37,7 @@
       "link": "https://www.foxnews.com/politics/trump-blocks-south-africa-from-2026-g20-summit-alleged-horrific-human-rights-abuses"
     },
     {
-      "title": "Two National Guard members shot near White House, suspect in custody: police",
+      "title": "Two National Guard members shot near White House, suspect in custody: 'Targeted'",
       "link": "https://www.foxnews.com/us/law-enforcement-responding-2-national-guard-members-shot-near-white-house"
     },
     {
@@ -39,14 +51,6 @@
     {
       "title": "Bills sign NFL veteran to bolster wide receiving corps",
       "link": "https://www.foxnews.com/sports/bills-sign-nfl-veteran-bolster-wide-receiving-corps"
-    },
-    {
-      "title": "Politician named Adolf Hitler becomes focal point of local election campaign",
-      "link": "https://www.foxnews.com/world/politician-named-adolf-hitler-becomes-focal-point-local-election-campaign"
-    },
-    {
-      "title": "Bipartisan support, outrage pour in after 'targeted' DC shooting of National Guardsmen: 'Horrific'",
-      "link": "https://www.foxnews.com/politics/bipartisan-support-outrage-pour-after-targeted-dc-shooting-national-guardsmen-horrific"
     },
     {
       "title": "Texas Democrat — a Latin Grammy winner and party recruit — caught defacing Trump’s Hollywood star",
@@ -75,12 +79,8 @@
     {
       "title": "DHS says four House Democrats 'chose to stand with criminal illegal aliens' after visiting ICE detainee",
       "link": "https://www.foxnews.com/politics/dhs-says-four-house-democrats-chose-stand-criminal-illegal-aliens-visiting-ice-detainee"
-    },
-    {
-      "title": "NYC Council welcomes new mayor with bill that would dramatically raise salaries for city officials",
-      "link": "https://www.foxnews.com/politics/nyc-council-welcomes-new-mayor-bill-dramatically-raise-salaries-city-officials"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-26T23:11:54.596Z"
+  "timestamp": "2025-11-26T23:28:52.062Z"
 }
