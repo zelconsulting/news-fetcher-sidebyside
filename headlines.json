@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Putin calls Trump’s peace plan a ‘starting point’ as he warns Ukraine to pull back or face 'force'",
+      "link": "https://www.foxnews.com/world/putin-calls-trumps-peace-plan-starting-point-he-warns-ukraine-pull-back-face-force"
+    },
+    {
+      "title": "Katy Tur says Trump doing 'much more' than Biden ever did as NYT reports on president's 'fatigue'",
+      "link": "https://www.foxnews.com/media/katy-tur-says-trump-doing-much-more-than-biden-ever-did-amid-new-york-times-fatigue-report"
+    },
+    {
       "title": "Shedeur Sanders 'thankful' for Trump's support amid wild start to NFL career",
       "link": "https://www.foxnews.com/sports/shedeur-sanders-thankful-trumps-support-amid-wild-start-nfl-career"
     },
@@ -11,14 +19,6 @@
     {
       "title": "New Yorker writer Jane Mayer faces conservative criticism for comments on National Guard shooting in DC",
       "link": "https://www.foxnews.com/media/new-yorker-writer-jane-mayer-faces-criticism-comments-national-guard-shooting-dc"
-    },
-    {
-      "title": "JONATHAN TURLEY: Fani Willis' case against Trump collapses under its own insanity",
-      "link": "https://www.foxnews.com/opinion/jonathan-turley-fani-willis-case-against-trump-collapses-under-its-own-insanity"
-    },
-    {
-      "title": "Fox Nation Patriot Awards attendees weigh in on Charlie Kirk’s killing after turbulent year in politics",
-      "link": "https://www.foxnews.com/media/fox-nation-patriot-award-attendees-weigh-charlie-kirks-murder-after-tumultuous-year-politics"
     },
     {
       "title": "Trump admin set to let protected status for 350,000 Haitian migrants expire in February",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-27T19:47:44.225Z"
+  "timestamp": "2025-11-27T20:12:00.679Z"
 }
