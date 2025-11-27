@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "LAX travelers abandon cars, walk to airport as protesters block building during Thanksgiving rush",
+      "link": "https://www.foxnews.com/us/lax-travelers-abandon-cars-walk-airport-protesters-block-building-thanksgiving-rush"
+    },
+    {
       "title": "White House blasts MS NOW correspondent's 'beyond sick' reaction to DC shooting of National Guardsmen",
       "link": "https://www.foxnews.com/media/white-house-blasts-ms-now-correspondents-beyond-sick-reaction-dc-shooting-national-guardsmen"
     },
@@ -41,7 +45,7 @@
       "link": "https://www.foxnews.com/politics/trump-blocks-south-africa-from-2026-g20-summit-alleged-horrific-human-rights-abuses"
     },
     {
-      "title": "Two National Guard members shot near White House, suspect in custody: 'Targeted'",
+      "title": "Two National Guard members shot near White House, Afghan national suspect in custody: 'Targeted'",
       "link": "https://www.foxnews.com/us/law-enforcement-responding-2-national-guard-members-shot-near-white-house"
     },
     {
@@ -51,10 +55,6 @@
     {
       "title": "Former Democratic presidential candidate talks about the future of his party after off-year election success",
       "link": "https://www.foxnews.com/politics/former-democratic-presidential-candidate-talks-about-future-his-party-after-off-year-election-success"
-    },
-    {
-      "title": "Bills sign NFL veteran to bolster wide receiving corps",
-      "link": "https://www.foxnews.com/sports/bills-sign-nfl-veteran-bolster-wide-receiving-corps"
     },
     {
       "title": "Texas Democrat — a Latin Grammy winner and party recruit — caught defacing Trump’s Hollywood star",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-27T00:59:24.127Z"
+  "timestamp": "2025-11-27T02:42:48.118Z"
 }
