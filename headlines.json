@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "New Yorker writer Jane Mayer faces conservative criticism for comments on National Guard shooting in DC",
+      "link": "https://www.foxnews.com/media/new-yorker-writer-jane-mayer-faces-criticism-comments-national-guard-shooting-dc"
+    },
+    {
       "title": "JONATHAN TURLEY: Fani Willis' case against Trump collapses under its own insanity",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-fani-willis-case-against-trump-collapses-under-its-own-insanity"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Congress investigates betting scandals rocking NBA and Major League Baseball following federal charges",
       "link": "https://www.foxnews.com/politics/congress-investigates-betting-scandals-rocking-nba-major-league-baseball-following-federal-charges"
-    },
-    {
-      "title": "UFO documentary pulls back curtain on ‘psychological operation’ after decades of government cover-up: expert",
-      "link": "https://www.foxnews.com/us/ufo-documentary-pulls-back-curtain-psychological-operation-after-decades-government-cover-up-expert"
     },
     {
       "title": "Alleged National Guard shooter worked with US government entities in Afghanistan, including CIA: Ratcliffe",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-27T16:15:49.312Z"
+  "timestamp": "2025-11-27T16:45:28.666Z"
 }
