@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "US dramatically escalates Somalia airstrikes as Trump admin targets ISIS, al Qaeda terrorists",
+      "link": "https://www.foxnews.com/world/us-dramatically-escalates-somalia-airstrikes-trump-admin-targets-isis-al-qaeda-terrorists"
+    },
+    {
       "title": "Trump calls reporter a ‘stupid person’ during tense exchange about National Guardsmen murder suspect",
       "link": "https://www.foxnews.com/media/trump-calls-reporter-stupid-person-during-tense-exchange-national-guardsmen-murder-suspect"
     },
@@ -11,10 +15,6 @@
     {
       "title": "Trump says Biden 'doesn’t want to show up' to golf match, takes jab at former president's game",
       "link": "https://www.foxnews.com/sports/trump-says-biden-doesnt-want-show-up-golf-match-takes-jab-former-presidents-game"
-    },
-    {
-      "title": "Trump announces death of 'magnificent' National Guard member shot in DC and more top headlines",
-      "link": "https://www.foxnews.com/us/national-guard-member-dies-in-attack-more-top-headlines"
     },
     {
       "title": "Trump unveils ‘reverse migration’ plan to halt ‘Third World’ immigration, revoke Biden-era entries",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-28T17:48:58.069Z"
+  "timestamp": "2025-11-28T18:17:56.456Z"
 }
