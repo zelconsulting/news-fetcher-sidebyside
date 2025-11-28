@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump to void all documents allegedly signed by Biden via autopen, threatens perjury charge",
+      "link": "https://www.foxnews.com/politics/trump-void-documents-allegedly-signed-biden-via-autopen-threatens-perjury-charge"
+    },
+    {
+      "title": "Giants' Jaxson Dart to start vs. Patriots after missing 2 games with concussion",
+      "link": "https://www.foxnews.com/sports/giants-announce-rookie-qb-jaxson-dart-start-vs-patriots-after-missing-2-games-concussion"
+    },
+    {
       "title": "Liberal commentators blame Trump for National Guard shooting",
       "link": "https://www.foxnews.com/media/liberal-commentators-blame-trump-national-guard-members-murder"
     },
@@ -15,10 +23,6 @@
     {
       "title": "US dramatically escalates Somalia airstrikes as Trump admin targets ISIS, al Qaeda terrorists",
       "link": "https://www.foxnews.com/world/us-dramatically-escalates-somalia-airstrikes-trump-admin-targets-isis-al-qaeda-terrorists"
-    },
-    {
-      "title": "Trump to void all documents allegedly signed by Biden via autopen, threatens perjury charge",
-      "link": "https://www.foxnews.com/politics/trump-void-documents-allegedly-signed-biden-via-autopen-threatens-perjury-charge"
     },
     {
       "title": "Trump unveils ‘reverse migration’ plan to halt ‘Third World’ immigration, revoke Biden-era entries",
@@ -70,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-28T20:13:56.577Z"
+  "timestamp": "2025-11-28T20:33:22.166Z"
 }
