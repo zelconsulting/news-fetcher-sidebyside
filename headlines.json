@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump says Biden 'doesn’t want to show up' to golf match, takes jab at former president's game",
+      "link": "https://www.foxnews.com/sports/trump-says-biden-doesnt-want-show-up-golf-match-takes-jab-former-presidents-game"
+    },
+    {
+      "title": "Trump announces death of 'magnificent' National Guard member shot in DC and more top headlines",
+      "link": "https://www.foxnews.com/us/national-guard-member-dies-in-attack-more-top-headlines"
+    },
+    {
       "title": "NEWT GINGRICH: Republicans get second chance to finally fix healthcare",
       "link": "https://www.foxnews.com/opinion/newt-gingrich-republicans-second-chance-fix-healthcare"
     },
@@ -9,7 +17,7 @@
       "link": "https://www.foxnews.com/opinion/i-helped-negotiate-trumps-trade-deal-he-can-now-fix-what-pelosi-broke"
     },
     {
-      "title": "Trump is making life affordable again for every American and here's how",
+      "title": "Trump is making life affordable again for every American, and here's how",
       "link": "https://www.foxnews.com/opinion/trump-making-life-affordable-again-every-american-heres-how"
     },
     {
@@ -74,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-28T13:40:16.737Z"
+  "timestamp": "2025-11-28T13:50:56.084Z"
 }
