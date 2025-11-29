@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "White House launches 'Media Offender of the Week' section on its website to call out 'Fake News Media'",
+      "link": "https://www.foxnews.com/media/white-house-launches-media-offender-week-section-its-website-call-out-fake-news-media"
+    },
+    {
       "title": "JONATHAN TURLEY: Wasserman Schultz blames Trump, guns for DC attack, but spares Biden",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-wasserman-schultz-blames-trump-guns-dc-attack-spares-biden"
     },
@@ -15,10 +19,6 @@
     {
       "title": "BROADCAST BIAS: Maybe Nancy Pelosi could get on the Mount Rushmore of House speakers",
       "link": "https://www.foxnews.com/opinion/broadcast-bias-maybe-nancy-pelosi-could-get-mount-rushmore-house-speakers"
-    },
-    {
-      "title": "Iran boycotting 2026 World Cup draw ceremony in Washington due to denied visas by Trump administration",
-      "link": "https://www.foxnews.com/sports/iran-boycotting-2026-world-cup-draw-ceremony-washington-due-denied-visas-trump-administration"
     },
     {
       "title": "Hegseth defends lethal strikes against alleged drug traffickers: 'Biden coddled terrorists, we kill them'",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-29T18:17:17.930Z"
+  "timestamp": "2025-11-29T18:45:26.588Z"
 }
