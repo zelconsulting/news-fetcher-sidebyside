@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "National Guardsman shot in DC is 'hanging on,' family pleading for prayer, congressman says",
+      "link": "https://www.foxnews.com/us/national-guardsman-shot-dc-hanging-on-family-pleading-prayer-congressman-says"
+    },
+    {
       "title": "BROADCAST BIAS: Maybe Nancy Pelosi could get on the Mount Rushmore of House speakers",
       "link": "https://www.foxnews.com/opinion/broadcast-bias-maybe-nancy-pelosi-could-get-mount-rushmore-house-speakers"
     },
@@ -27,10 +31,6 @@
     {
       "title": "Trump plans 'full and complete pardon' for former Honduran president convicted of drug trafficking",
       "link": "https://www.foxnews.com/politics/trump-plans-full-complete-pardon-former-honduran-president-convicted-drug-trafficking"
-    },
-    {
-      "title": "'Jailhouse Karen' Bryan Kohberger complains about prison bananas after quadruple murder conviction: report",
-      "link": "https://www.foxnews.com/us/jailhouse-karen-bryan-kohberger-complains-about-prison-bananas-quadruple-murder-conviction-report"
     },
     {
       "title": "EXCLUSIVE: Stefanik steamrolls top conservative opponent; GOP leaders hand her commanding edge in NY primary",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-29T14:11:12.093Z"
+  "timestamp": "2025-11-29T14:30:42.247Z"
 }
