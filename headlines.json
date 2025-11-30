@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Ex-CIA station chief warns Putin using talks to gain leverage as Ukraine delegation meets top Trump officials",
+      "link": "https://www.foxnews.com/media/ex-cia-station-chief-warns-putin-using-talks-gain-leverage-ukraine-delegation-meets-top-trump-officials"
+    },
+    {
+      "title": "Trump makes 11th-hour plea for Matt Van Epps over Aftyn Behn, whom he claims 'hates Christianity'",
+      "link": "https://www.foxnews.com/politics/trump-makes-11th-hour-plea-matt-van-epps-over-aftyn-behn-whom-he-claims-hates-christianity"
+    },
+    {
       "title": "Alina Habba blasts Biden immigration policies as ‘absolute failure’ after deadly National Guard ambush",
       "link": "https://www.foxnews.com/media/alina-habba-blasts-biden-immigration-policies-absolute-failure-after-deadly-national-guard-ambush"
     },
@@ -13,16 +21,8 @@
       "link": "https://www.foxnews.com/politics/trump-freezes-afghan-visas-after-dc-shooting-he-quietly-eyes-land-strikes-venezuela"
     },
     {
-      "title": "Actor Josh Brolin praises Trump as marketing 'genius,' says he knows president as 'different guy'",
-      "link": "https://www.foxnews.com/media/actor-josh-brolin-praises-trump-marketing-genius-says-he-knows-president-different-guy"
-    },
-    {
       "title": "Minnesota government workers blame Walz for 'massive fraud' amid allegations against Somali community",
       "link": "https://www.foxnews.com/politics/minnesota-government-workers-blame-walz-massive-fraud-amid-allegations-against-somali-community"
-    },
-    {
-      "title": "Trump makes 11th-hour plea for Matt Van Epps over Aftyn Behn, whom he claims 'hates Christianity'",
-      "link": "https://www.foxnews.com/politics/trump-makes-11th-hour-plea-matt-van-epps-over-aftyn-behn-whom-he-claims-hates-christianity"
     },
     {
       "title": "Congress races against 3-week deadline to tackle massive year-end legislative agenda",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-30T22:32:17.886Z"
+  "timestamp": "2025-11-30T22:47:58.909Z"
 }
