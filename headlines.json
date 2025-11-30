@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Congress races against 3-week deadline to tackle massive year-end legislative agenda",
+      "link": "https://www.foxnews.com/politics/congress-races-against-3-week-deadline-tackle-massive-year-end-legislative-agenda"
+    },
+    {
+      "title": "Trump needs to help bring peace to Sudan because of what it means to the US",
+      "link": "https://www.foxnews.com/opinion/trump-needs-help-bring-peace-sudan-because-what-means-us"
+    },
+    {
+      "title": "Kai Trump reveals how she deals with negative comments on social media: 'I know who I am'",
+      "link": "https://www.foxnews.com/sports/kai-trump-reveals-how-she-deals-negative-comments-social-media-i-know-who-i-am"
+    },
+    {
       "title": "Conservative Gettysburg College group catches student on video tearing down promotional flyers",
       "link": "https://www.foxnews.com/us/conservative-gettysburg-college-group-catches-student-video-tearing-down-promotional-flyers"
     },
@@ -66,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-11-30T15:11:30.545Z"
+  "timestamp": "2025-11-30T15:29:43.175Z"
 }
