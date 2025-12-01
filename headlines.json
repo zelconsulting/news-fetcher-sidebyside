@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "New TSA policy to charge passengers nearly $50 if they don't have acceptable ID",
+      "link": "https://www.foxnews.com/travel/new-tsa-policy-charge-passengers-nearly-50-dont-have-acceptable-id"
+    },
+    {
+      "title": "Trump admin vows to move quickly on Comey case despite setbacks: What to know",
+      "link": "https://www.foxnews.com/politics/trump-admin-vows-move-quickly-comey-case-setbacks-what-know"
+    },
+    {
+      "title": "Retired general hails Trump's 'holistic' crackdown on Venezuelan drug trafficking as showdown escalates",
+      "link": "https://www.foxnews.com/media/retired-general-hails-trumps-holistic-crackdown-venezuelan-drug-trafficking-showdown-escalates"
+    },
+    {
+      "title": "Venezuela White House meeting kicks off Trump’s high-stakes week as Cabinet huddle looms",
+      "link": "https://www.foxnews.com/politics/venezuela-white-house-meeting-kicks-off-trumps-high-stakes-week-cabinet-huddle-looms"
+    },
+    {
+      "title": "GOP senator moves to end dual citizenship, says Americans must choose",
+      "link": "https://www.foxnews.com/politics/gop-senator-moves-end-dual-citizenship-says-americans-must-choose"
+    },
+    {
       "title": "Trump declares importance of not derailing 'Syria's evolution into a prosperous State'",
       "link": "https://www.foxnews.com/world/trump-declares-importance-not-derailing-syrias-evolution-prosperous-state"
     },
@@ -23,22 +43,6 @@
     {
       "title": "Freedom Caucus joins progressives in rare bipartisan push targeting 'insane' federal laws",
       "link": "https://www.foxnews.com/politics/freedom-caucus-joins-progressives-rare-bipartisan-push-targeting-insane-federal-laws"
-    },
-    {
-      "title": "Trump mocks CBS reporter on Air Force One as he defends MRI results",
-      "link": "https://www.foxnews.com/media/president-trump-jabs-cbs-reporter-air-force-one-he-defends-mri-results"
-    },
-    {
-      "title": "Trump admin vows to move quickly on Comey case despite setbacks: What to know",
-      "link": "https://www.foxnews.com/politics/trump-admin-vows-move-quickly-comey-case-setbacks-what-know"
-    },
-    {
-      "title": "Venezuela White House meeting kicks off Trump’s high-stakes week as Cabinet huddle looms",
-      "link": "https://www.foxnews.com/politics/venezuela-white-house-meeting-kicks-off-trumps-high-stakes-week-cabinet-huddle-looms"
-    },
-    {
-      "title": "GOP senator moves to end dual citizenship, says Americans must choose",
-      "link": "https://www.foxnews.com/politics/gop-senator-moves-end-dual-citizenship-says-americans-must-choose"
     },
     {
       "title": "Trump hit with setback as court rules Alina Habba unlawfully served as top federal prosecutor in New Jersey",
@@ -75,12 +79,8 @@
     {
       "title": "Trump gave Maduro ultimatum to flee Venezuela as land operations loom: report",
       "link": "https://www.foxnews.com/politics/trump-gave-maduro-ultimatum-flee-venezuela-land-operations-loom-report"
-    },
-    {
-      "title": "Trump says 'don't read anything into it' when asked about declaring Venezuela's airspace closed",
-      "link": "https://www.foxnews.com/politics/trump-says-dont-read-anything-it-when-asked-about-declaring-venezuelas-airspace-closed"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-01T20:48:07.855Z"
+  "timestamp": "2025-12-01T21:11:12.681Z"
 }
