@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Madonna pens scathing post against Trump for 'unthinkable' decision to ignore World AIDS Day",
+      "link": "https://www.foxnews.com/media/madonna-pens-scathing-post-against-trump-unthinkable-decision-ignore-world-aids-day"
+    },
+    {
       "title": "Trump highlights comments by 'Obama sycophant' Eric Holder, continues pressing Senate GOP to nix filibuster",
       "link": "https://www.foxnews.com/politics/trump-highlights-comments-obama-sycophant-eric-holder-continues-pressing-senate-gop-nix-filibuster"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Patriots make it look too easy in win over lowly Giants",
       "link": "https://www.foxnews.com/sports/patriots-make-look-too-easy-win-over-lowly-giants"
-    },
-    {
-      "title": "Giants' Jaxson Dart takes huge hit from Patriots linebacker, sparking sideline skirmish",
-      "link": "https://www.foxnews.com/sports/giants-jaxson-dart-takes-huge-hit-from-patriots-linebacker-sparking-sideline-skirmish"
     },
     {
       "title": "Spec ops chief ordered deadly Caribbean strike ‘in self-defense’ with Hegseth’s sign-off, White House says",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-02T11:48:07.533Z"
+  "timestamp": "2025-12-02T12:28:21.767Z"
 }
