@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "DOJ sues six states for refusing to turn over voter registration rolls, warns ‘open defiance’ of federal law",
+      "link": "https://www.foxnews.com/politics/doj-sues-six-states-refusing-turn-over-voter-registration-rolls-warns-open-defiance-federal-law"
+    },
+    {
+      "title": "Trump-backed Republican keeps crucial congressional seat in GOP hands with special election victory",
+      "link": "https://www.foxnews.com/politics/republicans-keep-crucial-congressional-seat-gop-hands-special-election-victory"
+    },
+    {
       "title": "Patel blasts Biden's 'emblematic failure' after Afghan national charged in guard shooting",
       "link": "https://www.foxnews.com/media/patel-blasts-bidens-emblematic-failure-after-afghan-national-charged-in-guard-shooting"
     },
@@ -29,16 +37,8 @@
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-state-department-yanks-visas-from-mexican-executives"
     },
     {
-      "title": "Maduro begs OPEC for help as Trump ramps up the pressure, expert weighs in",
-      "link": "https://www.foxnews.com/world/maduro-begs-opec-help-trump-ramps-pressure-expert-weighs"
-    },
-    {
       "title": "Trump rips Somali community as federal agents reportedly eye Minnesota enforcement sweep",
       "link": "https://www.foxnews.com/politics/trump-rips-somali-community-as-federal-agents-reportedly-eye-minnesota-enforcement-sweep"
-    },
-    {
-      "title": "Trump-backed Republican keeps crucial congressional seat in GOP hands with special election victory",
-      "link": "https://www.foxnews.com/politics/republicans-keep-crucial-congressional-seat-gop-hands-special-election-victory"
     },
     {
       "title": "Trump lays out where he stands with Elon Musk after 'big beautiful bill' blowup",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-03T02:53:22.445Z"
+  "timestamp": "2025-12-03T03:46:59.772Z"
 }
