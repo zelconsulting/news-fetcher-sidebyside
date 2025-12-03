@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: GOP win shows Tennessee hasn’t been California’d, at least not yet",
+      "link": "https://www.foxnews.com/opinion/david-marcus-gop-win-shows-tennessee-hasnt-been-californiad-least-not-yet"
+    },
+    {
+      "title": "Trump admin debuts 'Fentanyl Free America' plan as DEA touts impact of Caribbean boat strikes",
+      "link": "https://www.foxnews.com/politics/trump-admin-debuts-fentanyl-free-america-plan-dea-touts-impact-caribbean-boat-strikes"
+    },
+    {
       "title": "Bipartisan deal on Obamacare subsidies fades as Republicans push HSA plan",
       "link": "https://www.foxnews.com/politics/bipartisan-deal-obamacare-subsidies-fades-republicans-push-hsa-plan"
     },
@@ -17,7 +25,7 @@
       "link": "https://www.foxnews.com/politics/trump-admin-pauses-immigration-from-19-countries"
     },
     {
-      "title": "MIKE DAVIS: Why SCOTUS must reinstate Trump US Attorneys Alina Haba and Lindsey Halligan",
+      "title": "MIKE DAVIS: Why SCOTUS must reinstate Trump US Attorneys Alina Habba and Lindsey Halligan",
       "link": "https://www.foxnews.com/opinion/mike-davis-why-scotus-must-reinstate-trump-us-attorneys-alina-haba-lindsey-halligan"
     },
     {
@@ -31,18 +39,6 @@
     {
       "title": "Trump admin's energy agenda hailed for crucial 'wins' as green activists lash out",
       "link": "https://www.foxnews.com/politics/trump-admins-energy-agenda-hailed-for-crucial-wins-green-activists-lash-out"
-    },
-    {
-      "title": "Republicans win highly contested battle for vacant GOP-held House seat and more top headlines",
-      "link": "https://www.foxnews.com/us/republicans-win-highly-contested-battle-for-vacant-gop-held-house-seat-more-top-headlines"
-    },
-    {
-      "title": "Tongue cancer warning signs highlighted after 'Full House' star's diagnosis",
-      "link": "https://www.foxnews.com/health/tongue-cancer-warning-signs-highlighted-after-full-house-stars-diagnosis"
-    },
-    {
-      "title": "Trump admin debuts 'Fentanyl Free America' plan as DEA touts impact of Caribbean boat strikes",
-      "link": "https://www.foxnews.com/politics/trump-admin-debuts-fentanyl-free-america-plan-dea-touts-impact-caribbean-boat-strikes"
     },
     {
       "title": "The Hitchhiker’s Guide to special election results for Tennessee's 7th Congressional District",
@@ -79,8 +75,12 @@
     {
       "title": "GOP fractures over Hegseth's 'double-tap' Caribbean strike as Congress probes legality",
       "link": "https://www.foxnews.com/politics/gop-fractures-over-hegseths-double-tap-caribbean-strike-congress-probes-legality"
+    },
+    {
+      "title": "Taxpayers on the hook for lawn care, fixing hinges at presidential libraries; Trump-led reforms aim to stop it",
+      "link": "https://www.foxnews.com/politics/taxpayers-hook-lawn-care-fixing-hinges-presidential-libraries-trump-led-reforms-aim-stop"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-03T14:55:49.754Z"
+  "timestamp": "2025-12-03T15:16:19.161Z"
 }
