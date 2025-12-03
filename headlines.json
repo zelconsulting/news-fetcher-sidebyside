@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Bipartisan deal on Obamacare subsidies fades as Republicans push HSA plan",
+      "link": "https://www.foxnews.com/politics/bipartisan-deal-obamacare-subsidies-fades-republicans-push-hsa-plan"
+    },
+    {
+      "title": "Conservatives intervene in Wisconsin’s mid-decade redistricting push as House majority hangs in the balance",
+      "link": "https://www.foxnews.com/politics/conservatives-intervene-wisconsins-mid-decade-redistricting-push-house-majority-hangs-balance"
+    },
+    {
+      "title": "White House launches 'Media Bias Offender Tip Line,' calls on Americans to 'hold the fake news accountable'",
+      "link": "https://www.foxnews.com/media/white-house-launches-media-bias-tip-line-calls-everyday-americans-hold-fake-news-accountable"
+    },
+    {
       "title": "Trump admin pauses immigration from 19 countries",
       "link": "https://www.foxnews.com/politics/trump-admin-pauses-immigration-from-19-countries"
     },
@@ -29,16 +41,8 @@
       "link": "https://www.foxnews.com/health/tongue-cancer-warning-signs-highlighted-after-full-house-stars-diagnosis"
     },
     {
-      "title": "Israeli mother appeals to Trump administration and mediators to bring home final two Gaza hostages",
-      "link": "https://www.foxnews.com/opinion/israeli-mother-appeals-trump-administration-mediators-bring-home-final-two-gaza-hostages"
-    },
-    {
-      "title": "Republican Minnesota senator calls judge 'true extremist' after $7.2M taxpayer-fraud conviction overturned",
-      "link": "https://www.foxnews.com/us/republican-minnesota-senator-calls-judge-true-extremist-after-7-2m-taxpayer-fraud-conviction-overturned"
-    },
-    {
-      "title": "Conservatives intervene in Wisconsin’s mid-decade redistricting push as House majority hangs in the balance",
-      "link": "https://www.foxnews.com/politics/conservatives-intervene-wisconsins-mid-decade-redistricting-push-house-majority-hangs-balance"
+      "title": "Trump admin debuts 'Fentanyl Free America' plan as DEA touts impact of Caribbean boat strikes",
+      "link": "https://www.foxnews.com/politics/trump-admin-debuts-fentanyl-free-america-plan-dea-touts-impact-caribbean-boat-strikes"
     },
     {
       "title": "The Hitchhiker’s Guide to special election results for Tennessee's 7th Congressional District",
@@ -75,12 +79,8 @@
     {
       "title": "GOP fractures over Hegseth's 'double-tap' Caribbean strike as Congress probes legality",
       "link": "https://www.foxnews.com/politics/gop-fractures-over-hegseths-double-tap-caribbean-strike-congress-probes-legality"
-    },
-    {
-      "title": "Taxpayers on the hook for lawn care, fixing hinges at presidential libraries; Trump-led reforms aim to stop it",
-      "link": "https://www.foxnews.com/politics/taxpayers-hook-lawn-care-fixing-hinges-presidential-libraries-trump-led-reforms-aim-stop"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-03T14:14:48.473Z"
+  "timestamp": "2025-12-03T14:41:44.204Z"
 }
