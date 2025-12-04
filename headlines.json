@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "GOP rep rips Big Ten commish after SCORE Act vote gets delayed",
+      "link": "https://www.foxnews.com/sports/gop-rep-rips-big-ten-commish-after-score-act-vote-gets-delayed"
+    },
+    {
+      "title": "House GOP launches blitz of bills to shut down CCP infiltration of US schools: 'Commonsense'",
+      "link": "https://www.foxnews.com/politics/house-gop-launches-blitz-of-bills-to-shut-down-ccp-infiltration-of-u-s-schools-commonsense"
+    },
+    {
       "title": "Virginia Democratic senator says uniformed military 'may help save us' from Trump",
       "link": "https://www.foxnews.com/media/virginia-democratic-senator-says-uniformed-military-may-help-save-us-from-trump"
     },
@@ -23,14 +31,6 @@
     {
       "title": "As Trump’s standoff with Maduro deepens, experts warn the next move may force a showdown",
       "link": "https://www.foxnews.com/politics/trumps-standoff-maduro-deepens-experts-warn-next-move-may-force-showdown"
-    },
-    {
-      "title": "Virginia twins arrested for allegedly plotting to destroy government databases",
-      "link": "https://www.foxnews.com/us/virginia-twins-arrested-allegedly-plotting-destroy-government-databases"
-    },
-    {
-      "title": "House GOP launches blitz of bills to shut down CCP infiltration of US schools: 'Commonsense'",
-      "link": "https://www.foxnews.com/politics/house-gop-launches-blitz-of-bills-to-shut-down-ccp-infiltration-of-u-s-schools-commonsense"
     },
     {
       "title": "US Institute of Peace officially renamed for Trump as White House moves to dismantle agency: 'Congratulations'",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-04T14:54:53.864Z"
+  "timestamp": "2025-12-04T15:15:34.912Z"
 }
