@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump-backed Van Epps sworn in as GOP hits 220 seats — but incoming Greene exit threatens razor-thin majority",
+      "link": "https://www.foxnews.com/politics/defending-majority-trump-backed-van-epps-sworn-220th-house-republican"
+    },
+    {
+      "title": "2021 Afghan remarks haunt GOP lawmaker's Senate bid after DC Guard shooting",
+      "link": "https://www.foxnews.com/politics/2021-afghan-remarks-haunt-gop-lawmakers-senate-bid-after-dc-guard-shooting"
+    },
+    {
       "title": "California GOP rep makes re-election decision after considering running in Texas: source",
       "link": "https://www.foxnews.com/politics/california-gop-rep-makes-re-election-decision-after-considering-running-texas-source"
     },
@@ -45,14 +53,6 @@
       "link": "https://www.foxnews.com/politics/watch-dem-lawmaker-thanks-trump-pardon-says-came-surprise-amid-re-election-bid"
     },
     {
-      "title": "Charlamagne defends airline policy saying particularly obese passengers must buy 2nd seat",
-      "link": "https://www.foxnews.com/media/charlamagne-defends-airline-policy-saying-particularly-obese-passengers-must-buy-2nd-seat"
-    },
-    {
-      "title": "2021 Afghan remarks haunt GOP lawmaker's Senate bid after DC Guard shooting",
-      "link": "https://www.foxnews.com/politics/2021-afghan-remarks-haunt-gop-lawmakers-senate-bid-after-dc-guard-shooting"
-    },
-    {
       "title": "House GOP launches blitz of bills to shut down CCP infiltration of US schools: 'Commonsense'",
       "link": "https://www.foxnews.com/politics/house-gop-launches-blitz-of-bills-to-shut-down-ccp-infiltration-of-u-s-schools-commonsense"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-04T17:16:30.657Z"
+  "timestamp": "2025-12-04T17:43:48.809Z"
 }
