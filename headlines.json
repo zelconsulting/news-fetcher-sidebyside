@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump taps new architect to reshape White House as $300M ballroom build accelerates",
+      "link": "https://www.foxnews.com/politics/trump-taps-new-architect-reshape-white-house-300m-ballroom"
+    },
+    {
+      "title": "Tom Homan fumes at protester who called him racist during clash at TPUSA event: 'Grow a backbone'",
+      "link": "https://www.foxnews.com/politics/tom-homan-fumes-protester-who-called-him-racist-during-clash-tpusa-event-grow-backbone"
+    },
+    {
       "title": "Arkansas county jail becomes major ICE pipeline as arrests surge under Trump crackdown",
       "link": "https://www.foxnews.com/us/arkansas-county-jail-becomes-major-ice-pipeline-arrests-surge-trump-crackdown"
     },
@@ -11,14 +19,6 @@
     {
       "title": "SCOTUS allows Texas to use Trump-pushed redrawn congressional redistricting map favoring Republicans",
       "link": "https://www.foxnews.com/politics/scotus-allows-texas-use-trump-pushed-redrawn-congressional-redistricting-map-favoring-republicans"
-    },
-    {
-      "title": "Trump taps new architect to reshape White House as $300M ballroom build accelerates",
-      "link": "https://www.foxnews.com/politics/trump-taps-new-architect-reshape-white-house-300m-ballroom"
-    },
-    {
-      "title": "Tom Homan fumes at protester who called him racist during clash at TPUSA event: 'Grow a backbone'",
-      "link": "https://www.foxnews.com/politics/tom-homan-fumes-protester-who-called-him-racist-during-clash-tpusa-event-grow-backbone"
     },
     {
       "title": "Largest public-sector unions spent eye-popping amount on left-wing politics — 86% funded by member dues",
@@ -58,5 +58,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-05T09:34:59.608Z"
+  "timestamp": "2025-12-05T09:50:01.718Z"
 }
