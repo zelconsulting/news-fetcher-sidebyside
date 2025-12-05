@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "REP BRIAN MAST: Congress has the perfect way to honor our nation’s fallen heroes",
+      "link": "https://www.foxnews.com/opinion/rep-brian-mast-congress-has-perfect-way-honor-our-nations-fallen-heroes"
+    },
+    {
+      "title": "Republican populism craters as Trump stumbles, Democrats surge",
+      "link": "https://www.foxnews.com/opinion/republican-populism-craters-trump-stumbles-democrats-surge"
+    },
+    {
       "title": "Trump taps new architect to reshape White House as $300M ballroom build accelerates",
       "link": "https://www.foxnews.com/politics/trump-taps-new-architect-reshape-white-house-300m-ballroom"
     },
@@ -58,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-05T10:14:34.307Z"
+  "timestamp": "2025-12-05T10:39:04.391Z"
 }
