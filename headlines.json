@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Congress melts down: Members unleash personal attacks after weeks of shutdown drama",
+      "link": "https://www.foxnews.com/politics/congress-melts-down-members-unleash-personal-attacks-after-weeks-shutdown-drama"
+    },
+    {
+      "title": "Abortion restrictions create major roadblock for bipartisan Obamacare subsidy deal in Senate",
+      "link": "https://www.foxnews.com/politics/abortion-restrictions-create-major-roadblock-bipartisan-obamacare-subsidy-deal-senate"
+    },
+    {
+      "title": "Trump rewrites national security playbook as mass migration overtakes terrorism as top US threat",
+      "link": "https://www.foxnews.com/politics/trump-rewrites-national-security-playbook-mass-migration-overtakes-terrorism-top-us-threat"
+    },
+    {
       "title": "SCOTUS to review Trump executive order on birthright citizenship",
       "link": "https://www.foxnews.com/politics/scotus-review-trump-executive-order-birthright-citizenship"
     },
@@ -21,6 +33,10 @@
       "link": "https://www.foxnews.com/politics/red-state-moves-forward-trump-backed-push-new-congressional-map"
     },
     {
+      "title": "Louisiana AG urges NOPD to cooperate fully with federal immigration authorities",
+      "link": "https://www.foxnews.com/politics/louisiana-ag-urges-nopd-cooperate-fully-federal-immigration-authorities"
+    },
+    {
       "title": "Climate study warning of $38 trillion-a-year hit to economy yanked for faulty data",
       "link": "https://www.foxnews.com/politics/climate-study-warning-38-trillion-a-year-hit-economy-yanked-faulty-data"
     },
@@ -33,28 +49,8 @@
       "link": "https://www.foxnews.com/politics/senate-republicans-demand-vetting-overhaul-after-shooting-national-guard-members"
     },
     {
-      "title": "Jen Psaki mocks Trump, GOP over 'affordability' message during Colbert appearance",
-      "link": "https://www.foxnews.com/media/jen-psaki-mocks-trump-gop-over-affordability-message-during-colbert-appearance"
-    },
-    {
       "title": "GOP unveils plan for 'Trump Health Freedom Accounts' to replace Obamacare subsidies with state waivers",
       "link": "https://www.foxnews.com/politics/gop-unveils-plan-trump-health-freedom-accounts-replace-obamacare-subsidies-state-waivers"
-    },
-    {
-      "title": "Trump awarded first-ever FIFA Peace Prize at World Cup final draw",
-      "link": "https://www.foxnews.com/sports/trump-awarded-first-ever-fifa-peace-price-world-cup-final-draw"
-    },
-    {
-      "title": "Congress melts down: Members unleash personal attacks after weeks of shutdown drama",
-      "link": "https://www.foxnews.com/politics/congress-melts-down-members-unleash-personal-attacks-after-weeks-shutdown-drama"
-    },
-    {
-      "title": "Abortion restrictions create major roadblock for bipartisan Obamacare subsidy deal in Senate",
-      "link": "https://www.foxnews.com/politics/abortion-restrictions-create-major-roadblock-bipartisan-obamacare-subsidy-deal-senate"
-    },
-    {
-      "title": "Trump rewrites national security playbook as mass migration overtakes terrorism as top US threat",
-      "link": "https://www.foxnews.com/politics/trump-rewrites-national-security-playbook-mass-migration-overtakes-terrorism-top-us-threat"
     },
     {
       "title": "Lone Republican candidate finds his edge as a dozen Democrats clash in race to replace Mikie Sherrill",
@@ -79,8 +75,12 @@
     {
       "title": "Walz 'has been an absolute failure' in combating fraud, says GOP gubernatorial challenger Robbins",
       "link": "https://www.foxnews.com/politics/walz-has-been-absolute-failure-combating-fraud-gop-gubernatorial-challenger-robbins-argues"
+    },
+    {
+      "title": "Trump national security blueprint declares ‘era of mass migration is over,' targets China’s rise",
+      "link": "https://www.foxnews.com/politics/trump-national-security-blueprint-declares-era-mass-migration-over-targets-chinas-rise"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-05T21:29:51.153Z"
+  "timestamp": "2025-12-05T21:41:21.572Z"
 }
