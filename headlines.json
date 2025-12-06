@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Jane Fonda says Warner Bros. Discovery sale 'threatens' the First Amendment, warns Trump will take advantage",
+      "link": "https://www.foxnews.com/media/jane-fonda-says-warner-bros-discovery-sale-threatens-first-amendment-warns-trump-take-advantage"
+    },
+    {
+      "title": "Trump touts 2026 World Cup draw success, claims massive viewership",
+      "link": "https://www.foxnews.com/sports/trump-touts-2026-world-cup-draw-success-claims-massive-viewership"
+    },
+    {
       "title": "Inside ‘Little Mogadishu’: Minnesota’s beleaguered Somali community under a cloud of fraud and Trump attacks",
       "link": "https://www.foxnews.com/us/inside-little-mogadishu-minnesotas-somali-community-its-push-belonging"
     },
@@ -23,10 +31,6 @@
     {
       "title": "Taylor Swift's elaborate fairytale wedding plans take shape at prestigious Ocean House resort: report",
       "link": "https://www.foxnews.com/entertainment/taylor-swifts-elaborate-fairytale-wedding-plans-take-shape-prestigious-ocean-house-resort-report"
-    },
-    {
-      "title": "Trump’s long-running feud with New York Times escalates with new insults, lawsuits",
-      "link": "https://www.foxnews.com/media/trumps-long-running-feud-new-york-times-escalates-new-insults-lawsuits"
     },
     {
       "title": "Walz ‘derelict leadership’ to blame in $1B fraud scandal with 'haunting reminds of Watergate': GOP challenger",
@@ -75,12 +79,8 @@
     {
       "title": "Melania Trump gives uplifting message about Santa to young kids at hospital",
       "link": "https://www.foxnews.com/politics/melania-trump-gives-uplifting-message-about-santa-young-kids-hospital"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Capitol Hill revolt threatens Trump’s Venezuela playbook",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-capitol-hill-revolt-threatens-trumps-venezuela-playbook"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-06T17:38:59.549Z"
+  "timestamp": "2025-12-06T17:47:40.241Z"
 }
