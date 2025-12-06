@@ -1,11 +1,15 @@
 {
   "fox": [
     {
-      "title": "Wild scene as protesters trap federal agents in taco shop parking lot, multiple arrests made",
+      "title": "Trump signs off on nationwide vaccine schedule review as CDC withdraws infant hep B guidance: 'Fast track'",
+      "link": "https://www.foxnews.com/politics/trump-signs-off-nationwide-vaccine-schedule-review-cdc-withdraws-infant-hep-b-guidance"
+    },
+    {
+      "title": "Wild scene as protesters trap federal agents in taco shop parking lot; multiple arrests made",
       "link": "https://www.foxnews.com/us/wild-scene-protesters-trap-federal-agents-taco-shop-parking-lot-multiple-arrests-made"
     },
     {
-      "title": "Rep Marjorie Taylor Greene to appear on '60 Minutes' ahead of exit from Congress",
+      "title": "Rep. Marjorie Taylor Greene to appear on '60 Minutes' ahead of exit from Congress",
       "link": "https://www.foxnews.com/media/rep-marjorie-taylor-greene-appear-60-minutes-ahead-exit-from-congress"
     },
     {
@@ -35,10 +39,6 @@
     {
       "title": "Louisiana AG urges NOPD to cooperate fully with federal immigration authorities",
       "link": "https://www.foxnews.com/politics/louisiana-ag-urges-nopd-cooperate-fully-federal-immigration-authorities"
-    },
-    {
-      "title": "DeSantis warns GOP faces 'issue' keeping Trump voters engaged in future elections",
-      "link": "https://www.foxnews.com/media/desantis-warns-gop-faces-issue-keeping-trump-voters-engaged-future-elections"
     },
     {
       "title": "Congress melts down: Members unleash personal attacks after weeks of shutdown drama",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-06T00:58:54.703Z"
+  "timestamp": "2025-12-06T02:39:54.418Z"
 }
