@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump goes to bat for Roger Clemens' Hall of Fame candidacy ahead of committee vote",
+      "link": "https://www.foxnews.com/sports/trump-goes-bat-roger-clemens-hall-fame-candidacy-ahead-committee-vote"
+    },
+    {
       "title": "Indiana gets top billing in College Football Playoff as Miami sneaks into field",
       "link": "https://www.foxnews.com/sports/indiana-gets-top-billing-college-football-playoff-miami-sneaks-field"
     },
@@ -11,10 +15,6 @@
     {
       "title": "Josh Shapiro urges Philly schools to ‘take very seriously’ antisemitism as Congress opens investigation",
       "link": "https://www.foxnews.com/world/josh-shapiro-urges-philly-schools-take-very-seriously-antisemitism-congress-opens-investigation"
-    },
-    {
-      "title": "Trump takes swipe at Jimmy Kimmel's talent while honoring Kennedy Center recipients in Oval Office",
-      "link": "https://www.foxnews.com/media/trump-takes-swipe-jimmy-kimmels-talent-while-honoring-kennedy-center-recipients-oval-office"
     },
     {
       "title": "Congress faces holiday crunch as health care fix collides with shrinking calendar",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-07T21:25:56.985Z"
+  "timestamp": "2025-12-07T21:34:52.347Z"
 }
