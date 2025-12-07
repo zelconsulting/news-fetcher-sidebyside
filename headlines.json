@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Congress faces holiday crunch as health care fix collides with shrinking calendar",
+      "link": "https://www.foxnews.com/politics/congress-faces-holiday-crunch-health-care-fix-collides-shrinking-calendar"
+    },
+    {
+      "title": "Republicans divided over whether to salvage Obamacare — or replace it — ahead of subsidy deadline",
+      "link": "https://www.foxnews.com/politics/republicans-remain-deeply-divided-whether-replace-reform-obamacare-policies-ahead-subsidy-deadline"
+    },
+    {
       "title": "Kelsey Grammer calls Trump 'one of the greatest presidents we've ever had' at Kennedy Center Honors",
       "link": "https://www.foxnews.com/entertainment/kelsey-grammer-calls-trump-one-greatest-presidents-weve-ever-had-kennedy-center-honors"
     },
@@ -27,18 +35,6 @@
     {
       "title": "Rosie O'Donnell's Trump obsession continues unabated from Ireland as friends beg her to 'disconnect'",
       "link": "https://www.foxnews.com/entertainment/rosie-odonnells-trump-obsession-continues-unabated-from-ireland-friends-beg-her-disconnect"
-    },
-    {
-      "title": "Faculty cite political climate driving student migration to SEC schools from Northeast",
-      "link": "https://www.foxnews.com/media/faculty-cite-political-climate-driving-student-migration-sec-schools-from-northeast"
-    },
-    {
-      "title": "Dolphins coach dismisses weather narrative ahead of game against division rival",
-      "link": "https://www.foxnews.com/sports/dolphins-coach-dismisses-weather-narrative-ahead-game-against-division-rival"
-    },
-    {
-      "title": "Republicans divided over whether to salvage Obamacare — or replace it — ahead of subsidy deadline",
-      "link": "https://www.foxnews.com/politics/republicans-remain-deeply-divided-whether-replace-reform-obamacare-policies-ahead-subsidy-deadline"
     },
     {
       "title": "Hegseth to highlight rebuilding the 'arsenal of freedom' in speech at Reagan National Defense Forum",
@@ -79,8 +75,12 @@
     {
       "title": "Tim Walz slams Trump for calling Minnesota’s Somali community 'garbage': 'Unprecedented'",
       "link": "https://www.foxnews.com/politics/tim-walz-slams-trump-calling-minnesotas-somali-community-garbage-unprecedented"
+    },
+    {
+      "title": "FAA investigates airlines for potential flight cut compliance violations during government shutdown",
+      "link": "https://www.foxnews.com/politics/faa-investigates-airlines-potential-flight-cut-compliance-violations-during-government-shutdown"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-07T11:24:45.016Z"
+  "timestamp": "2025-12-07T11:33:53.226Z"
 }
