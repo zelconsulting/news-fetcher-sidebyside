@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump takes swipe at Jimmy Kimmel's talent while honoring Kennedy Center recipients in Oval Office",
+      "link": "https://www.foxnews.com/media/trump-takes-swipe-jimmy-kimmels-talent-while-honoring-kennedy-center-recipients-oval-office"
+    },
+    {
       "title": "Trump’s Kennedy Center Honors overhaul delivers star-studded lineup, new medallion and historic hosting role",
       "link": "https://www.foxnews.com/entertainment/trumps-kennedy-center-honors-overhaul-delivers-star-studded-lineup-new-medallion-historic-hosting-role"
     },
@@ -13,20 +17,8 @@
       "link": "https://www.foxnews.com/politics/republicans-remain-deeply-divided-whether-replace-reform-obamacare-policies-ahead-subsidy-deadline"
     },
     {
-      "title": "Kelsey Grammer calls Trump 'one of the greatest presidents we've ever had' at Kennedy Center Honors",
-      "link": "https://www.foxnews.com/entertainment/kelsey-grammer-calls-trump-one-greatest-presidents-weve-ever-had-kennedy-center-honors"
-    },
-    {
       "title": "EXCLUSIVE: Trump-led Kennedy Center nearly doubles fundraising from Biden era, smashing record with $23M haul",
       "link": "https://www.foxnews.com/politics/exclusive-trump-led-kennedy-center-nearly-doubles-fundraising-from-biden-era-smashing-record-23m-haul"
-    },
-    {
-      "title": "Julia Roberts and Sean Penn weigh in on cancel culture, says shame is 'underrated' these days",
-      "link": "https://www.foxnews.com/entertainment/julia-roberts-sean-penn-weigh-cancel-culture-says-shame-underrated-days"
-    },
-    {
-      "title": "Trump backs Clemens’ Hall of Fame bid, rejecting banned-substance allegations tied to MLB’s steroid era",
-      "link": "https://www.foxnews.com/sports/trump-backs-clemens-hall-fame-bid-rejecting-banned-substance-allegations-tied-mlbs-steroid-era"
     },
     {
       "title": "Hegseth hints at major defense spending hike, reveals new details on Trump’s anti-narco-terrorism operations",
@@ -82,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-07T15:47:31.402Z"
+  "timestamp": "2025-12-07T16:13:49.154Z"
 }
