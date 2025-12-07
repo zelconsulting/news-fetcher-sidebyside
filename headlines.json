@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Police in Italy stop pro-Palestinian protesters from disrupting Olympic torch relay",
+      "link": "https://www.foxnews.com/sports/police-italy-stop-pro-palestine-protesters-attempting-disrupt-olympic-torch-relay"
+    },
+    {
+      "title": "Hegseth hints major defense spending increase, reveals new details on Trump’s anti-narcoterrorism operations",
+      "link": "https://www.foxnews.com/politics/placeholder-hegseth-makes-big-announcement-reagan-forum-california"
+    },
+    {
       "title": "Rosie O'Donnell's Trump obsession continues unabated from Ireland as friends beg her to 'disconnect'",
       "link": "https://www.foxnews.com/entertainment/rosie-odonnells-trump-obsession-continues-unabated-from-ireland-friends-beg-her-disconnect"
     },
@@ -29,16 +37,8 @@
       "link": "https://www.foxnews.com/media/charlie-kirks-final-book-told-conservatives-stop-being-smug-lazy"
     },
     {
-      "title": "Murdaugh family housekeeper says white truck ‘haunts’ her from night of murders years later",
-      "link": "https://www.foxnews.com/us/murdaugh-family-housekeeper-says-white-truck-haunts-her-from-night-murders-years-after"
-    },
-    {
       "title": "Hegseth to highlight rebuilding the 'arsenal of freedom' in speech at Reagan National Defense Forum",
       "link": "https://www.foxnews.com/politics/hegseth-highlight-rebuilding-arsenal-freedom-speech-reagan-national-defense-forum"
-    },
-    {
-      "title": "Hegseth hints major defense spending increase, reveals new details on Trump’s anti-narcoterrorism operations",
-      "link": "https://www.foxnews.com/politics/placeholder-hegseth-makes-big-announcement-reagan-forum-california"
     },
     {
       "title": "Walz' ‘derelict leadership’ to blame in fraud scandal with 'haunting reminders of Watergate': GOP challenger",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-06T23:47:46.213Z"
+  "timestamp": "2025-12-07T01:07:39.217Z"
 }
