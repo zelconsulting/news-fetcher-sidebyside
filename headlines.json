@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Congress unveils $900B defense bill targeting China with tech bans, investment crackdown, US troop pay raise",
+      "link": "https://www.foxnews.com/politics/congress-unveils-900b-defense-bill-targeting-china-tech-bans-investment-crackdown"
+    },
+    {
       "title": "Trump adds his birthday as free national park day while axing MLK Day and Juneteenth",
       "link": "https://www.foxnews.com/politics/trump-adds-his-birthday-free-national-park-day-while-axing-mlk-day-juneteenth"
     },
@@ -9,8 +13,8 @@
       "link": "https://www.foxnews.com/sports/bills-rally-21-points-4th-quarter-defeat-bengals-snowy-buffalo"
     },
     {
-      "title": "Sylvester Stallone, George Strait lead Trump's Kennedy Center Honors red carpet",
-      "link": "https://www.foxnews.com/entertainment/sylvester-stallone-george-strait-lead-trumps-kennedy-center-honors-red-carpet"
+      "title": "Trump admits he didn't really prepare to host Kennedy Center Honors as he works star-studded red carpet",
+      "link": "https://www.foxnews.com/entertainment/trump-admits-he-didnt-really-prepare-host-kennedy-center-honors-he-works-star-studded-red-carpet"
     },
     {
       "title": "Romance rumors swirl around Jaxson Dart as model appears at Giants' game vs Patriots",
@@ -27,14 +31,6 @@
     {
       "title": "White House reignites Sabrina Carpenter feud with arresting PSA",
       "link": "https://www.foxnews.com/entertainment/white-house-reignites-sabrina-carpenter-feud-arresting-psa"
-    },
-    {
-      "title": "Trump goes to bat for Roger Clemens' Hall of Fame candidacy ahead of committee vote",
-      "link": "https://www.foxnews.com/sports/trump-goes-bat-roger-clemens-hall-fame-candidacy-ahead-committee-vote"
-    },
-    {
-      "title": "Congress unveils $900B defense bill targeting China with tech bans, investment crackdown, US troop pay raise",
-      "link": "https://www.foxnews.com/politics/congress-unveils-900b-defense-bill-targeting-china-tech-bans-investment-crackdown"
     },
     {
       "title": "Democrats escalate war-crime accusations as White House calls ‘innocent fisherman’ the new ‘Maryland Man’ hoax",
@@ -79,8 +75,12 @@
     {
       "title": "Fresh Trump-linked case puts Boasberg back in GOP crosshairs",
       "link": "https://www.foxnews.com/politics/fresh-trump-linked-case-puts-boasberg-back-gop-crosshairs"
+    },
+    {
+      "title": "State-level AI rules survive — for now — as Senate sinks moratorium despite White House pressure",
+      "link": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-08T01:02:13.239Z"
+  "timestamp": "2025-12-08T02:57:11.371Z"
 }
