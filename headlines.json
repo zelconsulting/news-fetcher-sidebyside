@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "King Charles and Queen Camilla share Christmas card after year of family health battles and scandal",
+      "link": "https://www.foxnews.com/entertainment/king-charles-queen-camilla-share-christmas-card-after-year-family-health-battles"
+    },
+    {
       "title": "Congress unveils $900B defense bill targeting China with tech bans, investment crackdown, US troop pay raise",
       "link": "https://www.foxnews.com/politics/congress-unveils-900b-defense-bill-targeting-china-tech-bans-investment-crackdown"
     },
@@ -27,10 +31,6 @@
     {
       "title": "In Texas cattle country, one rancher welcomes Trump’s focus on decades of thin margins",
       "link": "https://www.foxnews.com/politics/texas-cattle-country-one-rancher-welcomes-trumps-focus-decades-thin-margins"
-    },
-    {
-      "title": "White House reignites Sabrina Carpenter feud with arresting PSA",
-      "link": "https://www.foxnews.com/entertainment/white-house-reignites-sabrina-carpenter-feud-arresting-psa"
     },
     {
       "title": "Democrats escalate war-crime accusations as White House calls ‘innocent fisherman’ the new ‘Maryland Man’ hoax",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-08T03:53:46.125Z"
+  "timestamp": "2025-12-08T04:27:20.736Z"
 }
