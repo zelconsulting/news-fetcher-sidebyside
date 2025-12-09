@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Dem-appointed education officials face new scrutiny as fraud scandal widens",
+      "link": "https://www.foxnews.com/politics/dem-appointed-education-officials-face-new-scrutiny-as-fraud-scandal-widens"
+    },
+    {
       "title": "Oregon teens who protested trans athlete at medal podium settle free speech lawsuit vs sports league",
       "link": "https://www.foxnews.com/sports/oregon-teens-who-protested-trans-athlete-medal-podium-settle-free-speech-lawsuit-vs-sports-league"
     },
@@ -37,14 +41,6 @@
       "link": "https://www.foxnews.com/politics/key-voting-bloc-boosts-obamacare-highest-approval-ever-congress-battles-over-soaring-costs-poll"
     },
     {
-      "title": "Trump calls out Politico as 'extremely unfriendly' when pressed on aggressive action against Venezuela",
-      "link": "https://www.foxnews.com/media/trump-calls-out-politico-extremely-unfriendly-when-pressed-aggressive-action-against-venezuela"
-    },
-    {
-      "title": "Vermont school district flies Somali flag amid massive fraud investigation in divisive move: GOP chair",
-      "link": "https://www.foxnews.com/us/vermont-school-district-flies-somali-flag-amid-massive-fraud-investigation-divisive-move-gop-chair"
-    },
-    {
       "title": "GOP senator pitches 'Black Friday' Obamacare fix that bridges Democrat, Republican demands",
       "link": "https://www.foxnews.com/politics/gop-senator-pitches-black-friday-obamacare-fix-bridges-democrat-republican-demands"
     },
@@ -78,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-09T22:13:39.953Z"
+  "timestamp": "2025-12-09T22:32:33.764Z"
 }
