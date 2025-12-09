@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Jasmine Crockett uses Trump's 'Low IQ' insults to launch her Texas Senate campaign in debut ad",
+      "link": "https://www.foxnews.com/politics/jasmine-crockett-uses-trumps-low-iq-insults-launch-her-texas-senate-campaign-debut-ad"
+    },
+    {
+      "title": "Trump cabinet members do pull-ups at airport to launch $1B family travel program nationwide",
+      "link": "https://www.foxnews.com/politics/trump-cabinet-members-do-pull-ups-airport-launch-1b-family-travel-program-nationwide"
+    },
+    {
       "title": "Trump threatens 5% tariff on Mexico over water treaty violations affecting Texas farmers",
       "link": "https://www.foxnews.com/politics/trump-threatens-5-tariff-mexico-over-water-treaty-violations-affecting-texas-farmers"
     },
@@ -19,14 +27,6 @@
     {
       "title": "DOJ promises 'a lot more action' on gun rights with new Second Amendment enforcement section",
       "link": "https://www.foxnews.com/politics/doj-promises-a-lot-more-action-gun-rights-new-second-amendment-enforcement-section"
-    },
-    {
-      "title": "Jasmine Crockett uses Trump's 'Low IQ' insults to launch her Texas Senate campaign in debut ad",
-      "link": "https://www.foxnews.com/politics/jasmine-crockett-uses-trumps-low-iq-insults-launch-her-texas-senate-campaign-debut-ad"
-    },
-    {
-      "title": "Trump cabinet members do pull-ups at airport to launch $1B family travel program nationwide",
-      "link": "https://www.foxnews.com/politics/trump-cabinet-members-do-pull-ups-airport-launch-1b-family-travel-program-nationwide"
     },
     {
       "title": "Alaska hits back at insurers accused of using ‘woke’ underwriting to reshape energy policy as ANWR reopens",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-09T03:46:53.201Z"
+  "timestamp": "2025-12-09T04:21:58.329Z"
 }
