@@ -1,11 +1,55 @@
 {
   "fox": [
     {
+      "title": "Senate Dems' Obamacare fix fails as Senate looks for off-ramp from healthcare cliff",
+      "link": "https://www.foxnews.com/politics/senate-dems-obamacare-fix-fails-senate-looks-off-ramp-from-healthcare-cliff"
+    },
+    {
+      "title": "Quiet GOP 'Astroturf' campaign convinced liberal firebrand to run for US Senate, source says",
+      "link": "https://www.foxnews.com/politics/quiet-gop-astroturf-campaign-convinced-liberal-firebrand-run-us-senate-source-says"
+    },
+    {
+      "title": "Pulitzer Prize Board says it won't be 'cowed' by Trump in ongoing defamation legal fight over Russiagate prize",
+      "link": "https://www.foxnews.com/media/pulitzer-prize-board-says-wont-cowed-trump-ongoing-defamation-legal-fight"
+    },
+    {
+      "title": "Mike Lindell launches Minnesota governor bid with vow to target Walz over ‘rampant fraud’ as scandal widens",
+      "link": "https://www.foxnews.com/politics/mike-lindell-launches-minnesota-governor-bid-vow-target-walz-over-rampant-fraud-scandal-widens"
+    },
+    {
+      "title": "Trump presses Thune to 'get something done' on stalled nominees",
+      "link": "https://www.foxnews.com/politics/trump-presses-thune-get-something-done-stalled-nominees"
+    },
+    {
+      "title": "Senate Dems block Republicans' HSA plan as Obamacare deadline nears",
+      "link": "https://www.foxnews.com/politics/senate-dems-block-republicans-hsa-plan-obamacare-deadline-nears"
+    },
+    {
+      "title": "Louisiana intensifies immigration crackdown as border chief warns far-left rhetoric endangers agents",
+      "link": "https://www.foxnews.com/media/louisiana-intensifies-immigration-crackdown-border-chief-warns-far-left-rhetoric-endangers-agents"
+    },
+    {
+      "title": "Dem rep opens House hearing by telling Noem to resign in fiery statement",
+      "link": "https://www.foxnews.com/politics/dem-rep-opens-house-hearing-telling-noem-resign-fiery-statement"
+    },
+    {
+      "title": "Republican rift puts spotlight on high-stakes showdown over Trump-driven red state redistricting",
+      "link": "https://www.foxnews.com/politics/republican-rift-puts-spotlight-high-stakes-showdown-over-trump-championed-redistricting-red-state"
+    },
+    {
+      "title": "Chaos erupts at Noem hearing as anti-ICE protesters interrupt testimony: 'The power of Christ compels you!'",
+      "link": "https://www.foxnews.com/politics/chaos-erupts-noem-hearing-anti-ice-protesters-interrupt-testimony-the-power-christ-compels-you"
+    },
+    {
       "title": "Washington Post praises Bondi for rolling back woke racial element at DOJ, slams ‘bogus’ criticism of move",
       "link": "https://www.foxnews.com/media/washington-post-praises-bondi-rolling-back-woke-racial-element-doj-slams-bogus-criticism-move"
     },
     {
-      "title": "Minnesota’s fraud scandal was ‘shockingly easy’ to pull off, is likely worse than reported: Ex prosecutor",
+      "title": "Senator warns of 'powder keg' as people condone behavior of anti-ICE protesters",
+      "link": "https://www.foxnews.com/politics/senator-warns-powder-keg-people-condone-behavior-anti-ice-protesters"
+    },
+    {
+      "title": "Minnesota’s fraud scandal was ‘shockingly easy’ to pull off, is likely worse than reported: ex prosecutor",
       "link": "https://www.foxnews.com/politics/minnesotas-fraud-scandal-was-shockingly-easy-to-pull-off-is-likely-worse-than-reported-ex-prosecutor"
     },
     {
@@ -29,50 +73,6 @@
       "link": "https://www.foxnews.com/politics/trump-declares-support-cabinet-official-after-report-he-considering-replacement"
     },
     {
-      "title": "Time Magazine puts AI leaders on 'person of the year' cover",
-      "link": "https://www.foxnews.com/media/time-magazine-puts-ai-leaders-person-year-cover"
-    },
-    {
-      "title": "Senator warns of 'powder keg' as people condone behavior of anti-ICE protesters",
-      "link": "https://www.foxnews.com/politics/senator-warns-powder-keg-people-condone-behavior-anti-ice-protesters"
-    },
-    {
-      "title": "Senate Dems' Obamacare fix fails as Senate looks for off-ramp from healthcare cliff",
-      "link": "https://www.foxnews.com/politics/senate-dems-obamacare-fix-fails-senate-looks-off-ramp-from-healthcare-cliff"
-    },
-    {
-      "title": "Quiet GOP 'Astroturf' campaign convinced liberal firebrand to run for US Senate, source says",
-      "link": "https://www.foxnews.com/politics/quiet-gop-astroturf-campaign-convinced-liberal-firebrand-run-us-senate-source-says"
-    },
-    {
-      "title": "Mike Lindell launches Minnesota governor bid with vow to target Walz over ‘rampant fraud’ as scandal widens",
-      "link": "https://www.foxnews.com/politics/mike-lindell-launches-minnesota-governor-bid-vow-target-walz-over-rampant-fraud-scandal-widens"
-    },
-    {
-      "title": "Trump presses Thune to 'get something done' on stalled nominees",
-      "link": "https://www.foxnews.com/politics/trump-presses-thune-get-something-done-stalled-nominees"
-    },
-    {
-      "title": "Senate Dems block Republicans' HSA plan as Obamacare deadline nears",
-      "link": "https://www.foxnews.com/politics/senate-dems-block-republicans-hsa-plan-obamacare-deadline-nears"
-    },
-    {
-      "title": "Dem rep opens House hearing by telling Noem to resign in fiery statement",
-      "link": "https://www.foxnews.com/politics/dem-rep-opens-house-hearing-telling-noem-resign-fiery-statement"
-    },
-    {
-      "title": "Republican rift puts spotlight on high-stakes showdown over Trump-driven red state redistricting",
-      "link": "https://www.foxnews.com/politics/republican-rift-puts-spotlight-high-stakes-showdown-over-trump-championed-redistricting-red-state"
-    },
-    {
-      "title": "Chaos erupts at Noem hearing as anti-ICE protesters interrupt testimony: 'The power of Christ compels you!'",
-      "link": "https://www.foxnews.com/politics/chaos-erupts-noem-hearing-anti-ice-protesters-interrupt-testimony-the-power-christ-compels-you"
-    },
-    {
-      "title": "Minnesota’s fraud scandal was ‘shockingly easy’ to pull off, is likely worse than reported: ex prosecutor",
-      "link": "https://www.foxnews.com/politics/minnesotas-fraud-scandal-was-shockingly-easy-to-pull-off-is-likely-worse-than-reported-ex-prosecutor"
-    },
-    {
       "title": "House Dem to force Trump impeachment vote on 2 articles",
       "link": "https://www.foxnews.com/politics/house-dem-force-trump-impeachment-vote-2-articles"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-11T18:18:45.476Z"
+  "timestamp": "2025-12-11T18:52:26.166Z"
 }
