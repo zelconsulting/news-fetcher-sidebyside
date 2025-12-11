@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "House Dem to force Trump impeachment vote on 2 articles",
+      "link": "https://www.foxnews.com/politics/house-dem-force-trump-impeachment-vote-2-articles"
+    },
+    {
+      "title": "GOP accuses Democrats of manufacturing affordability crisis as Obamacare subsidy fight nears deadline",
+      "link": "https://www.foxnews.com/politics/gop-accuses-democrats-manufacturing-affordability-crisis-obamacare-subsidy-fight-nears-deadline"
+    },
+    {
+      "title": "Newsom trolls White House with AI video depicting Trump, Hegseth and Miller in handcuffs",
+      "link": "https://www.foxnews.com/politics/newsom-trolls-white-house-ai-video-depicting-trump-hegseth-miller-handcuffs"
+    },
+    {
       "title": "Former UK PM defends Trump for highlighting 'Sharia law' in Britain during UN speech",
       "link": "https://www.foxnews.com/politics/former-uk-pm-defends-trump-highlighting-sharia-law-britain-during-un-speech"
     },
@@ -13,7 +25,11 @@
       "link": "https://www.foxnews.com/opinion/president-trump-right-get-tough-maduro-what-comes-next-critical"
     },
     {
-      "title": "Democrats target ‘vulnerable’ Republican senators ahead of high-stakes health care showdown",
+      "title": "Dem strategists say Texas requires centrists — but their new Senate frontrunner is anything but",
+      "link": "https://www.foxnews.com/politics/dem-strategists-say-texas-requires-centrists-new-senate-frontrunner-anything"
+    },
+    {
+      "title": "Democrats target ‘vulnerable’ Republican senators ahead of high-stakes healthcare showdown",
       "link": "https://www.foxnews.com/politics/democrats-target-vulnerable-republican-senators-ahead-high-stakes-health-care-showdown"
     },
     {
@@ -25,8 +41,8 @@
       "link": "https://www.foxnews.com/politics/environmental-group-sues-trump-replacing-national-park-pass-photo-his-own-image"
     },
     {
-      "title": "Former Michigan football coach Sherrone Moore's scandal sparks social media reactions",
-      "link": "https://www.foxnews.com/sports/former-michigan-football-coach-sherrone-moores-scandal-sparks-social-media-reactions"
+      "title": "Trump declares support for Cabinet official after report he is considering replacement",
+      "link": "https://www.foxnews.com/politics/trump-declares-support-cabinet-official-after-report-he-considering-replacement"
     },
     {
       "title": "Trump rips Indiana GOP leader over redistricting fight, warns Republicans could face ‘MAGA primary’",
@@ -45,42 +61,14 @@
       "link": "https://www.foxnews.com/politics/speaker-johnson-laughs-off-jasmine-crockett-senate-bid-absolutely-delighted-she-running"
     },
     {
-      "title": "Newsom trolls White House with AI video depicting Trump, Hegseth and Miller in handcuffs",
-      "link": "https://www.foxnews.com/politics/newsom-trolls-white-house-ai-video-depicting-trump-hegseth-miller-handcuffs"
-    },
-    {
-      "title": "Dem strategists say Texas requires centrists — but their new Senate frontrunner is anything but",
-      "link": "https://www.foxnews.com/politics/dem-strategists-say-texas-requires-centrists-new-senate-frontrunner-anything"
-    },
-    {
-      "title": "Democrats target ‘vulnerable’ Republican senators ahead of high-stakes healthcare showdown",
-      "link": "https://www.foxnews.com/politics/democrats-target-vulnerable-republican-senators-ahead-high-stakes-health-care-showdown"
-    },
-    {
       "title": "Walz urges Noem to 'reassess' immigration enforcement strategy in Minnesota after alleged citizen arrests",
       "link": "https://www.foxnews.com/politics/walz-urges-noem-reassess-immigration-enforcement-strategy-minnesota-alleged-citizen-arrests"
     },
     {
       "title": "Trump repeatedly bumped by bathroom door during hilarious AF1 gaggle: 'Come on out!'",
       "link": "https://www.foxnews.com/politics/trump-repeatedly-bumped-bathroom-door-during-hilarious-af1-gaggle-come-out"
-    },
-    {
-      "title": "13 Republicans defy GOP leadership, vote with Dems to advance repeal of Trump order on federal unions",
-      "link": "https://www.foxnews.com/politics/13-republicans-defy-gop-leadership-vote-dems-advance-repeal-trump-order-federal-unions"
-    },
-    {
-      "title": "Trump warns Colombian President Gustavo Petro he will ‘be next’ amid drug trafficking rift",
-      "link": "https://www.foxnews.com/politics/trump-warns-colombias-president-gustavo-petro-he-will-next-drug-trafficking-rift"
-    },
-    {
-      "title": "House passes $901B military defense bill after Republican revolt collapses",
-      "link": "https://www.foxnews.com/politics/house-passes-901b-military-defense-bill-after-republican-revolt-collapses"
-    },
-    {
-      "title": "Moderate Republicans stage Obamacare rebellion as health cost frustrations erupt in House",
-      "link": "https://www.foxnews.com/politics/moderate-republicans-stage-obamacare-rebellion-health-cost-frustrations-erupt-house"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-11T12:28:58.883Z"
+  "timestamp": "2025-12-11T13:21:05.849Z"
 }
