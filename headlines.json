@@ -1,8 +1,40 @@
 {
   "fox": [
     {
+      "title": "The Hitchhiker's Guide to Thursday's big Senate votes on healthcare",
+      "link": "https://www.foxnews.com/politics/hitchhikers-guide-thursdays-big-senate-votes-healthcare"
+    },
+    {
+      "title": "Trump's Ukraine deadline sparks rift on Capitol Hill amid stalled peace talks",
+      "link": "https://www.foxnews.com/politics/trumps-ukraine-deadline-sparks-rift-capitol-hill-amid-stalled-peace-talks"
+    },
+    {
+      "title": "Trump declares support for Cabinet official after report he is considering replacement",
+      "link": "https://www.foxnews.com/politics/trump-declares-support-cabinet-official-after-report-he-considering-replacement"
+    },
+    {
+      "title": "Time Magazine puts AI leaders on 'person of the year' cover",
+      "link": "https://www.foxnews.com/media/time-magazine-puts-ai-leaders-person-year-cover"
+    },
+    {
+      "title": "North Carolina lawmaker accuses school officials of violating parental rights bill in fiery hearing",
+      "link": "https://www.foxnews.com/media/north-carolina-lawmaker-accuses-school-officials-violating-parental-rights-bill-fiery-hearing"
+    },
+    {
+      "title": "Democratic Rep Hank Johnson agrees that America under Trump's leadership is the 'Great Satan'",
+      "link": "https://www.foxnews.com/media/democratic-rep-hank-johnson-agreed-america-under-trumps-leadership-great-satan"
+    },
+    {
       "title": "House Dem to force Trump impeachment vote on 2 articles",
       "link": "https://www.foxnews.com/politics/house-dem-force-trump-impeachment-vote-2-articles"
+    },
+    {
+      "title": "Trump admin drops hammer on ‘ghost students,’ claws back $1B from alleged loan scammers",
+      "link": "https://www.foxnews.com/politics/trump-admin-drops-hammer-ghost-students-claws-back-1b-from-alleged-loan-scammers"
+    },
+    {
+      "title": "Trump torches Biden’s press record — opens floodgates of media access in first year back",
+      "link": "https://www.foxnews.com/politics/trump-torches-bidens-shut-out-press-record-opens-floodgates-media-access-first-year-back"
     },
     {
       "title": "GOP accuses Democrats of manufacturing affordability crisis as Obamacare subsidy fight nears deadline",
@@ -21,10 +53,6 @@
       "link": "https://www.foxnews.com/politics/dueling-obamacare-plans-set-fail-deadline-nears-pushing-senate-toward-bipartisan-talks"
     },
     {
-      "title": "President Trump is right to get tough on Maduro. What comes next is critical",
-      "link": "https://www.foxnews.com/opinion/president-trump-right-get-tough-maduro-what-comes-next-critical"
-    },
-    {
       "title": "Dem strategists say Texas requires centrists — but their new Senate frontrunner is anything but",
       "link": "https://www.foxnews.com/politics/dem-strategists-say-texas-requires-centrists-new-senate-frontrunner-anything"
     },
@@ -33,20 +61,8 @@
       "link": "https://www.foxnews.com/politics/democrats-target-vulnerable-republican-senators-ahead-high-stakes-health-care-showdown"
     },
     {
-      "title": "MORNING GLORY: A President Donald Trump-branded energy drink?",
-      "link": "https://www.foxnews.com/opinion/morning-glory-president-donald-trump-branded-energy-drink"
-    },
-    {
       "title": "Environmental group sues Trump for replacing national park pass photo with his own image",
       "link": "https://www.foxnews.com/politics/environmental-group-sues-trump-replacing-national-park-pass-photo-his-own-image"
-    },
-    {
-      "title": "Trump's Ukraine deadline sparks rift on Capitol Hill amid stalled peace talks",
-      "link": "https://www.foxnews.com/politics/trumps-ukraine-deadline-sparks-rift-capitol-hill-amid-stalled-peace-talks"
-    },
-    {
-      "title": "Trump declares support for Cabinet official after report he is considering replacement",
-      "link": "https://www.foxnews.com/politics/trump-declares-support-cabinet-official-after-report-he-considering-replacement"
     },
     {
       "title": "Trump rips Indiana GOP leader over redistricting fight, warns Republicans could face ‘MAGA primary’",
@@ -63,12 +79,8 @@
     {
       "title": "Speaker Johnson laughs off Jasmine Crockett Senate bid: ‘Absolutely delighted’ she is running",
       "link": "https://www.foxnews.com/politics/speaker-johnson-laughs-off-jasmine-crockett-senate-bid-absolutely-delighted-she-running"
-    },
-    {
-      "title": "Walz urges Noem to 'reassess' immigration enforcement strategy in Minnesota after alleged citizen arrests",
-      "link": "https://www.foxnews.com/politics/walz-urges-noem-reassess-immigration-enforcement-strategy-minnesota-alleged-citizen-arrests"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-11T14:45:58.850Z"
+  "timestamp": "2025-12-11T15:15:41.610Z"
 }
