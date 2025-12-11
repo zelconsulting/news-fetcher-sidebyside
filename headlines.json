@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Environmental group sues Trump for replacing national park pass photo with his own image",
+      "link": "https://www.foxnews.com/politics/environmental-group-sues-trump-replacing-national-park-pass-photo-his-own-image"
+    },
+    {
       "title": "Former Michigan football coach Sherrone Moore's scandal sparks social media reactions",
       "link": "https://www.foxnews.com/sports/former-michigan-football-coach-sherrone-moores-scandal-sparks-social-media-reactions"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/13-republicans-defy-gop-leadership-vote-dems-advance-repeal-trump-order-federal-unions"
     },
     {
-      "title": "Environmental group sues Trump for replacing national park pass photo with his own image",
-      "link": "https://www.foxnews.com/politics/environmental-group-sues-trump-replacing-national-park-pass-photo-his-own-image"
-    },
-    {
       "title": "Trump warns Colombian President Gustavo Petro he will ‘be next’ amid drug trafficking rift",
       "link": "https://www.foxnews.com/politics/trump-warns-colombias-president-gustavo-petro-he-will-next-drug-trafficking-rift"
     },
@@ -75,12 +75,8 @@
     {
       "title": "Trump’s DHS locks in its own Boeing fleet as administration turbocharges deportation crackdown",
       "link": "https://www.foxnews.com/politics/trumps-dhs-locks-its-own-boeing-fleet-administration-turbocharges-deportation-crackdown"
-    },
-    {
-      "title": "Trump tells Mexico to fix cross-border sewage problem flowing into US communities 'IMMEDIATELY'",
-      "link": "https://www.foxnews.com/politics/trump-tells-mexico-fix-cross-border-sewage-problem-flowing-us-communities-immediately"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-11T08:49:52.329Z"
+  "timestamp": "2025-12-11T09:18:41.142Z"
 }
