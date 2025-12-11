@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Former Michigan football coach Sherrone Moore's scandal sparks social media reactions",
+      "link": "https://www.foxnews.com/sports/former-michigan-football-coach-sherrone-moores-scandal-sparks-social-media-reactions"
+    },
+    {
       "title": "Trump rips Indiana GOP leader over redistricting fight, warns Republicans could face ‘MAGA primary’",
       "link": "https://www.foxnews.com/politics/trump-rips-indiana-gop-leader-over-redistricting-fight-warns-republicans-could-face-maga-primary"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/media/trump-says-any-deal-buy-warner-bros-should-include-cnn"
     },
     {
-      "title": "Baldwin Wallace student government votes down Turning Point USA chapter after campus hostility",
-      "link": "https://www.foxnews.com/media/baldwin-wallace-student-government-votes-down-turning-point-usa-chapter-after-campus-hostility"
-    },
-    {
       "title": "Trump warns Colombian President Gustavo Petro he will ‘be next’ amid drug trafficking rift",
       "link": "https://www.foxnews.com/politics/trump-warns-colombias-president-gustavo-petro-he-will-next-drug-trafficking-rift"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-11T04:47:04.434Z"
+  "timestamp": "2025-12-11T05:16:25.709Z"
 }
