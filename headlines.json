@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Melania Trump's longtime makeup artist says she was canceled for working with first family",
+      "link": "https://www.foxnews.com/media/melania-trumps-longtime-makeup-artist-says-she-canceled-working-first-family"
+    },
+    {
+      "title": "White House slams House Dems releasing Epstein photos showing Trump, Clinton, Woody Allen",
+      "link": "https://www.foxnews.com/politics/white-house-slams-house-dems-releasing-epstein-photos-showing-trump-clinton-woody-allen"
+    },
+    {
+      "title": "Gas prices are falling — so why isn’t Trump refilling the oil reserve faster? WH blames Biden-era ‘damage’",
+      "link": "https://www.foxnews.com/politics/gas-prices-falling-so-why-isnt-trump-refilling-oil-reserve-faster-wh-blames-biden-era-damage"
+    },
+    {
       "title": "Bipartisan push grows in Senate to force release of unedited Caribbean strike footage",
       "link": "https://www.foxnews.com/politics/bipartisan-push-grows-senate-force-release-unedited-caribbean-strike-footage"
     },
@@ -21,12 +33,20 @@
       "link": "https://www.foxnews.com/politics/trumps-green-light-nvidia-sales-china-sparks-alarm-capitol-hill"
     },
     {
-      "title": "Trump team moves to block DOJ testimony in Boasberg contempt probe, raising stakes in court showdown",
+      "title": "Trump admin asks DC appeals court to block Boasberg contempt inquiry, DOJ testimony",
       "link": "https://www.foxnews.com/politics/trump-admin-fights-block-boasberg-contempt-probe-doj-testimony"
     },
     {
       "title": "Omar accused by GOP opponent of opening up the door to massive Minneapolis fraud: 'Deep, deep ties'",
       "link": "https://www.foxnews.com/politics/omar-accused-gop-opponent-opening-up-door-massive-minneapolis-fraud-deep-deep-ties"
+    },
+    {
+      "title": "Trump cuts family reunification programs for seven countries citing fraud and security concerns",
+      "link": "https://www.foxnews.com/politics/trump-cuts-family-reunification-programs-seven-countries-citing-fraud-security-concerns"
+    },
+    {
+      "title": "‘Rock star’ Newsom steals the show at DNC summit as Democrats hunt for 2028 contender to take on Trump",
+      "link": "https://www.foxnews.com/politics/rock-star-newsom-steals-show-dnc-summit-democrats-hunt-2028-contender-take-trump"
     },
     {
       "title": "'Must-see TV': Texas Senate candidate challenges Jasmine Crockett to public debate",
@@ -43,26 +63,6 @@
     {
       "title": "Senate mulls next steps after dueling Obamacare fixes go up in flames",
       "link": "https://www.foxnews.com/politics/senate-mulls-next-steps-after-dueling-obamacare-fixes-go-up-flames"
-    },
-    {
-      "title": "White House mocks CNN as ‘Chicken News Network’ after failing to schedule Stephen Miller",
-      "link": "https://www.foxnews.com/media/white-house-mocks-cnn-chicken-news-network-after-failing-schedule-stephen-miller"
-    },
-    {
-      "title": "‘Rock star’ Newsom steals the show at DNC summit as Democrats hunt for 2028 contender to take on Trump",
-      "link": "https://www.foxnews.com/politics/rock-star-newsom-steals-show-dnc-summit-democrats-hunt-2028-contender-take-trump"
-    },
-    {
-      "title": "White House slams House Dems releasing Epstein photos showing Trump, Clinton, Woody Allen",
-      "link": "https://www.foxnews.com/politics/white-house-slams-house-dems-releasing-epstein-photos-showing-trump-clinton-woody-allen"
-    },
-    {
-      "title": "Gas prices are falling — so why isn’t Trump refilling the oil reserve faster? WH blames Biden-era ‘damage’",
-      "link": "https://www.foxnews.com/politics/gas-prices-falling-so-why-isnt-trump-refilling-oil-reserve-faster-wh-blames-biden-era-damage"
-    },
-    {
-      "title": "Trump admin asks DC appeals court to block Boasberg contempt inquiry, DOJ testimony",
-      "link": "https://www.foxnews.com/politics/trump-admin-fights-block-boasberg-contempt-probe-doj-testimony"
     },
     {
       "title": "Latin Grammy winner and Texas Dem star recruit hits House campaign with years of porn-linked posts",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-12T20:35:58.684Z"
+  "timestamp": "2025-12-12T20:52:33.269Z"
 }
