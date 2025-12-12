@@ -1,7 +1,19 @@
 {
   "fox": [
     {
-      "title": "James Carville blasts Crockett for breaking 'first rule of politics' focusing on herself more than voters",
+      "title": "Newsom says Trump is one of the 'most destructive' president of his lifetime: 'This guy is reckless'",
+      "link": "https://www.foxnews.com/politics/newsom-says-trump-one-most-destructive-president-his-lifetime-this-guy-reckless"
+    },
+    {
+      "title": "Trump announces pardon for Colorado clerk: 'Simply wanted to make sure that our elections were fair'",
+      "link": "https://www.foxnews.com/politics/trump-announces-pardon-colorado-clerk-simply-wanted-make-sure-our-elections-were-fair"
+    },
+    {
+      "title": "Trump administration offers $5M reward for capture of fugitive Los Choneros gang leader",
+      "link": "https://www.foxnews.com/politics/trump-administration-offers-5m-reward-capture-fugitive-los-choneros-gang-leader"
+    },
+    {
+      "title": "James Carville blasts Crockett for breaking 'first rule of politics,' focusing on herself more than voters",
       "link": "https://www.foxnews.com/media/james-carville-blasts-crockett-breaking-first-rule-politics-focusing-herself-more-than-voters"
     },
     {
@@ -37,18 +49,6 @@
       "link": "https://www.foxnews.com/politics/kilmar-abrego-garcia-released-judge-rules-trump-admin-lacked-valid-removal-order"
     },
     {
-      "title": "Newsom says Trump is one of the 'most destructive' president of his lifetime: 'This guy is reckless'",
-      "link": "https://www.foxnews.com/politics/newsom-says-trump-one-most-destructive-president-his-lifetime-this-guy-reckless"
-    },
-    {
-      "title": "Trump announces pardon for Colorado clerk: 'Simply wanted to make sure that our elections were fair'",
-      "link": "https://www.foxnews.com/politics/trump-announces-pardon-colorado-clerk-simply-wanted-make-sure-our-elections-were-fair"
-    },
-    {
-      "title": "Trump administration offers $5M reward for capture of fugitive Los Choneros gang leader",
-      "link": "https://www.foxnews.com/politics/trump-administration-offers-5m-reward-capture-fugitive-los-choneros-gang-leader"
-    },
-    {
       "title": "20 Republicans vote with Dems to reverse Trump executive order on federal unions",
       "link": "https://www.foxnews.com/politics/republicans-vote-dems-reverse-trump-executive-order-federal-unions"
     },
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-12T02:58:54.566Z"
+  "timestamp": "2025-12-12T03:57:09.419Z"
 }
