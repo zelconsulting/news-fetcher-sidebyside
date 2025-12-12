@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "HUD launches civil rights investigation into Boston’s DEI housing policies over alleged racial discrimination",
+      "link": "https://www.foxnews.com/politics/hud-launches-civil-rights-investigation-bostons-dei-housing-policies-alleged-racial-discrimination"
+    },
+    {
       "title": "Newsom says Trump is one of the 'most destructive' president of his lifetime: 'This guy is reckless'",
       "link": "https://www.foxnews.com/politics/newsom-says-trump-one-most-destructive-president-his-lifetime-this-guy-reckless"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Trump plan sells 'Gold Card' visas for $1M; critics warn of pay-to-play that could be abused",
       "link": "https://www.foxnews.com/politics/trump-plan-sells-gold-card-visas-1m-critics-warn-pay-to-play-could-abused"
-    },
-    {
-      "title": "HUD launches civil rights investigation into Boston’s DEI housing policies over alleged racial discrimination",
-      "link": "https://www.foxnews.com/politics/hud-launches-civil-rights-investigation-bostons-dei-housing-policies-alleged-racial-discrimination"
     },
     {
       "title": "Ilhan Omar's ex appears on ‘dirty dandy’ social account as Trump revives married siblings claim",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-12T08:50:45.130Z"
+  "timestamp": "2025-12-12T09:17:52.681Z"
 }
