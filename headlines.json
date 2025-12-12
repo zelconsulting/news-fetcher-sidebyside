@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "Bipartisan push grows in Senate to force release of unedited Caribbean strike footage",
+      "link": "https://www.foxnews.com/politics/bipartisan-push-grows-senate-force-release-unedited-caribbean-strike-footage"
+    },
+    {
+      "title": "Waltz hails ‘night-and-day’ Middle East shift as Trump’s Gaza plan reshapes region",
+      "link": "https://www.foxnews.com/politics/waltz-hails-night-and-day-middle-east-shift-trumps-gaza-plan-reshapes-region"
+    },
+    {
+      "title": "MIKE DAVIS: Driving a stake through 2020 election lawfare",
+      "link": "https://www.foxnews.com/opinion/mike-davis-driving-stake-through-2020-election-lawfare"
+    },
+    {
+      "title": "Husted files for 2026 Senate race, launching aggressive statewide re-election push",
+      "link": "https://www.foxnews.com/politics/husted-files-2026-senate-race-launching-aggressive-statewide-re-election-push"
+    },
+    {
+      "title": "Trump's green light for Nvidia sales to China sparks alarm on Capitol Hill",
+      "link": "https://www.foxnews.com/politics/trumps-green-light-nvidia-sales-china-sparks-alarm-capitol-hill"
+    },
+    {
       "title": "Trump team moves to block DOJ testimony in Boasberg contempt probe, raising stakes in court showdown",
       "link": "https://www.foxnews.com/politics/trump-admin-fights-block-boasberg-contempt-probe-doj-testimony"
     },
@@ -29,28 +49,8 @@
       "link": "https://www.foxnews.com/media/white-house-mocks-cnn-chicken-news-network-after-failing-schedule-stephen-miller"
     },
     {
-      "title": "Venezuelan dissident Machado credits Trump for advancing freedom movement, dedicates Nobel to him",
-      "link": "https://www.foxnews.com/world/venezuelan-dissident-machado-credits-trump-advancing-freedom-movement-dedicates-nobel-him"
-    },
-    {
-      "title": "Jasmine Crockett says the Senate needs to impose 'ethical guidelines' on Supreme Court",
-      "link": "https://www.foxnews.com/media/jasmine-crockett-says-senate-needs-impose-ethical-guidelines-supreme-court"
-    },
-    {
       "title": "Latin Grammy winner and Texas Dem star recruit hits House campaign with years of porn-linked posts",
       "link": "https://www.foxnews.com/politics/latin-grammy-winner-texas-dem-star-recruit-hits-house-campaign-years-porn-linked-posts"
-    },
-    {
-      "title": "Trump to honor USA 'Miracle on Ice' team during Congressional Gold Medal Act signing",
-      "link": "https://www.foxnews.com/sports/trump-honor-usa-miracle-ice-team-during-congressional-gold-medal-act-signing"
-    },
-    {
-      "title": "Husted files for 2026 Senate race, launching aggressive statewide re-election push",
-      "link": "https://www.foxnews.com/politics/husted-files-2026-senate-race-launching-aggressive-statewide-re-election-push"
-    },
-    {
-      "title": "Trump's green light for Nvidia sales to China sparks alarm on Capitol Hill",
-      "link": "https://www.foxnews.com/politics/trumps-green-light-nvidia-sales-china-sparks-alarm-capitol-hill"
     },
     {
       "title": "Kilmar Abrego Garcia seen for first time since release, pledges to 'continue to fight' Trump admin",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-12T18:20:15.963Z"
+  "timestamp": "2025-12-12T18:51:36.986Z"
 }
