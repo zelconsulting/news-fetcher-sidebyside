@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Campus Radicals: Their childhoods disrupted by politics, courageous girls are fighting back",
+      "link": "https://www.foxnews.com/us/campus-radicals-their-childhoods-disrupted-by-politics-courageous-girls-are-fighting-back"
+    },
+    {
+      "title": "DHS official says church's Nativity scene depicts what 'never happens' in immigration enforcement",
+      "link": "https://www.foxnews.com/media/dhs-official-says-churchs-nativity-scene-depicts-what-never-happens-immigration-enforcement"
+    },
+    {
+      "title": "House Republicans unveil national memorial plan honoring Americans killed by illegal immigrants",
+      "link": "https://www.foxnews.com/politics/house-republicans-unveil-national-memorial-plan-honoring-americans-killed-illegal-immigrants"
+    },
+    {
       "title": "House Democrat pushes Senate to reverse Trump federal union order after GOP revolt by 20 Republicans",
       "link": "https://www.foxnews.com/politics/house-democrat-pushes-senate-reverse-trump-federal-union-order-after-gop-revolt-20-republicans"
     },
@@ -21,20 +33,12 @@
       "link": "https://www.foxnews.com/politics/progressive-powerhouses-launch-primary-war-against-democratic-establishment-ahead-2026-elections"
     },
     {
-      "title": "After Australia passes social media ban lawmakers probed on why Congress hasn't done more to protect kids",
+      "title": "After Australia passes social media ban, lawmakers probed on why Congress hasn't done more to protect kids",
       "link": "https://www.foxnews.com/politics/after-australia-passes-social-media-ban-lawmakers-probed-why-congress-hasnt-done-more-protect-kids"
     },
     {
       "title": "EXCLUSIVE: Inside Trump’s private schedule as media fixates on his health",
       "link": "https://www.foxnews.com/politics/exclusive-inside-trumps-private-schedule-media-fixates-his-health"
-    },
-    {
-      "title": "House Republicans unveil national memorial plan honoring Americans killed by illegal immigrants",
-      "link": "https://www.foxnews.com/politics/house-republicans-unveil-national-memorial-plan-honoring-americans-killed-illegal-immigrants"
-    },
-    {
-      "title": "After Australia passes social media ban, lawmakers probed on why Congress hasn't done more to protect kids",
-      "link": "https://www.foxnews.com/politics/after-australia-passes-social-media-ban-lawmakers-probed-why-congress-hasnt-done-more-protect-kids"
     },
     {
       "title": "Republican House leader signals plan to begin contempt proceedings against Bill and Hillary Clinton",
@@ -70,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-13T15:12:13.863Z"
+  "timestamp": "2025-12-13T15:30:21.923Z"
 }
