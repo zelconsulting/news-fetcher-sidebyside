@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "After Australia’s Hanukkah massacre, critics say appeasing extremists after Oct 7 fueled rising antisemitism",
+      "link": "https://www.foxnews.com/world/after-australias-hanukkah-massacre-critics-say-appeasing-extremists-after-oct-7-fueled-rising-antisemitism"
+    },
+    {
       "title": "Some NY Democrats say Mamdani made their jobs tougher as local Republicans make gains: report",
       "link": "https://www.foxnews.com/media/some-ny-democrats-say-mamdani-made-jobs-tougher-local-republicans-make-gains-report"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/media/biden-has-only-raised-small-fraction-what-he-needs-build-presidential-library-nyt-report"
     },
     {
-      "title": "Patriots 'heartbroken' as deadly shooting occurs at Brown University",
-      "link": "https://www.foxnews.com/sports/patriots-heartbroken-deadly-shooting-occurs-brown-university"
-    },
-    {
       "title": "Trump's election win filled Hamas with 'fear,' hostage held like 'slave' for 505 days recounts",
       "link": "https://www.foxnews.com/politics/trumps-election-win-filled-hamas-fear-hostage-held-like-slave-505-days-recounts"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-14T20:13:47.212Z"
+  "timestamp": "2025-12-14T20:33:53.405Z"
 }
