@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "FBI arrests 4 alleged members of radical pro-Palestinian group accused of plotting New Year’s Eve bombings",
+      "link": "https://www.foxnews.com/us/fbi-arrests-4-alleged-members-radical-pro-palestinian-group-accused-plotting-new-years-eve-bombings"
+    },
+    {
+      "title": "House Republicans allege DC police downgraded crime classifications to manipulate statistics",
+      "link": "https://www.foxnews.com/politics/house-republicans-allege-dc-police-downgraded-crime-classifications-manipulate-statistics"
+    },
+    {
+      "title": "Democrats press hard on Epstein files after years of sporadic interest under Biden",
+      "link": "https://www.foxnews.com/politics/democrats-press-hard-epstein-files-after-years-sporadic-interest-under-biden"
+    },
+    {
       "title": "Biden officials go silent when asked about Afghan refugee program after guardsmen shooting",
       "link": "https://www.foxnews.com/politics/biden-officials-go-silent-when-asked-about-afghan-refugee-program-after-guardsmen-shooting"
     },
@@ -23,18 +35,6 @@
     {
       "title": "Trump doctrine slams globalism and charts a tougher, tech-driven US future",
       "link": "https://www.foxnews.com/opinion/trump-doctrine-slams-globalism-charts-tougher-tech-driven-us-future"
-    },
-    {
-      "title": "Gen Z is struggling to survive — and Republicans can't afford to look away",
-      "link": "https://www.foxnews.com/opinion/gen-z-struggling-survive-and-republicans-cant-afford-look-away"
-    },
-    {
-      "title": "House Republicans allege DC police downgraded crime classifications to manipulate statistics",
-      "link": "https://www.foxnews.com/politics/house-republicans-allege-dc-police-downgraded-crime-classifications-manipulate-statistics"
-    },
-    {
-      "title": "Democrats press hard on Epstein files after years of sporadic interest under Biden",
-      "link": "https://www.foxnews.com/politics/democrats-press-hard-epstein-files-after-years-sporadic-interest-under-biden"
     },
     {
       "title": "Trump addresses trio of attacks in Syria, Brown University and Australia at White House Christmas event",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-15T14:50:45.104Z"
+  "timestamp": "2025-12-15T15:17:51.337Z"
 }
