@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump admin defends White House ballroom as national security matter",
+      "link": "https://www.foxnews.com/politics/trump-admin-defends-white-house-ballroom-national-security-matter"
+    },
+    {
+      "title": "House GOP tensions erupt as Republicans turn on each other heading into year's end",
+      "link": "https://www.foxnews.com/politics/house-gop-tensions-erupt-republicans-turn-each-other-heading-years-end"
+    },
+    {
       "title": "Pelosi suggests Trump has no 'reason' to be impeached third time if Democrats retake House",
       "link": "https://www.foxnews.com/media/pelosi-suggests-trump-has-no-reason-impeached-third-time-democrats-retake-house"
     },
@@ -17,16 +25,12 @@
       "link": "https://www.foxnews.com/opinion/how-trump-can-turn-tables-left-radical-tax-plan"
     },
     {
-      "title": "Jake Tapper suggests he covers Trump's age to make up for overlooking Biden",
-      "link": "https://www.foxnews.com/media/jake-tapper-suggests-he-covers-trumps-age-make-up-overlooking-biden"
+      "title": "GOP accuses Democrats of 'fabricating' Trump-Epstein link with selective document leaks, internal memo shows",
+      "link": "https://www.foxnews.com/politics/gop-accuses-democrats-fabricating-trump-epstein-link-selective-document-leaks-internal-memo-shows"
     },
     {
       "title": "Ilhan Omar lashes out at 'sick' Republicans for investigating her alleged marriage to brother",
       "link": "https://www.foxnews.com/politics/ilhan-omar-lashes-out-sick-republicans-investigating-marriage-her-brother"
-    },
-    {
-      "title": "House GOP tensions erupt as Republicans turn on each other heading into year's end",
-      "link": "https://www.foxnews.com/politics/house-gop-tensions-erupt-republicans-turn-each-other-heading-years-end"
     },
     {
       "title": "Ex-Trump DHS official sounds alarm over national security threat within critical US industry",
@@ -63,12 +67,8 @@
     {
       "title": "Second-highest-ranking House Democrat faces primary challenge from party's left flank",
       "link": "https://www.foxnews.com/politics/second-highest-ranking-house-democrat-faces-primary-challenge-from-partys-left-flank"
-    },
-    {
-      "title": "Trump admin launches ‘MerryChristmas.gov’ to roll out 12 days of federal gifts as Christmas comeback ramps up",
-      "link": "https://www.foxnews.com/politics/trump-admin-launches-merrychristmas-gov-roll-out-12-days-federal-gifts-christmas-comeback-ramps-up"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-16T13:49:56.501Z"
+  "timestamp": "2025-12-16T14:16:59.642Z"
 }
