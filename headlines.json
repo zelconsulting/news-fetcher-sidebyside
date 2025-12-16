@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "LIZ PEEK: Minnesota’s fraud scandal exposes Democrats’ indifference to the needy",
+      "link": "https://www.foxnews.com/opinion/liz-peek-minnesotas-fraud-scandal-exposes-democrats-indifference-needy"
+    },
+    {
+      "title": "‘Ghost ships’ ferrying illicit oil have sailed into Trump’s crosshairs",
+      "link": "https://www.foxnews.com/politics/ghost-ships-moving-illicit-oil-has-entered-trumps-crosshairs-escalating-quiet-war-sea"
+    },
+    {
+      "title": "How Trump can turn the tables on the left with a radical tax plan",
+      "link": "https://www.foxnews.com/opinion/how-trump-can-turn-tables-left-radical-tax-plan"
+    },
+    {
       "title": "Jake Tapper suggests he covers Trump's age to make up for overlooking Biden",
       "link": "https://www.foxnews.com/media/jake-tapper-suggests-he-covers-trumps-age-make-up-overlooking-biden"
     },
@@ -21,16 +33,8 @@
       "link": "https://www.foxnews.com/media/fox-news-channel-delivers-highest-rated-non-election-year-ever-rival-broadcast-networks"
     },
     {
-      "title": "Former 'SNL' star wants Democrats to jail ICE agents if they take back Congress after the midterm elections",
-      "link": "https://www.foxnews.com/media/former-snl-star-wants-democrats-jail-ice-agents-take-back-congress-after-midterm-elections"
-    },
-    {
       "title": "Ex-Trump DHS official sounds alarm over national security threat within critical US industry",
       "link": "https://www.foxnews.com/politics/ex-trump-dhs-official-sounds-alarm-over-national-security-threat-within-critical-us-industry"
-    },
-    {
-      "title": "‘Ghost ships’ ferrying illicit oil have sailed into Trump’s crosshairs",
-      "link": "https://www.foxnews.com/politics/ghost-ships-moving-illicit-oil-has-entered-trumps-crosshairs-escalating-quiet-war-sea"
     },
     {
       "title": "Senate advances $901B defense bill as Congress races into year-end legislative sprint",
@@ -70,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-16T10:47:02.251Z"
+  "timestamp": "2025-12-16T11:12:56.128Z"
 }
