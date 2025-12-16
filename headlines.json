@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump brushes off Wiles’ ‘alcoholic’s personality’ nick as allies torch Vanity Fair piece",
+      "link": "https://www.foxnews.com/politics/trump-brushes-off-wiles-alcoholics-personality-nick-allies-torch-vanity-fair-piece"
+    },
+    {
+      "title": "Trump allies reject CNN chyron in real time, say White House not 'reeling' from Susie Wiles interview",
+      "link": "https://www.foxnews.com/media/trump-allies-reject-cnn-chyron-real-time-say-white-house-not-reeling-from-susie-wiles-interview"
+    },
+    {
       "title": "Pelosi perceived as 'on the wrong side' over congressional stock trading as career nears end: NY Times",
       "link": "https://www.foxnews.com/media/pelosi-perceived-on-wrong-side-over-congressional-stock-trading-career-nears-end-ny-times"
     },
@@ -37,16 +45,8 @@
       "link": "https://www.foxnews.com/politics/trump-announces-primetime-address-nation"
     },
     {
-      "title": "WWE legend leaving company over its ties with Trump administration",
-      "link": "https://www.foxnews.com/sports/wwe-legend-leaving-company-over-its-ties-trump-administration"
-    },
-    {
       "title": "Trump Cabinet official calls on Walz to resign over massive fraud scandal in scathing letter: 'Shame on you'",
       "link": "https://www.foxnews.com/politics/trump-cabinet-official-calls-on-walz-to-resign-over-massive-fraud-scandal-in-scathing-letter-shame-on-you"
-    },
-    {
-      "title": "Trump executive order credited with helping FBI foil New Year's Eve bombing plot in California",
-      "link": "https://www.foxnews.com/media/trump-executive-order-credited-helping-fbi-foil-new-years-eve-bombing-plot-california"
     },
     {
       "title": "Donald Trump Jr announces engagement to Bettina Anderson",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-16T21:32:50.553Z"
+  "timestamp": "2025-12-16T21:49:13.830Z"
 }
