@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Mexico City lawmakers throw punches and yank hair in heated congress brawl over transparency institute",
+      "link": "https://www.foxnews.com/world/mexico-city-lawmakers-throw-punches-yank-hair-heated-congress-brawl-over-transparency-institute"
+    },
+    {
+      "title": "HHS probes Minnesota's use of billions in federal social service funds amid fraud concerns: report",
+      "link": "https://www.foxnews.com/politics/hhs-probes-minnesotas-use-billions-federal-social-service-funds-fraud-concerns-report"
+    },
+    {
       "title": "Trump support drove wedge between former Mets star teammates, says sports radio star Mike Francesa",
       "link": "https://www.foxnews.com/sports/trump-support-drove-wedge-between-former-mets-star-teammates-says-sports-radio-star-mike-francesa"
     },
@@ -41,16 +49,8 @@
       "link": "https://www.foxnews.com/politics/senate-republican-targeted-communist-china-50-billion-lawsuit"
     },
     {
-      "title": "Jim Harbaugh reveals reaching out to Sherrone Moore over text after Michigan scandal: 'It's a tragedy'",
-      "link": "https://www.foxnews.com/sports/jim-harbaugh-reveals-reaching-out-sherrone-moore-over-text-after-michigan-scandal-its-tragedy"
-    },
-    {
       "title": "201 House Dems vote against bill named after 20-year-old American killed by illegal immigrant teen",
       "link": "https://www.foxnews.com/politics/house-dems-vote-against-bill-named-after-20-year-old-american-killed-illegal-immigrant-teen"
-    },
-    {
-      "title": "HHS probes Minnesota's use of billions in federal social service funds amid fraud concerns: report",
-      "link": "https://www.foxnews.com/politics/hhs-probes-minnesotas-use-billions-federal-social-service-funds-fraud-concerns-report"
     },
     {
       "title": "Trump brushes off Wiles’ ‘alcoholic’s personality’ nick as allies torch Vanity Fair piece",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-17T02:50:14.138Z"
+  "timestamp": "2025-12-17T03:51:43.447Z"
 }
