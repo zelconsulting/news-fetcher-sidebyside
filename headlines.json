@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "FCC Chair Brendan Carr to face Senate grilling for first time since Jimmy Kimmel saga",
+      "link": "https://www.foxnews.com/media/fcc-chair-brendan-carr-face-senate-grilling-first-time-since-jimmy-kimmel-saga"
+    },
+    {
+      "title": "House Republican who voted to impeach Trump in 2021 won't seek re-election",
+      "link": "https://www.foxnews.com/politics/house-republican-who-voted-impeach-trump-2021-wont-seek-re-election"
+    },
+    {
       "title": "Trump stays on sidelines as GOP falters in push to unite on healthcare plan",
       "link": "https://www.foxnews.com/politics/trump-stays-sidelines-gop-falters-push-unite-healthcare-plan"
     },
@@ -23,14 +31,6 @@
     {
       "title": "Policy group praises Trump’s 100 global wins since taking office, from cartel crackdowns to peace deals",
       "link": "https://www.foxnews.com/world/policy-group-praises-trumps-100-global-wins-since-taking-office-from-cartel-crackdowns-peace-deals"
-    },
-    {
-      "title": "Vanity Fair's Susie Wiles profile fuels right-wing uproar towards White House for giving access to liberal mag",
-      "link": "https://www.foxnews.com/media/vanity-fairs-susie-wiles-profile-fuels-rightwing-uproar-towards-white-house-giving-access-liberal-mag"
-    },
-    {
-      "title": "House Republican who voted to impeach Trump in 2021 won't seek re-election",
-      "link": "https://www.foxnews.com/politics/house-republican-who-voted-impeach-trump-2021-wont-seek-re-election"
     },
     {
       "title": "Jack Smith to face House lawmakers in deposition over his Trump prosecutions",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-17T15:15:21.354Z"
+  "timestamp": "2025-12-17T15:44:30.448Z"
 }
