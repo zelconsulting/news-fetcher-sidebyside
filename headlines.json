@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Fox News Poll: Voters say go slow on AI development — but don’t know who should steer",
+      "link": "https://www.foxnews.com/politics/fox-news-poll-voters-say-go-slow-ai-dont-know-who-should-steer"
+    },
+    {
+      "title": "Fox News Poll: Voters sound alarm on healthcare costs",
+      "link": "https://www.foxnews.com/politics/fox-news-poll-voters-sound-alarm-healthcare-costs"
+    },
+    {
       "title": "Moderate Democrats push back as progressives move to oust Jeffries, Clark over Trump strategy",
       "link": "https://www.foxnews.com/politics/moderate-democrats-push-back-progressives-move-oust-jeffries-clark-over-trump-strategy"
     },
@@ -37,18 +45,6 @@
       "link": "https://www.foxnews.com/politics/mom-praises-house-passing-key-immigration-bill-bashes-crockett-dismissing-daughters-murder"
     },
     {
-      "title": "Alleged Tren de Aragua leader charged with racketeering conspiracy and cocaine trafficking in Trump crackdown",
-      "link": "https://www.foxnews.com/us/tren-de-aragua-gang-leader-charged-racketeering-conspiracy-cocaine-trafficking-under-trump-crackdown"
-    },
-    {
-      "title": "Coldplay kiss cam scandal woman admits ‘couple of High Noons’ fueled embarrassing, career-ending moment",
-      "link": "https://www.foxnews.com/entertainment/coldplay-kiss-cam-scandal-woman-admits-couple-high-noons-fueled-embarrassing-career-ending-moment"
-    },
-    {
-      "title": "Cheap Trick defends Trump-hosted Kennedy Center performance as a tribute to KISS",
-      "link": "https://www.foxnews.com/media/cheap-trick-defends-trump-hosted-kennedy-center-performance-tribute-kiss"
-    },
-    {
       "title": "House Dems drop Epstein images a day before Trump administration's release deadline",
       "link": "https://www.foxnews.com/politics/oversight-dems-drop-epstein-images-day-before-trump-admins-release"
     },
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-18T22:50:59.843Z"
+  "timestamp": "2025-12-18T23:13:38.035Z"
 }
