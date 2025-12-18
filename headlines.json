@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "House approves MTG-sponsored bill to criminalize gender transition treatment for minors",
+      "link": "https://www.foxnews.com/politics/house-approves-mtg-sponsored-bill-criminalize-gender-transition-treatment-minors"
+    },
+    {
       "title": "NY Gov. Hochul to sign bill to legalize physician-assisted suicide: 'Who am I to deny you?'",
       "link": "https://www.foxnews.com/politics/ny-gov-hochul-sign-bill-legalize-physician-assisted-suicide-who-am-i-deny-you"
     },
@@ -57,10 +61,6 @@
       "link": "https://www.foxnews.com/politics/speaker-johnson-ekes-out-healthcare-bill-victory-after-house-gop-obamacare-rebellion"
     },
     {
-      "title": "House approves MTG-sponsored bill to criminalize gender transition treatment for minors",
-      "link": "https://www.foxnews.com/politics/house-approves-mtg-sponsored-bill-criminalize-gender-transition-treatment-minors"
-    },
-    {
       "title": "Nearly two-thirds of American voters back social media ban for kids under 16, Fox News poll shows",
       "link": "https://www.foxnews.com/politics/nearly-two-thirds-american-voters-back-social-media-ban-kids-under-16-fox-news-poll-shows"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-18T06:53:21.492Z"
+  "timestamp": "2025-12-18T07:16:32.618Z"
 }
