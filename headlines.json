@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "2028 power move: Turning Point's Erika Kirk throws support behind JD Vance as MAGA ‘heir apparent’",
+      "link": "https://www.foxnews.com/politics/2028-power-move-turning-points-erika-kirk-throws-support-behind-jd-vance-maga-heir-apparent"
+    },
+    {
+      "title": "Democrats' last-minute move to block GOP funding plan sends lawmakers home early",
+      "link": "https://www.foxnews.com/politics/democrats-last-minute-move-block-gop-funding-plan-sends-lawmakers-home-early"
+    },
+    {
       "title": "Judge tosses Trump-linked lawsuit targeting Chief Justice Roberts, dealing setback to Trump allies",
       "link": "https://www.foxnews.com/politics/judge-tosses-trump-linked-lawsuit-targeting-chief-justice-roberts-dealing-setback-trump-allies"
     },
@@ -11,14 +19,6 @@
     {
       "title": "Deadly strike on US troops tests Trump’s counter-ISIS plan — and his trust in Syria’s new leader",
       "link": "https://www.foxnews.com/politics/deadly-strike-u-s-troops-tests-trumps-counter-isis-plan-his-trust-syrias-new-leader"
-    },
-    {
-      "title": "'Sex & the City' Republicans want into the conservative tent. Alex Clark has something to say about it",
-      "link": "https://www.foxnews.com/media/sex-city-republicans-want-conservative-tent-alex-clark-has-something-say-about"
-    },
-    {
-      "title": "Democrats' last-minute move to block GOP funding plan sends lawmakers home early",
-      "link": "https://www.foxnews.com/politics/democrats-last-minute-move-block-gop-funding-plan-sends-lawmakers-home-early"
     },
     {
       "title": "NC Senate showdown escalates as Trump rallies behind Whatley to keep GOP seat",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-19T15:36:27.371Z"
+  "timestamp": "2025-12-19T15:52:04.030Z"
 }
