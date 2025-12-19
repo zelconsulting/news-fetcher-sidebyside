@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Deadly strike on US troops tests Trump’s counter-ISIS plan — and his trust in Syria’s new leader",
+      "link": "https://www.foxnews.com/politics/deadly-strike-u-s-troops-tests-trumps-counter-isis-plan-his-trust-syrias-new-leader"
+    },
+    {
       "title": "'Sex & the City' Republicans want into the conservative tent. Alex Clark has something to say about it",
       "link": "https://www.foxnews.com/media/sex-city-republicans-want-conservative-tent-alex-clark-has-something-say-about"
     },
@@ -31,10 +35,6 @@
     {
       "title": "Trump quietly signs sweeping $901B defense bill after bipartisan Senate passage",
       "link": "https://www.foxnews.com/politics/trump-quietly-signs-sweeping-901b-defense-bill-bipartisan-senate-passage"
-    },
-    {
-      "title": "Deadly strike on US troops tests Trump’s counter-ISIS plan — and his trust in Syria’s new leader",
-      "link": "https://www.foxnews.com/politics/deadly-strike-u-s-troops-tests-trumps-counter-isis-plan-his-trust-syrias-new-leader"
     },
     {
       "title": "Trump gets 417 nominees confirmed by Senate in 2025, surpasses Biden's first-year total in record pace",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-19T12:26:16.739Z"
+  "timestamp": "2025-12-19T13:08:14.277Z"
 }
