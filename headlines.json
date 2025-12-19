@@ -1,8 +1,24 @@
 {
   "fox": [
     {
+      "title": "President Trump is taking important, strategic steps to protect American consumers",
+      "link": "https://www.foxnews.com/opinion/president-trump-taking-important-strategic-steps-protect-american-consumers"
+    },
+    {
       "title": "NC Senate showdown escalates as Trump rallies behind Whatley to keep GOP seat",
       "link": "https://www.foxnews.com/politics/nc-senate-showdown-escalates-trump-rallies-behind-whatley-keep-gop-seat"
+    },
+    {
+      "title": "MIKE POMPEO: The Islamic Republic is on the ropes. Time for Trump, Iranians to finish the job",
+      "link": "https://www.foxnews.com/opinion/mike-pompeo-islamic-republic-ropes-time-trump-iranians-finish-job"
+    },
+    {
+      "title": "Milwaukee County judge found guilty of obstructing federal immigration agents in courthouse incident",
+      "link": "https://www.foxnews.com/us/milwaukee-county-judge-found-guilty-obstructing-federal-immigration-agents-courthouse-incident"
+    },
+    {
+      "title": "Ben Shapiro denounces Tucker Carlson as conservative fraud at AmericaFest conference",
+      "link": "https://www.foxnews.com/media/ben-shapiro-denounces-tucker-carlson-conservative-fraud-americafest-conference"
     },
     {
       "title": "Maria Shriver slams Trump over Kennedy Center name change decision: 'Beyond comprehension'",
@@ -11,6 +27,10 @@
     {
       "title": "Trump quietly signs sweeping $901B defense bill after bipartisan Senate passage",
       "link": "https://www.foxnews.com/politics/trump-quietly-signs-sweeping-901b-defense-bill-bipartisan-senate-passage"
+    },
+    {
+      "title": "Trump officials push back on Minneapolis police chief comparing ICE raids to Nativity story",
+      "link": "https://www.foxnews.com/media/trump-officials-push-back-minneapolis-police-chief-comparing-ice-raids-nativity-story"
     },
     {
       "title": "Trump gets 417 nominees confirmed by Senate in 2025, surpasses Biden's first-year total in record pace",
@@ -62,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-19T10:40:33.509Z"
+  "timestamp": "2025-12-19T10:53:16.359Z"
 }
