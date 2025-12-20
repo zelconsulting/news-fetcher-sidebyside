@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Dem Senate candidate faces backlash after violent fantasy against conservative SCOTUS justices goes viral",
+      "link": "https://www.foxnews.com/politics/dem-senate-candidate-faces-backlash-after-violent-fantasy-against-kavanaugh-barrett-goes-viral"
+    },
+    {
+      "title": "Trump remembers ex-NASCAR Greg Biffle as 'great young man' after deadly plane crash",
+      "link": "https://www.foxnews.com/sports/trump-remembers-ex-nascar-greg-biffle-great-young-man-after-deadly-plane-crash"
+    },
+    {
       "title": "Comedian Jeff Dye on leaving Los Angeles and the politics driving comedy’s new divide",
       "link": "https://www.foxnews.com/media/comedian-jeff-dye-leaving-los-angeles-politics-driving-comedys-new-divide"
     },
@@ -31,10 +39,6 @@
     {
       "title": "New Epstein documents include photos of Bill Clinton shirtless in hot tub, socializing with Michael Jackson",
       "link": "https://www.foxnews.com/politics/new-epstein-documents-include-photos-bill-clinton-shirtless-hot-tub-socializing-michael-jackson"
-    },
-    {
-      "title": "Dem Senate candidate faces backlash after violent fantasy against conservative SCOTUS justices goes viral",
-      "link": "https://www.foxnews.com/politics/dem-senate-candidate-faces-backlash-after-violent-fantasy-against-kavanaugh-barrett-goes-viral"
     },
     {
       "title": "Fox News Politics Newsletter: Trump admin targets Maduro’s inner circle, family",
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-20T14:11:21.524Z"
+  "timestamp": "2025-12-20T14:31:43.038Z"
 }
