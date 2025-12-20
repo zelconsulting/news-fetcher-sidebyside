@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Americans turned Christmas dinner into patriotic duty during WWI with wartime recipes",
+      "link": "https://www.foxnews.com/food-drink/americans-turned-christmas-dinner-patriotic-duty-wwi-wartime-recipes"
+    },
+    {
+      "title": "Inside Stefanik’s exit and how the Trump endorsement that never came was 'biggest piece' of the 'puzzle'",
+      "link": "https://www.foxnews.com/politics/inside-stefaniks-exit-and-how-the-trump-endorsement-that-never-came-was-biggest-piece-of-the-puzzle"
+    },
+    {
       "title": "Sen Murphy warns 'people are going to die' as Congress punts on expiring Obamacare subsidies",
       "link": "https://www.foxnews.com/politics/sen-murphy-warns-people-going-die-congress-punts-expiring-obamacare-subsidies"
     },
@@ -17,20 +25,12 @@
       "link": "https://www.foxnews.com/sports/trump-remembers-ex-nascar-greg-biffle-great-young-man-after-deadly-plane-crash"
     },
     {
-      "title": "Comedian Jeff Dye on leaving Los Angeles and the politics driving comedy’s new divide",
-      "link": "https://www.foxnews.com/media/comedian-jeff-dye-leaving-los-angeles-politics-driving-comedys-new-divide"
-    },
-    {
       "title": "Democrats reveal whether Walz should testify and be held accountable for massive fraud under his watch",
       "link": "https://www.foxnews.com/politics/democrats-reveal-whether-walz-should-testify-held-accountable-massive-fraud-under-his-watch"
     },
     {
       "title": "Trump’s Venezuela oil blockade puts Chevron in the middle of a high-stakes sanctions crackdown",
       "link": "https://www.foxnews.com/politics/trumps-venezuela-oil-blockade-puts-chevron-middle-high-stakes-sanctions-crackdown"
-    },
-    {
-      "title": "Inside Stefanik’s exit and how the Trump endorsement that never came was 'biggest piece' of the 'puzzle'",
-      "link": "https://www.foxnews.com/politics/inside-stefaniks-exit-and-how-the-trump-endorsement-that-never-came-was-biggest-piece-of-the-puzzle"
     },
     {
       "title": "Tim Scott tells MAGA voters Trump ‘is on the ballot’ as GOP fights to grow Senate majority in 2026",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-20T16:38:32.941Z"
+  "timestamp": "2025-12-20T16:51:54.860Z"
 }
