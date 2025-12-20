@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Comedian Jeff Dye on leaving Los Angeles and the politics driving comedy’s new divide",
+      "link": "https://www.foxnews.com/media/comedian-jeff-dye-leaving-los-angeles-politics-driving-comedys-new-divide"
+    },
+    {
       "title": "Democrats reveal whether Walz should testify and be held accountable for massive fraud under his watch",
       "link": "https://www.foxnews.com/politics/democrats-reveal-whether-walz-should-testify-held-accountable-massive-fraud-under-his-watch"
     },
@@ -31,14 +35,6 @@
     {
       "title": "Fox News Politics Newsletter: Trump admin targets Maduro’s inner circle, family",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-admin-targets-maduros-inner-circle-family"
-    },
-    {
-      "title": "ALEX BERENSON: Trump's marijuana order pushes a dangerous lie about drugs",
-      "link": "https://www.foxnews.com/opinion/alex-berenson-trumps-marijuana-order-pushes-dangerous-lie-about-drugs"
-    },
-    {
-      "title": "Romney breaks with GOP orthodoxy, says 'rich people like me' should pay more taxes to fix debt",
-      "link": "https://www.foxnews.com/media/romney-breaks-gop-orthodoxy-says-rich-people-like-me-should-pay-more-taxes-fix-debt"
     },
     {
       "title": "Biden admin marked illegal immigrant, alleged murderer as 'non-enforcement priority,' DHS reveals",
@@ -78,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-20T12:23:42.068Z"
+  "timestamp": "2025-12-20T13:02:21.133Z"
 }
