@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Bills star slices up Browns' defense with 44-yard touchdown run",
+      "link": "https://www.foxnews.com/sports/bills-star-slices-up-browns-defense-44-yard-touchdown-run"
+    },
+    {
       "title": "DAVID MARCUS: Erika Kirk is the mother squabbling conservatives need",
       "link": "https://www.foxnews.com/opinion/david-marcus-erika-kirk-mother-squabbling-conservatives-need"
     },
@@ -23,10 +27,6 @@
     {
       "title": "DNI Gabbard warns ‘Islamist ideology’ threatens Western freedom at AmFest",
       "link": "https://www.foxnews.com/politics/dni-gabbard-warns-islamist-ideology-threatens-western-freedom-amfest"
-    },
-    {
-      "title": "'The Housemaid' Review: Sydney Sweeney, Amanda Seyfried lead absurd thriller about domestic life from hell",
-      "link": "https://www.foxnews.com/opinion/the-housemaid-review-sydney-sweeney-amanda-seyfried-lead-absurd-thriller-about-domestic-life-from-hell"
     },
     {
       "title": "After rough 2025 elections, top GOP hopeful says conservatism’s future runs through sound economic message",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-21T19:34:02.283Z"
+  "timestamp": "2025-12-21T19:47:51.710Z"
 }
