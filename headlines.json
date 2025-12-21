@@ -1,14 +1,6 @@
 {
   "fox": [
     {
-      "title": "Trump's team reports concrete progress in Ukraine peace negotiations with European partners",
-      "link": "https://www.foxnews.com/politics/trumps-team-reports-concrete-progress-ukraine-peace-negotiations-european-partners"
-    },
-    {
-      "title": "Byron Donalds urges conservatives to ‘focus on the mission’ at AmericaFest after 2025 setbacks",
-      "link": "https://www.foxnews.com/politics/byron-donalds-urges-conservatives-focus-mission-americafest-after-2025-setbacks"
-    },
-    {
       "title": "Charlamagne tha God reveals what surprised him most about politics in 2025",
       "link": "https://www.foxnews.com/media/charlamagne-tha-god-reveals-what-surprised-him-most-about-politics-2025-so-far-year"
     },
@@ -35,6 +27,10 @@
     {
       "title": "DAVID MARCUS: Erika Kirk is the mother squabbling conservatives need",
       "link": "https://www.foxnews.com/opinion/david-marcus-erika-kirk-mother-squabbling-conservatives-need"
+    },
+    {
+      "title": "Byron Donalds urges conservatives to ‘focus on the mission’ at AmericaFest after 2025 setbacks",
+      "link": "https://www.foxnews.com/politics/byron-donalds-urges-conservatives-focus-mission-americafest-after-2025-setbacks"
     },
     {
       "title": "DNI Gabbard warns ‘Islamist ideology’ threatens Western freedom at AmFest",
@@ -79,8 +75,12 @@
     {
       "title": "Dem Senate candidate faces backlash after violent fantasy against conservative SCOTUS justices goes viral",
       "link": "https://www.foxnews.com/politics/dem-senate-candidate-faces-backlash-after-violent-fantasy-against-kavanaugh-barrett-goes-viral"
+    },
+    {
+      "title": "Democrats reveal whether Walz should testify and be held accountable for massive fraud under his watch",
+      "link": "https://www.foxnews.com/politics/democrats-reveal-whether-walz-should-testify-held-accountable-massive-fraud-under-his-watch"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-21T23:12:21.672Z"
+  "timestamp": "2025-12-21T23:30:10.355Z"
 }
