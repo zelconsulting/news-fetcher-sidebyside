@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Congress flees town as health care premiums set to explode for millions of Americans in January",
+      "link": "https://www.foxnews.com/politics/congress-flees-town-health-care-premiums-set-explode-millions-americans-january"
+    },
+    {
+      "title": "Trump unveils ‘Golden Fleet’ of Navy battleships, touts them as ‘more powerful than any' ever built",
+      "link": "https://www.foxnews.com/politics/trump-unveils-golden-fleet-navy-battleships-touts-them-more-powerful-than-any-ship-ever-built"
+    },
+    {
+      "title": "Fox News Politics Newsletter: Trump admin pausing all off shore wind project construction",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-admin-pausing-all-off-shore-wind-project-construction"
+    },
+    {
       "title": "CBS, Bari Weiss facing mounting backlash from liberal critics over yanking '60 Minutes' segment",
       "link": "https://www.foxnews.com/media/cbs-bari-weiss-facing-mounting-backlash-from-liberal-critics-over-yanking-60-minutes-segment"
     },
@@ -33,14 +45,6 @@
       "link": "https://www.foxnews.com/politics/anti-trump-ex-husband-presidents-2016-campaign-manager-launches-congressional-bid-democrat"
     },
     {
-      "title": "Trump unveils ‘Golden Fleet’ of Navy battleships, touts them as ‘more powerful than any' ever built",
-      "link": "https://www.foxnews.com/politics/trump-unveils-golden-fleet-navy-battleships-touts-them-more-powerful-than-any-ship-ever-built"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Trump admin pausing all off shore wind project construction",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-trump-admin-pausing-all-off-shore-wind-project-construction"
-    },
-    {
       "title": "'No way' Walz administration was unaware of Minnesota fraud scandal, Emmer says",
       "link": "https://www.foxnews.com/politics/no-way-walz-administration-unaware-minnesota-fraud-scandal-emmer-says"
     },
@@ -66,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-22T23:12:44.935Z"
+  "timestamp": "2025-12-22T23:31:05.359Z"
 }
