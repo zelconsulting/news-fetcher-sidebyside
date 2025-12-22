@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "CBS, Bari Weiss facing mounting backlash from liberal critics over yanking '60 Minutes' segment",
+      "link": "https://www.foxnews.com/media/cbs-bari-weiss-facing-mounting-backlash-from-liberal-critics-over-yanking-60-minutes-segment"
+    },
+    {
+      "title": "Trump unleashes ‘toughest fentanyl crackdown in history’ as GOP vows ‘consequences’ for Chinese producers",
+      "link": "https://www.foxnews.com/politics/trump-unleashes-toughest-fentanyl-crackdown-history-gop-vows-consequences-chinese-producers"
+    },
+    {
+      "title": "EXCLUSIVE: OIG report shows major turnaround in Social Security Administration's phone service under Trump",
+      "link": "https://www.foxnews.com/politics/exclusive-oig-report-shows-major-turnaround-social-security-administrations-phone-service-under-trump"
+    },
+    {
       "title": "Year in review: The most radical college professors and administrators of 2025",
       "link": "https://www.foxnews.com/politics/year-in-review-the-most-radical-college-professors-and-administrators-of-2025"
     },
@@ -21,20 +33,8 @@
       "link": "https://www.foxnews.com/politics/anti-trump-ex-husband-presidents-2016-campaign-manager-launches-congressional-bid-democrat"
     },
     {
-      "title": "DAVID MARCUS: What JD Vance told me about 2028, Rubio and the future of MAGA",
-      "link": "https://www.foxnews.com/opinion/david-marcus-what-jd-vance-told-me-about-2028-rubio-future-maga"
-    },
-    {
       "title": "'No way' Walz administration was unaware of Minnesota fraud scandal, Emmer says",
       "link": "https://www.foxnews.com/politics/no-way-walz-administration-unaware-minnesota-fraud-scandal-emmer-says"
-    },
-    {
-      "title": "Trump unleashes ‘toughest fentanyl crackdown in history’ as GOP vows ‘consequences’ for Chinese producers",
-      "link": "https://www.foxnews.com/politics/trump-unleashes-toughest-fentanyl-crackdown-history-gop-vows-consequences-chinese-producers"
-    },
-    {
-      "title": "EXCLUSIVE: OIG report shows major turnaround in Social Security Administration's phone service under Trump",
-      "link": "https://www.foxnews.com/politics/exclusive-oig-report-shows-major-turnaround-social-security-administrations-phone-service-under-trump"
     },
     {
       "title": "House moves to protect children from online predators as Australia clamps down on social media",
@@ -70,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-22T21:30:11.897Z"
+  "timestamp": "2025-12-22T21:41:58.403Z"
 }
