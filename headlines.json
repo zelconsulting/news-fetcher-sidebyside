@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Australian journalist says government unity calls 'mean nothing' after Hanukkah terror attack in Sydney",
+      "link": "https://www.foxnews.com/media/australian-journalist-says-government-unity-calls-mean-nothing-after-hanukkah-terror-attack-sydney"
+    },
+    {
       "title": "Sanders blasted after blocking bipartisan kids' cancer research bill: 'Grinch,' 'selfish'",
       "link": "https://www.foxnews.com/politics/sanders-blasted-after-blocking-bipartisan-kids-cancer-research-bill-grinch-selfish"
     },
@@ -17,8 +21,8 @@
       "link": "https://www.foxnews.com/politics/trump-admin-pausing-all-off-shore-wind-project-construction-due-to-national-security-concerns"
     },
     {
-      "title": "Pelosi says Trump's 'mental incapacity' was on display during address to nation",
-      "link": "https://www.foxnews.com/media/pelosi-says-trumps-mental-incapacity-display-during-address-nation"
+      "title": "Trump immigration agency flags 182 national security risks, issues record 196K notices to appear in 2025",
+      "link": "https://www.foxnews.com/politics/trump-immigration-agency-flags-182-national-security-risks-issues-record-196k-notices-appear-2025"
     },
     {
       "title": "Trump taps Republican governor to serve as special envoy to Greenland",
@@ -51,12 +55,8 @@
     {
       "title": "After rough 2025 elections, top GOP hopeful says conservatism’s future runs through sound economic message",
       "link": "https://www.foxnews.com/politics/top-gop-senate-hopeful-says-conservatisms-future-bright-despite-2025-setbacks-must-focus-family-econom"
-    },
-    {
-      "title": "DHS fires back at Senate Dems over ICE detainee death claims: 'Trying to twist data'",
-      "link": "https://www.foxnews.com/politics/dhs-fires-back-senate-dems-ice-detainee-death-claims-trying-twist-data"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-22T16:16:38.674Z"
+  "timestamp": "2025-12-22T16:48:13.790Z"
 }
