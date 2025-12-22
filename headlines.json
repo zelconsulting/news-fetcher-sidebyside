@@ -1,12 +1,20 @@
 {
   "fox": [
     {
+      "title": "Year in review: The most radical college professors and administrators of 2025",
+      "link": "https://www.foxnews.com/politics/year-in-review-the-most-radical-college-professors-and-administrators-of-2025"
+    },
+    {
+      "title": "Trump-backed Donalds vows to maintain DeSantis 'trajectory,' take Florida to 'whole new level'",
+      "link": "https://www.foxnews.com/politics/trump-backed-donalds-vows-maintain-desantis-trajectory-take-florida-whole-new-level"
+    },
+    {
       "title": "Clinton camp demands DOJ drop remaining Epstein files, accuses Trump admin of ‘protection’",
       "link": "https://www.foxnews.com/politics/clinton-camp-demands-doj-drop-remaining-epstein-files-accuses-trump-admin-protection"
     },
     {
-      "title": "Turning Point USA’s AmericaFest attendees reveal who is the most popular and unpopular Trump Cabinet member",
-      "link": "https://www.foxnews.com/politics/turning-point-usas-americafest-attendees-reveal-who-most-popular-unpopular-trump-cabinet-member"
+      "title": "Turning Point poll reveals conservatives 'all in' for JD Vance 2028 presidential run",
+      "link": "https://www.foxnews.com/politics/turning-point-poll-reveals-conservatives-all-in-jd-vance-2028-presidential-run"
     },
     {
       "title": "Anti-Trump ex-husband of president's 2016 campaign manager launches congressional bid as Democrat",
@@ -27,14 +35,6 @@
     {
       "title": "Trump admin recalling around 30 ambassadors as part of State Dept realignment, official confirms",
       "link": "https://www.foxnews.com/politics/trump-admin-recalling-around-30-ambassadors-part-state-dept-realignment"
-    },
-    {
-      "title": "Noem says Trump administration has located 127K missing migrant children lost under Biden",
-      "link": "https://www.foxnews.com/media/dhs-secretary-noem-says-trump-administration-has-located-127k-missing-migrant-children-lost-under-biden"
-    },
-    {
-      "title": "‘Israel is only the appetizer’: Huckabee warns Iran threat looms as Netanyahu eyes Trump talks",
-      "link": "https://www.foxnews.com/world/israel-only-appetizer-huckabee-warns-iran-threat-looms-netanyahu-eyes-trump-talks"
     },
     {
       "title": "Trump immigration agency flags 182 national security risks, issues record 196K notices to appear in 2025",
@@ -63,12 +63,8 @@
     {
       "title": "Colorado governor accuses Trump of playing 'political games' after FEMA denies disaster requests",
       "link": "https://www.foxnews.com/politics/colorado-governor-accuses-trump-playing-political-games-after-fema-denies-disaster-requests"
-    },
-    {
-      "title": "DOJ restores Trump photo to Epstein files after determining no victims depicted",
-      "link": "https://www.foxnews.com/politics/doj-restores-trump-photo-epstein-files-after-determining-no-victims-depicted"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-22T20:14:34.641Z"
+  "timestamp": "2025-12-22T20:35:43.135Z"
 }
