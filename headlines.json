@@ -1,18 +1,6 @@
 {
   "fox": [
     {
-      "title": "GOP lawmaker unveils WALZ Act after billions lost in Minnesota fraud scandal",
-      "link": "https://www.foxnews.com/politics/gop-lawmaker-unveils-walz-act-after-billions-lost-in-minnesota-fraud-scandal"
-    },
-    {
-      "title": "Nicki Minaj’s MAGA shift seen as warning sign for Democrats ahead of midterms",
-      "link": "https://www.foxnews.com/media/nicki-minajs-maga-shift-seen-warning-sign-democrats-ahead-midterms"
-    },
-    {
-      "title": "House GOP tensions erupt after moderate Republicans' Obamacare 'betrayal'",
-      "link": "https://www.foxnews.com/politics/house-gop-tensions-erupt-after-moderate-republicans-obamacare-betrayal"
-    },
-    {
       "title": "Scoop: Trump ally who ousted Cheney launches Senate bid keep GOP seat in Republican hands",
       "link": "https://www.foxnews.com/politics/scoop-trump-ally-harriet-hageman-who-ousted-cheney-launches-senate-bid-keep-gop-seat-republican-hands"
     },
@@ -33,8 +21,20 @@
       "link": "https://www.foxnews.com/media/2025-lookback-cbs-pulls-plug-stephen-colberts-liberal-late-night-show-shocking-media-industry"
     },
     {
+      "title": "Billionaire trustees stay silent as Brown University faces mounting campus murder fallout",
+      "link": "https://www.foxnews.com/us/billionaire-trustees-stay-silent-brown-university-faces-mounting-campus-murder-fallout"
+    },
+    {
+      "title": "Hunter Biden decries the super rich who always manage to 'avoid the consequences'",
+      "link": "https://www.foxnews.com/media/hunter-biden-decries-super-rich-who-always-manage-avoid-consequences"
+    },
+    {
       "title": "Trump admin conducts another deadly attack on 'low-profile vessel' perpetrating 'narco-trafficking operations'",
       "link": "https://www.foxnews.com/politics/trump-admin-announces-deadly-attack-low-profile-vessel-perpetrating-narco-trafficking-operations"
+    },
+    {
+      "title": "House GOP tensions erupt after moderate Republicans' Obamacare 'betrayal'",
+      "link": "https://www.foxnews.com/politics/house-gop-tensions-erupt-after-moderate-republicans-obamacare-betrayal"
     },
     {
       "title": "White House says no to Catholic bishops' call for Christmas pause in immigration enforcement",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-23T15:14:21.463Z"
+  "timestamp": "2025-12-23T15:35:16.721Z"
 }
