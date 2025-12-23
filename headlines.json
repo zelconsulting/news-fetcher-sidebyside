@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Hunter Biden says it was a 'absolutely a mistake' to join board of Burisma",
+      "link": "https://www.foxnews.com/media/hunter-biden-says-absolutely-mistake-join-board-burisma"
+    },
+    {
+      "title": "Senate quietly works on bipartisan Obamacare fix as healthcare cliff nears",
+      "link": "https://www.foxnews.com/politics/senate-quietly-works-bipartisan-obamacare-fix-healthcare-cliff-nears"
+    },
+    {
       "title": "Trump promises cheaper drugs under TrumpRx, but economists say the long-term costs may be hidden",
       "link": "https://www.foxnews.com/politics/trump-promises-cheaper-drugs-under-trumprx-economists-say-long-term-costs-may-hidden"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/boasberg-orders-trump-bring-back-cecot-migrant-class-deported-march"
     },
     {
-      "title": "Rosie O'Donnell demands Trump's removal from office over Kennedy Center honor in latest tirade",
-      "link": "https://www.foxnews.com/entertainment/rosie-odonnell-trumps-removal-office-kennedy-center-honor-tirade"
-    },
-    {
       "title": "Trump trade crackdown hits cheap food containers from China, Vietnam with massive new duties",
       "link": "https://www.foxnews.com/politics/trump-trade-crackdown-hits-cheap-food-containers-from-china-vietnam-massive-new-duties"
     },
@@ -51,10 +55,6 @@
     {
       "title": "Lawmakers probe SBA loans linked to Minnesota’s $9B fraud scandal: 'Reckless decision making'",
       "link": "https://www.foxnews.com/politics/lawmakers-probe-sba-loans-linked-to-minnesotas-9b-fraud-scandal-reckless-decision-making"
-    },
-    {
-      "title": "Senate quietly works on bipartisan Obamacare fix as healthcare cliff nears",
-      "link": "https://www.foxnews.com/politics/senate-quietly-works-bipartisan-obamacare-fix-healthcare-cliff-nears"
     },
     {
       "title": "Former GOP Sen. Ben Sasse reveals stage-4 cancer diagnosis: 'It's a death sentence'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-23T19:47:54.959Z"
+  "timestamp": "2025-12-23T20:14:17.725Z"
 }
