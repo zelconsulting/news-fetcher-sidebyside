@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "White House says no to Catholic bishops' call for Christmas pause in immigration enforcement",
+      "link": "https://www.foxnews.com/politics/white-house-says-no-catholic-bishops-call-christmas-pause-immigration-enforcement"
+    },
+    {
       "title": "Democrat lawmakers call on Trump to withdraw rule limiting green cards for people on welfare",
       "link": "https://www.foxnews.com/politics/democrat-lawmakers-call-trump-withdraw-rule-limiting-green-cards-people-welfare"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Trump unveils ‘Golden Fleet’ of Navy battleships, touts them as ‘more powerful than any' ever built",
       "link": "https://www.foxnews.com/politics/trump-unveils-golden-fleet-navy-battleships-touts-them-more-powerful-than-any-ship-ever-built"
-    },
-    {
-      "title": "White House says no to Catholic bishops' call for Christmas pause in immigration enforcement",
-      "link": "https://www.foxnews.com/politics/white-house-says-no-catholic-bishops-call-christmas-pause-immigration-enforcement"
     },
     {
       "title": "Fox News Politics Newsletter: Trump admin pausing all off shore wind project construction",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-23T09:54:46.686Z"
+  "timestamp": "2025-12-23T10:15:10.074Z"
 }
