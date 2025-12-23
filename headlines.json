@@ -1,11 +1,15 @@
 {
   "fox": [
     {
+      "title": "Fox News Politics Newsletter: Boasberg says Trump must provide due process to CECOT migrants",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-boasberg-says-trump-must-provide-due-process-cecot-migrants"
+    },
+    {
       "title": "DOJ walks back Biden-era abortion policy, bars VA from funding procedures",
       "link": "https://www.foxnews.com/politics/doj-walks-back-biden-era-abortion-policy-bars-va-from-funding-procedures"
     },
     {
-      "title": "Supreme Court rules on legality of Trump National Guard deployment to Chicago",
+      "title": "Supreme Court rules on legality of Trump National Guard deployment to Illinois",
       "link": "https://www.foxnews.com/politics/supreme-court-rules-legality-trump-national-guard-deployment"
     },
     {
@@ -49,14 +53,6 @@
       "link": "https://www.foxnews.com/politics/boca-raton-mayor-launches-run-for-congress-touting-gop-as-party-of-the-middle-class"
     },
     {
-      "title": "Fox News Politics Newsletter: Boasberg says Trump must provide due process to CECOT migrants",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-boasberg-says-trump-must-provide-due-process-cecot-migrants"
-    },
-    {
-      "title": "Supreme Court rules on legality of Trump National Guard deployment to Illinois",
-      "link": "https://www.foxnews.com/politics/supreme-court-rules-legality-trump-national-guard-deployment"
-    },
-    {
       "title": "Apex predator threatening Northwest salmon sparks rare bipartisan push to 'kill more'",
       "link": "https://www.foxnews.com/politics/apex-predator-threatening-northwest-salmon-sparks-rare-bipartisan-push-kill-more"
     },
@@ -79,8 +75,12 @@
     {
       "title": "Former GOP Sen. Ben Sasse reveals stage-4 cancer diagnosis: 'It's a death sentence'",
       "link": "https://www.foxnews.com/politics/former-gop-sen-ben-sasse-reveals-stage-4-cancer-diagnosis-death-sentence"
+    },
+    {
+      "title": "Trump official freezes millions in SBA aid to Minnesota, slams Walz’s policies as breeding ‘endemic’ fraud",
+      "link": "https://www.foxnews.com/politics/millions-mn-sba-aid-halted-trump-official-blasts-socialist-walz-policies-leading-endemic-fraud"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-23T23:12:27.008Z"
+  "timestamp": "2025-12-23T23:30:26.175Z"
 }
