@@ -1,18 +1,6 @@
 {
   "fox": [
     {
-      "title": "Brown University police chief placed on leave after deadly shooting as Trump admin opens investigation",
-      "link": "https://www.foxnews.com/us/brown-university-police-chief-placed-leave-after-deadly-shooting-trump-admin-opens-investigation"
-    },
-    {
-      "title": "Boasberg orders Trump to bring back CECOT migrant class deported in March",
-      "link": "https://www.foxnews.com/politics/boasberg-orders-trump-bring-back-cecot-migrant-class-deported-march"
-    },
-    {
-      "title": "Hunter Biden criticizes father Joe's 'obvious f---ing failure' on Afghanistan in new interview",
-      "link": "https://www.foxnews.com/media/hunter-biden-criticizes-father-joes-obvious-f-ing-failure-afghanistan-new-interview"
-    },
-    {
       "title": "Rosie O'Donnell demands Trump's removal from office over Kennedy Center honor in latest tirade",
       "link": "https://www.foxnews.com/entertainment/rosie-odonnell-trumps-removal-office-kennedy-center-honor-tirade"
     },
@@ -61,6 +49,10 @@
       "link": "https://www.foxnews.com/politics/gop-governor-lays-out-plan-purge-terrorists-terror-supporters-from-state"
     },
     {
+      "title": "Boasberg orders Trump to bring back CECOT migrant class deported in March",
+      "link": "https://www.foxnews.com/politics/boasberg-orders-trump-bring-back-cecot-migrant-class-deported-march"
+    },
+    {
       "title": "Republicans have chance to secure governorships in key battleground states next year",
       "link": "https://www.foxnews.com/politics/republicans-have-chance-secure-governorships-key-battleground-states-next-year"
     },
@@ -79,8 +71,12 @@
     {
       "title": "Pentagon taps Musk's xAI to boost sensitive government workflows, support military operations",
       "link": "https://www.foxnews.com/politics/pentagon-taps-musks-xai-boost-sensitive-government-workflows-support-military-operations"
+    },
+    {
+      "title": "Congress flees town as health care premiums set to explode for millions of Americans in January",
+      "link": "https://www.foxnews.com/politics/congress-flees-town-health-care-premiums-set-explode-millions-americans-january"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-23T17:14:10.885Z"
+  "timestamp": "2025-12-23T17:35:09.723Z"
 }
