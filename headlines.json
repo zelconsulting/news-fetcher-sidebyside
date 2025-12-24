@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "New Trump admin envoy says US won’t ‘conquer’ Greenland, emphasizes talks with locals as Denmark balks at move",
+      "link": "https://www.foxnews.com/politics/new-trump-envoy-says-us-wont-conquer-greenland-emphasizes-talks-locals-denmark-balks-move"
+    },
+    {
       "title": "CBS didn't include White House statement about Angel Parents in CECOT segment on '60 Minutes'",
       "link": "https://www.foxnews.com/media/cbs-didnt-include-white-house-statement-about-angel-parents-delayed-cecot-segment-60-minutes"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Fox News Politics Newsletter: Boasberg says Trump must provide due process to CECOT migrants",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-boasberg-says-trump-must-provide-due-process-cecot-migrants"
-    },
-    {
-      "title": "New Trump admin envoy says US won’t ‘conquer’ Greenland, emphasizes talks with locals as Denmark balks at move",
-      "link": "https://www.foxnews.com/politics/new-trump-envoy-says-us-wont-conquer-greenland-emphasizes-talks-locals-denmark-balks-move"
     },
     {
       "title": "DOJ walks back Biden-era abortion policy, bars VA from funding procedures",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-24T06:21:49.216Z"
+  "timestamp": "2025-12-24T06:54:35.553Z"
 }
