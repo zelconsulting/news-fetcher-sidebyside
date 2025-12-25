@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump takes NORAD Santa calls with children, praises 'clean, beautiful coal' and 'high IQ' person",
+      "link": "https://www.foxnews.com/politics/trump-takes-norad-santa-calls-children-praises-clean-beautiful-coal-high-iq-person"
+    },
+    {
       "title": "NBA draft pick joins Baylor for second half of season in unprecedented move",
       "link": "https://www.foxnews.com/sports/nba-draft-pick-joins-baylor-second-half-season-unprecedented-move"
     },
@@ -15,6 +19,10 @@
     {
       "title": "Amy Coney Barrett calls Roe v Wade 'free-floating' decision that judges 'read into' Constitution",
       "link": "https://www.foxnews.com/media/barrett-calls-roe-v-wade-free-floating-decision-judges-read-into-constitution"
+    },
+    {
+      "title": "Trump takes NORAD Santa calls with children, praises 'clean, beautiful coal' and 'high-IQ' person",
+      "link": "https://www.foxnews.com/politics/trump-takes-norad-santa-calls-children-praises-clean-beautiful-coal-high-iq-person"
     },
     {
       "title": "Democrats warn Trump greenlighting Nvidia AI chip sales could boost China’s military edge",
@@ -67,12 +75,8 @@
     {
       "title": "Brandon Johnson’s progressive tax push puts Chicago on brink of rare shutdown as mayor weighs veto",
       "link": "https://www.foxnews.com/politics/brandon-johnsons-progressive-tax-push-puts-chicago-brink-rare-shutdown-mayor-weighs-veto"
-    },
-    {
-      "title": "Trump and first lady go all black for official White House Christmas portrait photo",
-      "link": "https://www.foxnews.com/politics/trump-first-lady-go-all-black-official-white-house-christmas-portrait-photo"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-24T23:48:54.090Z"
+  "timestamp": "2025-12-25T01:03:15.326Z"
 }
