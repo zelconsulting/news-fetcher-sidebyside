@@ -1,10 +1,6 @@
 {
   "fox": [
     {
-      "title": "‘Perception vs. reality’: Trump’s economy picks up speed — but voters aren’t buying it yet",
-      "link": "https://www.foxnews.com/politics/perception-vs-reality-trumps-economy-gains-steam-faces-messaging-test-stephen-moore-says"
-    },
-    {
       "title": "Trump reveals potential Kennedy Center marble armrests 'unlike anything ever done or seen before'",
       "link": "https://www.foxnews.com/us/trump-reveals-potential-kennedy-center-marble-armrests-unlike-anything-ever-done-seen-before"
     },
@@ -17,8 +13,16 @@
       "link": "https://www.foxnews.com/politics/tiny-pacific-nation-take-up-75-deportees-trump-administration-accelerates-mass-removals"
     },
     {
+      "title": "'Jesus is Palestinian' billboard in Times Square this week placed by Arab-American rights group",
+      "link": "https://www.foxnews.com/media/jesus-palestinian-billboards-times-square-week-placed-arab-american-rights-group"
+    },
+    {
       "title": "Trump suggests he'll call final shots on peace deal ahead of Zelenskyy meeting: 'We'll see what he's got'",
       "link": "https://www.foxnews.com/politics/trump-suggests-hell-call-final-shots-peace-deal-ahead-zelenskyy-meeting-well-see-what-hes-got"
+    },
+    {
+      "title": "‘Perception vs. reality’: Trump’s economy picks up speed — but voters aren’t buying it yet",
+      "link": "https://www.foxnews.com/politics/perception-vs-reality-trumps-economy-gains-steam-faces-messaging-test-stephen-moore-says"
     },
     {
       "title": "New motion seeks former Colorado Clerk Tina Peters' release, challenging state after Trump's pardon",
@@ -66,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-27T11:26:33.240Z"
+  "timestamp": "2025-12-27T11:36:20.055Z"
 }
