@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Savannah Chrisley to guest host 'The View' despite show being critical against Trump-pardoned parents",
+      "link": "https://www.foxnews.com/media/savannah-chrisley-guest-host-the-view-despite-show-being-critical-against-trump-pardoned-parents"
+    },
+    {
+      "title": "Trump, Zelenskyy say Ukraine peace deal close but 'thorny issues' remain after Florida talks",
+      "link": "https://www.foxnews.com/politics/trump-zelenskyy-say-ukraine-peace-deal-close-thorny-issues-remain-after-florida-talks"
+    },
+    {
       "title": "Trump meets with Zelenskyy; talks could unlock first Zelenskyy-Putin call in five years: source",
       "link": "https://www.foxnews.com/world/trump-meets-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-five-years-source"
     },
@@ -11,6 +19,10 @@
     {
       "title": "Nancy Pelosi says she had 'no intention' of tearing up Trump's 2020 State of the Union speech",
       "link": "https://www.foxnews.com/media/nancy-pelosi-says-she-had-no-intention-tearing-up-trumps-state-union-speech"
+    },
+    {
+      "title": "Ilhan Omar’s Somaliland stance slammed as Minnesota fraud scandal deepens",
+      "link": "https://www.foxnews.com/politics/ilhan-omars-somaliland-stance-slammed-minnesota-fraud-scandal-deepens"
     },
     {
       "title": "Trump says Russia, Ukraine in 'final stages' of talks, predicts war will 'end' soon or 'go on for a long time'",
@@ -39,12 +51,8 @@
     {
       "title": "Trump casts Maduro’s ouster as ‘smart’ move as Russia, China enter the fray",
       "link": "https://www.foxnews.com/politics/trump-casts-maduros-ouster-smart-move-russia-china-enter-fray"
-    },
-    {
-      "title": "Zelenskyy says he will meet with Trump 'before the New Year'",
-      "link": "https://www.foxnews.com/politics/zelenskyy-says-he-meet-trump-before-new-year"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-28T23:49:06.955Z"
+  "timestamp": "2025-12-29T01:09:10.656Z"
 }
