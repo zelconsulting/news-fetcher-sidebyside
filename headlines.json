@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "From Gaza to Iran: What’s at stake in Trump-Netanyahu Mar-a-Lago talks?",
+      "link": "https://www.foxnews.com/world/from-gaza-iran-whats-stake-trump-netanyahu-mar-a-lago-talks"
+    },
+    {
+      "title": "Washington Post article fretting over Trump officials' religious Christmas messages draws strong pushback",
+      "link": "https://www.foxnews.com/media/washington-post-article-fretting-over-trump-officials-religious-christmas-messages-draws-strong-pushback"
+    },
+    {
+      "title": "Affordability, DOGE and the language that captured American politics in 2025",
+      "link": "https://www.foxnews.com/opinion/affordability-doge-language-captured-american-politics-2025"
+    },
+    {
       "title": "DC pipe bomb suspect says someone needed to 'speak up' about stolen election claims",
       "link": "https://www.foxnews.com/us/dc-pipe-bomb-suspect-says-someone-needed-speak-up-about-stolen-election-claims"
     },
@@ -23,14 +35,6 @@
     {
       "title": "Trump, Zelenskyy say Ukraine peace deal close but 'thorny issues' remain after Florida talks",
       "link": "https://www.foxnews.com/politics/trump-zelenskyy-say-ukraine-peace-deal-close-thorny-issues-remain-after-florida-talks"
-    },
-    {
-      "title": "Trump meets with Zelenskyy; talks could unlock first Zelenskyy-Putin call in five years: source",
-      "link": "https://www.foxnews.com/world/trump-meets-zelenskyy-talks-could-unlock-first-zelenskyy-putin-call-five-years-source"
-    },
-    {
-      "title": "Patriots' Drake Maye makes MVP statement with Tom Brady-like game vs Jets",
-      "link": "https://www.foxnews.com/sports/patriots-drake-maye-makes-mvp-statement-tom-brady-like-game-vs-jets"
     },
     {
       "title": "Trump says Russia, Ukraine in 'final stages' of talks, predicts war will 'end' soon or 'go on for a long time'",
@@ -58,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-29T11:31:06.477Z"
+  "timestamp": "2025-12-29T11:48:47.364Z"
 }
