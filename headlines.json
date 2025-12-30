@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Republicans eye Iowa Senate supermajority in Tuesday special election",
+      "link": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election"
+    },
+    {
       "title": "Deal-making clemency: Inside Trump’s most disputed pardons of 2025",
       "link": "https://www.foxnews.com/politics/deal-making-clemency-inside-trumps-most-disputed-pardons-2025"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Inside the Trump-Musk split: How America’s most powerful bromance imploded into the biggest breakup of 2025",
       "link": "https://www.foxnews.com/politics/inside-trump-musk-split-how-americas-most-powerful-bromance-imploded-biggest-breakup-2025"
-    },
-    {
-      "title": "Republicans eye Iowa Senate supermajority in Tuesday special election",
-      "link": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election"
     },
     {
       "title": "Eric Adams says Biden DOJ used 'lawfare' against him, compares treatment to Trump",
@@ -74,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-30T16:17:12.987Z"
+  "timestamp": "2025-12-30T16:48:51.680Z"
 }
