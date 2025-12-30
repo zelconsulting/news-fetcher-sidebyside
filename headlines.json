@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "George Clooney takes aim at Trump, says he was 'a big goofball’ before politics",
+      "link": "https://www.foxnews.com/entertainment/george-clooney-takes-aim-trump-says-he-a-big-goofball-before-politics"
+    },
+    {
       "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
       "link": "https://www.foxnews.com/politics/bipartisan-house-china-panel-slams-beijings-taiwan-drills-deliberate-escalation"
     },
@@ -15,14 +19,6 @@
     {
       "title": "Sen Jim Justice says Republicans are 'lousy' at knowing what everyday Americans think about healthcare",
       "link": "https://www.foxnews.com/politics/sen-jim-justice-says-republicans-lousy-knowing-what-everyday-americans-think-about-healthcare"
-    },
-    {
-      "title": "Anti-Iran regime protests grow across country as Trump admin boosts demonstrators offering support",
-      "link": "https://www.foxnews.com/world/anti-iran-regime-protests-grow-across-country-trump-admin-boosts-demonstrators-offering-support"
-    },
-    {
-      "title": "Patriots' Stefon Diggs faces multiple criminal charges, 'categorically denies' claims",
-      "link": "https://www.foxnews.com/sports/patriots-stefon-diggs-faces-multiple-criminal-charges-categorically-denies-claims"
     },
     {
       "title": "US embassies in the Western Hemisphere directed to report on human rights violations tied to mass migration",
@@ -70,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-30T21:49:06.182Z"
+  "timestamp": "2025-12-30T22:12:47.036Z"
 }
