@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump administration to unveil new dietary guidelines as FDA plans sweeping 2026 food overhaul",
+      "link": "https://www.foxnews.com/media/trump-administration-unveil-new-dietary-guidelines-fda-plans-sweeping-2026-food-overhaul"
+    },
+    {
+      "title": "Sen Jim Justice says Republicans are 'lousy' at knowing what everyday Americans think about healthcare",
+      "link": "https://www.foxnews.com/politics/sen-jim-justice-says-republicans-lousy-knowing-what-everyday-americans-think-about-healthcare"
+    },
+    {
       "title": "Anti-Iran regime protests grow across country as Trump admin boosts demonstrators offering support",
       "link": "https://www.foxnews.com/world/anti-iran-regime-protests-grow-across-country-trump-admin-boosts-demonstrators-offering-support"
     },
@@ -33,12 +41,16 @@
       "link": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election"
     },
     {
-      "title": "Deal-making clemency: Inside Trump’s most disputed pardons of 2025",
-      "link": "https://www.foxnews.com/politics/deal-making-clemency-inside-trumps-most-disputed-pardons-2025"
+      "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
+      "link": "https://www.foxnews.com/politics/bipartisan-house-china-panel-slams-beijings-taiwan-drills-deliberate-escalation"
     },
     {
-      "title": "Sen Jim Justice says Republicans are 'lousy' at knowing what everyday Americans think about healthcare",
-      "link": "https://www.foxnews.com/politics/sen-jim-justice-says-republicans-lousy-knowing-what-everyday-americans-think-about-healthcare"
+      "title": "Senate races to avoid government shutdown with time ticking and lingering issues",
+      "link": "https://www.foxnews.com/politics/senate-races-avoid-government-shutdown-time-ticking-lingering-issues"
+    },
+    {
+      "title": "Deal-making clemency: Inside Trump’s most disputed pardons of 2025",
+      "link": "https://www.foxnews.com/politics/deal-making-clemency-inside-trumps-most-disputed-pardons-2025"
     },
     {
       "title": "House GOP whip urges citizenship revocations tied to Minnesota fraud schemes",
@@ -67,20 +79,8 @@
     {
       "title": "Trump tells UN agencies to 'adapt, shrink, or die' while offering $2B humanitarian funding pledge",
       "link": "https://www.foxnews.com/politics/trump-tells-un-agencies-adapt-shrink-die-offering-2b-humanitarian-funding-pledge"
-    },
-    {
-      "title": "Netanyahu says Trump to become first non-Israeli to receive Israel Prize",
-      "link": "https://www.foxnews.com/politics/netanyahu-says-trump-become-first-non-israeli-receive-israel-prize"
-    },
-    {
-      "title": "Swalwell attacks GOP legislative record as Republicans accuse Democrats of engineering shutdown",
-      "link": "https://www.foxnews.com/politics/swalwell-attacks-gop-legislative-record-republicans-accuse-democrats-engineering-shutdown"
-    },
-    {
-      "title": "Minnesota GOP lawmakers cite Constitution in call for Walz to resign over fraud crisis",
-      "link": "https://www.foxnews.com/politics/minnesota-gop-lawmakers-cite-constitution-in-call-for-walz-to-resign-over-fraud-crisis"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-30T19:12:09.829Z"
+  "timestamp": "2025-12-30T19:27:44.157Z"
 }
