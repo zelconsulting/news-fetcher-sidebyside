@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
+      "link": "https://www.foxnews.com/politics/bipartisan-house-china-panel-slams-beijings-taiwan-drills-deliberate-escalation"
+    },
+    {
+      "title": "Senate races to avoid government shutdown with time ticking and lingering issues",
+      "link": "https://www.foxnews.com/politics/senate-races-avoid-government-shutdown-time-ticking-lingering-issues"
+    },
+    {
       "title": "Trump administration to unveil new dietary guidelines as FDA plans sweeping 2026 food overhaul",
       "link": "https://www.foxnews.com/media/trump-administration-unveil-new-dietary-guidelines-fda-plans-sweeping-2026-food-overhaul"
     },
@@ -25,28 +33,12 @@
       "link": "https://www.foxnews.com/politics/questions-remain-licensing-site-crashes-whiplash-ensues-mn-child-care-fraud-scandal"
     },
     {
-      "title": "Feds launch 'massive operation' in Minnesota amid fraud scandal",
-      "link": "https://www.foxnews.com/us/feds-launch-massive-operation-minnesota-fraud-scandal"
-    },
-    {
-      "title": "Sydney Sweeney jeans ad and Prince Andrew title loss dominate 2025 celebrity scandals",
-      "link": "https://www.foxnews.com/entertainment/sydney-sweeney-jeans-ad-prince-andrew-title-loss-dominate-2025-celebrity-scandals"
-    },
-    {
       "title": "Artists cancel New Year’s Eve shows following ‘Trump–Kennedy Center’ rebrand",
       "link": "https://www.foxnews.com/politics/artists-cancel-new-years-eve-shows-following-trump-kennedy-center-rebrand"
     },
     {
       "title": "Republicans eye Iowa Senate supermajority in Tuesday special election",
       "link": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election"
-    },
-    {
-      "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
-      "link": "https://www.foxnews.com/politics/bipartisan-house-china-panel-slams-beijings-taiwan-drills-deliberate-escalation"
-    },
-    {
-      "title": "Senate races to avoid government shutdown with time ticking and lingering issues",
-      "link": "https://www.foxnews.com/politics/senate-races-avoid-government-shutdown-time-ticking-lingering-issues"
     },
     {
       "title": "Deal-making clemency: Inside Trump’s most disputed pardons of 2025",
@@ -82,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-30T20:36:51.624Z"
+  "timestamp": "2025-12-30T20:52:01.932Z"
 }
