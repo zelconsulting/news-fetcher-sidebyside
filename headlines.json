@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Eric Adams says Biden DOJ used 'lawfare' against him, compares treatment to Trump",
+      "link": "https://www.foxnews.com/politics/eric-adams-says-biden-doj-used-lawfare-against-him-compares-treatment-trump"
+    },
+    {
       "title": "Iranian protesters clash with security forces as tear gas fills Tehran streets amid nationwide unrest",
       "link": "https://www.foxnews.com/world/iranian-protesters-clash-security-forces-tear-gas-fills-tehran-streets-amid-nationwide-unrest"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Netanyahu says Trump to become first non-Israeli to receive Israel Prize",
       "link": "https://www.foxnews.com/politics/netanyahu-says-trump-become-first-non-israeli-receive-israel-prize"
-    },
-    {
-      "title": "Eric Adams says Biden DOJ used 'lawfare' against him, compares treatment to Trump",
-      "link": "https://www.foxnews.com/politics/eric-adams-says-biden-doj-used-lawfare-against-him-compares-treatment-trump"
     },
     {
       "title": "Swalwell attacks GOP legislative record as Republicans accuse Democrats of engineering shutdown",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-30T08:19:22.711Z"
+  "timestamp": "2025-12-30T08:50:02.657Z"
 }
