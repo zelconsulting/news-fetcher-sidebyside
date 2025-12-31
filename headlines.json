@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Benjamin Netanyahu pushes back on 'fake spins' suggesting tension between him and Trump",
+      "link": "https://www.foxnews.com/media/benjamin-netanyahu-pushes-back-fake-spins-suggesting-tension-between-him-trump"
+    },
+    {
       "title": "Brigitte Bardot’s death shrinks Billy Joel’s ‘We Didn’t Start the Fire’ list to just 3 living names",
       "link": "https://www.foxnews.com/entertainment/brigitte-bardots-death-shrinks-billy-joels-we-didnt-start-fire-list-just-3-living-names"
     },
@@ -11,10 +15,6 @@
     {
       "title": "George Clooney says ABC, CBS should have told Trump to ‘go f--- yourself’",
       "link": "https://www.foxnews.com/media/george-clooney-says-abc-cbs-should-have-told-trump-go-f-yourself"
-    },
-    {
-      "title": "UK PM Starmer–praised Egyptian extremist faces counter-terror probe over resurfaced tweets",
-      "link": "https://www.foxnews.com/world/uk-pm-starmer-praised-egyptian-extremist-faces-counter-terror-probe-over-resurfaced-tweets"
     },
     {
       "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
@@ -62,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T01:05:05.885Z"
+  "timestamp": "2025-12-31T03:02:16.158Z"
 }
