@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Democrats had major election victories in 2025, but wins don’t erase party’s critical weaknesses",
+      "link": "https://www.foxnews.com/politics/democrats-had-major-election-victories-2025-wins-dont-erase-partys-critical-weaknesses"
+    },
+    {
       "title": "Two African nations ban American citizens in diplomatic tit-for-tat following Trump admin move",
       "link": "https://www.foxnews.com/world/two-african-nations-ban-american-citizens-diplomatic-tit-for-tat-following-trump-admin-move"
     },
@@ -15,6 +19,10 @@
     {
       "title": "Former GOP Sen Jon Kyl announces dementia diagnosis, steps away from public life",
       "link": "https://www.foxnews.com/politics/former-gop-sen-jon-kyl-announces-dementia-diagnosis-steps-public-life"
+    },
+    {
+      "title": "Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge",
+      "link": "https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge"
     },
     {
       "title": "Fox News Politics Newsletter: House GOP whip calls for revoking citizenship over Minnesota fraud",
@@ -43,12 +51,8 @@
     {
       "title": "Artists cancel New Year’s Eve shows following ‘Trump–Kennedy Center’ rebrand",
       "link": "https://www.foxnews.com/politics/artists-cancel-new-years-eve-shows-following-trump-kennedy-center-rebrand"
-    },
-    {
-      "title": "Republicans eye Iowa Senate supermajority in Tuesday special election",
-      "link": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T12:26:36.029Z"
+  "timestamp": "2025-12-31T13:08:10.473Z"
 }
