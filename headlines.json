@@ -1,16 +1,12 @@
 {
   "fox": [
     {
-      "title": "Benjamin Netanyahu pushes back on 'fake spins' suggesting tension between him and Trump",
-      "link": "https://www.foxnews.com/media/benjamin-netanyahu-pushes-back-fake-spins-suggesting-tension-between-him-trump"
-    },
-    {
-      "title": "Brigitte Bardot’s death shrinks Billy Joel’s ‘We Didn’t Start the Fire’ list to just 3 living names",
-      "link": "https://www.foxnews.com/entertainment/brigitte-bardots-death-shrinks-billy-joels-we-didnt-start-fire-list-just-3-living-names"
-    },
-    {
       "title": "Former GOP Sen. Jon Kyl announces dementia diagnosis, steps away from public life",
       "link": "https://www.foxnews.com/politics/former-gop-sen-jon-kyl-announces-dementia-diagnosis-steps-public-life"
+    },
+    {
+      "title": "Benjamin Netanyahu pushes back on 'fake spins' suggesting tension between him and Trump",
+      "link": "https://www.foxnews.com/media/benjamin-netanyahu-pushes-back-fake-spins-suggesting-tension-between-him-trump"
     },
     {
       "title": "Fox News Politics Newsletter: House GOP whip calls for revoking citizenship over Minnesota fraud",
@@ -50,5 +46,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T09:43:43.928Z"
+  "timestamp": "2025-12-31T09:53:18.160Z"
 }
