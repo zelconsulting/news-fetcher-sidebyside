@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump withdraws National Guard from Chicago, LA and Portland, for now",
+      "link": "https://www.foxnews.com/politics/trump-withdraws-national-guard-chicago-la-portland-now"
+    },
+    {
+      "title": "Venezuela arrests more Americans as Trump ramps up pressure on Maduro: report",
+      "link": "https://www.foxnews.com/world/venezuela-arrests-more-americans-trump-ramps-pressure-maduro-report"
+    },
+    {
       "title": "Patriots stars eligible to help team clinch top seed in playoffs despite heinous allegations, NFL says",
       "link": "https://www.foxnews.com/sports/patriots-stars-eligible-help-team-clinch-top-seed-playoffs-despite-heinous-allegations-nfl-says"
     },
@@ -15,10 +23,6 @@
     {
       "title": "Trump says 'Triumphal Arch' monument construction to begin within 2 months in DC: report",
       "link": "https://www.foxnews.com/politics/trump-says-triumphal-arch-monument-construction-begin-within-2-months-dc-report"
-    },
-    {
-      "title": "Second Patriots star faces disturbing allegations day after Stefon Diggs denies strangulation charges",
-      "link": "https://www.foxnews.com/sports/second-patriot-star-disturbing-allegations-day-after-stefon-diggs-denies-strangulation-charges"
     },
     {
       "title": "Appeals court sides with Trump on budget provision cutting Planned Parenthood funds",
@@ -58,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T22:35:30.318Z"
+  "timestamp": "2025-12-31T22:51:25.095Z"
 }
