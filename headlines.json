@@ -1,10 +1,6 @@
 {
   "fox": [
     {
-      "title": "What to know about new state laws in 2026 on wages, SNAP benefits and climate tax",
-      "link": "https://www.foxnews.com/politics/what-know-about-new-state-laws-taking-effect-2026-wages-snap-benefits"
-    },
-    {
       "title": "Democrats had major election victories in 2025, but wins don’t erase party’s critical weaknesses",
       "link": "https://www.foxnews.com/politics/democrats-had-major-election-victories-2025-wins-dont-erase-partys-critical-weaknesses"
     },
@@ -17,12 +13,20 @@
       "link": "https://www.foxnews.com/opinion/rebecca-grant-trumps-8-biggest-national-security-wins-2025"
     },
     {
-      "title": "Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge",
+      "title": "Congress fails to save Obamacare subsidies after shutdown fight, premiums set to surge",
       "link": "https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge"
     },
     {
       "title": "Former GOP Sen Jon Kyl announces dementia diagnosis, steps away from public life",
       "link": "https://www.foxnews.com/politics/former-gop-sen-jon-kyl-announces-dementia-diagnosis-steps-public-life"
+    },
+    {
+      "title": "What to know about new state laws in 2026 on wages, SNAP benefits and climate tax",
+      "link": "https://www.foxnews.com/politics/what-know-about-new-state-laws-taking-effect-2026-wages-snap-benefits"
+    },
+    {
+      "title": "Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge",
+      "link": "https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge"
     },
     {
       "title": "Fox News Politics Newsletter: House GOP whip calls for revoking citizenship over Minnesota fraud",
@@ -46,5 +50,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T14:13:41.122Z"
+  "timestamp": "2025-12-31T14:35:31.039Z"
 }
