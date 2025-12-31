@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Putin vows victory in Ukraine in New Year’s address amid Trump-backed peace talks",
+      "link": "https://www.foxnews.com/world/putin-vows-victory-ukraine-new-years-address-amid-trump-backed-peace-talks"
+    },
+    {
+      "title": "Boebert hits back at Trump after veto of Colorado water bill, raises retaliation concerns",
+      "link": "https://www.foxnews.com/politics/boebert-hits-back-trump-after-veto-colorado-water-bill-raises-retaliation-concerns"
+    },
+    {
       "title": "Karoline Leavitt warns 'people will be in handcuffs' as feds zero in on Minnesota fraud scandal",
       "link": "https://www.foxnews.com/media/karoline-leavitt-warns-people-handcuffs-feds-zero-in-minnesota-fraud-scandal"
     },
@@ -13,12 +21,16 @@
       "link": "https://www.foxnews.com/politics/comer-house-oversight-demands-answers-minnesota-fraud-hearing-invite-walz-testify"
     },
     {
-      "title": "What to know about new state laws in 2026 on wages, SNAP benefits and climate tax",
-      "link": "https://www.foxnews.com/politics/what-know-about-new-state-laws-taking-effect-2026-wages-snap-benefits"
+      "title": "Trump slams Walz and Newsom as 'Crooked Governors,' asserting their states are awash with fraud",
+      "link": "https://www.foxnews.com/politics/trump-slams-walz-newsom-crooked-governors-asserting-states-awash-fraud"
     },
     {
-      "title": "Boebert hits back at Trump after veto of Colorado water bill, raises retaliation concerns",
-      "link": "https://www.foxnews.com/politics/boebert-hits-back-trump-after-veto-colorado-water-bill-raises-retaliation-concerns"
+      "title": "Russia alleges attack on Putin residence as Ukraine denies claim ahead of Trump talks",
+      "link": "https://www.foxnews.com/politics/russia-alleges-attack-putin-residence-ukraine-denies-claim-ahead-trump-talks"
+    },
+    {
+      "title": "What to know about new state laws in 2026 on wages, SNAP benefits and climate tax",
+      "link": "https://www.foxnews.com/politics/what-know-about-new-state-laws-taking-effect-2026-wages-snap-benefits"
     },
     {
       "title": "Democrats had major election victories in 2025, but wins don’t erase party’s critical weaknesses",
@@ -35,12 +47,8 @@
     {
       "title": "Fox News Politics Newsletter: House GOP whip calls for revoking citizenship over Minnesota fraud",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-house-gop-whip-urges-citizenship-revocations-tied-fraud"
-    },
-    {
-      "title": "Bipartisan House China panel slams Beijing’s Taiwan drills as ‘deliberate escalation’",
-      "link": "https://www.foxnews.com/politics/bipartisan-house-china-panel-slams-beijings-taiwan-drills-deliberate-escalation"
     }
   ],
   "cnn": [],
-  "timestamp": "2025-12-31T18:19:24.615Z"
+  "timestamp": "2025-12-31T18:49:10.413Z"
 }
