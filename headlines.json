@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Iran in shutdown as protesters storm governor's office, crowds chant 'Death to Khamenei'",
+      "link": "https://www.foxnews.com/world/iran-shutdown-protests-intensify-amid-leadership-shake-up-deepening-crisis"
+    },
+    {
+      "title": "Here’s where Trump launched airstrikes around the world in 2025: 'Protect the homeland'",
+      "link": "https://www.foxnews.com/politics/heres-where-trump-launched-airstrikes-around-world-2025-protect-homeland"
+    },
+    {
       "title": "CNN panel erupts when panelist asks why MN Democrats dress like 'Handmaid's Tale' to appease Somali community",
       "link": "https://www.foxnews.com/media/cnn-panel-erupts-when-panelist-asks-why-mn-democrats-dress-like-handmaids-tale-appease-somali-community"
     },
@@ -19,10 +27,6 @@
     {
       "title": "Trump withdraws National Guard from Chicago, LA and Portland, for now",
       "link": "https://www.foxnews.com/politics/trump-withdraws-national-guard-chicago-la-portland-now"
-    },
-    {
-      "title": "Venezuela arrests more Americans as Trump ramps up pressure on Maduro: report",
-      "link": "https://www.foxnews.com/world/venezuela-arrests-more-americans-trump-ramps-pressure-maduro-report"
     },
     {
       "title": "Blue cities U-turn on distributing drug supplies to addicts after progressive policies fail to stem epidemic",
@@ -67,12 +71,8 @@
     {
       "title": "Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge",
       "link": "https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge"
-    },
-    {
-      "title": "Former GOP Sen Jon Kyl announces dementia diagnosis, steps away from public life",
-      "link": "https://www.foxnews.com/politics/former-gop-sen-jon-kyl-announces-dementia-diagnosis-steps-public-life"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T01:11:31.611Z"
+  "timestamp": "2026-01-01T03:17:55.184Z"
 }
