@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Comedian warns 'woke is not dead' as cancel culture still looms over comedy",
+      "link": "https://www.foxnews.com/media/comedian-warns-woke-not-dead-cancel-culture-still-looms-over-comedy"
+    },
+    {
+      "title": "5 big immigration changes taking effect across the US",
+      "link": "https://www.foxnews.com/us/5-big-immigration-changes-taking-effect-across-us"
+    },
+    {
+      "title": "Iran protests turn deadly as anti-regime demonstrations enter fifth day",
+      "link": "https://www.foxnews.com/world/iran-protests-turn-deadly-anti-regime-demonstrations-enter-fifth-day"
+    },
+    {
       "title": "Here are the top US cities Trump could target with National Guard deployments in 2026",
       "link": "https://www.foxnews.com/politics/top-cities-trump-could-target-next-national-guard-deployments"
     },
@@ -54,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T18:19:35.765Z"
+  "timestamp": "2026-01-01T18:50:40.692Z"
 }
