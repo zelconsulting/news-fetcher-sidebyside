@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Here are the top US cities Trump could target with National Guard deployments in 2026",
+      "link": "https://www.foxnews.com/politics/top-cities-trump-could-target-next-national-guard-deployments"
+    },
+    {
+      "title": "White House race underway: With 2026 looming, both parties are already playing for 2028",
+      "link": "https://www.foxnews.com/politics/white-house-race-underway-2026-looming-both-parties-already-playing-2028"
+    },
+    {
       "title": "Critics warn Minnesota legislation now taking effect is setting up the 'next billion-dollar fraud'",
       "link": "https://www.foxnews.com/politics/critics-warn-minnesota-legislation-now-taking-effect-setting-up-next-billion-dollar-fraud"
     },
@@ -11,14 +19,6 @@
     {
       "title": "New York City is about to test Mamdani’s progressive economic vision",
       "link": "https://www.foxnews.com/politics/new-york-city-about-test-mamdanis-progressive-economic-vision"
-    },
-    {
-      "title": "Here's the top US cities Trump could target with National Guard deployments in 2026",
-      "link": "https://www.foxnews.com/politics/top-cities-trump-could-target-next-national-guard-deployments"
-    },
-    {
-      "title": "White House race underway: With 2026 looming, both parties are already playing for 2028",
-      "link": "https://www.foxnews.com/politics/white-house-race-underway-2026-looming-both-parties-already-playing-2028"
     },
     {
       "title": "Trump targets Minnesota fraud allegations, says ‘we’re going to get to the bottom of all those'",
@@ -51,12 +51,8 @@
     {
       "title": "Appeals court sides with Trump on budget provision cutting Planned Parenthood funds",
       "link": "https://www.foxnews.com/politics/appeals-court-sides-trump-budget-provision-cutting-planned-parenthood-funds"
-    },
-    {
-      "title": "Trump slams Walz and Newsom as 'Crooked Governors,' asserting their states are awash with fraud",
-      "link": "https://www.foxnews.com/politics/trump-slams-walz-newsom-crooked-governors-asserting-states-awash-fraud"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T17:13:23.642Z"
+  "timestamp": "2026-01-01T17:34:03.708Z"
 }
