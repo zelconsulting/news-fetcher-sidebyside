@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Inside Trump’s first-year power plays and the court fights testing them",
+      "link": "https://www.foxnews.com/politics/inside-trumps-first-year-power-plays-court-fights-testing-them"
+    },
+    {
       "title": "Comedian warns 'woke is not dead' as cancel culture still looms over comedy",
       "link": "https://www.foxnews.com/media/comedian-warns-woke-not-dead-cancel-culture-still-looms-over-comedy"
     },
@@ -19,10 +23,6 @@
     {
       "title": "White House race underway: With 2026 looming, both parties are already playing for 2028",
       "link": "https://www.foxnews.com/politics/white-house-race-underway-2026-looming-both-parties-already-playing-2028"
-    },
-    {
-      "title": "Inside Trump’s first-year power plays – and the court fights testing them",
-      "link": "https://www.foxnews.com/politics/inside-trumps-first-year-power-plays-court-fights-testing-them"
     },
     {
       "title": "Critics warn Minnesota legislation now taking effect is setting up the 'next billion-dollar fraud'",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T19:47:47.347Z"
+  "timestamp": "2026-01-01T20:15:13.151Z"
 }
