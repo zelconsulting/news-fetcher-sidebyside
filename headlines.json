@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump targets Minnesota fraud allegations, says ‘we’re going to get to the bottom of it’",
+      "link": "https://www.foxnews.com/politics/trump-targets-minnesota-fraud-allegations-says-were-going-get-bottom-it"
+    },
+    {
+      "title": "DOJ outlines 10 ‘wins’ under Trump, says agency restored after Biden era",
+      "link": "https://www.foxnews.com/politics/doj-outlines-10-wins-under-trump-says-agency-restored-after-biden-era"
+    },
+    {
       "title": "Iran in shutdown as protesters storm governor's office, crowds chant 'Death to Khamenei'",
       "link": "https://www.foxnews.com/world/iran-shutdown-protests-intensify-amid-leadership-shake-up-deepening-crisis"
     },
@@ -15,14 +23,6 @@
     {
       "title": "NASCAR star Denny Hamlin gives health update on mom after she was injured in deadly house fire",
       "link": "https://www.foxnews.com/sports/nascar-star-denny-hamlin-gives-health-update-mom-after-she-injured-deadly-house-fire"
-    },
-    {
-      "title": "NPR CEO was asked to resign ahead of Trump government spending cuts: report",
-      "link": "https://www.foxnews.com/media/npr-ceo-asked-resign-ahead-trump-government-spending-cuts-report"
-    },
-    {
-      "title": "US citizens face growing danger as government advises swift departure from one country",
-      "link": "https://www.foxnews.com/travel/us-citizens-face-growing-danger-government-advises-swift-departure-from-one-country"
     },
     {
       "title": "Trump withdraws National Guard from Chicago, LA and Portland, for now",
@@ -59,20 +59,8 @@
     {
       "title": "Comer, House Oversight demand answers in Minnesota fraud hearing, call on Walz to testify",
       "link": "https://www.foxnews.com/politics/comer-house-oversight-demands-answers-minnesota-fraud-hearing-invite-walz-testify"
-    },
-    {
-      "title": "What to know about new state laws in 2026 on wages, SNAP benefits and climate tax",
-      "link": "https://www.foxnews.com/politics/what-know-about-new-state-laws-taking-effect-2026-wages-snap-benefits"
-    },
-    {
-      "title": "Democrats had major election victories in 2025, but wins don’t erase party’s critical weaknesses",
-      "link": "https://www.foxnews.com/politics/democrats-had-major-election-victories-2025-wins-dont-erase-partys-critical-weaknesses"
-    },
-    {
-      "title": "Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge",
-      "link": "https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T05:04:57.548Z"
+  "timestamp": "2026-01-01T05:42:44.009Z"
 }
