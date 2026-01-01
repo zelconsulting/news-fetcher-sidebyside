@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "GOP lawmaker demands Minnesota fraud be treated as 'organized crime' scheme",
+      "link": "https://www.foxnews.com/media/gop-lawmaker-demands-minnesota-fraud-treated-organized-crime-scheme"
+    },
+    {
+      "title": "Patriots coach Mike Vrabel addresses criminal allegations against two players ahead of playoffs",
+      "link": "https://www.foxnews.com/sports/patriots-coach-mike-vrabel-addresses-criminal-allegations-against-two-players-ahead-playoffs"
+    },
+    {
+      "title": "Trump tears into 'average guy' George Clooney who 'complained, constantly, about common sense in politics'",
+      "link": "https://www.foxnews.com/media/trump-tears-average-guy-george-clooney-who-complained-constantly-about-common-sense-politics"
+    },
+    {
+      "title": "Washington Post calls for stricter SNAP qualifications, widespread fraud crackdown after Minnesota scandal",
+      "link": "https://www.foxnews.com/media/washington-post-calls-stricter-snap-qualifications-widespread-fraud-crackdown"
+    },
+    {
       "title": "Inside Trump’s first-year power plays and the court fights testing them",
       "link": "https://www.foxnews.com/politics/inside-trumps-first-year-power-plays-court-fights-testing-them"
     },
@@ -66,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T22:12:56.259Z"
+  "timestamp": "2026-01-01T22:35:09.144Z"
 }
