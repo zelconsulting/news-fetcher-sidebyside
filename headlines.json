@@ -1,10 +1,6 @@
 {
   "fox": [
     {
-      "title": "Critics warn Minnesota legislation now taking effect is setting up the 'next billion-dollar fraud'",
-      "link": "https://www.foxnews.com/politics/critics-warn-minnesota-legislation-now-taking-effect-setting-up-next-billion-dollar-fraud"
-    },
-    {
       "title": "President Donald Trump shares his New Year's resolution",
       "link": "https://www.foxnews.com/politics/president-donald-trump-shares-his-new-years-resolution"
     },
@@ -19,6 +15,10 @@
     {
       "title": "DOJ outlines 10 ‘wins’ under Trump, says agency restored after Biden era",
       "link": "https://www.foxnews.com/politics/doj-outlines-10-wins-under-trump-says-agency-restored-after-biden-era"
+    },
+    {
+      "title": "Critics warn Minnesota legislation now taking effect is setting up the 'next billion-dollar fraud'",
+      "link": "https://www.foxnews.com/politics/critics-warn-minnesota-legislation-now-taking-effect-setting-up-next-billion-dollar-fraud"
     },
     {
       "title": "Here’s where Trump launched airstrikes around the world in 2025: 'Protect the homeland'",
@@ -58,5 +58,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T14:13:29.529Z"
+  "timestamp": "2026-01-01T14:35:21.961Z"
 }
