@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "President Donald Trump shares his New Year's resolution",
+      "link": "https://www.foxnews.com/politics/president-donald-trump-shares-his-new-years-resolution"
+    },
+    {
       "title": "New York City is about to test Mamdani’s progressive economic vision",
       "link": "https://www.foxnews.com/politics/new-york-city-about-test-mamdanis-progressive-economic-vision"
     },
@@ -13,8 +17,8 @@
       "link": "https://www.foxnews.com/politics/doj-outlines-10-wins-under-trump-says-agency-restored-after-biden-era"
     },
     {
-      "title": "Iran in shutdown as protesters storm governor's office, crowds chant 'Death to Khamenei'",
-      "link": "https://www.foxnews.com/world/iran-shutdown-protests-intensify-amid-leadership-shake-up-deepening-crisis"
+      "title": "Critics warn Minnesota legislation now taking effect is setting up the 'next billion dollar fraud'",
+      "link": "https://www.foxnews.com/politics/critics-warn-minnesota-legislation-now-taking-effect-setting-up-next-billion-dollar-fraud"
     },
     {
       "title": "Here’s where Trump launched airstrikes around the world in 2025: 'Protect the homeland'",
@@ -51,12 +55,8 @@
     {
       "title": "Boebert hits back at Trump after veto of Colorado water bill, raises retaliation concerns",
       "link": "https://www.foxnews.com/politics/boebert-hits-back-trump-after-veto-colorado-water-bill-raises-retaliation-concerns"
-    },
-    {
-      "title": "Comer, House Oversight demand answers in Minnesota fraud hearing, call on Walz to testify",
-      "link": "https://www.foxnews.com/politics/comer-house-oversight-demands-answers-minnesota-fraud-hearing-invite-walz-testify"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-01T12:27:13.569Z"
+  "timestamp": "2026-01-01T13:09:10.442Z"
 }
