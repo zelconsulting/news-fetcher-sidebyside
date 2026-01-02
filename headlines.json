@@ -1,12 +1,32 @@
 {
   "fox": [
     {
+      "title": "Fox News Channel delivers highest-rated non-election year ever, ‘The Five’ continues historic run",
+      "link": "https://www.foxnews.com/media/fox-news-channel-delivers-highest-rated-non-election-year-ever-the-five-continues-historic-run"
+    },
+    {
+      "title": "Fox News Politics Newsletter: Israel slams Mamdani over revoked Adams executive orders",
+      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-israel-slams-mamdani-over-revoked-adams-executive-orders"
+    },
+    {
+      "title": "Protests spread across Iran as regime threatens US forces as 'legitimate targets' after Trump warning",
+      "link": "https://www.foxnews.com/world/protests-spread-across-iran-regime-threatens-us-forces-legitimate-targets-after-trump-warning"
+    },
+    {
+      "title": "Conservatives torch media after Mamdani avoids Musk-level backlash over 'identical' on-stage gesture",
+      "link": "https://www.foxnews.com/politics/conservatives-torch-media-after-mamdani-avoids-musk-level-backlash-over-identical-on-stage-gesture"
+    },
+    {
       "title": "Jordon Hudson shares old post aimed at critics after Bill Belichick's tumultuous first season at UNC",
       "link": "https://www.foxnews.com/sports/jordon-hudson-shares-old-post-aimed-critics-after-bill-belichicks-tumultuous-first-season-unc"
     },
     {
       "title": "Healthcare, economy and the 'One Big, Beautiful Bill': Welcome to the midterms",
       "link": "https://www.foxnews.com/politics/healthcare-economy-one-big-beautiful-bill-welcome-midterms"
+    },
+    {
+      "title": "New York Republicans call for independent fraud investigation following Minnesota revelations",
+      "link": "https://www.foxnews.com/politics/new-york-republicans-call-independent-fraud-investigation-following-minnesota-revelations"
     },
     {
       "title": "Mamdani's inauguration fuels debate over Gen Z shift toward socialism, away from free markets",
@@ -19,14 +39,6 @@
     {
       "title": "Trump DOJ demands Minnesota voting records over same-day registration 'vouching' concerns",
       "link": "https://www.foxnews.com/politics/trump-doj-demands-minnesota-voting-records-over-same-day-registration-vouching-concerns"
-    },
-    {
-      "title": "Fox News Politics Newsletter: Israel slams Mamdani over revoked Adams executive orders",
-      "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-israel-slams-mamdani-over-revoked-adams-executive-orders"
-    },
-    {
-      "title": "Conservatives torch media after Mamdani avoids Musk-level backlash over 'identical' on-stage gesture",
-      "link": "https://www.foxnews.com/politics/conservatives-torch-media-after-mamdani-avoids-musk-level-backlash-over-identical-on-stage-gesture"
     },
     {
       "title": "These House mavericks defied their own parties more than anyone else in 2025",
@@ -59,12 +71,8 @@
     {
       "title": "Trump says US will intervene if Iran starts killing protesters: ‘Locked and loaded’",
       "link": "https://www.foxnews.com/politics/trump-says-us-intervene-iran-starts-killing-protesters-locked-loaded"
-    },
-    {
-      "title": "Inside Trump’s first-year power plays and the court fights testing them",
-      "link": "https://www.foxnews.com/politics/inside-trumps-first-year-power-plays-court-fights-testing-them"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-02T22:51:44.219Z"
+  "timestamp": "2026-01-02T23:12:43.044Z"
 }
