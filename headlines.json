@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "Trump warns US will intervene if Iran starts killing protesters and more top headlines",
+      "link": "https://www.foxnews.com/us/trump-warns-us-intervene-iran-starts-killing-protesters-more-top-headlines"
+    },
+    {
+      "title": "Minnesota fraud scandal intensifies debate over stripping citizenship",
+      "link": "https://www.foxnews.com/politics/minnesota-fraud-scandal-intensifies-debate-over-stripping-citizenship"
+    },
+    {
+      "title": "STEPHEN MOORE: Economists keep missing the Trump boom — and they won't admit it",
+      "link": "https://www.foxnews.com/opinion/stephen-moore-economists-keep-missing-trump-boom-wont-admit"
+    },
+    {
+      "title": "The economic policies shaping Trump’s return to the White House",
+      "link": "https://www.foxnews.com/politics/year-review-economic-policies-shaping-trumps-return-white-house"
+    },
+    {
       "title": "JONATHAN TURLEY: Trump’s Kennedy Center name change will keep lawyers busy for years",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-trumps-kennedy-center-name-change-keep-lawyers-busy-years"
     },
@@ -15,14 +31,6 @@
     {
       "title": "Trump says US will intervene if Iran starts killing protesters: ‘Locked and loaded’",
       "link": "https://www.foxnews.com/politics/trump-says-us-intervene-iran-starts-killing-protesters-locked-loaded"
-    },
-    {
-      "title": "Minnesota fraud scandal intensifies debate over stripping citizenship",
-      "link": "https://www.foxnews.com/politics/minnesota-fraud-scandal-intensifies-debate-over-stripping-citizenship"
-    },
-    {
-      "title": "The economic policies shaping Trump’s return to the White House",
-      "link": "https://www.foxnews.com/politics/year-review-economic-policies-shaping-trumps-return-white-house"
     },
     {
       "title": "Inside Trump’s first-year power plays and the court fights testing them",
@@ -66,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-02T12:26:12.592Z"
+  "timestamp": "2026-01-02T13:07:40.168Z"
 }
