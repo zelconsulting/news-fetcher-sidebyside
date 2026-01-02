@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "These House mavericks defied their own parties more than anyone else in 2025",
+      "link": "https://www.foxnews.com/politics/house-mavericks-defied-own-parties-more-than-anyone-else-2025"
+    },
+    {
       "title": "Oregon residents sue Homeland Security after tear gas used on anti-ICE protesters",
       "link": "https://www.foxnews.com/politics/oregon-residents-sue-homeland-security-after-tear-gas-used-anti-ice-protesters"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Trump claims White House doctors report him in 'perfect health,' says he 'aced' third straight cognitive exam",
       "link": "https://www.foxnews.com/politics/trump-claims-white-house-doctors-report-him-perfect-health-says-he-aced-third-straight-cognitive-exam"
-    },
-    {
-      "title": "‘Real Housewives’ star accused of running cult-like church operation, ex-members allege financial exploitation",
-      "link": "https://www.foxnews.com/entertainment/real-housewives-star-running-cult-like-church-operation-financial-exploitation"
     },
     {
       "title": "Minnesota fraud scandal intensifies debate over stripping citizenship",
@@ -67,12 +67,8 @@
     {
       "title": "Trump targets Minnesota fraud allegations, says ‘we’re going to get to the bottom of all those'",
       "link": "https://www.foxnews.com/politics/trump-targets-minnesota-fraud-allegations-says-were-going-get-bottom-it"
-    },
-    {
-      "title": "DOJ outlines 10 ‘wins’ under Trump, says agency restored after Biden era",
-      "link": "https://www.foxnews.com/politics/doj-outlines-10-wins-under-trump-says-agency-restored-after-biden-era"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-02T18:19:47.031Z"
+  "timestamp": "2026-01-02T18:49:42.997Z"
 }
