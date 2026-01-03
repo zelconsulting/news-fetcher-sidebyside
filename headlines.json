@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Trump vows US will 'run' Venezuela until 'safe' transition of power",
+      "link": "https://www.foxnews.com/politics/trump-vows-us-run-venezuela-until-safe-transition-power"
+    },
+    {
+      "title": "Maduro gave car interview about possible Trump olive branch days before he was captured by US",
+      "link": "https://www.foxnews.com/world/maduro-gave-car-interview-about-possible-trump-olive-branch-days-before-he-captured-us"
+    },
+    {
+      "title": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
+      "link": "https://www.foxnews.com/politics/house-gop-critics-break-trump-over-venezuela-operation-captured-maduro"
+    },
+    {
       "title": "House Democrat calls Trump's Maduro capture 'welcome news' as left labels it 'illegal'",
       "link": "https://www.foxnews.com/politics/house-democrat-calls-trumps-maduro-capture-welcome-news-left-accuses-him-illegal-actions"
     },
@@ -11,10 +23,6 @@
     {
       "title": "JONATHAN TURLEY: Why capture of Maduro didn't require approval from Congress",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-why-capture-maduro-didnt-require-approval-from-congress"
-    },
-    {
-      "title": "DeSantis says Florida can regulate AI despite Trump’s executive order: 'We have a right to do this'",
-      "link": "https://www.foxnews.com/tech/desantis-says-florida-can-regulate-ai-despite-trumps-executive-order-we-have-right-do-this"
     },
     {
       "title": "Minnesota faces funding deadline after Trump administration freezes childcare payments",
@@ -31,14 +39,6 @@
     {
       "title": "Supreme Court tariffs case, Fed chair pick loom as twin tests for Trump’s economic agenda in 2026",
       "link": "https://www.foxnews.com/politics/supreme-court-tariffs-case-fed-chair-pick-loom-twin-tests-trumps-economic-agenda-2026"
-    },
-    {
-      "title": "Trump vows US will 'run' Venezuela until 'safe' transition of power",
-      "link": "https://www.foxnews.com/politics/trump-vows-us-run-venezuela-until-safe-transition-power"
-    },
-    {
-      "title": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
-      "link": "https://www.foxnews.com/politics/house-gop-critics-break-trump-over-venezuela-operation-captured-maduro"
     },
     {
       "title": "New York Republicans call for independent fraud investigation following Minnesota revelations",
@@ -62,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T18:18:26.477Z"
+  "timestamp": "2026-01-03T18:48:28.834Z"
 }
