@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "House Democrat calls Trump's Maduro capture 'welcome news' as left labels it 'illegal'",
+      "link": "https://www.foxnews.com/politics/house-democrat-calls-trumps-maduro-capture-welcome-news-left-accuses-him-illegal-actions"
+    },
+    {
       "title": "Republicans line up behind Trump after US strikes Venezuela, Maduro arrested: 'Changed the course of history'",
       "link": "https://www.foxnews.com/politics/republicans-line-up-behind-trump-after-us-strikes-venezuela-maduro-arrested-changed-course-history"
     },
@@ -13,7 +17,7 @@
       "link": "https://www.foxnews.com/tech/desantis-says-florida-can-regulate-ai-despite-trumps-executive-order-we-have-right-do-this"
     },
     {
-      "title": "Minnesota faces funding deadline after Trump administration freezes child care payments",
+      "title": "Minnesota faces funding deadline after Trump administration freezes childcare payments",
       "link": "https://www.foxnews.com/politics/minnesota-faces-funding-deadline-trump-administration-freezes-child-care-payments"
     },
     {
@@ -27,18 +31,6 @@
     {
       "title": "Supreme Court tariffs case, Fed chair pick loom as twin tests for Trump’s economic agenda in 2026",
       "link": "https://www.foxnews.com/politics/supreme-court-tariffs-case-fed-chair-pick-loom-twin-tests-trumps-economic-agenda-2026"
-    },
-    {
-      "title": "Trump confirms US strike in Venezuela, says President Nicolás Maduro has been 'captured'",
-      "link": "https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports"
-    },
-    {
-      "title": "House Democrat calls Trump's Maduro capture 'welcome news' as left labels it 'illegal'",
-      "link": "https://www.foxnews.com/politics/house-democrat-calls-trumps-maduro-capture-welcome-news-left-accuses-him-illegal-actions"
-    },
-    {
-      "title": "Minnesota faces funding deadline after Trump administration freezes childcare payments",
-      "link": "https://www.foxnews.com/politics/minnesota-faces-funding-deadline-trump-administration-freezes-child-care-payments"
     },
     {
       "title": "New York Republicans call for independent fraud investigation following Minnesota revelations",
@@ -70,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T16:54:28.984Z"
+  "timestamp": "2026-01-03T17:11:17.076Z"
 }
