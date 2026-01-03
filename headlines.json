@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "JONATHAN TURLEY: Why capture of Maduro didn't require approval from Congress",
+      "link": "https://www.foxnews.com/opinion/jonathan-turley-why-capture-maduro-didnt-require-approval-from-congress"
+    },
+    {
+      "title": "DeSantis says Florida can regulate AI despite Trump’s executive order: 'We have a right to do this'",
+      "link": "https://www.foxnews.com/tech/desantis-says-florida-can-regulate-ai-despite-trumps-executive-order-we-have-right-do-this"
+    },
+    {
       "title": "Minnesota faces funding deadline after Trump administration freezes child care payments",
       "link": "https://www.foxnews.com/politics/minnesota-faces-funding-deadline-trump-administration-freezes-child-care-payments"
     },
@@ -23,6 +31,10 @@
     {
       "title": "Patriots stars facing criminal allegations decline to answer questions from reporters about legal troubles",
       "link": "https://www.foxnews.com/sports/patriots-stars-facing-criminal-allegations-decline-questions-about-legal-trouble-reporters"
+    },
+    {
+      "title": "Republicans line up behind Trump after US strikes Venezuela, Maduro arrested: 'Changed the course of history'",
+      "link": "https://www.foxnews.com/politics/republicans-line-up-behind-trump-after-us-strikes-venezuela-maduro-arrested-changed-course-history"
     },
     {
       "title": "New York Republicans call for independent fraud investigation following Minnesota revelations",
@@ -62,5 +74,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T13:50:14.420Z"
+  "timestamp": "2026-01-03T14:12:30.316Z"
 }
