@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Mamdani strongly condemns Trump's capture of Venezuelan leader Maduro as 'act of war'",
+      "link": "https://www.foxnews.com/politics/nyc-mayor-strongly-condemns-trumps-capture-venezuelan-leader-maduro-act-war"
+    },
+    {
+      "title": "Iran’s Khamenei lashes out at protesters as nationwide anti-regime unrest grows",
+      "link": "https://www.foxnews.com/world/irans-khamenei-lashes-out-protesters-nationwide-anti-regime-unrest-grows"
+    },
+    {
+      "title": "Pro golfer Jhonattan Vegas weighs in after Trump orders ‘large scale strike’ in Venezuela",
+      "link": "https://www.foxnews.com/sports/pro-golfer-jhonattan-vegas-weighs-after-trump-orders-large-scale-strike-venezuela"
+    },
+    {
       "title": "Trump reveals Venezuela’s Maduro was captured in ‘fortress’-like house: ‘He got bum rushed so fast’",
       "link": "https://www.foxnews.com/politics/trump-reveals-venezuelas-maduro-captured-fortress-like-house-he-got-bum-rushed-so-fast"
     },
@@ -23,10 +35,6 @@
     {
       "title": "Trump vows US will 'run' Venezuela until 'safe' transition of power",
       "link": "https://www.foxnews.com/politics/trump-vows-us-run-venezuela-until-safe-transition-power"
-    },
-    {
-      "title": "Maduro gave car interview about possible Trump olive branch days before he was captured by US",
-      "link": "https://www.foxnews.com/world/maduro-gave-car-interview-about-possible-trump-olive-branch-days-before-he-captured-us"
     },
     {
       "title": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
@@ -70,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T22:12:33.498Z"
+  "timestamp": "2026-01-03T22:34:17.095Z"
 }
