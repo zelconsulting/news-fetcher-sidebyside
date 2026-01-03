@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump reveals Venezuela’s Maduro was captured in ‘fortress’-like house: ‘He got bum rushed so fast’",
+      "link": "https://www.foxnews.com/politics/trump-reveals-venezuelas-maduro-captured-fortress-like-house-he-got-bum-rushed-so-fast"
+    },
+    {
       "title": "Eagles legend Billy Ray Barnes, member of 1960 championship team, dead at 90",
       "link": "https://www.foxnews.com/sports/eagles-legend-billy-ray-barnes-member-1960-championship-team-dead-90"
     },
@@ -27,10 +31,6 @@
     {
       "title": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
       "link": "https://www.foxnews.com/politics/house-gop-critics-break-trump-over-venezuela-operation-captured-maduro"
-    },
-    {
-      "title": "Trump reveals Venezuela’s Maduro was captured in ‘fortress’-like house: ‘He got bum rushed so fast’",
-      "link": "https://www.foxnews.com/politics/trump-reveals-venezuelas-maduro-captured-fortress-like-house-he-got-bum-rushed-so-fast"
     },
     {
       "title": "House Democrat calls Trump's Maduro capture 'welcome news' as left labels it 'illegal'",
@@ -70,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T21:48:29.812Z"
+  "timestamp": "2026-01-03T22:12:33.498Z"
 }
