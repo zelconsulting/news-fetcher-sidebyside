@@ -1,10 +1,6 @@
 {
   "fox": [
     {
-      "title": "Washington Post praises Trump's Venezuela operation as 'unquestionable tactical success'",
-      "link": "https://www.foxnews.com/media/washington-post-praises-trumps-venezuela-operation-unquestionable-tactical-success"
-    },
-    {
       "title": "Trump vows US will 'run' Venezuela until 'safe' transition of power",
       "link": "https://www.foxnews.com/politics/trump-vows-us-run-venezuela-until-safe-transition-power"
     },
@@ -23,6 +19,10 @@
     {
       "title": "Republicans line up behind Trump after US strikes Venezuela, Maduro arrested: 'Changed the course of history'",
       "link": "https://www.foxnews.com/politics/republicans-line-up-behind-trump-after-us-strikes-venezuela-maduro-arrested-changed-course-history"
+    },
+    {
+      "title": "JONATHAN TURLEY: Why capture of Maduro didn't require approval from Congress",
+      "link": "https://www.foxnews.com/opinion/jonathan-turley-why-capture-maduro-didnt-require-approval-from-congress"
     },
     {
       "title": "Minnesota faces funding deadline after Trump administration freezes childcare payments",
@@ -62,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-03T19:25:30.992Z"
+  "timestamp": "2026-01-03T19:34:09.577Z"
 }
