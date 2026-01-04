@@ -1,11 +1,19 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: Trump restores America as the world's sole superpower",
+      "link": "https://www.foxnews.com/opinion/david-marcus-trump-restores-america-worlds-sole-superpower"
+    },
+    {
+      "title": "Rob Schneider exposes Hollywood's 'rot' as he claims conservative actors face industry blacklist",
+      "link": "https://www.foxnews.com/entertainment/rob-schneider-exposes-hollywoods-rot-he-claims-conservative-actors-face-industry-blacklist"
+    },
+    {
       "title": "GOP lawmaker says Democrats have ‘egg on their face’ after Trump’s capture of Venezuela’s Maduro",
       "link": "https://www.foxnews.com/media/gop-lawmaker-says-democrats-have-egg-face-after-trumps-capture-venezuelas-maduro"
     },
     {
-      "title": "JONATHAN TURLEY: Maduro operation was legal, but Trump makes it complicated",
+      "title": "JONATHAN TURLEY: Why Trump went off script on Venezuela and why it won't matter",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-maduro-operation-legal-trump-makes-complicated"
     },
     {
@@ -62,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-04T17:11:23.409Z"
+  "timestamp": "2026-01-04T17:30:43.161Z"
 }
