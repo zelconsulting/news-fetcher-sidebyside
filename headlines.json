@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "GOP lawmaker says Democrats have ‘egg on their face’ after Trump’s capture of Venezuela’s Maduro",
+      "link": "https://www.foxnews.com/media/gop-lawmaker-says-democrats-have-egg-face-after-trumps-capture-venezuelas-maduro"
+    },
+    {
       "title": "JONATHAN TURLEY: Maduro operation was legal, but Trump makes it complicated",
       "link": "https://www.foxnews.com/opinion/jonathan-turley-maduro-operation-legal-trump-makes-complicated"
     },
@@ -11,10 +15,6 @@
     {
       "title": "Mamdani strongly condemns Trump's capture of Venezuelan leader Maduro as 'act of war'",
       "link": "https://www.foxnews.com/politics/nyc-mayor-strongly-condemns-trumps-capture-venezuelan-leader-maduro-act-war"
-    },
-    {
-      "title": "Iran’s Khamenei lashes out at protesters as nationwide anti-regime unrest grows",
-      "link": "https://www.foxnews.com/world/irans-khamenei-lashes-out-protesters-nationwide-anti-regime-unrest-grows"
     },
     {
       "title": "Trump reveals Venezuela’s Maduro was captured in ‘fortress’-like house: ‘He got bum rushed so fast’",
@@ -62,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-04T16:45:17.789Z"
+  "timestamp": "2026-01-04T17:11:23.409Z"
 }
