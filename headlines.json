@@ -1,10 +1,6 @@
 {
   "fox": [
     {
-      "title": "Greene hits Trump over Venezuela strikes, argues action 'doesn't serve the American people'",
-      "link": "https://www.foxnews.com/media/greene-hits-trump-over-venezuela-strikes-argues-action-doesnt-serve-american-people"
-    },
-    {
       "title": "Trump and Musk share 'lovely dinner' at Mar-a-Lago after public feuding",
       "link": "https://www.foxnews.com/politics/trump-musk-share-lovely-dinner-mar-a-lago-after-public-feuding"
     },
@@ -35,6 +31,10 @@
     {
       "title": "Billy Joel makes surprise comeback performance after brain condition forced show cancellations",
       "link": "https://www.foxnews.com/entertainment/billy-joel-makes-surprise-comeback-performance-after-brain-condition-forced-show-cancellations"
+    },
+    {
+      "title": "Kristi Noem delivers Trump's ultimatum to Venezuela's vice president following Maduro capture operation",
+      "link": "https://www.foxnews.com/media/kristi-noem-delivers-trumps-ultimatum-venezuelas-vice-president-following-maduro-capture-operation"
     },
     {
       "title": "Kamala Harris blasts Trump administration’s capture of Venezuela’s Maduro as ‘unlawful and unwise’",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-04T23:31:05.947Z"
+  "timestamp": "2026-01-04T23:49:43.143Z"
 }
