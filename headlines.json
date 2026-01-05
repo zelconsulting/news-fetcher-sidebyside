@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Democrats label Trump's Venezuela operation an 'impeachable offense'",
+      "link": "https://www.foxnews.com/politics/democrats-label-trumps-venezuela-operation-impeachable-offense"
+    },
+    {
+      "title": "Fraud fallout forces Democratic Gov Tim Walz to abandon Minnesota re-election bid",
+      "link": "https://www.foxnews.com/politics/fraud-fallout-forces-democratic-gov-tim-walz-abandon-minnesota-re-election-bid"
+    },
+    {
       "title": "Kimmel targets Trump during Critics Choice Awards acceptance speech after winning Best Talk Show",
       "link": "https://www.foxnews.com/media/kimmel-targets-trump-during-critics-choice-awards-acceptance-speech-after-winning-best-talk-show"
     },
@@ -33,20 +41,8 @@
       "link": "https://www.foxnews.com/opinion/bennett-mohrman-2026-give-us-over-1000-ways-boost-educational-freedom"
     },
     {
-      "title": "Trump says Cuba is ‘ready to fall’ after capture of Venezuela’s Maduro",
-      "link": "https://www.foxnews.com/world/trump-says-cuba-ready-fall-after-capture-venezuelas-maduro"
-    },
-    {
       "title": "Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez",
       "link": "https://www.foxnews.com/politics/trump-vows-us-in-charge-venezuela-he-reveals-hes-spoken-delcy-rodriguez"
-    },
-    {
-      "title": "Democrats label Trump's Venezuela operation an 'impeachable offense'",
-      "link": "https://www.foxnews.com/politics/democrats-label-trumps-venezuela-operation-impeachable-offense"
-    },
-    {
-      "title": "Fraud fallout forces Democratic Gov. Tim Walz to abandon Minnesota re-election bid",
-      "link": "https://www.foxnews.com/politics/fraud-fallout-forces-democratic-gov-tim-walz-abandon-minnesota-re-election-bid"
     },
     {
       "title": "Trump and Musk share 'lovely dinner' at Mar-a-Lago after public feuding",
@@ -79,8 +75,12 @@
     {
       "title": "Trump vows US will 'run' Venezuela until 'safe' transition of power",
       "link": "https://www.foxnews.com/politics/trump-vows-us-run-venezuela-until-safe-transition-power"
+    },
+    {
+      "title": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
+      "link": "https://www.foxnews.com/politics/house-gop-critics-break-trump-over-venezuela-operation-captured-maduro"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-05T15:16:01.785Z"
+  "timestamp": "2026-01-05T15:44:33.056Z"
 }
