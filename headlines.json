@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Bondi says Trump 'saved countless lives' in Venezuelan dictator Maduro capture operation",
+      "link": "https://www.foxnews.com/media/bondi-says-trump-saved-countless-lives-venezuelan-dictator-maduro-capture-operation"
+    },
+    {
+      "title": "Iran offers citizens $7 monthly payments as protests spiral over economic crisis: report",
+      "link": "https://www.foxnews.com/world/iran-offers-citizens-7-monthly-payments-protests-spiral-over-economic-crisis-report"
+    },
+    {
       "title": "Walz's lieutenant governor and progressive Senate hopeful slammed for leadership amid Somali fraud crisis",
       "link": "https://www.foxnews.com/politics/walzs-lieutenant-governor-progressive-senate-hopeful-slammed-leadership-amid-somali-fraud-crisis"
     },
@@ -15,14 +23,6 @@
     {
       "title": "SCOOP: House Freedom Caucus lays out GOP battle plan ahead of Republicans' huddle with Trump",
       "link": "https://www.foxnews.com/politics/house-freedom-caucus-lays-out-gop-battle-plan-ahead-republicans-huddle-trump"
-    },
-    {
-      "title": "Colombian President Petro threatens military response after Trump warns Colombia may be next target",
-      "link": "https://www.foxnews.com/world/colombian-president-petro-threatens-military-response-after-trump-warns-colombia-may-next-target"
-    },
-    {
-      "title": "Van Hollen confronted on Democrats arguing party lacks 'nuance' in criticism of Venezuela strikes",
-      "link": "https://www.foxnews.com/media/van-hollen-confronted-democrats-arguing-party-lacks-nuance-criticism-venezuela-strikes"
     },
     {
       "title": "Trump admin asks Boasberg for more time to detail CECOT plans after Maduro ouster",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-06T04:08:41.712Z"
+  "timestamp": "2026-01-06T04:50:24.599Z"
 }
