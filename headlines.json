@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Caribbean nation Dominica agrees to take US asylum seekers as Trump expands deportation deals",
+      "link": "https://www.foxnews.com/politics/caribbean-nation-dominica-agrees-take-us-asylum-seekers-trump-expands-deportation-deals"
+    },
+    {
       "title": "Bondi says Trump 'saved countless lives' in Venezuelan dictator Maduro capture operation",
       "link": "https://www.foxnews.com/media/bondi-says-trump-saved-countless-lives-venezuelan-dictator-maduro-capture-operation"
     },
@@ -23,10 +27,6 @@
     {
       "title": "SCOOP: House Freedom Caucus lays out GOP battle plan ahead of Republicans' huddle with Trump",
       "link": "https://www.foxnews.com/politics/house-freedom-caucus-lays-out-gop-battle-plan-ahead-republicans-huddle-trump"
-    },
-    {
-      "title": "Caribbean nation Dominica agrees to take US asylum seekers as Trump expands deportation deals",
-      "link": "https://www.foxnews.com/politics/caribbean-nation-dominica-agrees-take-us-asylum-seekers-trump-expands-deportation-deals"
     },
     {
       "title": "Trump admin asks Boasberg for more time to detail CECOT plans after Maduro ouster",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-06T08:51:38.548Z"
+  "timestamp": "2026-01-06T09:19:28.700Z"
 }
