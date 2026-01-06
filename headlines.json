@@ -1,64 +1,8 @@
 {
   "fox": [
     {
-      "title": "ICE launches 'largest immigration operation ever' in Minneapolis, acting director says",
-      "link": "https://www.foxnews.com/us/ice-launches-largest-immigration-operation-ever-minneapolis-acting-director-says"
-    },
-    {
-      "title": "Sanders slams Trump's Venezuela strike after years of soft rhetoric on socialist strongmen",
-      "link": "https://www.foxnews.com/politics/sanders-slams-trumps-venezuela-strike-after-years-soft-rhetoric-socialist-strongmen"
-    },
-    {
-      "title": "Dem senator introduces bill to stop Trump from invading 'another country on a whim' over Greenland",
-      "link": "https://www.foxnews.com/politics/dem-senator-introduces-bill-stop-trump-from-invading-another-country-whim-over-greenland"
-    },
-    {
-      "title": "Anti-Israel protests force Spanish basketball teams to ban fans as security fears mount",
-      "link": "https://www.foxnews.com/sports/anti-israel-protests-force-spanish-basketball-teams-ban-fans-security-fears-mount"
-    },
-    {
-      "title": "Trump tells Scarborough US will keep Venezuela oil when pressed on Iraq comparisons",
-      "link": "https://www.foxnews.com/media/trump-tells-scarborough-us-keep-venezuela-oil-when-pressed-iraq-comparisons"
-    },
-    {
-      "title": "Venezuelan-American journalist sounds alarm on pro-Maduro protests, calls them a 'threat to national security'",
-      "link": "https://www.foxnews.com/media/venezuelan-american-journalist-sounds-alarm-pro-maduro-protests-calls-them-threat-national-security"
-    },
-    {
-      "title": "Pelosi heir-apparent calls Trump’s Venezuela move a ‘lawless coup,’ urges impeachment, slams Netanyahu",
-      "link": "https://www.foxnews.com/politics/pelosi-heir-apparent-calls-trumps-venezuela-move-lawless-coup-urges-impeachment-slams-netanyahu"
-    },
-    {
-      "title": "House GOP summons health insurers to Capitol Hill as Obamacare battle escalates",
-      "link": "https://www.foxnews.com/politics/house-gop-summons-health-insurers-capitol-hill-obamacare-battle-escalates"
-    },
-    {
-      "title": "White House torches Democrats’ Jan 6 ‘gaslighting’ claims in anniversary takedown",
-      "link": "https://www.foxnews.com/politics/white-house-torches-democrats-jan-6-gaslighting-claims-anniversary-takedown"
-    },
-    {
-      "title": "Newsom accuses Trump of spreading 'hurricane force bulls---' during deadly California wildfires",
-      "link": "https://www.foxnews.com/media/newsom-accuses-trump-spreading-hurricane-force-bulls-during-deadly-california-wildfires"
-    },
-    {
-      "title": "House GOP bill could trigger self-deportation for Somali refugees amid Minnesota fraud probe",
-      "link": "https://www.foxnews.com/politics/house-gop-bill-could-trigger-self-deportation-somali-refugees-amid-minnesota-fraud-probe"
-    },
-    {
-      "title": "Tim Allen says one conversation made Trump walk away from Hollywood movie investing",
-      "link": "https://www.foxnews.com/entertainment/tim-allen-says-one-conversation-made-trump-walk-away-from-hollywood-movie-investing"
-    },
-    {
-      "title": "Trump says first lady ‘hates when I do this’ in public — the moment he can’t help repeating",
-      "link": "https://www.foxnews.com/politics/trump-says-first-lady-hates-when-i-do-this-public-moment-he-cant-help-repeating"
-    },
-    {
-      "title": "Texas Republicans in 2 counties drop push to hand-count ballots",
-      "link": "https://www.foxnews.com/politics/texas-republicans-2-counties-drop-push-hand-count-ballots"
-    },
-    {
-      "title": "From Congress, to VP nominee to disgraced former governor: A look at the rise and fall of Tim Walz",
-      "link": "https://www.foxnews.com/politics/from-congress-vp-nominee-disgraced-former-governor-look-rise-fall-tim-walz"
+      "title": "Iran protesters emboldened by Trump admin’s Persian messaging after Obama-Biden inaction, activists say",
+      "link": "https://www.foxnews.com/world/iran-protesters-emboldened-trump-admins-persian-messaging-after-obama-biden-inaction-activists-say"
     },
     {
       "title": "Walz refuses to quit after dropping re-election bid amid Minnesota fraud firestorm: 'Over my dead body'",
@@ -73,14 +17,66 @@
       "link": "https://www.foxnews.com/politics/trump-pitches-cognitive-tests-leaders-questions-harris-walz-newsom-could-pass"
     },
     {
+      "title": "ICE launches 'largest immigration operation ever' in Minneapolis, acting director says",
+      "link": "https://www.foxnews.com/us/ice-launches-largest-immigration-operation-ever-minneapolis-acting-director-says"
+    },
+    {
+      "title": "Sanders slams Trump's Venezuela strike after years of soft rhetoric on socialist strongmen",
+      "link": "https://www.foxnews.com/politics/sanders-slams-trumps-venezuela-strike-after-years-soft-rhetoric-socialist-strongmen"
+    },
+    {
+      "title": "Walz’s long-running fraud scandal puts Harris campaign judgment under scrutiny",
+      "link": "https://www.foxnews.com/politics/walzs-long-running-fraud-scandal-puts-harris-campaign-judgment-under-scrutiny"
+    },
+    {
+      "title": "Rand Paul breaks with Trump on Venezuela, calls action ‘war’ as Senate prepares constitutional showdown",
+      "link": "https://www.foxnews.com/politics/rand-paul-breaks-with-trump-on-venezuela-calls-action-war-as-senate-prepares-constitutional-showdown"
+    },
+    {
+      "title": "Dem senator introduces bill to stop Trump from invading 'another country on a whim' over Greenland",
+      "link": "https://www.foxnews.com/politics/dem-senator-introduces-bill-stop-trump-from-invading-another-country-whim-over-greenland"
+    },
+    {
+      "title": "Pelosi heir-apparent calls Trump’s Venezuela move a ‘lawless coup,’ urges impeachment, slams Netanyahu",
+      "link": "https://www.foxnews.com/politics/pelosi-heir-apparent-calls-trumps-venezuela-move-lawless-coup-urges-impeachment-slams-netanyahu"
+    },
+    {
+      "title": "House GOP summons health insurers to Capitol Hill as Obamacare battle escalates",
+      "link": "https://www.foxnews.com/politics/house-gop-summons-health-insurers-capitol-hill-obamacare-battle-escalates"
+    },
+    {
+      "title": "White House torches Democrats’ Jan 6 ‘gaslighting’ claims in anniversary takedown",
+      "link": "https://www.foxnews.com/politics/white-house-torches-democrats-jan-6-gaslighting-claims-anniversary-takedown"
+    },
+    {
+      "title": "House GOP bill could trigger self-deportation for Somali refugees amid Minnesota fraud probe",
+      "link": "https://www.foxnews.com/politics/house-gop-bill-could-trigger-self-deportation-somali-refugees-amid-minnesota-fraud-probe"
+    },
+    {
+      "title": "Trump says first lady ‘hates when I do this’ in public — the moment he can’t help repeating",
+      "link": "https://www.foxnews.com/politics/trump-says-first-lady-hates-when-i-do-this-public-moment-he-cant-help-repeating"
+    },
+    {
+      "title": "Texas Republicans in 2 counties drop push to hand-count ballots",
+      "link": "https://www.foxnews.com/politics/texas-republicans-2-counties-drop-push-hand-count-ballots"
+    },
+    {
+      "title": "From Congress, to VP nominee to disgraced former governor: A look at the rise and fall of Tim Walz",
+      "link": "https://www.foxnews.com/politics/from-congress-vp-nominee-disgraced-former-governor-look-rise-fall-tim-walz"
+    },
+    {
       "title": "Trump dedicates Kennedy Center speech to Doug LaMalfa after congressman's shocking death: 'He was our friend'",
       "link": "https://www.foxnews.com/politics/trump-dedicates-kennedy-center-speech-doug-lamalfa-after-congressmans-shocking-death-he-our-friend"
     },
     {
       "title": "Rand Paul: Biden FBI tracked Catholic teacher with no Jan 6 ties in 'weaponized' probe",
       "link": "https://www.foxnews.com/politics/rand-paul-biden-fbi-tracked-catholic-teacher-no-jan-6-ties-weaponized-probe"
+    },
+    {
+      "title": "Republican congressman hospitalized after car accident, sources say",
+      "link": "https://www.foxnews.com/politics/republican-congressman-hospitalized-after-car-accident-sources-say"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-06T20:15:26.225Z"
+  "timestamp": "2026-01-06T20:43:09.239Z"
 }
