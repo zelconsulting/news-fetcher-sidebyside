@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Walz’s long-running fraud scandal puts Harris campaign judgment under scrutiny",
+      "link": "https://www.foxnews.com/politics/walzs-long-running-fraud-scandal-puts-harris-campaign-judgment-under-scrutiny"
+    },
+    {
+      "title": "Rand Paul breaks with Trump on Venezuela, calls action ‘war’ as Senate prepares constitutional showdown",
+      "link": "https://www.foxnews.com/politics/rand-paul-breaks-with-trump-on-venezuela-calls-action-war-as-senate-prepares-constitutional-showdown"
+    },
+    {
+      "title": "Top Canadian officials to visit Greenland amid international fears as Trump eyes NATO-linked territory",
+      "link": "https://www.foxnews.com/world/top-canadian-officials-visit-greenland-amid-international-fears-trump-eyes-nato-linked-territory"
+    },
+    {
       "title": "Iran protesters emboldened by Trump admin’s Persian messaging after Obama-Biden inaction, activists say",
       "link": "https://www.foxnews.com/world/iran-protesters-emboldened-trump-admins-persian-messaging-after-obama-biden-inaction-activists-say"
     },
@@ -17,20 +29,8 @@
       "link": "https://www.foxnews.com/politics/trump-pitches-cognitive-tests-leaders-questions-harris-walz-newsom-could-pass"
     },
     {
-      "title": "ICE launches 'largest immigration operation ever' in Minneapolis, acting director says",
-      "link": "https://www.foxnews.com/us/ice-launches-largest-immigration-operation-ever-minneapolis-acting-director-says"
-    },
-    {
       "title": "Sanders slams Trump's Venezuela strike after years of soft rhetoric on socialist strongmen",
       "link": "https://www.foxnews.com/politics/sanders-slams-trumps-venezuela-strike-after-years-soft-rhetoric-socialist-strongmen"
-    },
-    {
-      "title": "Walz’s long-running fraud scandal puts Harris campaign judgment under scrutiny",
-      "link": "https://www.foxnews.com/politics/walzs-long-running-fraud-scandal-puts-harris-campaign-judgment-under-scrutiny"
-    },
-    {
-      "title": "Rand Paul breaks with Trump on Venezuela, calls action ‘war’ as Senate prepares constitutional showdown",
-      "link": "https://www.foxnews.com/politics/rand-paul-breaks-with-trump-on-venezuela-calls-action-war-as-senate-prepares-constitutional-showdown"
     },
     {
       "title": "Dem senator introduces bill to stop Trump from invading 'another country on a whim' over Greenland",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-06T20:43:09.239Z"
+  "timestamp": "2026-01-06T20:52:47.828Z"
 }
