@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "ENES KANTER FREEDOM: I came here for my basketball dream. I stay for freedom and the American dream",
+      "link": "https://www.foxnews.com/opinion/enes-kanter-freedom-i-came-here-my-basketball-dream-stay-freedom-american-dream"
+    },
+    {
+      "title": "MORNING GLORY: President Trump has placed America’s adversaries on notice",
+      "link": "https://www.foxnews.com/opinion/morning-glory-president-trump-has-placed-americas-adversaries-notice"
+    },
+    {
+      "title": "Maduro’s arrest is good news for all Americans and leaves Democrats looking foolish",
+      "link": "https://www.foxnews.com/opinion/maduros-arrest-good-news-all-americans-leaves-democrats-looking-foolish"
+    },
+    {
       "title": "Caribbean nation Dominica agrees to take US asylum seekers as Trump expands deportation deals",
       "link": "https://www.foxnews.com/politics/caribbean-nation-dominica-agrees-take-us-asylum-seekers-trump-expands-deportation-deals"
     },
@@ -27,6 +39,10 @@
     {
       "title": "SCOOP: House Freedom Caucus lays out GOP battle plan ahead of Republicans' huddle with Trump",
       "link": "https://www.foxnews.com/politics/house-freedom-caucus-lays-out-gop-battle-plan-ahead-republicans-huddle-trump"
+    },
+    {
+      "title": "Trump continues lambasting incumbent Republican Thomas Massie as challenger files to enter race",
+      "link": "https://www.foxnews.com/politics/trump-continues-lambasting-incumbent-republican-thomas-massie-challenger-files-enter-race"
     },
     {
       "title": "Trump admin asks Boasberg for more time to detail CECOT plans after Maduro ouster",
@@ -63,24 +79,8 @@
     {
       "title": "ICE blasts Hilton after emails allegedly show hotel refusing rooms to immigration agents",
       "link": "https://www.foxnews.com/politics/ice-blasts-hilton-after-emails-allegedly-show-hotel-refusing-rooms-immigration-agents"
-    },
-    {
-      "title": "Schumer blasted Trump for failing to oust Maduro — now warns arrest could lead to ‘endless war’",
-      "link": "https://www.foxnews.com/politics/schumer-blasted-trump-failing-oust-maduro-now-warns-arrest-could-lead-endless-war"
-    },
-    {
-      "title": "Republicans take voter registration lead from Democrats in crucial swing state for the first time",
-      "link": "https://www.foxnews.com/politics/republicans-take-voter-registration-lead-from-democrats-in-crucial-swing-state-for-the-first-time"
-    },
-    {
-      "title": "US deportation flights to Venezuela continue despite Nicolas Maduro arrest and government transition",
-      "link": "https://www.foxnews.com/politics/us-deportation-flights-venezuela-continue-despite-nicolas-maduro-arrest-government-transition"
-    },
-    {
-      "title": "Minnesota Republicans say Tim Walz not off the hook after dropping re-election bid",
-      "link": "https://www.foxnews.com/politics/minnesota-republicans-say-tim-walz-not-off-hook-after-dropping-re-election-bid"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-06T10:47:17.232Z"
+  "timestamp": "2026-01-06T11:12:35.193Z"
 }
