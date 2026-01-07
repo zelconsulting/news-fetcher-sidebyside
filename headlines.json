@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Wyoming Supreme Court rules laws restricting abortion violate state constitution",
+      "link": "https://www.foxnews.com/politics/wyoming-supreme-court-rules-laws-restricting-abortion-violate-state-constitution"
+    },
+    {
       "title": "United Nations 'upset' that Trump took 'bold action' to improve Venezuela, says UN Amb. Mike Waltz",
       "link": "https://www.foxnews.com/media/united-nations-upset-trump-took-bold-action-improve-venezuela-says-un-amb-mike-waltz"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/georgia-calls-special-election-march-fill-mtg-vacancy-after-trump-rupture-resignation"
     },
     {
-      "title": "Wyoming Supreme Court rules laws restricting abortion violate state constitution",
-      "link": "https://www.foxnews.com/politics/wyoming-supreme-court-rules-laws-restricting-abortion-violate-state-constitution"
-    },
-    {
       "title": "Trump ousting of Maduro draws parallels to US raid in Panama – but there are some major contrasts",
       "link": "https://www.foxnews.com/politics/trump-ousting-maduro-draws-parallels-us-raid-panama-some-major-contrasts"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-07T05:19:13.404Z"
+  "timestamp": "2026-01-07T05:46:34.377Z"
 }
