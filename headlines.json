@@ -1,46 +1,6 @@
 {
   "fox": [
     {
-      "title": "Minneapolis protesters confront federal agents day after deadly shooting",
-      "link": "https://www.foxnews.com/us/minneapolis-protesters-confront-federal-agents-day-after-deadly-shooting"
-    },
-    {
-      "title": "GOP lawmakers call on Trump to arrest Walz after governor warns of National Guard move",
-      "link": "https://www.foxnews.com/politics/gop-lawmakers-call-trump-arrest-walz-after-governor-warns-national-guard-move"
-    },
-    {
-      "title": "CBS anchor grills Trump border czar over ICE conduct after fatal shooting, calling it 'not believable'",
-      "link": "https://www.foxnews.com/media/cbs-anchor-grills-trump-border-czar-over-ice-conduct-after-fatal-shooting-calling-not-believable"
-    },
-    {
-      "title": "Reporter's Notebook: House attempts to override Trump vetoes on Colorado water project, Florida Everglades",
-      "link": "https://www.foxnews.com/politics/reporters-notebook-house-attempts-override-trump-vetoes-colorado-water-project-florida-everglades"
-    },
-    {
-      "title": "Democratic strategist calls out party for 'oppose first, think later' response to Trump's capture of Maduro",
-      "link": "https://www.foxnews.com/media/democratic-strategist-calls-out-party-oppose-first-think-later-response-trump-capture-maduro"
-    },
-    {
-      "title": "Trump, first lady set for Washington Trump–Kennedy Center premiere of ‘MELANIA’ ahead of global release",
-      "link": "https://www.foxnews.com/politics/trump-first-lady-set-washington-trump-kennedy-center-premiere-melania-ahead-global-release"
-    },
-    {
-      "title": "DAVID MARCUS: ICE protesters put lives at risk, and not just theirs",
-      "link": "https://www.foxnews.com/opinion/david-marcus-ice-protesters-put-lives-risk-not-just-theirs"
-    },
-    {
-      "title": "Trump-Kennedy Center blasts ‘far-left bias’ in ratings coverage, points to No. 1 demographics tie",
-      "link": "https://www.foxnews.com/politics/kennedy-center-blasts-far-left-bias-ratings-coverage-points-no-1-demographics-tie"
-    },
-    {
-      "title": "House GOP spending bills pack billions in earmarks, sparking backlash from fiscal hawks",
-      "link": "https://www.foxnews.com/politics/house-gop-spending-bills-pack-billions-earmarks-sparking-backlash-from-fiscal-hawks"
-    },
-    {
-      "title": "Nick Reiner losing powerhouse defense attorney may come down to money, experts say",
-      "link": "https://www.foxnews.com/entertainment/nick-reiner-losing-powerhouse-defense-attorney-may-come-down-money-experts-say"
-    },
-    {
       "title": "Trump's tariff boom hits record highs as Supreme Court showdown looms",
       "link": "https://www.foxnews.com/politics/trumps-tariff-boom-hits-record-highs-supreme-court-showdown-looms"
     },
@@ -57,6 +17,14 @@
       "link": "https://www.foxnews.com/politics/vance-demands-democrats-answer-whether-ice-officer-minneapolis-shooting-wrong-defending-his-life"
     },
     {
+      "title": "Federal prosecutor calls Newsom 'king of fraud' as Trump launches California corruption probe",
+      "link": "https://www.foxnews.com/media/federal-prosecutor-calls-newsom-king-fraud-trump-launches-california-corruption-probe"
+    },
+    {
+      "title": "JONATHAN TURLEY: Minnesota Democrats choose 'rage politics' over sanity",
+      "link": "https://www.foxnews.com/opinion/jonathan-turley-minnesota-democrats-choose-rush-rage-politics-over-sanity"
+    },
+    {
       "title": "5 GOP senators join Democrats to stop Trump from policing Venezuela",
       "link": "https://www.foxnews.com/politics/gop-senators-join-democrats-stop-trump-from-policing-venezuela"
     },
@@ -67,6 +35,38 @@
     {
       "title": "Senate Dem John Fetterman supports prospect of US Greenland purchase, citing 'massive strategic benefits'",
       "link": "https://www.foxnews.com/politics/senate-dem-john-fetterman-supports-prospect-us-greenland-purchase-citing-massive-strategic-benefits"
+    },
+    {
+      "title": "JD Vance announces multi-state fraud task force in wake of Minnesota scandal",
+      "link": "https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal"
+    },
+    {
+      "title": "Trump calls for $1.5T defense budget to build ‘dream military’",
+      "link": "https://www.foxnews.com/politics/trump-calls-1-5t-defense-budget-build-dream-military"
+    },
+    {
+      "title": "Trump blasts GOP war powers defectors, says they 'should never be elected to office again'",
+      "link": "https://www.foxnews.com/politics/trump-blasts-gop-war-powers-defectors-says-should-never-elected-office-again"
+    },
+    {
+      "title": "GOP lawmakers call on Trump to arrest Walz after governor warns of National Guard move",
+      "link": "https://www.foxnews.com/politics/gop-lawmakers-call-trump-arrest-walz-after-governor-warns-national-guard-move"
+    },
+    {
+      "title": "Reporter's Notebook: House attempts to override Trump vetoes on Colorado water project, Florida Everglades",
+      "link": "https://www.foxnews.com/politics/reporters-notebook-house-attempts-override-trump-vetoes-colorado-water-project-florida-everglades"
+    },
+    {
+      "title": "Trump, first lady set for Washington Trump–Kennedy Center premiere of ‘MELANIA’ ahead of global release",
+      "link": "https://www.foxnews.com/politics/trump-first-lady-set-washington-trump-kennedy-center-premiere-melania-ahead-global-release"
+    },
+    {
+      "title": "Trump-Kennedy Center blasts ‘far-left bias’ in ratings coverage, points to No. 1 demographics tie",
+      "link": "https://www.foxnews.com/politics/kennedy-center-blasts-far-left-bias-ratings-coverage-points-no-1-demographics-tie"
+    },
+    {
+      "title": "House GOP spending bills pack billions in earmarks, sparking backlash from fiscal hawks",
+      "link": "https://www.foxnews.com/politics/house-gop-spending-bills-pack-billions-earmarks-sparking-backlash-from-fiscal-hawks"
     },
     {
       "title": "Lindsey Graham says Trump backs Russia sanctions bill",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-08T18:18:18.432Z"
+  "timestamp": "2026-01-08T18:51:15.848Z"
 }
