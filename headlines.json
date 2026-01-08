@@ -1,40 +1,12 @@
 {
   "fox": [
     {
-      "title": "House passes nearly $180B funding package after conservative rebellion over Minnesota fraud fears",
-      "link": "https://www.foxnews.com/politics/house-passes-nearly-180b-funding-package-after-conservative-rebellion-over-minnesota-fraud-fears"
-    },
-    {
-      "title": "Trump defends ICE agent, shows NYT reporters video of deadly Minneapolis shooting",
-      "link": "https://www.foxnews.com/politics/trump-defends-ice-agent-shows-nyt-reporters-video-deadly-minneapolis-shooting"
-    },
-    {
-      "title": "Noem says Trump administration is 'on offense,' using 'every single tool that we have' to protect Americans",
-      "link": "https://www.foxnews.com/us/noem-says-trump-administration-on-offense-using-every-single-tool-we-have-protect-americans"
-    },
-    {
-      "title": "House Dem introduces bill after Venezuela operation to block presidents from bypassing Congress",
-      "link": "https://www.foxnews.com/politics/house-dem-introduces-bill-venezuela-operation-block-presidents-bypassing-congress"
-    },
-    {
-      "title": "AG Pam Bondi warns Minnesota protesters after ICE shooting: 'Do not test our resolve'",
-      "link": "https://www.foxnews.com/politics/ag-pam-bondi-warns-minnesota-protesters-after-ice-shooting-do-not-test-our-resolve"
-    },
-    {
-      "title": "JD Vance announces multi-state fraud task force in wake of Minnesota scandal",
-      "link": "https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal"
-    },
-    {
-      "title": "Trump calls for $1.5T defense budget to build ‘dream military’",
-      "link": "https://www.foxnews.com/politics/trump-calls-1-5t-defense-budget-build-dream-military"
-    },
-    {
-      "title": "Trump blasts GOP war powers defectors, says they 'should never be elected to office again'",
-      "link": "https://www.foxnews.com/politics/trump-blasts-gop-war-powers-defectors-says-should-never-elected-office-again"
-    },
-    {
       "title": "Fox News Politics Newsletter: Jeffries slams Noem over Minneapolis shooting response",
       "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-jeffries-slams-noem-over-minneapolis-shooting-response"
+    },
+    {
+      "title": "UK keeps billions in Venezuelan gold reserves frozen at Bank of England after Maduro arrest",
+      "link": "https://www.foxnews.com/world/uk-keeps-billions-venezuelan-gold-reserves-frozen-bank-england-maduro-arrest"
     },
     {
       "title": "Supreme Court tariff ruling has Trump administration, US businesses bracing for impact",
@@ -61,6 +33,10 @@
       "link": "https://www.foxnews.com/politics/bessent-says-minnesota-fraud-recovery-could-help-fund-trumps-1-5t-defense-plan"
     },
     {
+      "title": "Elon Musk responds to a former MSNBC host calling for 2028 Democrats to prosecute him",
+      "link": "https://www.foxnews.com/media/elon-musk-responds-former-msnbc-host-calling-2028-democrats-prosecute-him"
+    },
+    {
       "title": "Experts warn of biggest ‘scandal in litigation system’ if SCOTUS doesn’t nix landmark energy pollution case",
       "link": "https://www.foxnews.com/politics/experts-warn-biggest-scandal-litigation-system-scotus-doesnt-nix-landmark-energy-development-pollu"
     },
@@ -69,10 +45,38 @@
       "link": "https://www.foxnews.com/politics/dozens-house-republicans-defy-trump-join-democrats-failed-veto-override-effort"
     },
     {
-      "title": "Trump's tariff boom hits record highs as Supreme Court showdown looms",
-      "link": "https://www.foxnews.com/politics/trumps-tariff-boom-hits-record-highs-supreme-court-showdown-looms"
+      "title": "House passes nearly $180B funding package after conservative rebellion over Minnesota fraud fears",
+      "link": "https://www.foxnews.com/politics/house-passes-nearly-180b-funding-package-after-conservative-rebellion-over-minnesota-fraud-fears"
+    },
+    {
+      "title": "Trump defends ICE agent, shows NYT reporters video of deadly Minneapolis shooting",
+      "link": "https://www.foxnews.com/politics/trump-defends-ice-agent-shows-nyt-reporters-video-deadly-minneapolis-shooting"
+    },
+    {
+      "title": "Newsom touts California’s numerous legal fights with Trump administration in final State of the State address",
+      "link": "https://www.foxnews.com/politics/newsom-touts-californias-numerous-legal-fights-trump-administration-final-state-state"
+    },
+    {
+      "title": "House Dem introduces bill after Venezuela operation to block presidents from bypassing Congress",
+      "link": "https://www.foxnews.com/politics/house-dem-introduces-bill-venezuela-operation-block-presidents-bypassing-congress"
+    },
+    {
+      "title": "AG Pam Bondi warns Minnesota protesters after ICE shooting: 'Do not test our resolve'",
+      "link": "https://www.foxnews.com/politics/ag-pam-bondi-warns-minnesota-protesters-after-ice-shooting-do-not-test-our-resolve"
+    },
+    {
+      "title": "JD Vance announces multi-state fraud task force in wake of Minnesota scandal",
+      "link": "https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal"
+    },
+    {
+      "title": "Trump calls for $1.5T defense budget to build ‘dream military’",
+      "link": "https://www.foxnews.com/politics/trump-calls-1-5t-defense-budget-build-dream-military"
+    },
+    {
+      "title": "Trump blasts GOP war powers defectors, says they 'should never be elected to office again'",
+      "link": "https://www.foxnews.com/politics/trump-blasts-gop-war-powers-defectors-says-should-never-elected-office-again"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-08T23:12:33.776Z"
+  "timestamp": "2026-01-08T23:28:49.605Z"
 }
