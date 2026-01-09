@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump plans to meet with Venezuela opposition leader Maria Corina Machado next week",
+      "link": "https://www.foxnews.com/politics/trump-plans-meet-venezuela-opposition-leader-maria-corina-machado-next-week"
+    },
+    {
+      "title": "Trump discusses expansion of drug cartel crackdown, issues grim warning to Iran",
+      "link": "https://www.foxnews.com/media/trump-announces-expansion-drug-cartel-crackdown-issues-grim-warning-iran"
+    },
+    {
       "title": "Canadian columnist asks if Trump will arrest Canada leader after Maduro arrest",
       "link": "https://www.foxnews.com/media/canadian-columnist-asks-trump-arrest-canada-leader-after-maduro-arrest"
     },
@@ -33,20 +41,8 @@
       "link": "https://www.foxnews.com/media/jd-vance-says-dumbest-democratic-candidate-win-nomination-2028"
     },
     {
-      "title": "ICE agents report ‘unprecedented’ 3,200% surge in car attacks last year",
-      "link": "https://www.foxnews.com/us/ice-agents-report-unprecedented-3200-surge-car-attacks-last-year"
-    },
-    {
       "title": "Newsom lashes out at Trump over 'carnival of chaos' amid Minnesota ICE shooting furor",
       "link": "https://www.foxnews.com/politics/newsom-lashes-out-trump-carnival-chaos-amid-minnesota-ice-shooting-furor"
-    },
-    {
-      "title": "Carville and Al Hunt agree Minnesota fraud scandal is bad, say Walz made right choice to ditch campaign",
-      "link": "https://www.foxnews.com/media/carville-al-hunt-agree-minnesota-fraud-scandal-bad-say-walz-made-right-choice-ditch-campaign"
-    },
-    {
-      "title": "Trump plans to meet with Venezuela opposition leader Maria Corina Machado next week",
-      "link": "https://www.foxnews.com/politics/trump-plans-meet-venezuela-opposition-leader-maria-corina-machado-next-week"
     },
     {
       "title": "Newsom touts California’s numerous legal fights with Trump administration in final State of the State address",
@@ -79,8 +75,12 @@
     {
       "title": "Bessent says Minnesota fraud recovery could help fund Trump’s $1.5T defense plan",
       "link": "https://www.foxnews.com/politics/bessent-says-minnesota-fraud-recovery-could-help-fund-trumps-1-5t-defense-plan"
+    },
+    {
+      "title": "Experts warn of biggest ‘scandal in litigation system’ if SCOTUS doesn’t nix landmark energy pollution case",
+      "link": "https://www.foxnews.com/politics/experts-warn-biggest-scandal-litigation-system-scotus-doesnt-nix-landmark-energy-development-pollu"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-09T05:46:50.866Z"
+  "timestamp": "2026-01-09T06:21:56.146Z"
 }
