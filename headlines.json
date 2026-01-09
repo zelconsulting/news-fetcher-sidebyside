@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "DAVID MARCUS: How Trump's team of former rivals is saving America",
+      "link": "https://www.foxnews.com/opinion/david-marcus-how-trumps-team-former-rivals-saving-america"
+    },
+    {
+      "title": "Key Republican negotiator details bipartisan Obamacare fix as abortion dispute remains sticking point",
+      "link": "https://www.foxnews.com/politics/key-republican-negotiator-details-bipartisan-obamacare-fix-abortion-dispute-remains-sticking-point"
+    },
+    {
+      "title": "Portland agitators clash with police after 2 shot by federal immigration agent",
+      "link": "https://www.foxnews.com/us/portland-agitators-clash-police-after-2-shot-federal-immigration-agent"
+    },
+    {
       "title": "Rachel Maddow compares alleged Trump immigration policy to WWII Japanese internment camps",
       "link": "https://www.foxnews.com/media/rachel-maddow-compares-alleged-trump-immigration-policy-wwii-japanese-internment-camps"
     },
@@ -13,28 +25,8 @@
       "link": "https://www.foxnews.com/politics/democratic-socialist-mamdani-ally-mounts-bid-u-s-house-representatives"
     },
     {
-      "title": "Influencer Trisha Paytas says she's considering 2026 congressional bid to stop ‘horrible stuff’ in California",
-      "link": "https://www.foxnews.com/media/influencer-trisha-paytas-says-shes-considering-2026-congressional-bid-stop-horrible-stuff-california"
-    },
-    {
       "title": "GOP senator blocks Trump DHS nominees until Noem testifies before Senate",
       "link": "https://www.foxnews.com/politics/gop-senator-blocks-trump-dhs-nominees-until-noem-testifies-before-senate"
-    },
-    {
-      "title": "Iranian supreme leader says protesters 'ruining their own streets' to please Trump",
-      "link": "https://www.foxnews.com/world/iranian-supreme-leader-says-protesters-ruining-own-streets-please-trump"
-    },
-    {
-      "title": "Trump cancels 'second wave of attacks' against Venezuela and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-cancels-second-wave-attacks-against-venezuela-more-top-headlines"
-    },
-    {
-      "title": "Trump has set the stage for an American comeback after Biden’s dismal economy",
-      "link": "https://www.foxnews.com/opinion/president-trump-has-set-stage-american-comeback-after-bidens-dismal-economy"
-    },
-    {
-      "title": "Key Republican negotiator details bipartisan Obamacare fix as abortion dispute remains sticking point",
-      "link": "https://www.foxnews.com/politics/key-republican-negotiator-details-bipartisan-obamacare-fix-abortion-dispute-remains-sticking-point"
     },
     {
       "title": "President Trump says there won't be a 'second Wave of Attacks' against Venezuela due to their 'cooperation'",
@@ -79,8 +71,12 @@
     {
       "title": "17 Republicans rebel against House GOP leaders, join Dems to pass Obamacare extension",
       "link": "https://www.foxnews.com/politics/17-republicans-rebel-against-house-gop-leaders-join-dems-pass-obamacare-extension"
+    },
+    {
+      "title": "Crockett warns of nationwide protests over ICE shooting: 'State-sanctioned execution'",
+      "link": "https://www.foxnews.com/politics/crockett-warns-nationwide-protests-over-ice-shooting-state-sanctioned-execution"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-09T16:51:21.566Z"
+  "timestamp": "2026-01-09T17:17:36.135Z"
 }
