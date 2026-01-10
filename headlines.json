@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "‘They let us burn’: Palisades Fire victims protest leadership one year after catastrophic wildfires",
+      "link": "https://www.foxnews.com/media/they-let-us-burn-palisades-fire-victims-protest-leadership-one-year-after-catastrophic-wildfires"
+    },
+    {
+      "title": "Inside the Trump administration’s effort to quickly reach audiences behind media walls in Venezuela, Iran",
+      "link": "https://www.foxnews.com/politics/inside-trump-administrations-effort-quickly-reach-audiences-behind-media-walls-venezuela-iran"
+    },
+    {
       "title": "BROADCAST BIAS: Networks demonize ICE as ‘Trump’s Gestapo,’ downplay attacks on them",
       "link": "https://www.foxnews.com/opinion/broadcast-bias-networks-demonize-ice-trumps-gestapo-downplay-attacks-them"
     },
@@ -25,20 +33,8 @@
       "link": "https://www.foxnews.com/media/cnn-host-marvels-colbert-capturing-feeling-society-he-condemns-trump-admin-over-ice-shooting"
     },
     {
-      "title": "UAE cuts funding for citizens studying at UK universities over campus radicalization fears: report",
-      "link": "https://www.foxnews.com/world/uae-cuts-funding-citizens-studying-uk-universities-over-campus-radicalization-fears-report"
-    },
-    {
       "title": "Picking the right fight: Congressional tensions rise in wake of Minnesota ICE-involved shooting",
       "link": "https://www.foxnews.com/politics/picking-right-fight-congressional-tensions-rise-wake-minnesota-ice-involved-shooting"
-    },
-    {
-      "title": "Tennessee Democrat proposes new bill limiting ICE from school campuses statewide",
-      "link": "https://www.foxnews.com/media/tennessee-democrat-proposes-new-bill-limiting-ice-from-school-campuses-statewide"
-    },
-    {
-      "title": "Border Patrol agent hugs protester in heartwarming moment caught on video during Minnesota operation",
-      "link": "https://www.foxnews.com/us/border-patrol-agent-hugs-protester-heartwarming-moment-caught-video-during-minnesota-operation"
     },
     {
       "title": "Fox News Politics Newsletter: AOC accuses Vance of believing ‘American people should be assassinated’",
@@ -79,8 +75,12 @@
     {
       "title": "Dem narrative challenged after DHS exposes identity of 'married couple' in CBP-related shooting",
       "link": "https://www.foxnews.com/politics/dem-narrative-challenged-after-dhs-exposes-identity-married-couple-cbp-related-shooting"
+    },
+    {
+      "title": "Trump admin says Maduro capture reinforces Alien Enemies Act removals",
+      "link": "https://www.foxnews.com/politics/trump-admin-says-maduro-capture-reinforces-alien-enemies-act-removals"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-10T13:04:43.740Z"
+  "timestamp": "2026-01-10T13:39:01.164Z"
 }
