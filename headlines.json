@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Greenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'",
+      "link": "https://www.foxnews.com/world/greenland-leaders-push-back-trumps-calls-us-control-island-we-dont-want-americans"
+    },
+    {
       "title": "Former 'View' co-host backs Jenny McCarthy's critique of show, laments switch from entertainment to politics",
       "link": "https://www.foxnews.com/media/former-view-co-host-backs-jenny-mccarthys-critique-show-laments-switch-from-entertainment-politics"
     },
@@ -15,10 +19,6 @@
     {
       "title": "Middle Eastern country stops sponsoring students studying in Britain over fear of radicalization: report",
       "link": "https://www.foxnews.com/us/middle-eastern-country-stops-sponsoring-students-studying-britain-over-fear-radicalization-report"
-    },
-    {
-      "title": "GREGG JARRETT: If Walz is charged in Minnesota fraud scandal, his best defense is incompetence",
-      "link": "https://www.foxnews.com/opinion/gregg-jarrett-walz-charged-minnesota-fraud-scandal-his-best-defense-incompetence"
     },
     {
       "title": "Inside the Trump administration’s effort to quickly reach audiences behind media walls in Venezuela, Iran",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-10T17:48:05.528Z"
+  "timestamp": "2026-01-10T18:18:44.474Z"
 }
