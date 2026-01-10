@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Iranian hospitals overwhelmed with injuries as protests rage across Islamic Republic",
+      "link": "https://www.foxnews.com/world/iranian-hospitals-overwhelmed-injuries-protests-rage-across-islamic-republic"
+    },
+    {
+      "title": "Trump answers on whether he'd order a mission to capture Putin",
+      "link": "https://www.foxnews.com/world/trump-answers-whether-hed-order-mission-capture-putin"
+    },
+    {
       "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
       "link": "https://www.foxnews.com/politics/trump-signs-order-protect-venezuela-oil-revenue-held-us-accounts"
     },
@@ -11,10 +19,6 @@
     {
       "title": "Greenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'",
       "link": "https://www.foxnews.com/world/greenland-leaders-push-back-trumps-calls-us-control-island-we-dont-want-americans"
-    },
-    {
-      "title": "Former 'View' co-host backs Jenny McCarthy's critique of show, laments switch from entertainment to politics",
-      "link": "https://www.foxnews.com/media/former-view-co-host-backs-jenny-mccarthys-critique-show-laments-switch-from-entertainment-politics"
     },
     {
       "title": "Soros-backed Dem reveals he and coalition of anti-Trump AGs met 'daily' to strategize lawsuits",
@@ -71,12 +75,8 @@
     {
       "title": "Dem narrative challenged after DHS exposes identity of 'married couple' in CBP-related shooting",
       "link": "https://www.foxnews.com/politics/dem-narrative-challenged-after-dhs-exposes-identity-married-couple-cbp-related-shooting"
-    },
-    {
-      "title": "Trump admin says Maduro capture reinforces Alien Enemies Act removals",
-      "link": "https://www.foxnews.com/politics/trump-admin-says-maduro-capture-reinforces-alien-enemies-act-removals"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-10T21:11:29.911Z"
+  "timestamp": "2026-01-10T21:29:48.108Z"
 }
