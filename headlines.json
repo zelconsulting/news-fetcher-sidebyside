@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
+      "link": "https://www.foxnews.com/politics/trump-signs-order-protect-venezuela-oil-revenue-held-us-accounts"
+    },
+    {
+      "title": "Tom Emmer pushes back on suggestion that Minnesota anti-ICE protesters have been peaceful",
+      "link": "https://www.foxnews.com/media/tom-emmer-pushes-back-suggestion-minnesota-anti-ice-protesters-have-been-peaceful"
+    },
+    {
       "title": "Greenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'",
       "link": "https://www.foxnews.com/world/greenland-leaders-push-back-trumps-calls-us-control-island-we-dont-want-americans"
     },
@@ -9,20 +17,8 @@
       "link": "https://www.foxnews.com/media/former-view-co-host-backs-jenny-mccarthys-critique-show-laments-switch-from-entertainment-politics"
     },
     {
-      "title": "MIKE PENCE: Venezuela has a chance for freedom, thanks to Trump and our armed forces",
-      "link": "https://www.foxnews.com/opinion/mike-pence-venezuela-has-chance-freedom-thanks-trump-our-armed-forces"
-    },
-    {
       "title": "Soros-backed Dem reveals he and coalition of anti-Trump AGs met 'daily' to strategize lawsuits",
       "link": "https://www.foxnews.com/politics/soros-backed-dem-says-he-coalition-anti-trump-ags-met-daily-strategize-lawsuits"
-    },
-    {
-      "title": "Middle Eastern country stops sponsoring students studying in Britain over fear of radicalization: report",
-      "link": "https://www.foxnews.com/us/middle-eastern-country-stops-sponsoring-students-studying-britain-over-fear-radicalization-report"
-    },
-    {
-      "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
-      "link": "https://www.foxnews.com/politics/trump-signs-order-protect-venezuela-oil-revenue-held-us-accounts"
     },
     {
       "title": "Inside the Trump administration’s effort to quickly reach audiences behind media walls in Venezuela, Iran",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-10T19:35:58.453Z"
+  "timestamp": "2026-01-10T19:47:40.521Z"
 }
