@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Rams' Matthew Stafford named first-team All-Pro quarterback over Patriots' Drake Maye amid heated MVP race",
+      "link": "https://www.foxnews.com/sports/rams-matthew-stafford-named-first-team-all-pro-quarterback-over-patriots-drake-maye-amid-heated-mvp-race"
+    },
+    {
+      "title": "Grok AI scandal sparks global alarm over child safety",
+      "link": "https://www.foxnews.com/tech/grok-ai-scandal-sparks-global-alarm-over-child-safety"
+    },
+    {
       "title": "Iranian hospitals overwhelmed with injuries as protests rage across Islamic Republic",
       "link": "https://www.foxnews.com/world/iranian-hospitals-overwhelmed-injuries-protests-rage-across-islamic-republic"
     },
@@ -11,14 +19,6 @@
     {
       "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
       "link": "https://www.foxnews.com/politics/trump-signs-order-protect-venezuela-oil-revenue-held-us-accounts"
-    },
-    {
-      "title": "Tom Emmer pushes back on suggestion that Minnesota anti-ICE protesters have been peaceful",
-      "link": "https://www.foxnews.com/media/tom-emmer-pushes-back-suggestion-minnesota-anti-ice-protesters-have-been-peaceful"
-    },
-    {
-      "title": "Greenland leaders push back on Trump's calls for US control of the island: 'We don’t want to be Americans'",
-      "link": "https://www.foxnews.com/world/greenland-leaders-push-back-trumps-calls-us-control-island-we-dont-want-americans"
     },
     {
       "title": "Soros-backed Dem reveals he and coalition of anti-Trump AGs met 'daily' to strategize lawsuits",
@@ -78,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-10T21:29:48.108Z"
+  "timestamp": "2026-01-10T21:40:57.185Z"
 }
