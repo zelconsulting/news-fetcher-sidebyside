@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump ultimatum to Cuba: 'Make a deal, before it is too late' or face consequences",
+      "link": "https://www.foxnews.com/politics/trump-ultimatum-cuba-make-deal-before-too-late-face-consequences"
+    },
+    {
       "title": "Ex-SNL star Bowen Yang, podcast co-host walk back comments criticizing Jasmine Crockett's Senate campaign",
       "link": "https://www.foxnews.com/media/ex-snl-star-bowen-yang-podcast-co-host-walk-back-comments-criticizing-jasmine-crocketts-senate-campaign"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Youngkin backs JD Vance for 2028, calls vice president a 'great' GOP nominee",
       "link": "https://www.foxnews.com/politics/youngkin-backs-jd-vance-2028-calls-vice-president-great-gop-nominee"
-    },
-    {
-      "title": "NASA makes 'unprecedented' call to bring astronauts home after illness, expert says: 'Evacuated from orbit'",
-      "link": "https://www.foxnews.com/us/nasa-makes-unprecedented-call-bring-astronauts-home-after-illness-expert-says-evacuated-from-orbit"
-    },
-    {
-      "title": "Trump ultimatum to Cuba: 'Make a deal, before it is too late' or face consequences",
-      "link": "https://www.foxnews.com/politics/trump-ultimatum-cuba-make-deal-before-too-late-face-consequences"
     },
     {
       "title": "Trump says Venezuela has begun releasing political prisoners ‘in a BIG WAY’",
@@ -66,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T17:48:30.862Z"
+  "timestamp": "2026-01-11T18:18:38.997Z"
 }
