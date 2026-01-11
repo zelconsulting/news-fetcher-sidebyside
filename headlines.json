@@ -1,11 +1,23 @@
 {
   "fox": [
     {
+      "title": "Trump says Venezuela has begun releasing political prisoners ‘in a BIG WAY’",
+      "link": "https://www.foxnews.com/politics/trump-says-venezuela-has-begun-releasing-political-prisoners-in-big-way"
+    },
+    {
+      "title": "Iran flips ‘kill switch’ to hide alleged crimes as death toll rises amid protests",
+      "link": "https://www.foxnews.com/world/iran-flips-kill-switch-hide-alleged-crimes-death-toll-rises-amid-protests"
+    },
+    {
+      "title": "Hochul, AOC, Mamdani slam ‘we support Hamas’ chants at Queens protest: ‘Disgusting and antisemitic’",
+      "link": "https://www.foxnews.com/politics/hochul-aoc-mamdani-slam-support-hamas-chants-queens-protest-disgusting-antisemitic"
+    },
+    {
       "title": "Whitney Cummings calls out liberal hypocrisy on climate change and vaccine mandates",
       "link": "https://www.foxnews.com/entertainment/whitney-cummings-calls-out-liberal-hypocrisy-climate-change-vaccine-mandates"
     },
     {
-      "title": "Armed Iran protesters battle police in Tehran streets as Trump warns of forceful US response",
+      "title": "Armed Iranian protesters battle police in Tehran streets as Trump warns of forceful US response",
       "link": "https://www.foxnews.com/world/armed-iran-protesters-battle-police-tehran-streets-trump-warns-forceful-us-response"
     },
     {
@@ -17,20 +29,8 @@
       "link": "https://www.foxnews.com/media/washington-post-rips-chicago-teachers-union-pursuing-social-justice-initiatives-students-struggle"
     },
     {
-      "title": "Trump urges John Harbaugh to take the Giants head coaching job following stunning Ravens firing",
+      "title": "Trump urges John Harbaugh to take the Giants' head coaching job after stunning Ravens firing",
       "link": "https://www.foxnews.com/sports/trump-urges-john-harbaugh-take-giants-head-coaching-job-following-stunning-ravens-firing"
-    },
-    {
-      "title": "Rams' Matthew Stafford named first-team All-Pro quarterback over Patriots' Drake Maye amid heated MVP race",
-      "link": "https://www.foxnews.com/sports/rams-matthew-stafford-named-first-team-all-pro-quarterback-over-patriots-drake-maye-amid-heated-mvp-race"
-    },
-    {
-      "title": "Grok AI scandal sparks global alarm over child safety",
-      "link": "https://www.foxnews.com/tech/grok-ai-scandal-sparks-global-alarm-over-child-safety"
-    },
-    {
-      "title": "Hochul, AOC, Mamdani slam ‘we support Hamas’ chants at Queens protest: ‘Disgusting and antisemitic’",
-      "link": "https://www.foxnews.com/politics/hochul-aoc-mamdani-slam-support-hamas-chants-queens-protest-disgusting-antisemitic"
     },
     {
       "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T01:11:52.612Z"
+  "timestamp": "2026-01-11T03:18:35.170Z"
 }
