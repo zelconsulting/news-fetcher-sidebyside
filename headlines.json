@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Exiled Iranian crown prince appeals to Trump as Iran protests mark ‘defining' moment",
+      "link": "https://www.foxnews.com/media/exiled-iranian-crown-prince-appeals-trump-iran-protests-mark-defining-moment"
+    },
+    {
       "title": "Super Bowl champ criticizes Jaguars' decision-making in crucial spot vs Bills",
       "link": "https://www.foxnews.com/sports/super-bowl-champ-criticizes-jaguars-decision-making-crucial-spot-vs-bills"
     },
@@ -11,18 +15,6 @@
     {
       "title": "Trump ultimatum to Cuba: 'Make a deal, before it is too late' or face consequences",
       "link": "https://www.foxnews.com/politics/trump-ultimatum-cuba-make-deal-before-too-late-face-consequences"
-    },
-    {
-      "title": "Ex-SNL star Bowen Yang, podcast co-host walk back comments criticizing Jasmine Crockett's Senate campaign",
-      "link": "https://www.foxnews.com/media/ex-snl-star-bowen-yang-podcast-co-host-walk-back-comments-criticizing-jasmine-crocketts-senate-campaign"
-    },
-    {
-      "title": "DAVID MARCUS: Impeding federal law enforcement is not protest, it's just crime",
-      "link": "https://www.foxnews.com/opinion/david-marcus-impeding-federal-law-enforcement-not-protest-its-just-crime"
-    },
-    {
-      "title": "Retired general urges Trump to give Iran 'one more warning' as US reportedly weighs intervention",
-      "link": "https://www.foxnews.com/media/retired-general-urges-trump-give-iran-one-more-warning-us-reportedly-weighs-intervention"
     },
     {
       "title": "Trump responds to post suggesting Rubio as president of Cuba: 'Sounds good to me'",
@@ -62,5 +54,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T22:12:32.525Z"
+  "timestamp": "2026-01-11T22:34:28.548Z"
 }
