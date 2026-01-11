@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Expert warns of 'extreme violence' in Venezuelan mining as Trump admin eyes mineral reserves",
+      "link": "https://www.foxnews.com/us/expert-warns-extreme-violence-venezuelan-mining-trump-admin-eyes-mineral-reserves"
+    },
+    {
+      "title": "Josh Allen scores game-winning touchdown as Bills topple Jaguars in wild-card round",
+      "link": "https://www.foxnews.com/sports/josh-allen-scores-game-winning-touchdown-bills-topple-jaguars-wild-card-round"
+    },
+    {
       "title": "Exiled Iranian crown prince appeals to Trump as Iran protests mark ‘defining' moment",
       "link": "https://www.foxnews.com/media/exiled-iranian-crown-prince-appeals-trump-iran-protests-mark-defining-moment"
     },
@@ -54,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T23:12:48.585Z"
+  "timestamp": "2026-01-11T23:30:50.588Z"
 }
