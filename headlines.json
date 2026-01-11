@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "NASA makes 'unprecedented' call to bring astronauts home after illness, expert says: 'Evacuated from orbit'",
+      "link": "https://www.foxnews.com/us/nasa-makes-unprecedented-call-bring-astronauts-home-after-illness-expert-says-evacuated-from-orbit"
+    },
+    {
+      "title": "I lead a university. Higher education is failing students — Congress is right to act",
+      "link": "https://www.foxnews.com/opinion/i-lead-university-higher-education-failing-students-congress-right-act"
+    },
+    {
       "title": "Netanyahu and Rubio discuss US military intervention in Iran amid ongoing nationwide protests: report",
       "link": "https://www.foxnews.com/world/netanyahu-rubio-discuss-us-military-intervention-iran-amid-ongoing-nationwide-protests-report"
     },
@@ -19,26 +27,6 @@
     {
       "title": "Hochul, AOC, Mamdani slam ‘we support Hamas’ chants at Queens protest: ‘Disgusting and antisemitic’",
       "link": "https://www.foxnews.com/politics/hochul-aoc-mamdani-slam-support-hamas-chants-queens-protest-disgusting-antisemitic"
-    },
-    {
-      "title": "Whitney Cummings calls out liberal hypocrisy on climate change and vaccine mandates",
-      "link": "https://www.foxnews.com/entertainment/whitney-cummings-calls-out-liberal-hypocrisy-climate-change-vaccine-mandates"
-    },
-    {
-      "title": "Armed Iranian protesters battle police in Tehran streets as Trump warns of forceful US response",
-      "link": "https://www.foxnews.com/world/armed-iran-protesters-battle-police-tehran-streets-trump-warns-forceful-us-response"
-    },
-    {
-      "title": "Protester scales Iranian Embassy in London, tears down regime flag, hoists pre-revolution symbol",
-      "link": "https://www.foxnews.com/world/protester-scales-iranian-embassy-in-london-tears-down-regime-flag-hoists-pre-revolution-symbol"
-    },
-    {
-      "title": "Washington Post rips Chicago Teachers Union for pursuing social justice initiatives as students struggle",
-      "link": "https://www.foxnews.com/media/washington-post-rips-chicago-teachers-union-pursuing-social-justice-initiatives-students-struggle"
-    },
-    {
-      "title": "Trump urges John Harbaugh to take the Giants' head coaching job after stunning Ravens firing",
-      "link": "https://www.foxnews.com/sports/trump-urges-john-harbaugh-take-giants-head-coaching-job-following-stunning-ravens-firing"
     },
     {
       "title": "Trump signs order to protect Venezuela oil revenue held in US accounts",
@@ -79,8 +67,12 @@
     {
       "title": "GOP lawmaker reports domestic terrorism to FBI after alleged incident involving anti-ICE agitator in Wisconsin",
       "link": "https://www.foxnews.com/politics/gop-lawmaker-reports-domestic-terrorism-fbi-alleged-incident-anti-ice-agitator-wisconsin"
+    },
+    {
+      "title": "Trump pauses oil exec summit to peek at White House ballroom's progress",
+      "link": "https://www.foxnews.com/politics/trump-pauses-oil-exec-summit-peek-white-house-ballrooms-progress"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T13:51:59.013Z"
+  "timestamp": "2026-01-11T14:12:15.320Z"
 }
