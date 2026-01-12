@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Driver appears to ram U-Haul truck through crowd during Iran protest in Los Angeles",
+      "link": "https://www.foxnews.com/us/driver-appears-ram-u-haul-truck-through-crowd-during-iran-protest-los-angeles"
+    },
+    {
       "title": "Expert warns of 'extreme violence' in Venezuelan mining as Trump admin eyes mineral reserves",
       "link": "https://www.foxnews.com/us/expert-warns-extreme-violence-venezuelan-mining-trump-admin-eyes-mineral-reserves"
     },
@@ -11,10 +15,6 @@
     {
       "title": "Exiled Iranian crown prince appeals to Trump as Iran protests mark ‘defining' moment",
       "link": "https://www.foxnews.com/media/exiled-iranian-crown-prince-appeals-trump-iran-protests-mark-defining-moment"
-    },
-    {
-      "title": "Super Bowl champ criticizes Jaguars' decision-making in crucial spot vs Bills",
-      "link": "https://www.foxnews.com/sports/super-bowl-champ-criticizes-jaguars-decision-making-crucial-spot-vs-bills"
     },
     {
       "title": "Federal judge blocks Trump administration from enforcing mail-in voting rules in executive order",
@@ -62,5 +62,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-11T23:49:08.161Z"
+  "timestamp": "2026-01-12T01:08:42.944Z"
 }
