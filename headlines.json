@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Rand Paul says Trump's threat to bomb Iran 'is not the answer': Not the 'job of the American government'",
+      "link": "https://www.foxnews.com/politics/rand-paul-says-trumps-threat-bomb-iran-is-not-answer-not-job-american-government"
+    },
+    {
       "title": "Smithsonian replaces Trump portrait display, strips Jan. 6 and impeachment references from accompanying text",
       "link": "https://www.foxnews.com/us/smithsonian-replaces-trump-portrait-display-strips-jan-6-impeachment-references-from-accompanying-text"
     },
@@ -27,14 +31,6 @@
     {
       "title": "U-Haul truck drives through Iran protest crowd in Los Angeles, one person struck and driver detained",
       "link": "https://www.foxnews.com/us/u-haul-truck-drives-through-iran-protest-crowd-los-angeles-one-person-struck-driver-detained"
-    },
-    {
-      "title": "Expert warns of 'extreme violence' in Venezuelan mining as Trump admin eyes mineral reserves",
-      "link": "https://www.foxnews.com/us/expert-warns-extreme-violence-venezuelan-mining-trump-admin-eyes-mineral-reserves"
-    },
-    {
-      "title": "Rand Paul says Trump's threat to bomb Iran 'is not the answer': Not the 'job of the American government'",
-      "link": "https://www.foxnews.com/politics/rand-paul-says-trumps-threat-bomb-iran-is-not-answer-not-job-american-government"
     },
     {
       "title": "Federal judge blocks Trump administration from enforcing mail-in voting rules in executive order",
@@ -70,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-12T10:17:46.077Z"
+  "timestamp": "2026-01-12T10:48:39.900Z"
 }
