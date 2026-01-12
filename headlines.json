@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump's motorcade route adjusted after Secret Service finds 'suspicious object' at Palm Beach airport",
+      "link": "https://www.foxnews.com/politics/trumps-motorcade-route-adjusted-after-secret-service-finds-suspicious-object-palm-beach-airport"
+    },
+    {
       "title": "Driver appears to ram U-Haul truck through crowd during Iran protest in Los Angeles",
       "link": "https://www.foxnews.com/us/driver-appears-ram-u-haul-truck-through-crowd-during-iran-protest-los-angeles"
     },
@@ -15,6 +19,10 @@
     {
       "title": "Exiled Iranian crown prince appeals to Trump as Iran protests mark ‘defining' moment",
       "link": "https://www.foxnews.com/media/exiled-iranian-crown-prince-appeals-trump-iran-protests-mark-defining-moment"
+    },
+    {
+      "title": "Trump says Iran 'starting to' cross US red lines as protesters die in government crackdown",
+      "link": "https://www.foxnews.com/politics/trump-says-iran-starting-to-cross-us-red-lines-protesters-die-government-crackdown"
     },
     {
       "title": "Federal judge blocks Trump administration from enforcing mail-in voting rules in executive order",
@@ -51,16 +59,8 @@
     {
       "title": "Inside the Trump administration’s effort to quickly reach audiences behind media walls in Venezuela, Iran",
       "link": "https://www.foxnews.com/politics/inside-trump-administrations-effort-quickly-reach-audiences-behind-media-walls-venezuela-iran"
-    },
-    {
-      "title": "Federal judge blocks Trump from cutting childcare funds to Democratic states over fraud concerns",
-      "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-from-cutting-childcare-funds-democratic-states-over-fraud-concerns"
-    },
-    {
-      "title": "Picking the right fight: Congressional tensions rise in wake of Minnesota ICE-involved shooting",
-      "link": "https://www.foxnews.com/politics/picking-right-fight-congressional-tensions-rise-wake-minnesota-ice-involved-shooting"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-12T01:08:42.944Z"
+  "timestamp": "2026-01-12T03:15:48.364Z"
 }
