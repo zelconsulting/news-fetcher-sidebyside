@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Smithsonian replaces Trump portrait display, strips Jan. 6 and impeachment references from accompanying text",
+      "link": "https://www.foxnews.com/us/smithsonian-replaces-trump-portrait-display-strips-jan-6-impeachment-references-from-accompanying-text"
+    },
+    {
+      "title": "Patriots crush Chargers in Wild Card defensive slugfest, secure first playoff win since 2018",
+      "link": "https://www.foxnews.com/sports/patriots-crush-chargers-wild-card-defensive-slugfest-secure-first-playoff-win-since-2018"
+    },
+    {
       "title": "Trump says Greenland's defense is 'two dog sleds' as he pushes for US acquisition of territory",
       "link": "https://www.foxnews.com/politics/trump-says-greenlands-defense-two-dog-sleds-he-pushes-us-acquisition-territory"
     },
@@ -23,14 +31,6 @@
     {
       "title": "Expert warns of 'extreme violence' in Venezuelan mining as Trump admin eyes mineral reserves",
       "link": "https://www.foxnews.com/us/expert-warns-extreme-violence-venezuelan-mining-trump-admin-eyes-mineral-reserves"
-    },
-    {
-      "title": "Josh Allen scores game-winning touchdown as Bills topple Jaguars in wild-card round",
-      "link": "https://www.foxnews.com/sports/josh-allen-scores-game-winning-touchdown-bills-topple-jaguars-wild-card-round"
-    },
-    {
-      "title": "Exiled Iranian crown prince appeals to Trump as Iran protests mark ‘defining' moment",
-      "link": "https://www.foxnews.com/media/exiled-iranian-crown-prince-appeals-trump-iran-protests-mark-defining-moment"
     },
     {
       "title": "Federal judge blocks Trump administration from enforcing mail-in voting rules in executive order",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-12T05:45:37.727Z"
+  "timestamp": "2026-01-12T06:25:17.752Z"
 }
