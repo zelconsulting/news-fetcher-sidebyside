@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "MORNING GLORY: Trump is on the cusp of greatness. Khamenei is on the edge of the abyss",
+      "link": "https://www.foxnews.com/opinion/morning-glory-trump-cusp-greatness-khamenei-edge-abyss"
+    },
+    {
+      "title": "LIZ PEEK: Trump is putting America first by backing Iran into a corner",
+      "link": "https://www.foxnews.com/opinion/liz-peek-trump-putting-america-first-backing-iran-corner"
+    },
+    {
       "title": "Bipartisan lawmakers propose bill to block military action against NATO members amid threats to take Greenland",
       "link": "https://www.foxnews.com/politics/bipartisan-lawmakers-propose-bill-block-military-action-against-nato-members-amid-threats-take-greenland"
     },
@@ -37,8 +45,8 @@
       "link": "https://www.foxnews.com/us/minnesota-sues-trump-admin-over-sweeping-immigration-raids-twin-cities"
     },
     {
-      "title": "Ex-congressional IT aide accused of stealing 240 government phones and selling them at pawn shop",
-      "link": "https://www.foxnews.com/us/ex-congressional-aide-accused-stealing-240-government-phones-selling-them-pawn-shop"
+      "title": "Bill Clinton scheduled to appear before Oversight Committee as contempt of Congress threat looms",
+      "link": "https://www.foxnews.com/politics/bill-clinton-scheduled-appear-before-oversight-committee-contempt-congress-threat-looms"
     },
     {
       "title": "Senate advances $174B package as Minnesota ICE shooting fuels DHS funding fight",
@@ -71,16 +79,8 @@
     {
       "title": "Oregon election system faces scrutiny as state moves to address 800,000 inactive voters: ‘Astounding’",
       "link": "https://www.foxnews.com/politics/oregon-election-system-faces-scrutiny-state-moves-address-800000-inactive-voters-astounding"
-    },
-    {
-      "title": "House Republican calls for hearing after deadly ICE shooting in Minneapolis",
-      "link": "https://www.foxnews.com/politics/house-republican-calls-hearing-after-deadly-ice-shooting-minneapolis"
-    },
-    {
-      "title": "Democrats 'doomed to fail' without populist economic message, Warren warns",
-      "link": "https://www.foxnews.com/politics/democrats-doomed-fail-without-populist-economic-message-warren-warns"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-13T10:16:17.531Z"
+  "timestamp": "2026-01-13T10:47:40.471Z"
 }
