@@ -1,42 +1,6 @@
 {
   "fox": [
     {
-      "title": "Trump envoy warns Hamas of 'serious consequences' as admin launches phase two of Gaza plan",
-      "link": "https://www.foxnews.com/politics/trump-envoy-warns-hamas-serious-consequences-admin-launches-phase-two-gaza-plan"
-    },
-    {
-      "title": "DOJ surging federal prosecutors to Minneapolis for fraud, immigration cases after resignations: sources",
-      "link": "https://www.foxnews.com/politics/doj-surging-federal-prosecutors-minneapolis-fraud-immigration-cases-after-resignations-sources"
-    },
-    {
-      "title": "Former Trump ambassador nominee, Arizona AG Brnovich dead at 59",
-      "link": "https://www.foxnews.com/politics/former-trump-ambassador-nominee-arizona-ag-brnovich-dead-59"
-    },
-    {
-      "title": "Trump to tear up Obama-era school lunch rules blocking whole, 2% milk",
-      "link": "https://www.foxnews.com/politics/trump-tear-up-obama-era-school-lunch-rules-blocking-whole-2-milk"
-    },
-    {
-      "title": "Democrats eye narrow path to capture Senate majority, but one wrong move could sink them",
-      "link": "https://www.foxnews.com/politics/democrats-eye-narrow-path-capture-senate-majority-one-wrong-move-could-sink-them"
-    },
-    {
-      "title": "Kristi Noem faces impeachment effort in House as 70 Dems push obstruction of Congress charge",
-      "link": "https://www.foxnews.com/politics/kristi-noem-faces-impeachment-effort-house-70-dems-push-obstruction-congress-charge"
-    },
-    {
-      "title": "Iran protests instigated by Israel to distract from Gaza 'genocide,' Columbia professor claims",
-      "link": "https://www.foxnews.com/us/iran-protests-instigated-by-israel-distract-from-gaza-genocide-columbia-professor-claims"
-    },
-    {
-      "title": "Journalist says it’s ‘terrifying’ to be a conservative in Minneapolis after anti-ICE protesters swarmed car",
-      "link": "https://www.foxnews.com/media/journalist-says-its-terrifying-conservative-minneapolis-after-anti-ice-protesters-swarmed-car"
-    },
-    {
-      "title": "Senate GOP moves to block Dems' war powers push, preserve Trump's authority in rare move",
-      "link": "https://www.foxnews.com/politics/senate-gop-moves-block-dems-war-powers-push-preserve-trumps-authority-rare-move"
-    },
-    {
       "title": "Republicans, Democrats say no to US military strike against Iran as Trump mulls action: poll",
       "link": "https://www.foxnews.com/politics/republicans-democrats-say-no-u-s-military-strike-against-iran-trump-mulls-action-poll"
     },
@@ -45,8 +9,20 @@
       "link": "https://www.foxnews.com/politics/new-dem-bill-would-force-schools-label-jan-6-capitol-breach-violent-attack"
     },
     {
+      "title": "University of Utah student charged with making gun gestures, threatening to shoot conservative debaters",
+      "link": "https://www.foxnews.com/us/university-utah-student-charged-making-gun-gestures-threatening-shoot-conservative-debaters"
+    },
+    {
       "title": "GOP senator's Stop Fraud by SOMALIA Act would force Minnesota fraudsters to repay stolen taxpayer funds",
       "link": "https://www.foxnews.com/politics/gop-senators-stop-fraud-somalia-act-would-force-minnesota-fraudsters-repay-stolen-taxpayer-funds"
+    },
+    {
+      "title": "France condemns Iran protest crackdown, weighs satellite internet aid amid blackout",
+      "link": "https://www.foxnews.com/world/france-condemns-iran-protest-crackdown-weighs-satellite-internet-aid-amid-blackout"
+    },
+    {
+      "title": "Obama-era CNN segment resurfaces showing different ICE coverage compared to Trump years",
+      "link": "https://www.foxnews.com/media/obama-era-cnn-segment-resurfaces-showing-different-ice-coverage-compared-trump-years"
     },
     {
       "title": "Trump told Iran has halted killings amid mounting protest pressure",
@@ -55,6 +31,10 @@
     {
       "title": "Plaxico Burress’ wife launches GOP bid for longtime Democratic NJ House seat",
       "link": "https://www.foxnews.com/politics/plaxico-burress-wife-launches-gop-bid-longtime-democratic-nj-house-seat"
+    },
+    {
+      "title": "G7 threatens Iran with new sanctions over nationwide protest crackdown killing thousands",
+      "link": "https://www.foxnews.com/world/g7-threatens-iran-new-sanctions-nationwide-protest-crackdown-killing-thousands"
     },
     {
       "title": "DHS, White House mock Chicago's lawsuit over ICE: 'Miraculously rediscover the 10th Amendment'",
@@ -79,8 +59,28 @@
     {
       "title": "Trump envoy warns Hamas of 'serious consequences' as administration launches Phase 2 of Gaza plan",
       "link": "https://www.foxnews.com/politics/trump-envoy-warns-hamas-serious-consequences-admin-launches-phase-two-gaza-plan"
+    },
+    {
+      "title": "DOJ surging federal prosecutors to Minneapolis for fraud, immigration cases after resignations: sources",
+      "link": "https://www.foxnews.com/politics/doj-surging-federal-prosecutors-minneapolis-fraud-immigration-cases-after-resignations-sources"
+    },
+    {
+      "title": "Former Trump ambassador nominee, Arizona AG Brnovich dead at 59",
+      "link": "https://www.foxnews.com/politics/former-trump-ambassador-nominee-arizona-ag-brnovich-dead-59"
+    },
+    {
+      "title": "Trump to tear up Obama-era school lunch rules blocking whole, 2% milk",
+      "link": "https://www.foxnews.com/politics/trump-tear-up-obama-era-school-lunch-rules-blocking-whole-2-milk"
+    },
+    {
+      "title": "Democrats eye narrow path to capture Senate majority, but one wrong move could sink them",
+      "link": "https://www.foxnews.com/politics/democrats-eye-narrow-path-capture-senate-majority-one-wrong-move-could-sink-them"
+    },
+    {
+      "title": "Kristi Noem faces impeachment effort in House as 70 Dems push obstruction of Congress charge",
+      "link": "https://www.foxnews.com/politics/kristi-noem-faces-impeachment-effort-house-70-dems-push-obstruction-congress-charge"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-14T21:51:58.785Z"
+  "timestamp": "2026-01-14T22:14:52.145Z"
 }
