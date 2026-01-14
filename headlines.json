@@ -1,52 +1,20 @@
 {
   "fox": [
     {
-      "title": "Trump eyes action on Greenland, setting up White House face-off with Denmark",
-      "link": "https://www.foxnews.com/politics/trump-eyes-action-greenland-setting-up-white-house-face-off-denmark"
-    },
-    {
-      "title": "Tax fight puts California on collision course as billionaires leave for red states",
-      "link": "https://www.foxnews.com/politics/tax-fight-puts-california-collision-course-billionaires-leave-red-states"
-    },
-    {
-      "title": "Federal fraud faces Senate showdown as Thune taps Ernst to lead reforms after Minnesota scandal",
-      "link": "https://www.foxnews.com/politics/federal-fraud-faces-senate-showdown-thune-taps-ernst-lead-reforms-after-minnesota-scandal"
-    },
-    {
-      "title": "New MAGA coalition led by Sean Spicer targets voting demographic that will be crucial in 2026 midterms",
-      "link": "https://www.foxnews.com/politics/new-maga-coalition-led-by-sean-spicer-targets-demographic-that-will-be-crucial-midterms"
-    },
-    {
-      "title": "Longtime college basketball coach Bill Courtney dead at 55",
-      "link": "https://www.foxnews.com/sports/longtime-college-basketball-coach-bill-courtney-dead-55"
-    },
-    {
-      "title": "Teachers union slams 'Trump regime,' claims ICE murdered Minneapolis agitator in message to supporters",
-      "link": "https://www.foxnews.com/us/teachers-union-slams-trump-regime-claims-ice-murdered-minneapolis-agitator-message-supporters"
-    },
-    {
-      "title": "Dem senators ripped for reversing Venezuela stance after Trump captured Maduro: 'Politics at its worst'",
-      "link": "https://www.foxnews.com/politics/dem-senators-ripped-shifting-venezuela-stance-after-trump-seized-maduro"
-    },
-    {
-      "title": "Trump chides Tony Dokoupil during CBS interview, says anchor 'wouldn't have this job' if he lost 2024 election",
-      "link": "https://www.foxnews.com/media/trump-chides-tony-dokoupil-during-cbs-interview-says-anchor-wouldnt-have-job-he-lost-2024-election"
-    },
-    {
-      "title": "US sees net negative migration for first time in decades amid Trump admin enforcement, economists say",
-      "link": "https://www.foxnews.com/politics/us-sees-net-negative-migration-first-time-decades-amid-trump-admin-enforcement-economists-say"
-    },
-    {
-      "title": "GOP senator pushes to create anti-fraud special inspector general after Minnesota fraud revelations",
-      "link": "https://www.foxnews.com/politics/gop-senator-pushes-create-anti-fraud-special-inspector-general-minnesota-fraud-revelations"
-    },
-    {
-      "title": "Liberal journalist claims ICE accepted her recruitment application without proper vetting",
-      "link": "https://www.foxnews.com/media/liberal-journalist-claims-ice-accepted-her-recruitment-application-without-proper-vetting"
-    },
-    {
       "title": "House Dem lashes out at 'racist' MN fraud probe amid major investigation in his own state",
       "link": "https://www.foxnews.com/politics/house-dem-lashes-out-racist-mn-fraud-probe-amid-major-investigation-own-state"
+    },
+    {
+      "title": "Freed Iranian prisoner says ‘in Trump, the Islamic Republic has met its match’",
+      "link": "https://www.foxnews.com/media/freed-iranian-prisoner-says-in-trump-islamic-republic-has-met-its-match"
+    },
+    {
+      "title": "RFK Jr comments on Trump's 'unhinged eating habits,' jokes he doesn't know how Trump is alive",
+      "link": "https://www.foxnews.com/media/rfk-jr-comments-trumps-unhinged-eating-habits-jokes-he-doesnt-know-how-trump-alive"
+    },
+    {
+      "title": "Iran pushes for fast trials and executions of suspects detained in protests despite Trump's warning: report",
+      "link": "https://www.foxnews.com/world/iran-pushes-fast-trials-executions-suspects-detained-protests-despite-trumps-warning-report"
     },
     {
       "title": "Mamdani finally speaks out about Iranian regime's deadly crackdown on protesters",
@@ -59,6 +27,10 @@
     {
       "title": "Trump issues stern warning to NATO ahead of Vance's high-stakes Greenland meeting",
       "link": "https://www.foxnews.com/politics/trump-issues-stern-warning-nato-ahead-vances-high-stakes-greenland-meeting"
+    },
+    {
+      "title": "Golf legend Greg Norman praises Trump for US action in Venezuela: 'I applaud it'",
+      "link": "https://www.foxnews.com/sports/golf-legend-greg-norman-praises-trump-us-action-venezuela-i-applaud-it"
     },
     {
       "title": "House GOP launches probe into alleged climate group influence on federal judges",
@@ -79,8 +51,36 @@
     {
       "title": "Hillary, Bill Clinton stare down criminal contempt charges after defying House subpoenas in Epstein probe",
       "link": "https://www.foxnews.com/politics/bill-hillary-clinton-risk-criminal-contempt-charges-after-defying-house-subpoenas-epstein-probe"
+    },
+    {
+      "title": "Trump eyes action on Greenland, setting up White House face-off with Denmark",
+      "link": "https://www.foxnews.com/politics/trump-eyes-action-greenland-setting-up-white-house-face-off-denmark"
+    },
+    {
+      "title": "Tax fight puts California on collision course as billionaires leave for red states",
+      "link": "https://www.foxnews.com/politics/tax-fight-puts-california-collision-course-billionaires-leave-red-states"
+    },
+    {
+      "title": "Federal fraud faces Senate showdown as Thune taps Ernst to lead reforms after Minnesota scandal",
+      "link": "https://www.foxnews.com/politics/federal-fraud-faces-senate-showdown-thune-taps-ernst-lead-reforms-after-minnesota-scandal"
+    },
+    {
+      "title": "New MAGA coalition led by Sean Spicer targets voting demographic that will be crucial in 2026 midterms",
+      "link": "https://www.foxnews.com/politics/new-maga-coalition-led-by-sean-spicer-targets-demographic-that-will-be-crucial-midterms"
+    },
+    {
+      "title": "Dem senators ripped for reversing Venezuela stance after Trump captured Maduro: 'Politics at its worst'",
+      "link": "https://www.foxnews.com/politics/dem-senators-ripped-shifting-venezuela-stance-after-trump-seized-maduro"
+    },
+    {
+      "title": "US sees net negative migration for first time in decades amid Trump admin enforcement, economists say",
+      "link": "https://www.foxnews.com/politics/us-sees-net-negative-migration-first-time-decades-amid-trump-admin-enforcement-economists-say"
+    },
+    {
+      "title": "GOP senator pushes to create anti-fraud special inspector general after Minnesota fraud revelations",
+      "link": "https://www.foxnews.com/politics/gop-senator-pushes-create-anti-fraud-special-inspector-general-minnesota-fraud-revelations"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-14T16:54:48.820Z"
+  "timestamp": "2026-01-14T17:21:42.745Z"
 }
