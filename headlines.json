@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Federal court clears California’s new House map boosting Democrats ahead of 2026 midterms",
+      "link": "https://www.foxnews.com/politics/federal-court-clears-californias-new-house-map-boosting-democrats-2026-midterms"
+    },
+    {
+      "title": "Protesters clash with federal officers after another ICE shooting in Minneapolis",
+      "link": "https://www.foxnews.com/us/protesters-clash-federal-officers-after-another-ice-shooting-minneapolis"
+    },
+    {
       "title": "Hochul endorses legislation to allow New Yorkers to sue ICE agents: 'Power does not justify abuse'",
       "link": "https://www.foxnews.com/politics/hochul-endorses-legislation-allow-new-yorkers-sue-ice-agents-power-does-not-justify-abuse"
     },
@@ -11,10 +19,6 @@
     {
       "title": "Japan's Prime Minister Takaichi plans to dissolve Parliament and call early election to strengthen coalition",
       "link": "https://www.foxnews.com/world/japans-prime-minister-takaichi-plans-dissolve-parliament-call-early-election-strengthen-coalition"
-    },
-    {
-      "title": "People filming ICE raids are being used as ‘tools’ by Trump administration, MS Now reporter claims",
-      "link": "https://www.foxnews.com/media/people-filming-ice-raids-being-used-tools-trump-administration-ms-now-reporter-claims"
     },
     {
       "title": "Key Republicans flip, kill effort to restrain Trump's policing power over Venezuela",
@@ -78,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-15T08:20:44.641Z"
+  "timestamp": "2026-01-15T08:51:58.560Z"
 }
