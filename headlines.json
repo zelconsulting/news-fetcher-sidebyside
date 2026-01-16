@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump's tariffs could be undone by one conservative doctrine: 'Life or death'",
+      "link": "https://www.foxnews.com/politics/trumps-tariffs-could-be-undone-by-one-conservative-doctrine-life-death"
+    },
+    {
+      "title": "Democrats worry 'Abolish ICE' slogan will backfire politically like 'defund the police' did",
+      "link": "https://www.foxnews.com/media/democrats-worry-abolish-ice-slogan-age-poorly-defund-police-nyt"
+    },
+    {
       "title": "EXCLUSIVE: HUD launches civil rights probe into Minneapolis over race-based housing priorities",
       "link": "https://www.foxnews.com/politics/exclusive-hud-launches-civil-rights-probe-minneapolis-over-race-based-housing-priorities"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/venezuelan-opposition-leader-maria-corina-machado-presents-nobel-medal-trump-despite-institute-ban"
     },
     {
-      "title": "Secretary Noem says Gov Walz rejected DHS' help as protests grip Minneapolis",
-      "link": "https://www.foxnews.com/media/secretary-noem-says-gov-walz-rejected-dhs-help-protests-grip-minneapolis"
-    },
-    {
       "title": "Trump rolls out ‘Great Healthcare Plan,’ urges Congress to slash costs for Americans",
       "link": "https://www.foxnews.com/politics/trump-rolls-out-great-healthcare-plan-urges-congress-slash-costs-americans"
     },
@@ -51,10 +55,6 @@
     {
       "title": "Dems relent, Senate sends $174B spending package to Trump's desk as shutdown looms over DHS funding",
       "link": "https://www.foxnews.com/politics/dems-relent-senate-sends-174b-spending-package-trumps-desk-shutdown-looms-over-dhs-funding"
-    },
-    {
-      "title": "US sending military assets to Middle East as Trump weighs Iran strike, sources say",
-      "link": "https://www.foxnews.com/world/us-sending-military-assets-middle-east-trump-weighs-iran-strike-sources-say"
     },
     {
       "title": "DHS slams Dems for complaining about immigration law: 'It is quite literally their job to change it'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-16T01:06:06.606Z"
+  "timestamp": "2026-01-16T03:05:56.877Z"
 }
