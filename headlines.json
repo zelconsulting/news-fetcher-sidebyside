@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Virginia Democrats move to seize redistricting power, opening door to 4 new left-leaning seats",
+      "link": "https://www.foxnews.com/politics/virginia-democrats-move-seize-redistricting-power-opening-door-four-new-left-leaning-seats"
+    },
+    {
       "title": "Federal judge restricts ICE agents amid ongoing Minneapolis area protests",
       "link": "https://www.foxnews.com/us/federal-judge-restricts-ice-agents-amid-ongoing-minneapolis-area-protests-over-fatal-shooting"
     },
@@ -41,10 +45,6 @@
       "link": "https://www.foxnews.com/politics/pro-trump-group-unleashes-blueprint-crucial-housing-initiative-featuring-top-maga-influencer"
     },
     {
-      "title": "Virginia Democrats move to seize redistricting power, opening door to 4 new left-leaning seats",
-      "link": "https://www.foxnews.com/politics/virginia-democrats-move-seize-redistricting-power-opening-door-four-new-left-leaning-seats"
-    },
-    {
       "title": "Cancer-stricken children urge Bernie Sanders to back life-saving pediatric healthcare bill",
       "link": "https://www.foxnews.com/politics/cancer-stricken-children-urge-bernie-sanders-back-life-saving-pediatric-healthcare-bill"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-17T11:47:36.842Z"
+  "timestamp": "2026-01-17T12:24:09.344Z"
 }
