@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Federal judge restricts ICE agents amid ongoing Minneapolis area protests",
+      "link": "https://www.foxnews.com/us/federal-judge-restricts-ice-agents-amid-ongoing-minneapolis-area-protests-over-fatal-shooting"
+    },
+    {
       "title": "IRS confirms Trump-ordered $1,776 ‘Warrior Dividend’ for 1.45M troops is tax-free",
       "link": "https://www.foxnews.com/politics/irs-confirms-trump-ordered-1776-warrior-dividend-troops-tax-free"
     },
@@ -35,10 +39,6 @@
     {
       "title": "Pro-Trump group unleashes blueprint for crucial housing initiative featuring top MAGA influencer",
       "link": "https://www.foxnews.com/politics/pro-trump-group-unleashes-blueprint-crucial-housing-initiative-featuring-top-maga-influencer"
-    },
-    {
-      "title": "Texans lose star receiver for crucial  playoff showdown vs Patriots due to a concussion",
-      "link": "https://www.foxnews.com/sports/texans-lose-star-receiver-crucial-playoff-showdown-vs-patriots-due-concussion"
     },
     {
       "title": "Cancer-stricken children urge Bernie Sanders to back life-saving pediatric healthcare bill",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-17T06:20:07.701Z"
+  "timestamp": "2026-01-17T06:50:46.281Z"
 }
