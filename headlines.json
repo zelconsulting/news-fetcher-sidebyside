@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "IRS confirms Trump-ordered $1,776 ‘Warrior Dividend’ for 1.45M troops is tax-free",
+      "link": "https://www.foxnews.com/politics/irs-confirms-trump-ordered-1776-warrior-dividend-troops-tax-free"
+    },
+    {
+      "title": "Michael Cohen says NY prosecutors 'pressured and coerced' him into anti-Trump testimony",
+      "link": "https://www.foxnews.com/politics/michael-cohen-says-ny-prosecutors-pressured-coerced-him-anti-trump-testimony"
+    },
+    {
+      "title": "Florida GOP candidate wants 50% 'sin tax' on OnlyFans creators to fight 'cultural degeneracy'",
+      "link": "https://www.foxnews.com/politics/florida-gop-candidate-wants-50-sin-tax-onlyfans-creators-fight-cultural-degeneracy"
+    },
+    {
       "title": "Obama-era ICE director says Trump admin like a ‘police state’ by asking people to prove legal citizenship",
       "link": "https://www.foxnews.com/media/obama-era-ice-director-says-trump-admin-like-police-state-asking-people-prove-legal-citizenship"
     },
@@ -29,16 +41,8 @@
       "link": "https://www.foxnews.com/sports/texans-lose-star-receiver-crucial-playoff-showdown-vs-patriots-due-concussion"
     },
     {
-      "title": "CNN revisits viral 2016 ICE report, says 'heightened' rhetoric, protests now complicate operations",
-      "link": "https://www.foxnews.com/media/cnn-revisits-2016-ice-report-says-heightened-rhetoric-protests-now-complicate-operations"
-    },
-    {
       "title": "Cancer-stricken children urge Bernie Sanders to back life-saving pediatric healthcare bill",
       "link": "https://www.foxnews.com/politics/cancer-stricken-children-urge-bernie-sanders-back-life-saving-pediatric-healthcare-bill"
-    },
-    {
-      "title": "Madonna declares 'I stand with Iran' as protesters face brutal regime crackdown",
-      "link": "https://www.foxnews.com/media/madonna-declares-i-stand-iran-protesters-face-brutal-regime-crackdown"
     },
     {
       "title": "Hunter Biden accused of ghosting daughter with Lunden Roberts and violating child support agreement",
@@ -47,10 +51,6 @@
     {
       "title": "Trump officials fire back after federal judge calls president 'authoritarian' for deportation effort",
       "link": "https://www.foxnews.com/politics/trump-officials-fire-back-after-federal-judge-calls-president-authoritarian-deportation-effort"
-    },
-    {
-      "title": "Florida GOP candidate wants 50% 'sin tax' on OnlyFans creators to fight 'cultural degeneracy'",
-      "link": "https://www.foxnews.com/politics/florida-gop-candidate-wants-50-sin-tax-onlyfans-creators-fight-cultural-degeneracy"
     },
     {
       "title": "Trump credits halted Iran executions for delaying military strikes",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-17T02:57:40.575Z"
+  "timestamp": "2026-01-17T03:54:22.483Z"
 }
