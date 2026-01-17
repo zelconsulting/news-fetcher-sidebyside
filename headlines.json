@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Lindsey Graham speaks against pending execution of 26-year-old Iranian protester: 'This regime must fall'",
+      "link": "https://www.foxnews.com/world/lindsey-graham-speaks-against-pending-execution-26-year-old-iranian-protester-this-regime-must-fall"
+    },
+    {
+      "title": "US congressional delegation visits Denmark amid backlash over Trump's push to acquire Greenland",
+      "link": "https://www.foxnews.com/politics/us-congressional-delegation-visits-denmark-amid-backlash-over-trumps-push-acquire-greenland"
+    },
+    {
       "title": "Fetterman's former progressive backer says he 'sold us out,' escalates efforts to primary Democrat senator",
       "link": "https://www.foxnews.com/politics/fetterman-former-progressive-backer-says-he-sold-us-out-escalates-efforts-primary-democrat-senator"
     },
@@ -29,16 +37,8 @@
       "link": "https://www.foxnews.com/politics/what-would-trumps-use-insurrection-act-look-like-minnesota"
     },
     {
-      "title": "DAVID MARCUS: Secure border brings plummeting overdose deaths, but don't expect Trump to get credit",
-      "link": "https://www.foxnews.com/opinion/david-marcus-secure-border-brings-plummeting-overdose-deaths-dont-expect-trump-get-credit"
-    },
-    {
       "title": "Minnesota Dept of Corrections dismisses DHS narrative about them not complying with ICE",
       "link": "https://www.foxnews.com/politics/minnesota-dept-corrections-dismisses-dhs-narrative-not-complying-with-ice"
-    },
-    {
-      "title": "US congressional delegation visits Denmark amid backlash over Trump's push to acquire Greenland",
-      "link": "https://www.foxnews.com/politics/us-congressional-delegation-visits-denmark-amid-backlash-over-trumps-push-acquire-greenland"
     },
     {
       "title": "Jeb Bush heaps praise on Trump’s ‘unprecedented support’ for Iranians 10 years after heated primary",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-17T19:35:14.800Z"
+  "timestamp": "2026-01-17T19:47:41.453Z"
 }
