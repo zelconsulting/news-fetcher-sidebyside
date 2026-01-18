@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump vows to ‘take out’ Indiana GOP leader over redistricting fight",
+      "link": "https://www.foxnews.com/politics/trump-vows-take-out-indiana-gop-leader-over-redistricting-fight"
+    },
+    {
       "title": "Trump vows to protect Army-Navy game from 'Big TV Money' interference with executive order",
       "link": "https://www.foxnews.com/sports/trump-vows-protect-army-navy-game-from-big-tv-money-interference-executive-order"
     },
@@ -31,10 +35,6 @@
     {
       "title": "Bills' Josh Allen addresses viral photo of wife Hailee Steinfeld wearing Broncos gear",
       "link": "https://www.foxnews.com/sports/bills-josh-allen-says-addresses-viral-photo-wife-hailee-steinfeld-wearing-broncos-gear"
-    },
-    {
-      "title": "Piers Morgan clashes with Roger Waters, accuses the rocker of propping up dictators while attacking Trump",
-      "link": "https://www.foxnews.com/media/piers-morgan-clashes-roger-waters-accuses-rocker-propping-up-dictators-while-attacking-trump"
     },
     {
       "title": "Spanberger takes swipe at Trump admin, says Virginians worried about 'recklessness coming out of Washington'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-18T10:37:12.683Z"
+  "timestamp": "2026-01-18T10:51:03.441Z"
 }
