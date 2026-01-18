@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Trump admin preparing 1,500 soldiers for potential Minnesota deployment: report",
+      "link": "https://www.foxnews.com/us/trump-admin-preparing-1500-soldiers-potential-minnesota-deployment-report"
+    },
+    {
+      "title": "JONATHAN TURLEY: Clintons dare House to hold them in criminal contempt. Will it work?",
+      "link": "https://www.foxnews.com/opinion/jonathan-turley-clintons-dare-house-hold-them-criminal-contempt-work"
+    },
+    {
       "title": "Trump vows to ‘take out’ Indiana GOP leader over redistricting fight",
       "link": "https://www.foxnews.com/politics/trump-vows-take-out-indiana-gop-leader-over-redistricting-fight"
     },
@@ -23,18 +31,6 @@
     {
       "title": "Minnesota National Guard placed on standby to support law enforcement as protests turn violent",
       "link": "https://www.foxnews.com/us/minnesota-national-guard-placed-standby-support-law-enforcement-protests-turn-violent"
-    },
-    {
-      "title": "Protests explode in Greenland amid Trump takeover push: 'We are not interested in being Americans'",
-      "link": "https://www.foxnews.com/world/protests-explode-greenland-amid-trump-takeover-push-we-not-interested-being-americans"
-    },
-    {
-      "title": "RNC chair pushes back after Carville predicts GOP ‘wipeout’ in 2026 midterms",
-      "link": "https://www.foxnews.com/media/rnc-chair-pushes-back-after-carville-predicts-gop-wipeout-2026-midterms"
-    },
-    {
-      "title": "Bills' Josh Allen addresses viral photo of wife Hailee Steinfeld wearing Broncos gear",
-      "link": "https://www.foxnews.com/sports/bills-josh-allen-says-addresses-viral-photo-wife-hailee-steinfeld-wearing-broncos-gear"
     },
     {
       "title": "Spanberger takes swipe at Trump admin, says Virginians worried about 'recklessness coming out of Washington'",
@@ -79,8 +75,12 @@
     {
       "title": "IRS confirms Trump-ordered $1,776 ‘Warrior Dividend’ for 1.45M troops is tax-free",
       "link": "https://www.foxnews.com/politics/irs-confirms-trump-ordered-1776-warrior-dividend-troops-tax-free"
+    },
+    {
+      "title": "Michael Cohen says NY prosecutors 'pressured and coerced' him into anti-Trump testimony",
+      "link": "https://www.foxnews.com/politics/michael-cohen-says-ny-prosecutors-pressured-coerced-him-anti-trump-testimony"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-18T13:04:42.111Z"
+  "timestamp": "2026-01-18T13:39:30.257Z"
 }
