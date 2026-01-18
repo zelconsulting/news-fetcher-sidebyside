@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump vows to protect Army-Navy game from 'Big TV Money' interference with executive order",
+      "link": "https://www.foxnews.com/sports/trump-vows-protect-army-navy-game-from-big-tv-money-interference-executive-order"
+    },
+    {
       "title": "Broncos quarterback Bo Nix suffers season-ending injury during playoff win vs Bills",
       "link": "https://www.foxnews.com/sports/broncos-quarterback-bo-nix-suffers-season-ending-injury-during-playoff-win-vs-bills"
     },
@@ -31,10 +35,6 @@
     {
       "title": "Piers Morgan clashes with Roger Waters, accuses the rocker of propping up dictators while attacking Trump",
       "link": "https://www.foxnews.com/media/piers-morgan-clashes-roger-waters-accuses-rocker-propping-up-dictators-while-attacking-trump"
-    },
-    {
-      "title": "Trump sends big message in US-Canada ice hockey rivalry with delegation selections for Milan-Cortina Games",
-      "link": "https://www.foxnews.com/sports/trump-sends-big-message-us-canada-ice-hockey-rivalry-delegation-selections-milan-cortina-games"
     },
     {
       "title": "Spanberger takes swipe at Trump admin, says Virginians worried about 'recklessness coming out of Washington'",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-18T06:51:30.138Z"
+  "timestamp": "2026-01-18T07:14:11.215Z"
 }
