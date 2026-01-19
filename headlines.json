@@ -1,14 +1,6 @@
 {
   "fox": [
     {
-      "title": "Don Lemon claims some religious groups have 'entitlement' from White supremacy after anti-ICE church protest",
-      "link": "https://www.foxnews.com/media/don-lemon-claims-some-religious-groups-have-entitlement-after-anti-ice-church-protest"
-    },
-    {
-      "title": "Mexico using 'weaponized immigration' to undermine US sovereignty, author of new book alleges",
-      "link": "https://www.foxnews.com/politics/mexico-using-weaponized-immigration-undermine-us-sovereignty-author-new-book-alleges"
-    },
-    {
       "title": "Ellen DeGeneres draws criticism for comments on Minneapolis protests",
       "link": "https://www.foxnews.com/entertainment/ellen-degeneres-draws-criticism-comments-minneapolis-protests"
     },
@@ -41,8 +33,16 @@
       "link": "https://www.foxnews.com/media/only-one-out-nearly-20-surveyed-democrats-who-may-run-2028-says-man-cannot-become-woman"
     },
     {
+      "title": "Trump congratulates Indiana and Miami ahead of CFP national title showdown: 'May the best team win!'",
+      "link": "https://www.foxnews.com/sports/trump-congratulates-indiana-miami-ahead-cfp-national-title-showdown-may-best-team-win"
+    },
+    {
       "title": "Kaine vows new war powers fights after Senate blocks Trump Venezuela check",
       "link": "https://www.foxnews.com/politics/kaine-vows-new-war-powers-fights-after-senate-blocks-trump-venezuela-check"
+    },
+    {
+      "title": "Mexico using 'weaponized immigration' to undermine US sovereignty, author of new book alleges",
+      "link": "https://www.foxnews.com/politics/mexico-using-weaponized-immigration-undermine-us-sovereignty-author-new-book-alleges"
     },
     {
       "title": "Laws demanding race-based state action are unconstitutional, Florida AG declares",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-19T22:52:48.151Z"
+  "timestamp": "2026-01-19T23:13:41.417Z"
 }
