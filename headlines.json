@@ -1,11 +1,27 @@
 {
   "fox": [
     {
+      "title": "House Speaker Mike Johnson tells British Parliament he came to 'calm the waters'",
+      "link": "https://www.foxnews.com/politics/house-speaker-mike-johnson-tells-british-parliament-he-came-calm-waters"
+    },
+    {
+      "title": "One year back in the Oval Office, Trump White House says every major campaign promise delivered",
+      "link": "https://www.foxnews.com/politics/one-year-back-oval-office-trump-white-house-says-every-major-campaign-promise-delivered"
+    },
+    {
+      "title": "Congress opens ‘industrial-scale fraud’ probe in Minnesota, warns Walz demands are ‘just the beginning’",
+      "link": "https://www.foxnews.com/politics/congress-opens-industrial-scale-fraud-probe-minnesota-warns-walz-demands-just-beginning"
+    },
+    {
+      "title": "Trump fires off late night Truth Social posts doubling down on Greenland ambitions",
+      "link": "https://www.foxnews.com/politics/trump-fires-off-late-night-truth-social-posts-doubling-down-greenland-ambitions"
+    },
+    {
       "title": "LEE CARTER: Trump's approval ratings reveal what legacy media refuses to see",
       "link": "https://www.foxnews.com/opinion/lee-carter-trumps-approval-ratings-reveal-legacy-media-refuses-see"
     },
     {
-      "title": "MORNING GLORY: President Donald Trump has become the 'punisher-in-chief'",
+      "title": "MORNING GLORY: President Donald Trump has become the 'punisher in chief'",
       "link": "https://www.foxnews.com/opinion/morning-glory-president-donald-trump-has-become-punisher-in-chief"
     },
     {
@@ -13,7 +29,7 @@
       "link": "https://www.foxnews.com/politics/gop-calls-trump-its-secret-weapon-polls-show-warning-signs-heading-midterms"
     },
     {
-      "title": "LIZ PEEK: Trump's First Year: The good, the great and the foolish",
+      "title": "LIZ PEEK: Trump's first year: The good, the great and the foolish",
       "link": "https://www.foxnews.com/opinion/liz-peek-trumps-first-year-good-great-foolish"
     },
     {
@@ -33,28 +49,8 @@
       "link": "https://www.foxnews.com/politics/dem-senator-warner-admits-biden-screwed-up-border-claims-ice-now-targeting-non-criminals"
     },
     {
-      "title": "Minnesota AG Keith Ellison denies Don Lemon, anti-ICE protesters violated FACE Act as DOJ mulls charges",
-      "link": "https://www.foxnews.com/media/minnesota-ag-keith-ellison-denies-don-lemon-anti-ice-protesters-violated-face-act-doj-mulls-charges"
-    },
-    {
       "title": "Trump says media focuses too much on Minnesota ICE coverage, not enough on corruption allegations",
       "link": "https://www.foxnews.com/politics/trump-says-media-focuses-too-much-minnesota-ice-coverage-not-enough-corruption-allegations"
-    },
-    {
-      "title": "Denmark ramps up defenses in Greenland as Trump zeros in on control of territory",
-      "link": "https://www.foxnews.com/world/denmark-ramps-up-defenses-greenland-trump-zeros-control-territory"
-    },
-    {
-      "title": "One year back in the Oval Office, Trump White House says every major campaign promise delivered",
-      "link": "https://www.foxnews.com/politics/one-year-back-oval-office-trump-white-house-says-every-major-campaign-promise-delivered"
-    },
-    {
-      "title": "Congress opens ‘industrial-scale fraud’ probe in Minnesota, warns Walz demands are ‘just the beginning’",
-      "link": "https://www.foxnews.com/politics/congress-opens-industrial-scale-fraud-probe-minnesota-warns-walz-demands-just-beginning"
-    },
-    {
-      "title": "Trump fires off late night Truth Social posts doubling down on Greenland ambitions",
-      "link": "https://www.foxnews.com/politics/trump-fires-off-late-night-truth-social-posts-doubling-down-greenland-ambitions"
     },
     {
       "title": "Maryland Democrat’s bill seeks to ‘digitally unmask’ ICE agents after fatal Minneapolis shooting",
@@ -79,8 +75,12 @@
     {
       "title": "House Republicans call Minnesota fraud probe 'tip of the iceberg' as more blue states face scrutiny",
       "link": "https://www.foxnews.com/politics/house-republicans-call-minnesota-fraud-probe-tip-iceberg-more-blue-states-face-scrutiny"
+    },
+    {
+      "title": "Kaine vows new war powers fights after Senate blocks Trump Venezuela check",
+      "link": "https://www.foxnews.com/politics/kaine-vows-new-war-powers-fights-after-senate-blocks-trump-venezuela-check"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-20T11:17:32.029Z"
+  "timestamp": "2026-01-20T11:42:17.131Z"
 }
