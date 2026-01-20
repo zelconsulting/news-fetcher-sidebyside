@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Amanda Knox fires back at Matt Damon over cancel culture jail time comments",
+      "link": "https://www.foxnews.com/entertainment/amanda-knox-fires-back-matt-damon-over-cancel-culture-jail-time-comments"
+    },
+    {
+      "title": "Dem Senator Warner admits Biden 'screwed up' the border, but claims ICE now targeting noncriminals",
+      "link": "https://www.foxnews.com/politics/dem-senator-warner-admits-biden-screwed-up-border-claims-ice-now-targeting-non-criminals"
+    },
+    {
       "title": "Minnesota AG Keith Ellison denies Don Lemon, anti-ICE protesters violated FACE Act as DOJ mulls charges",
       "link": "https://www.foxnews.com/media/minnesota-ag-keith-ellison-denies-don-lemon-anti-ice-protesters-violated-face-act-doj-mulls-charges"
     },
@@ -23,14 +31,6 @@
     {
       "title": "UN chief accuses US of ditching international law as Trump blasts global bodies",
       "link": "https://www.foxnews.com/politics/un-chief-claims-us-puts-power-over-international-law-trump-questions-uns-relevance"
-    },
-    {
-      "title": "Rex Ryan pushes Bill Belichick as 'only guy' to replace fired Bills head coach Sean McDermott",
-      "link": "https://www.foxnews.com/sports/rex-ryan-pushes-bill-belichick-only-guy-replace-fired-bills-head-coach-sean-mcdermott"
-    },
-    {
-      "title": "Dem Senator Warner admits Biden 'screwed up' the border, but claims ICE now targeting noncriminals",
-      "link": "https://www.foxnews.com/politics/dem-senator-warner-admits-biden-screwed-up-border-claims-ice-now-targeting-non-criminals"
     },
     {
       "title": "Mexico using 'weaponized immigration' to undermine US sovereignty, author of new book alleges",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-20T03:09:09.220Z"
+  "timestamp": "2026-01-20T04:14:16.057Z"
 }
