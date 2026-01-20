@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "UN chief accuses US of ditching international law as Trump blasts global bodies",
+      "link": "https://www.foxnews.com/politics/un-chief-claims-us-puts-power-over-international-law-trump-questions-uns-relevance"
+    },
+    {
+      "title": "Rex Ryan pushes Bill Belichick as 'only guy' to replace fired Bills head coach Sean McDermott",
+      "link": "https://www.foxnews.com/sports/rex-ryan-pushes-bill-belichick-only-guy-replace-fired-bills-head-coach-sean-mcdermott"
+    },
+    {
       "title": "Don Lemon claims some religious groups have 'entitlement' from White supremacy after anti-ICE church protest",
       "link": "https://www.foxnews.com/media/don-lemon-claims-some-religious-groups-have-entitlement-after-anti-ice-church-protest"
     },
@@ -25,8 +33,8 @@
       "link": "https://www.foxnews.com/media/dana-carvey-says-being-bill-clinton-liberal-akin-being-nazi-todays-politics"
     },
     {
-      "title": "MS NOW stays silent on Michael Cohen’s admission he felt 'coerced' to give anti-Trump testimony",
-      "link": "https://www.foxnews.com/media/ms-now-stays-silent-michael-cohens-admission-he-felt-coerced-give-anti-trump-testimony"
+      "title": "Maryland Democrat’s bill seeks to ‘digitally unmask’ ICE agents after fatal Minneapolis shooting",
+      "link": "https://www.foxnews.com/politics/maryland-democrats-bill-seeks-digitally-unmask-ice-agents-after-fatal-minneapolis-shooting"
     },
     {
       "title": "Trump warns US can no longer think ‘purely of peace’ as he pushes for Greenland control",
@@ -35,14 +43,6 @@
     {
       "title": "House Republicans call Minnesota fraud probe 'tip of the iceberg' as more blue states face scrutiny",
       "link": "https://www.foxnews.com/politics/house-republicans-call-minnesota-fraud-probe-tip-iceberg-more-blue-states-face-scrutiny"
-    },
-    {
-      "title": "Only one out of nearly 20 surveyed Democrats who may run in 2028 says a man cannot become a woman",
-      "link": "https://www.foxnews.com/media/only-one-out-nearly-20-surveyed-democrats-who-may-run-2028-says-man-cannot-become-woman"
-    },
-    {
-      "title": "UN chief accuses US of ditching international law as Trump blasts global bodies",
-      "link": "https://www.foxnews.com/politics/un-chief-claims-us-puts-power-over-international-law-trump-questions-uns-relevance"
     },
     {
       "title": "Kaine vows new war powers fights after Senate blocks Trump Venezuela check",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-19T23:51:07.643Z"
+  "timestamp": "2026-01-20T01:04:53.148Z"
 }
