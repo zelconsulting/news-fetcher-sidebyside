@@ -1,6 +1,34 @@
 {
   "fox": [
     {
+      "title": "Billie Eilish says protesters are being 'assaulted and murdered' during award speech",
+      "link": "https://www.foxnews.com/media/billie-eilish-says-protesters-being-assaulted-murdered-during-award-speech"
+    },
+    {
+      "title": "Trump endorsement rocks Louisiana Senate race as Letlow poised to jump in",
+      "link": "https://www.foxnews.com/politics/trump-endorsement-rocks-louisiana-senate-race-letlow-poised-jump"
+    },
+    {
+      "title": "House Democrat calls Trump 'extremely mentally ill' after Greenland remarks, urges 25th Amendment removal",
+      "link": "https://www.foxnews.com/politics/house-democrat-calls-trump-extremely-mentally-ill-greenland-remarks-urges-25th-amendment-removal"
+    },
+    {
+      "title": "Conservative journalist accuses legacy media of covering up Minneapolis ‘riot’",
+      "link": "https://www.foxnews.com/media/conservative-journalist-accuses-legacy-media-covering-up-minneapolis-riot"
+    },
+    {
+      "title": "Federal judge refuses to block ICE restrictions on congressional visits",
+      "link": "https://www.foxnews.com/politics/federal-judge-refuses-block-ice-restrictions-congressional-visits"
+    },
+    {
+      "title": "What to know about the DOJ threats against Don Lemon after he followed anti-ICE protesters in St. Paul church",
+      "link": "https://www.foxnews.com/media/what-know-about-doj-threats-against-don-lemon-after-he-followed-anti-ice-protesters-st-paul-church"
+    },
+    {
+      "title": "Faith returns to the public square during Trump’s second term, Christian leader says",
+      "link": "https://www.foxnews.com/politics/faith-returns-public-square-during-trumps-second-term-christian-leader-says"
+    },
+    {
       "title": "Trump reacts to Giants hiring John Harbaugh as head coach after endorsement",
       "link": "https://www.foxnews.com/sports/trump-reacts-giants-hiring-john-harbaugh-head-coach-after-endorsement"
     },
@@ -25,40 +53,8 @@
       "link": "https://www.foxnews.com/politics/trump-fires-off-late-night-truth-social-posts-doubling-down-greenland-ambitions"
     },
     {
-      "title": "LEE CARTER: Trump's approval ratings reveal what legacy media refuses to see",
-      "link": "https://www.foxnews.com/opinion/lee-carter-trumps-approval-ratings-reveal-legacy-media-refuses-see"
-    },
-    {
-      "title": "MORNING GLORY: President Donald Trump has become the 'punisher in chief'",
-      "link": "https://www.foxnews.com/opinion/morning-glory-president-donald-trump-has-become-punisher-in-chief"
-    },
-    {
       "title": "GOP calls Trump its ‘secret weapon’ — but polls show warning signs heading into midterms",
       "link": "https://www.foxnews.com/politics/gop-calls-trump-its-secret-weapon-polls-show-warning-signs-heading-midterms"
-    },
-    {
-      "title": "LIZ PEEK: Trump's first year: The good, the great and the foolish",
-      "link": "https://www.foxnews.com/opinion/liz-peek-trumps-first-year-good-great-foolish"
-    },
-    {
-      "title": "Trump confirms he invited Putin to join his Board of Peace: 'He's been invited'",
-      "link": "https://www.foxnews.com/world/trump-confirms-he-invited-putin-join-his-board-peace-hes-been-invited"
-    },
-    {
-      "title": "Trump endorsement rocks Louisiana Senate race as Letlow poised to jump in",
-      "link": "https://www.foxnews.com/politics/trump-endorsement-rocks-louisiana-senate-race-letlow-poised-jump"
-    },
-    {
-      "title": "House Democrat calls Trump 'extremely mentally ill' after Greenland remarks, urges 25th Amendment removal",
-      "link": "https://www.foxnews.com/politics/house-democrat-calls-trump-extremely-mentally-ill-greenland-remarks-urges-25th-amendment-removal"
-    },
-    {
-      "title": "Federal judge refuses to block ICE restrictions on congressional visits",
-      "link": "https://www.foxnews.com/politics/federal-judge-refuses-block-ice-restrictions-congressional-visits"
-    },
-    {
-      "title": "Faith returns to the public square during Trump’s second term, Christian leader says",
-      "link": "https://www.foxnews.com/politics/faith-returns-public-square-during-trumps-second-term-christian-leader-says"
     },
     {
       "title": "Dem Senator Warner admits Biden 'screwed up' the border, but claims ICE now targeting noncriminals",
@@ -79,8 +75,12 @@
     {
       "title": "Mexico using 'weaponized immigration' to undermine US sovereignty, author of new book alleges",
       "link": "https://www.foxnews.com/politics/mexico-using-weaponized-immigration-undermine-us-sovereignty-author-new-book-alleges"
+    },
+    {
+      "title": "From Caracas to Chicago: Trump’s Article II powers face their biggest tests yet",
+      "link": "https://www.foxnews.com/politics/from-caracas-chicago-trumps-article-ii-powers-face-its-biggest-legal-tests-yet"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-20T14:04:50.745Z"
+  "timestamp": "2026-01-20T14:49:41.768Z"
 }
