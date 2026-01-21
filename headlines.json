@@ -1,6 +1,26 @@
 {
   "fox": [
     {
+      "title": "Who is Lisa Cook? The Fed governor at the center of Trump’s Supreme Court fight",
+      "link": "https://www.foxnews.com/politics/who-lisa-cook-fed-governor-center-trumps-supreme-court-fight"
+    },
+    {
+      "title": "Trump tells Davos US alone can secure Greenland, insists he won’t 'use force'",
+      "link": "https://www.foxnews.com/politics/trump-tells-davos-us-alone-can-secure-greenland-insists-he-wont-use-force"
+    },
+    {
+      "title": "Trump rips Europe at Davos for wrong 'direction,’ points to migration and spending",
+      "link": "https://www.foxnews.com/politics/trump-rips-europe-davos-wrong-direction-points-migration-spending"
+    },
+    {
+      "title": "Trump doubles down on Greenland push as polls show little public support",
+      "link": "https://www.foxnews.com/politics/trump-doubles-down-greenland-push-polls-show-little-public-support"
+    },
+    {
+      "title": "Secretary Rubio scheduled to face former colleagues on Venezuela policy",
+      "link": "https://www.foxnews.com/politics/secretary-rubio-scheduled-face-former-colleagues-venezuela-policy"
+    },
+    {
       "title": "California Republicans appeal to Supreme Court to block congressional maps",
       "link": "https://www.foxnews.com/politics/california-republicans-appeal-supreme-court-block-congressional-maps"
     },
@@ -29,32 +49,12 @@
       "link": "https://www.foxnews.com/politics/mexico-flies-37-cartel-members-us-under-pressure-from-trump-admin"
     },
     {
-      "title": "MLB fans question Carlos Beltran's Hall of Fame election after sign-stealing scandal",
-      "link": "https://www.foxnews.com/sports/mlb-fans-question-carlos-beltrans-hall-fame-election-after-sign-stealing-scandal"
-    },
-    {
-      "title": "The firebombing of Beth Israel in Mississippi strikes at the heart of religious freedom, dignity and peace",
-      "link": "https://www.foxnews.com/opinion/firebombing-beth-israel-mississippi-strikes-heart-religious-freedom-dignity-peace"
-    },
-    {
-      "title": "Mob violence in Minnesota isn’t free speech — it’s grounds for the Insurrection Act",
-      "link": "https://www.foxnews.com/opinion/mob-violence-minnesota-isnt-free-speech-its-grounds-insurrection-act"
-    },
-    {
-      "title": "Trump set to meet with foreign leaders at the World Economic Forum and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-set-meet-foreign-leaders-world-economic-forum-more-top-headlines"
-    },
-    {
       "title": "Ex-NFL reporter launches GOP Senate bid, reveals how she will flip script on state's 'crisis of leadership'",
       "link": "https://www.foxnews.com/politics/ex-nfl-reporter-launches-gop-senate-bid-reveals-how-she-will-flip-script-crisis-leadership"
     },
     {
       "title": "Supreme Court weighs Trump bid to fire Fed governor Lisa Cook",
       "link": "https://www.foxnews.com/politics/scotus-weighs-trump-firing-powers-feds-lisa-cook"
-    },
-    {
-      "title": "Top Trump admin education official exposes blue state financial aid fraud offenders",
-      "link": "https://www.foxnews.com/us/top-trump-admin-education-official-exposes-blue-state-financial-aid-fraud-offenders"
     },
     {
       "title": "Davos braces for Trump amid tensions over NATO, Greenland and global defense",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-21T14:49:36.291Z"
+  "timestamp": "2026-01-21T15:22:49.050Z"
 }
