@@ -1,6 +1,22 @@
 {
   "fox": [
     {
+      "title": "The firebombing of Beth Israel in Mississippi strikes at the heart of religious freedom, dignity and peace",
+      "link": "https://www.foxnews.com/opinion/firebombing-beth-israel-mississippi-strikes-heart-religious-freedom-dignity-peace"
+    },
+    {
+      "title": "Mob violence in Minnesota isn’t free speech — it’s grounds for the Insurrection Act",
+      "link": "https://www.foxnews.com/opinion/mob-violence-minnesota-isnt-free-speech-its-grounds-insurrection-act"
+    },
+    {
+      "title": "Trump set to meet with foreign leaders at the World Economic Forum and more top headlines",
+      "link": "https://www.foxnews.com/us/trump-set-meet-foreign-leaders-world-economic-forum-more-top-headlines"
+    },
+    {
+      "title": "Ex-NFL reporter launches GOP Senate bid, reveals how she will flip script on state's 'crisis of leadership'",
+      "link": "https://www.foxnews.com/politics/ex-nfl-reporter-launches-gop-senate-bid-reveals-how-she-will-flip-script-crisis-leadership"
+    },
+    {
       "title": "Supreme Court weighs Trump bid to fire Fed governor Lisa Cook",
       "link": "https://www.foxnews.com/politics/scotus-weighs-trump-firing-powers-feds-lisa-cook"
     },
@@ -13,7 +29,7 @@
       "link": "https://www.foxnews.com/politics/davos-braces-trump-amid-tensions-over-nato-greenland-global-defense"
     },
     {
-      "title": "Former Rep. MTG dumps cold water on Trump's Greenland acquisition ambitions: 'We’ve heard that one before'",
+      "title": "Former Rep MTG dumps cold water on Trump's Greenland acquisition ambitions: 'We’ve heard that one before'",
       "link": "https://www.foxnews.com/politics/former-rep-mtg-dumps-cold-water-trumps-greenland-acquisition-ambitions-weve-heard-one-before"
     },
     {
@@ -37,20 +53,8 @@
       "link": "https://www.foxnews.com/politics/air-force-one-turns-around-shortly-after-takeoff-trumps-trip-switzerland"
     },
     {
-      "title": "Iranian soldier sentenced to death for refusing to fire on protesters during nationwide unrest",
-      "link": "https://www.foxnews.com/world/iranian-soldier-sentenced-death-refusing-fire-protesters-nationwide-unrest"
-    },
-    {
       "title": "Former Trump lawyer accuses federal judge of making 'baseless accusations of lying' after departure",
       "link": "https://www.foxnews.com/politics/former-trump-lawyer-accuses-federal-judge-making-baseless-accusations-lying-after-departure"
-    },
-    {
-      "title": "Ex-NFL reporter launches GOP Senate bid, reveals how she will flip script on state's 'crisis of leadership'",
-      "link": "https://www.foxnews.com/politics/ex-nfl-reporter-launches-gop-senate-bid-reveals-how-she-will-flip-script-crisis-leadership"
-    },
-    {
-      "title": "Former Rep MTG dumps cold water on Trump's Greenland acquisition ambitions: 'We’ve heard that one before'",
-      "link": "https://www.foxnews.com/politics/former-rep-mtg-dumps-cold-water-trumps-greenland-acquisition-ambitions-weve-heard-one-before"
     },
     {
       "title": "House passes AI education bill for small businesses in landslide 395-14 vote",
@@ -75,12 +79,8 @@
     {
       "title": "Trump says criminal illegal aliens ‘make Hells Angels look like the sweetest people on Earth’",
       "link": "https://www.foxnews.com/politics/trump-criminal-illegal-aliens-make-hells-angels-look-like-sweetest-people-earth"
-    },
-    {
-      "title": "Spanberger signals left bent after centrist campaign; GOP leader warns Dems will 'Fairfax the rest of VA'",
-      "link": "https://www.foxnews.com/politics/spanberger-signals-leftward-bent-after-centrist-campaign-gop-leader-warns-fairfaxing-va"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-21T11:53:40.937Z"
+  "timestamp": "2026-01-21T12:31:10.923Z"
 }
