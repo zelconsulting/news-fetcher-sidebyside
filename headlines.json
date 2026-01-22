@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Erika Kirk invokes Rachel Maddow's comments on anti-ICE protests, links to revival following husband's murder",
+      "link": "https://www.foxnews.com/media/erika-kirk-invokes-rachel-maddows-comments-anti-ice-protests-links-revival-following-husbands-murder"
+    },
+    {
+      "title": "US immigration authorities allow suspect in $100M jewelry heist to self-deport before trial",
+      "link": "https://www.foxnews.com/us/us-immigration-authorities-allow-suspect-100-million-jewelry-heist-self-deport-before-trial"
+    },
+    {
       "title": "Judge rules NYC's lone Republican congressional district unconstitutional, orders redraw",
       "link": "https://www.foxnews.com/politics/judge-rules-nycs-lone-republican-congressional-district-unconstitutional-orders-redraw"
     },
@@ -71,12 +79,8 @@
     {
       "title": "Johnson changes tune on judicial impeachments after 'egregious abuses' of Trump agenda",
       "link": "https://www.foxnews.com/politics/johnson-changes-tune-judicial-impeachments-after-egregious-abuses-trump-agenda"
-    },
-    {
-      "title": "ICE funding bill draws fire from left and right as shutdown deadline nears",
-      "link": "https://www.foxnews.com/politics/ice-funding-bill-draws-fire-from-left-right-shutdown-deadline-nears"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-22T08:20:59.015Z"
+  "timestamp": "2026-01-22T08:55:42.473Z"
 }
