@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Judge rules NYC's lone Republican congressional district unconstitutional, orders redraw",
+      "link": "https://www.foxnews.com/politics/judge-rules-nycs-lone-republican-congressional-district-unconstitutional-orders-redraw"
+    },
+    {
       "title": "Whoopi Goldberg warns 'no country on this planet is safe' if Trump successfully acquires Greenland",
       "link": "https://www.foxnews.com/media/whoopi-goldberg-warns-no-country-planet-safe-trump-successfully-acquires-greenland"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Somali-born activist praises Trump's stark warning at Davos speech: 'Priority No. 1'",
       "link": "https://www.foxnews.com/politics/somali-born-activist-praises-trumps-stark-warning-davos-speech-priority-number-one"
-    },
-    {
-      "title": "Dana White dismisses notion White House UFC event will be ‘too political’: ‘It’s a history-making event’",
-      "link": "https://www.foxnews.com/sports/dana-white-dismisses-notion-white-house-ufc-event-too-political-its-history-making-event"
-    },
-    {
-      "title": "Judge rules NYC's lone Republican congressional district unconstitutional, orders redraw",
-      "link": "https://www.foxnews.com/politics/judge-rules-nycs-lone-republican-congressional-district-unconstitutional-orders-redraw"
     },
     {
       "title": "Only one House Democrat joined GOP to repeal 'short-circuiting' Biden-era regulation",
@@ -82,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-22T06:22:51.667Z"
+  "timestamp": "2026-01-22T06:57:44.417Z"
 }
