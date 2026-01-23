@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'",
+      "link": "https://www.foxnews.com/politics/trump-snubs-canada-withdrawing-countrys-invite-join-most-prestigious-board-leaders-ever"
+    },
+    {
       "title": "RNC eyes ‘America First’ midterm convention to boost Trump, GOP ahead of critical elections",
       "link": "https://www.foxnews.com/politics/scoop-rnc-eyes-america-first-midterm-convention-boost-trump-gop-ahead-critical-elections"
     },
@@ -15,10 +19,6 @@
     {
       "title": "White House baby boom in full bloom as Usha Vance, top Trump aides announce pregnancies",
       "link": "https://www.foxnews.com/politics/white-house-baby-boom-full-bloom-usha-vance-top-trump-aides-announce-pregnancies"
-    },
-    {
-      "title": "Trump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'",
-      "link": "https://www.foxnews.com/politics/trump-snubs-canada-withdrawing-countrys-invite-join-most-prestigious-board-leaders-ever"
     },
     {
       "title": "Republicans narrowly reject efforts to handcuff Trump's war powers in Venezuela",
@@ -70,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-23T04:11:26.330Z"
+  "timestamp": "2026-01-23T04:53:48.096Z"
 }
