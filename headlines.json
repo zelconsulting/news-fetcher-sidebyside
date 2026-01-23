@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump says US should have tested NATO by invoking Article 5 over border security",
+      "link": "https://www.foxnews.com/politics/trump-says-us-should-have-tested-nato-invoking-article-5-over-border-security"
+    },
+    {
       "title": "Trump snubs Canada by withdrawing country's invite to join 'most prestigious Board of Leaders ever'",
       "link": "https://www.foxnews.com/politics/trump-snubs-canada-withdrawing-countrys-invite-join-most-prestigious-board-leaders-ever"
     },
@@ -19,10 +23,6 @@
     {
       "title": "White House baby boom in full bloom as Usha Vance, top Trump aides announce pregnancies",
       "link": "https://www.foxnews.com/politics/white-house-baby-boom-full-bloom-usha-vance-top-trump-aides-announce-pregnancies"
-    },
-    {
-      "title": "Trump says US should have tested NATO by invoking Article 5 over border security",
-      "link": "https://www.foxnews.com/politics/trump-says-us-should-have-tested-nato-invoking-article-5-over-border-security"
     },
     {
       "title": "Republicans narrowly reject efforts to handcuff Trump's war powers in Venezuela",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-23T07:53:40.750Z"
+  "timestamp": "2026-01-23T08:19:44.353Z"
 }
