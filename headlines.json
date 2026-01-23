@@ -1,11 +1,19 @@
 {
   "fox": [
     {
+      "title": "White House baby boom in full bloom as Usha Vance, top Trump aides announce pregnancies",
+      "link": "https://www.foxnews.com/politics/white-house-baby-boom-full-bloom-usha-vance-top-trump-aides-announce-pregnancies"
+    },
+    {
+      "title": "Republicans narrowly reject efforts to handcuff Trump's war powers in Venezuela",
+      "link": "https://www.foxnews.com/politics/republicans-narrowly-reject-efforts-handcuff-trumps-war-powers-venezuela"
+    },
+    {
       "title": "Kate Beckinsale blasts ‘disgusting’ nepo baby narrative for fueling bullying of celebrity children",
       "link": "https://www.foxnews.com/entertainment/kate-beckinsale-disgusting-nepo-baby-narrative-bullying-celebrity-children"
     },
     {
-      "title": "Swalwell vows to make ICE agents 'un-hirable' in California state government positions",
+      "title": "Swalwell vows to make ICE agents 'unhirable' for California state government positions",
       "link": "https://www.foxnews.com/media/swalwell-vows-make-ice-agents-un-hirable-california-state-government-positions"
     },
     {
@@ -25,8 +33,8 @@
       "link": "https://www.foxnews.com/politics/trump-announces-bid-major-world-event-appoints-rubio-chair"
     },
     {
-      "title": "Trump pressures UK over Hamas-linked figure as US intel flags potential terror threat",
-      "link": "https://www.foxnews.com/world/trump-pressures-uk-hamas-linked-figure-us-intel-flags-potential-terror-threat"
+      "title": "Trump calls for investigation into Ilhan Omar’s wealth, says it should start 'NOW'",
+      "link": "https://www.foxnews.com/politics/trump-calls-investigation-rep-ilhan-omars-wealth-says-should-start-now"
     },
     {
       "title": "GOP lawmaker accuses Jack Smith of ‘spying’ on Congress at tense House hearing over Trump probe",
@@ -35,14 +43,6 @@
     {
       "title": "Inside Trump’s Iran warning — and the unexpected pause that followed",
       "link": "https://www.foxnews.com/politics/inside-trumps-iran-warning-unexpected-pause-followed"
-    },
-    {
-      "title": "Tom Emmer blasts Minnesota Democrats after 'totally unacceptable' church disruption",
-      "link": "https://www.foxnews.com/media/tom-emmer-blasts-minnesota-democrats-after-totally-unacceptable-church-disruption"
-    },
-    {
-      "title": "Republicans narrowly reject efforts to handcuff Trump's war powers in Venezuela",
-      "link": "https://www.foxnews.com/politics/republicans-narrowly-reject-efforts-handcuff-trumps-war-powers-venezuela"
     },
     {
       "title": "Jack Smith says Trump ‘willfully’ broke the law, blasts DOJ 'retribution’ in second term",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-22T23:51:22.795Z"
+  "timestamp": "2026-01-23T01:07:03.504Z"
 }
