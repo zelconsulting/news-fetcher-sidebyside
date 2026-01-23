@@ -1,20 +1,24 @@
 {
   "fox": [
     {
+      "title": "RNC eyes ‘America First’ midterm convention to boost Trump, GOP ahead of critical elections",
+      "link": "https://www.foxnews.com/politics/scoop-rnc-eyes-america-first-midterm-convention-boost-trump-gop-ahead-critical-elections"
+    },
+    {
+      "title": "Inside ‘MELANIA’: The unprecedented access behind Melania Trump’s first film",
+      "link": "https://www.foxnews.com/politics/inside-melania-unprecedented-access-behind-melania-trumps-first-film"
+    },
+    {
+      "title": "Trump calls for investigation into Ilhan Omar’s wealth, says it should start 'NOW'",
+      "link": "https://www.foxnews.com/politics/trump-calls-investigation-rep-ilhan-omars-wealth-says-should-start-now"
+    },
+    {
       "title": "White House baby boom in full bloom as Usha Vance, top Trump aides announce pregnancies",
       "link": "https://www.foxnews.com/politics/white-house-baby-boom-full-bloom-usha-vance-top-trump-aides-announce-pregnancies"
     },
     {
       "title": "Republicans narrowly reject efforts to handcuff Trump's war powers in Venezuela",
       "link": "https://www.foxnews.com/politics/republicans-narrowly-reject-efforts-handcuff-trumps-war-powers-venezuela"
-    },
-    {
-      "title": "Kate Beckinsale blasts ‘disgusting’ nepo baby narrative for fueling bullying of celebrity children",
-      "link": "https://www.foxnews.com/entertainment/kate-beckinsale-disgusting-nepo-baby-narrative-bullying-celebrity-children"
-    },
-    {
-      "title": "Swalwell vows to make ICE agents 'unhirable' for California state government positions",
-      "link": "https://www.foxnews.com/media/swalwell-vows-make-ice-agents-un-hirable-california-state-government-positions"
     },
     {
       "title": "Patel reveals bizarre ‘self-awarded’ trophy former FBI officials made to celebrate Trump probe",
@@ -31,10 +35,6 @@
     {
       "title": "Trump announces bid for major world event, appoints Rubio as chair",
       "link": "https://www.foxnews.com/politics/trump-announces-bid-major-world-event-appoints-rubio-chair"
-    },
-    {
-      "title": "Trump calls for investigation into Ilhan Omar’s wealth, says it should start 'NOW'",
-      "link": "https://www.foxnews.com/politics/trump-calls-investigation-rep-ilhan-omars-wealth-says-should-start-now"
     },
     {
       "title": "GOP lawmaker accuses Jack Smith of ‘spying’ on Congress at tense House hearing over Trump probe",
@@ -71,16 +71,8 @@
     {
       "title": "Jim Jordan says FBI searched Barron Trump’s room during Mar-a-Lago raid at Jack Smith hearing",
       "link": "https://www.foxnews.com/politics/jim-jordan-says-fbi-searched-barron-trump-room-mar-a-lago-raid-jack-smith-hearing"
-    },
-    {
-      "title": "House jams Senate by attaching repeal of Jack Smith provision to $1.2T funding package",
-      "link": "https://www.foxnews.com/politics/house-jams-senate-attaching-repeal-jack-smith-provision-1-2t-funding-package"
-    },
-    {
-      "title": "Washington Dem pushes bill to bar recent ICE hires from future police jobs, slamming Trump's 'occupying force'",
-      "link": "https://www.foxnews.com/politics/washington-dem-pushes-bill-bar-recent-ice-hires-future-police-jobs-slamming-trump-occupying-force"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-23T01:07:03.504Z"
+  "timestamp": "2026-01-23T03:07:12.731Z"
 }
