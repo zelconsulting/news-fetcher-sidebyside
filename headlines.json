@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Virginia Democrats frustrate law enforcement with bill axing prison time for violent crime, expert warns",
+      "link": "https://www.foxnews.com/us/virginia-democrats-frustrate-law-enforcement-bill-axing-prison-time-violent-crime-expert-warns"
+    },
+    {
       "title": "Johnson warns House Republicans to ‘stay healthy’ as GOP majority shrinks to the edge",
       "link": "https://www.foxnews.com/politics/johnson-warns-house-republicans-stay-healthy-gop-majority-shrinks-edge"
     },
@@ -53,10 +57,6 @@
       "link": "https://www.foxnews.com/politics/trumps-pardon-house-dem-cuellar-back-in-spotlight-brother-faces-indictment"
     },
     {
-      "title": "Trump administration pushing for IndyCar race on National Mall for America250",
-      "link": "https://www.foxnews.com/sports/trump-administration-pushing-indycar-race-national-mall-america250"
-    },
-    {
       "title": "Trump pushes ‘Trump-a-palooza’ midterm convention as GOP braces for tough elections",
       "link": "https://www.foxnews.com/politics/trump-pushes-trump-a-palooza-midterm-convention-gop-braces-tough-elections"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-24T12:25:53.328Z"
+  "timestamp": "2026-01-24T13:06:31.146Z"
 }
