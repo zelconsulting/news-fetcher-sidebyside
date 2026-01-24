@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Johnson warns House Republicans to ‘stay healthy’ as GOP majority shrinks to the edge",
+      "link": "https://www.foxnews.com/politics/johnson-warns-house-republicans-stay-healthy-gop-majority-shrinks-edge"
+    },
+    {
       "title": "Bill Maher predicts Republicans will get 'dogs--t kicked out' of them in midterms over immigration",
       "link": "https://www.foxnews.com/media/bill-maher-predicts-republicans-get-dog-kicked-out-them-midterms-over-immigration"
     },
@@ -53,10 +57,6 @@
       "link": "https://www.foxnews.com/sports/trump-administration-pushing-indycar-race-national-mall-america250"
     },
     {
-      "title": "Johnson warns House Republicans to ‘stay healthy’ as GOP majority shrinks to the edge",
-      "link": "https://www.foxnews.com/politics/johnson-warns-house-republicans-stay-healthy-gop-majority-shrinks-edge"
-    },
-    {
       "title": "Trump pushes ‘Trump-a-palooza’ midterm convention as GOP braces for tough elections",
       "link": "https://www.foxnews.com/politics/trump-pushes-trump-a-palooza-midterm-convention-gop-braces-tough-elections"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-24T10:51:56.207Z"
+  "timestamp": "2026-01-24T11:11:23.623Z"
 }
