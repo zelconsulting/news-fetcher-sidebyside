@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "GOP Sen. Cassidy breaks with Trump over deadly shooting by Border Patrol agent in Minneapolis",
+      "link": "https://www.foxnews.com/politics/gop-sen-cassidy-breaks-trump-over-deadly-shooting-border-patrol-agent-minneapolis"
+    },
+    {
       "title": "Gun rights groups clash after man DHS says was armed fatally shot by CBP in Minneapolis",
       "link": "https://www.foxnews.com/politics/gun-rights-groups-clash-after-man-dhs-says-armed-fatally-shot-cbp-minneapolis"
     },
@@ -23,10 +27,6 @@
     {
       "title": "Stephen Miller accuses Democrats of siding with 'terrorists' after Minneapolis Border Patrol-involved shooting",
       "link": "https://www.foxnews.com/politics/stephen-miller-accuses-democrats-siding-terrorists-after-minneapolis-border-patrol-involved-shooting"
-    },
-    {
-      "title": "GOP Sen. Cassidy breaks with Trump over deadly shooting by Border Patrol agent in Minneapolis",
-      "link": "https://www.foxnews.com/politics/gop-sen-cassidy-breaks-trump-over-deadly-shooting-border-patrol-agent-minneapolis"
     },
     {
       "title": "Trump cites armed suspect, lack of police support following fatal Border Patrol shooting in Minneapolis",
@@ -66,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T08:46:57.967Z"
+  "timestamp": "2026-01-25T09:14:22.909Z"
 }
