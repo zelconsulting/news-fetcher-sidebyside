@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Trump hails 'great and very brave' UK soldiers after slamming NATO allies' Afghanistan service",
+      "link": "https://www.foxnews.com/politics/trump-hails-great-very-brave-uk-soldiers-after-slamming-nato-allies-afghanistan-service"
+    },
+    {
       "title": "Judge blocks Trump admin from 'destroying or altering' evidence in deadly Minneapolis shooting",
       "link": "https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting"
     },
@@ -19,10 +23,6 @@
     {
       "title": "Trump to skip Super Bowl in California, criticizes performers Bad Bunny and Green Day",
       "link": "https://www.foxnews.com/politics/trump-skip-super-bowl-california-criticizes-performers-bad-bunny-green-day"
-    },
-    {
-      "title": "Trump hails 'great and very brave' UK soldiers after slamming NATO allies' Afghanistan service",
-      "link": "https://www.foxnews.com/politics/trump-hails-great-very-brave-uk-soldiers-after-slamming-nato-allies-afghanistan-service"
     },
     {
       "title": "READ IT: Bondi sends letter to Gov Walz warning Minnesota’s immigration policies endanger agents",
@@ -58,5 +58,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T14:12:35.155Z"
+  "timestamp": "2026-01-25T14:34:28.664Z"
 }
