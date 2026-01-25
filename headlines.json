@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Judge blocks Trump admin from 'destroying or altering' evidence in deadly Minneapolis shooting",
+      "link": "https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting"
+    },
+    {
       "title": "GOP Sen. Cassidy breaks with Trump over deadly shooting by Border Patrol agent in Minneapolis",
       "link": "https://www.foxnews.com/politics/gop-sen-cassidy-breaks-trump-over-deadly-shooting-border-patrol-agent-minneapolis"
     },
@@ -21,16 +25,8 @@
       "link": "https://www.foxnews.com/politics/read-it-bondi-sends-warning-letter-gov-walz-warning-minnesotas-immigration-policies-endanger-agents"
     },
     {
-      "title": "Washington Post calls MN church protest an 'assault on religious liberty,' Don Lemon an 'internet provocateur'",
-      "link": "https://www.foxnews.com/media/washington-post-calls-mn-church-protest-assault-religious-liberty-don-lemon-internet-provocateur"
-    },
-    {
       "title": "Stephen Miller accuses Democrats of siding with 'terrorists' after Minneapolis Border Patrol-involved shooting",
       "link": "https://www.foxnews.com/politics/stephen-miller-accuses-democrats-siding-terrorists-after-minneapolis-border-patrol-involved-shooting"
-    },
-    {
-      "title": "Judge blocks Trump admin from 'destroying or altering' evidence in deadly Minneapolis shooting",
-      "link": "https://www.foxnews.com/politics/judge-blocks-trump-admin-destroying-altering-evidence-deadly-minneapolis-shooting"
     },
     {
       "title": "Trump cites armed suspect, lack of police support following fatal Border Patrol shooting in Minneapolis",
@@ -62,5 +58,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T11:47:30.592Z"
+  "timestamp": "2026-01-25T12:26:44.598Z"
 }
