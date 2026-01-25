@@ -1,28 +1,16 @@
 {
   "fox": [
     {
-      "title": "After Trump strikes Islamist terrorists, US general travels to Nigeria with militants 'on the run'",
-      "link": "https://www.foxnews.com/world/after-trump-strikes-islamist-terrorists-us-general-travels-nigeria-militants-on-run"
-    },
-    {
-      "title": "GOP lawmaker renews oversight hearing request of DHS agencies following fatal shooting in Minneapolis",
-      "link": "https://www.foxnews.com/politics/gop-lawmaker-renews-oversight-hearing-request-dhs-agencies-following-fatal-shooting-minneapolis"
-    },
-    {
-      "title": "Trump's penguin breaks the internet — and sends the left into a frenzy",
-      "link": "https://www.foxnews.com/opinion/trumps-penguin-breaks-internet-sends-left-frenzy"
-    },
-    {
-      "title": "Former acting DHS chief rips Senate Democrats for funding revolt amid Minneapolis chaos",
-      "link": "https://www.foxnews.com/media/former-acting-dhs-chief-rips-senate-democrats-funding-revolt-amid-minneapolis-chaos"
-    },
-    {
-      "title": "Olivia Wilde, Natalie Portman protest ICE at Sundance Film Festival after second fatal Minneapolis shooting",
-      "link": "https://www.foxnews.com/entertainment/olivia-wilde-natalie-portman-wear-anti-ice-pins-sundance"
+      "title": "Minnesota ICE official urges protests to remain peaceful amid tensions 'like nothing I've ever seen before'",
+      "link": "https://www.foxnews.com/media/minnesota-ice-official-urges-protests-remain-peaceful-amid-tensions-like-nothing-ive-ever-seen-before"
     },
     {
       "title": "Carney pushes back on Trump's 100% tariff threat over China trade deals with Canada amid tensions",
       "link": "https://www.foxnews.com/politics/carney-pushes-back-trumps-100-tariff-threat-over-china-trade-deals-canada-amid-tensions"
+    },
+    {
+      "title": "Italy’s Meloni rebukes Trump remarks on NATO’s role in Afghanistan",
+      "link": "https://www.foxnews.com/world/italys-meloni-rebukes-trump-remarks-natos-role-afghanistan"
     },
     {
       "title": "White House accuses Walz of undermining law enforcement, blocking ICE cooperation",
@@ -31,6 +19,14 @@
     {
       "title": "Trump says it 'is too late' to stop the White House ballroom construction amid lawsuit",
       "link": "https://www.foxnews.com/politics/trump-says-is-too-late-stop-white-house-ballroom-construction"
+    },
+    {
+      "title": "After Trump strikes Islamist terrorists, US general travels to Nigeria with militants 'on the run'",
+      "link": "https://www.foxnews.com/world/after-trump-strikes-islamist-terrorists-us-general-travels-nigeria-militants-on-run"
+    },
+    {
+      "title": "GOP lawmaker renews oversight hearing request of DHS agencies following fatal shooting in Minneapolis",
+      "link": "https://www.foxnews.com/politics/gop-lawmaker-renews-oversight-hearing-request-dhs-agencies-following-fatal-shooting-minneapolis"
     },
     {
       "title": "Trump hails 'great and very brave' UK soldiers after slamming NATO allies' Afghanistan service",
@@ -70,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T20:15:16.948Z"
+  "timestamp": "2026-01-25T20:42:41.631Z"
 }
