@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Don Lemon warns Trump will 'retrofit' laws to prosecute him after judge rejects charges",
+      "link": "https://www.foxnews.com/media/don-lemon-warns-trump-retrofit-laws-prosecute-him-after-judge-rejects-charges"
+    },
+    {
+      "title": "Philip Rivers under 'serious consideration' to be next Bills head coach, NFL insider says",
+      "link": "https://www.foxnews.com/sports/philip-rivers-under-serious-consideration-next-bills-head-coach-nfl-insider-says"
+    },
+    {
       "title": "Minnesota ICE official urges protests to remain peaceful amid tensions 'like nothing I've ever seen before'",
       "link": "https://www.foxnews.com/media/minnesota-ice-official-urges-protests-remain-peaceful-amid-tensions-like-nothing-ive-ever-seen-before"
     },
@@ -19,10 +27,6 @@
     {
       "title": "Trump says it 'is too late' to stop the White House ballroom construction amid lawsuit",
       "link": "https://www.foxnews.com/politics/trump-says-is-too-late-stop-white-house-ballroom-construction"
-    },
-    {
-      "title": "After Trump strikes Islamist terrorists, US general travels to Nigeria with militants 'on the run'",
-      "link": "https://www.foxnews.com/world/after-trump-strikes-islamist-terrorists-us-general-travels-nigeria-militants-on-run"
     },
     {
       "title": "GOP lawmaker renews oversight hearing request of DHS agencies following fatal shooting in Minneapolis",
@@ -66,5 +70,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T21:31:14.856Z"
+  "timestamp": "2026-01-25T21:49:15.996Z"
 }
