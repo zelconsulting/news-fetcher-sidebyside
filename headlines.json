@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Gun rights groups clash after man DHS says was armed fatally shot by CBP in Minneapolis",
+      "link": "https://www.foxnews.com/politics/gun-rights-groups-clash-after-man-dhs-says-armed-fatally-shot-cbp-minneapolis"
+    },
+    {
       "title": "Senate Dems revolt against DHS funding bill amid Minneapolis chaos, hiking government shutdown risk",
       "link": "https://www.foxnews.com/politics/senate-dems-revolt-against-dhs-funding-bill-amid-minneapolis-chaos-dramatically-hiking-government-shutdown-ri"
     },
@@ -19,14 +23,6 @@
     {
       "title": "Stephen Miller accuses Democrats of siding with 'terrorists' after Minneapolis Border Patrol-involved shooting",
       "link": "https://www.foxnews.com/politics/stephen-miller-accuses-democrats-siding-terrorists-after-minneapolis-border-patrol-involved-shooting"
-    },
-    {
-      "title": "LSU's Lane Kiffin posts then deletes Trump-tagged photo of hats inspired by MAGA slogan",
-      "link": "https://www.foxnews.com/sports/lsus-lane-kiffin-posts-deletes-trump-tagged-photo-hats-inspired-maga-slogan"
-    },
-    {
-      "title": "Gun rights groups clash after man DHS says was armed fatally shot by CBP in Minneapolis",
-      "link": "https://www.foxnews.com/politics/gun-rights-groups-clash-after-man-dhs-says-armed-fatally-shot-cbp-minneapolis"
     },
     {
       "title": "Trump cites armed suspect, lack of police support following fatal Border Patrol shooting in Minneapolis",
@@ -70,5 +66,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-25T05:15:54.951Z"
+  "timestamp": "2026-01-25T05:47:56.601Z"
 }
