@@ -1,6 +1,18 @@
 {
   "fox": [
     {
+      "title": "Philip Rivers withdraws from Bills head-coaching search: reports",
+      "link": "https://www.foxnews.com/sports/philip-rivers-withdraws-from-bills-head-coaching-search-reports"
+    },
+    {
+      "title": "Trump’s NATO warning pushes Europe to face the cost of defending itself",
+      "link": "https://www.foxnews.com/politics/trumps-nato-warning-pushes-europe-face-cost-defending-itself"
+    },
+    {
+      "title": "Patriots' Mike Vrabel on cusp of NFL history as team heads to Super Bowl LX",
+      "link": "https://www.foxnews.com/sports/patriots-mike-vrabel-cusp-nfl-history-team-heads-super-bowl-lx"
+    },
+    {
       "title": "Jasmine Crockett's history of playing the race card going after conservative and liberal critics",
       "link": "https://www.foxnews.com/media/jasmine-crocketts-history-playing-race-card-going-after-conservative-liberal-critics"
     },
@@ -13,8 +25,12 @@
       "link": "https://www.foxnews.com/opinion/mass-immigration-economic-warfare-few-americans-understand-why"
     },
     {
-      "title": "Kristen Stewart plans dramatic exit from US over Trump's America-first film industry policies",
-      "link": "https://www.foxnews.com/entertainment/kristen-stewart-plans-dramatic-exit-from-us-over-trumps-america-first-film-industry-policies"
+      "title": "Trump deploys Border Czar Tom Homan to Minnesota as ICE operations face violent chaos",
+      "link": "https://www.foxnews.com/politics/trump-deploys-border-czar-tom-homan-minnesota-ice-operations-face-violent-chaos"
+    },
+    {
+      "title": "GOP senators launch task force to crack down on fraud tied to Minnesota scandal",
+      "link": "https://www.foxnews.com/politics/gop-senators-launch-task-force-crack-down-fraud-tied-minnesota-scandal"
     },
     {
       "title": "Federal immigration officials privately fume over DHS claims after deadly Minnesota shooting",
@@ -66,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-26T14:02:43.548Z"
+  "timestamp": "2026-01-26T14:46:17.294Z"
 }
