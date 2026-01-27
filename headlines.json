@@ -1,6 +1,30 @@
 {
   "fox": [
     {
+      "title": "Florida GOP Rep Vern Buchanan to retire, adding to wave of House exits",
+      "link": "https://www.foxnews.com/politics/florida-gop-rep-vern-buchanan-retire-adding-wave-house-exits"
+    },
+    {
+      "title": "Redistricting fight erupts as Maryland Democrats move to redraw lone GOP House seat",
+      "link": "https://www.foxnews.com/politics/redistricting-fight-erupts-maryland-democrats-move-redraw-lone-gop-house-seat"
+    },
+    {
+      "title": "Dems' DHS shutdown threat would hit FEMA, TSA while immigration funding remains intact",
+      "link": "https://www.foxnews.com/politics/dems-dhs-shutdown-threat-would-hit-fema-tsa-while-immigration-funding-remains-intact"
+    },
+    {
+      "title": "Support slipping for Trump immigration push as majority say crackdown ‘goes too far’: poll",
+      "link": "https://www.foxnews.com/politics/support-slipping-trump-immigration-push-majority-say-crackdown-goes-too-far-poll"
+    },
+    {
+      "title": "'NFL RedZone' host Scott Hanson explains why Patriots-Seahawks Super Bowl LX matchup is the 'Hope Bowl'",
+      "link": "https://www.foxnews.com/sports/nfl-redzone-host-scott-hanson-explains-why-patriots-seahawks-super-bowl-lx-matchup-hope-bowl"
+    },
+    {
+      "title": "Trump ally tells government to 'wake up' after deadly federal agent shootings in Minneapolis",
+      "link": "https://www.foxnews.com/media/trump-ally-tells-government-wake-up-after-deadly-federal-agent-shootings-minneapolis"
+    },
+    {
       "title": "Stephen Colbert says 'f--- ICE' following Alex Pretti shooting, condemns Trump administration response",
       "link": "https://www.foxnews.com/media/stephen-colbert-says-f-ice-following-alex-pretti-shooting-condemns-trump-administrations-response"
     },
@@ -25,12 +49,8 @@
       "link": "https://www.foxnews.com/media/celebrities-followed-through-leaving-country-after-trumps-second-election-win"
     },
     {
-      "title": "Melania Trump calls for national unity as Minneapolis tensions remain high following federal shootings",
-      "link": "https://www.foxnews.com/media/melania-trump-calls-national-unity-minneapolis-tensions-remain-high-following-federal-shootings"
-    },
-    {
-      "title": "Chinese spies 'sham marriage' scandal exposes 'targeted' national security threat at major US base: expert",
-      "link": "https://www.foxnews.com/us/chinese-spies-sham-marriage-scandal-exposes-targeted-national-security-threat-major-us-base-expert"
+      "title": "Families of Trinidadian men killed in US strike sue Trump admin",
+      "link": "https://www.foxnews.com/politics/families-trinidadian-men-killed-us-strike-sue-trump-admin"
     },
     {
       "title": "Conservative immigration experts split on whether Trump is 'backing down' in MN ICE fight",
@@ -39,26 +59,6 @@
     {
       "title": "ICE Maine operation nabs 200 as governor seeks to ask Trump to remove agents",
       "link": "https://www.foxnews.com/politics/ice-maine-operation-nabs-200-governor-seeks-ask-trump-remove-agents"
-    },
-    {
-      "title": "Ex-MLB star rips Trump admin over Minnesota shooting, calls immigration enforcement 'blatantly racist'",
-      "link": "https://www.foxnews.com/sports/ex-mlb-star-rips-trump-admin-over-minnesota-shooting-calls-immigration-enforcement-blatantly-racist"
-    },
-    {
-      "title": "Federal appeals court sides with the Trump administration in Minnesota and more top headlines",
-      "link": "https://www.foxnews.com/us/federal-appeals-court-sides-trump-administration-minnesota-more-top-headlines"
-    },
-    {
-      "title": "Redistricting fight erupts as Maryland Democrats move to redraw lone GOP House seat",
-      "link": "https://www.foxnews.com/politics/redistricting-fight-erupts-maryland-democrats-move-redraw-lone-gop-house-seat"
-    },
-    {
-      "title": "Dems' DHS shutdown threat would hit FEMA, TSA while immigration funding remains intact",
-      "link": "https://www.foxnews.com/politics/dems-dhs-shutdown-threat-would-hit-fema-tsa-while-immigration-funding-remains-intact"
-    },
-    {
-      "title": "Support slipping for Trump immigration push as majority say crackdown ‘goes too far’: poll",
-      "link": "https://www.foxnews.com/politics/support-slipping-trump-immigration-push-majority-say-crackdown-goes-too-far-poll"
     },
     {
       "title": "Federal judge blocks Trump DOJ access to Oregon voter rolls",
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-27T16:54:50.154Z"
+  "timestamp": "2026-01-27T17:21:46.120Z"
 }
