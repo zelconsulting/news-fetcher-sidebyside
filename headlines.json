@@ -1,6 +1,14 @@
 {
   "fox": [
     {
+      "title": "Ex-FIFA president Sepp Blatter warns soccer fans against traveling to US for 2026 World Cup under Trump",
+      "link": "https://www.foxnews.com/sports/ex-fifa-president-sepp-blatter-warns-soccer-fans-against-traveling-us-2026-world-cup-under-trump"
+    },
+    {
+      "title": "Fetterman opposes shutdown efforts as Democratic colleagues move to block ICE funding bill",
+      "link": "https://www.foxnews.com/media/fetterman-opposes-shutdown-efforts-democratic-colleagues-move-block-ice-funding-bill"
+    },
+    {
       "title": "California progressives think Newsom courting conservatives on his podcast is a 'tough swallow'",
       "link": "https://www.foxnews.com/media/california-progressives-think-newsom-courting-conservatives-his-podcast-tough-swallow"
     },
@@ -70,5 +78,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-27T03:15:59.509Z"
+  "timestamp": "2026-01-27T04:29:54.471Z"
 }
