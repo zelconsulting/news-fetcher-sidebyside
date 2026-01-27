@@ -1,16 +1,60 @@
 {
   "fox": [
     {
+      "title": "Pritzker claims country under Trump worse than COVID pandemic where people died 'in droves'",
+      "link": "https://www.foxnews.com/media/pritzker-claims-country-under-trump-worse-than-covid-pandemic-where-people-died-in-droves"
+    },
+    {
+      "title": "Amanda Anisimova defends right to avoid 'clickbait' questions about US politics at Australian Open",
+      "link": "https://www.foxnews.com/sports/amanda-anisimova-defends-right-avoid-clickbait-questions-about-us-politics-australian-open"
+    },
+    {
+      "title": "Trump hits the road to sell economic wins as Republicans brace for high-stakes midterm showdown",
+      "link": "https://www.foxnews.com/politics/trump-hits-road-sell-economic-wins-republicans-brace-high-stakes-midterm-showdown"
+    },
+    {
+      "title": "Trump admin marks International Holocaust Remembrance Day honoring millions murdered by Nazi regime",
+      "link": "https://www.foxnews.com/politics/trump-admin-marks-international-holocaust-remembrance-day-honoring-millions-murdered-nazi-regime"
+    },
+    {
+      "title": "GOP campaign touts MAGA bonafides as critics urge Trump not to endorse in key primary: 'Keep Iowa red'",
+      "link": "https://www.foxnews.com/politics/gop-campaign-touts-maga-bonafides-critics-urge-trump-not-endorse-key-primary-keep-iowa-red"
+    },
+    {
+      "title": "Sherrill calls Trump funding freeze on Gateway Tunnel an ‘illegal attack’ on New Jersey",
+      "link": "https://www.foxnews.com/politics/sherrill-calls-trump-funding-freeze-gateway-tunnel-illegal-attack-new-jersey"
+    },
+    {
+      "title": "China slams Trump administration over US sanctions on Cuba",
+      "link": "https://www.foxnews.com/world/china-slams-trump-administration-over-us-sanctions-on-cuba"
+    },
+    {
+      "title": "House Republicans blast Noem impeachment resolution as 'partisan stunt,' as Dems fail to reach across aisle",
+      "link": "https://www.foxnews.com/politics/house-republicans-blast-noem-impeachment-resolution-partisan-stunt-dems-fail-reach-across-aisle"
+    },
+    {
+      "title": "Minnesota fraud case is 'canary in the coal mine' for government systems — including elections, lawyer wars",
+      "link": "https://www.foxnews.com/politics/minnesota-fraud-shows-how-easy-exploit-systems-critics-say-elections-arent-different"
+    },
+    {
+      "title": "Ivy League watchdog warns Trump’s anti-DEI wins are temporary as colleges ‘wait out’ admin",
+      "link": "https://www.foxnews.com/politics/ivy-league-watchdog-warns-trumps-anti-dei-wins-temporary-colleges-wait-him-out"
+    },
+    {
+      "title": "Biden speaks out against immigration crackdown in Minnesota, says it goes against American values",
+      "link": "https://www.foxnews.com/politics/biden-speaks-out-against-immigration-crackdown-minnesota-says-goes-against-american-values"
+    },
+    {
+      "title": "House Freedom Caucus draws line on DHS, ICE funding as Minneapolis unrest fuels shutdown risk",
+      "link": "https://www.foxnews.com/politics/house-freedom-caucus-draws-line-dhs-ice-funding-minneapolis-unrest-fuels-shutdown-risk"
+    },
+    {
       "title": "Illinois Dem Senate candidates split on backing Schumer as leader",
       "link": "https://www.foxnews.com/politics/illinois-dem-senate-candidates-split-backing-schumer-leader"
     },
     {
-      "title": "Trump says Noem doing 'very good job,' won't step down as homeland security chief amid Minnesota shift",
+      "title": "Trump says Noem doing 'very good job, 'won't step down as homeland security chief amid Minnesota shift",
       "link": "https://www.foxnews.com/politics/trump-says-noem-doing-very-good-job-wont-step-down-homeland-security-chief-amid-minnesota-shift"
-    },
-    {
-      "title": "Tim Walz accuses Trump of 'organized brutality' in immigration crackdown, says ICE tactics are 'un-American'",
-      "link": "https://www.foxnews.com/media/tim-walz-accuses-trump-organized-brutality-immigration-crackdown-says-ice-tactics-un-american"
     },
     {
       "title": "Trump impeachment whistleblower Vindman launches Democratic Senate run in Florida",
@@ -21,28 +65,8 @@
       "link": "https://www.foxnews.com/politics/trump-aims-fast-track-la-rebuild-executive-order-bypass-california-red-tape"
     },
     {
-      "title": "Steve Kerr says immigration should be addressed by Congress, claims feds 'taking 5-year-old kindergartners'",
-      "link": "https://www.foxnews.com/sports/steve-kerr-says-immigration-should-addressed-congress-claims-feds-taking-5-year-old-kindergartners"
-    },
-    {
-      "title": "Ex-Olympic snowboarder Ryan Wedding pleads not guilty to running billion-dollar drug empire, murder charges",
-      "link": "https://www.foxnews.com/sports/ex-olympic-snowboarder-ryan-wedding-pleads-not-guilty-running-billion-dollar-drug-empire-murder-charges"
-    },
-    {
-      "title": "Minn 'Antifa' member claims he's 'on the run' after calling for 'armed' men to confront immigration officials",
-      "link": "https://www.foxnews.com/us/minn-antifa-member-claims-hes-on-run-after-calling-armed-men-confront-immigration-officials"
-    },
-    {
       "title": "Families of Trinidadian men killed in US strike sue Trump admin",
       "link": "https://www.foxnews.com/politics/families-trinidadian-men-killed-us-strike-sue-trump-admin"
-    },
-    {
-      "title": "Bills tap Joe Brady as next head coach: reports",
-      "link": "https://www.foxnews.com/sports/bills-tap-joe-brady-next-head-coach"
-    },
-    {
-      "title": "Vikings announcer steps away from radio show after comments about 'paid protesters'",
-      "link": "https://www.foxnews.com/sports/vikings-announcer-steps-away-from-radio-show-after-comments-about-paid-protesters"
     },
     {
       "title": "Florida GOP Rep Vern Buchanan to retire, adding to wave of House exits",
@@ -55,32 +79,8 @@
     {
       "title": "Dems' DHS shutdown threat would hit FEMA, TSA while immigration funding remains intact",
       "link": "https://www.foxnews.com/politics/dems-dhs-shutdown-threat-would-hit-fema-tsa-while-immigration-funding-remains-intact"
-    },
-    {
-      "title": "Biden speaks out against immigration crackdown in Minnesota, says it goes against American values",
-      "link": "https://www.foxnews.com/politics/biden-speaks-out-against-immigration-crackdown-minnesota-says-goes-against-american-values"
-    },
-    {
-      "title": "House Freedom Caucus draws line on DHS, ICE funding as Minneapolis unrest fuels shutdown risk",
-      "link": "https://www.foxnews.com/politics/house-freedom-caucus-draws-line-dhs-ice-funding-minneapolis-unrest-fuels-shutdown-risk"
-    },
-    {
-      "title": "Trump says Noem doing 'very good job, 'won't step down as homeland security chief amid Minnesota shift",
-      "link": "https://www.foxnews.com/politics/trump-says-noem-doing-very-good-job-wont-step-down-homeland-security-chief-amid-minnesota-shift"
-    },
-    {
-      "title": "Support slipping for Trump immigration push as majority say crackdown ‘goes too far’: poll",
-      "link": "https://www.foxnews.com/politics/support-slipping-trump-immigration-push-majority-say-crackdown-goes-too-far-poll"
-    },
-    {
-      "title": "Trump’s 401(k) housing pitch collapses into reality check as economists say supply is the real crisis",
-      "link": "https://www.foxnews.com/politics/trumps-401k-housing-pitch-collapses-reality-check-economists-say-supply-real-crisis"
-    },
-    {
-      "title": "Fetterman demands Trump fire Noem after deadly Minnesota shootings",
-      "link": "https://www.foxnews.com/politics/fetterman-demands-trump-fire-noem-deadly-minnesota-shooting"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-27T19:54:14.194Z"
+  "timestamp": "2026-01-27T20:15:13.695Z"
 }
