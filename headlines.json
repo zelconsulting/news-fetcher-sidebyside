@@ -1,20 +1,28 @@
 {
   "fox": [
     {
+      "title": "Billie Eilish calls out silent celebs as outrage grows over Alex Pretti killing",
+      "link": "https://www.foxnews.com/media/billie-eilish-calls-out-silent-celebs-outrage-grows-over-alex-pretti-killing"
+    },
+    {
+      "title": "GOP senator demands DHS immigration chiefs testify after fatal shootings in Minnesota",
+      "link": "https://www.foxnews.com/politics/gop-senator-demands-dhs-immigration-chiefs-testify-after-fatal-shootings-minnesota"
+    },
+    {
+      "title": "Liberal social media platform Bluesky flooded with users calling for violence against ICE agents",
+      "link": "https://www.foxnews.com/media/liberal-social-media-platform-bluesky-flooded-users-calling-violence-against-ice-agents"
+    },
+    {
       "title": "West Virginia librarian arrested for allegedly recruiting people on social media to assassinate Trump",
       "link": "https://www.foxnews.com/us/west-virginia-librarian-arrested-recruiting-people-social-media-assassinate-trump"
     },
     {
-      "title": "Russia reportedly slams Trump’s Golden Dome as 'provocative' as trillion-dollar shield takes shape",
-      "link": "https://www.foxnews.com/world/russia-reportedly-slams-trumps-golden-dome-provocative-trillion-dollar-shield-takes-shape"
+      "title": "Trump has 'very good' call with Minneapolis Mayor Frey, announces border czar Homan meeting",
+      "link": "https://www.foxnews.com/politics/trump-has-very-good-call-minneapolis-mayor-frey-announces-border-czar-homan-meeting"
     },
     {
       "title": "The Hitchhiker’s Guide to why there may be a partial government shutdown Saturday",
       "link": "https://www.foxnews.com/politics/hitchhikers-guide-why-may-partial-government-shutdown-saturday"
-    },
-    {
-      "title": "Washington Post staffers plead with billionaire owner Jeff Bezos to save the paper amid major looming layoffs",
-      "link": "https://www.foxnews.com/media/washington-post-staffers-plead-billionaire-owner-jeff-bezos-save-paper-amid-major-looming-layoffs"
     },
     {
       "title": "Thune promises 'safe streets, more money in pockets' as GOP senators hit the road to tout tax cuts",
@@ -23,10 +31,6 @@
     {
       "title": "White House not budging on Democrats' demands as DHS funding mutiny threatens government shutdown",
       "link": "https://www.foxnews.com/politics/white-house-not-budging-democrats-demands-dhs-funding-mutiny-threatens-government-shutdown"
-    },
-    {
-      "title": "'The View' hosts defend gun ownership as check to tyranny after years of show criticizing gun rights",
-      "link": "https://www.foxnews.com/media/the-view-hosts-defend-gun-ownership-check-tyranny-after-years-show-criticizing-gun-rights"
     },
     {
       "title": "Minnesota drags Trump's ICE to court in effort to pause immigration crackdown",
@@ -55,12 +59,8 @@
     {
       "title": "Anti-ICE law set to take effect in Maine as governor faces increased criticism for allowing it amid Senate run",
       "link": "https://www.foxnews.com/politics/anti-ice-law-set-to-take-effect-in-maine-as-governor-faces-increased-criticism-for-allowing-it-amid-senate-run"
-    },
-    {
-      "title": "Senate Democrats threaten shutdown by blocking DHS funding after Minnesota ICE shooting",
-      "link": "https://www.foxnews.com/politics/senate-democrats-threaten-shutdown-blocking-dhs-funding-after-minnesota-ice-shooting"
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-26T23:53:31.708Z"
+  "timestamp": "2026-01-27T01:10:16.213Z"
 }
