@@ -1,6 +1,10 @@
 {
   "fox": [
     {
+      "title": "Dozens arrested after protesters take over NYC hotel lobby during anti-ICE demonstration",
+      "link": "https://www.foxnews.com/us/dozens-arrested-protesters-take-over-nyc-hotel-lobby-anti-ice-demonstration"
+    },
+    {
       "title": "Border czar Homan meets with Minnesota officials following immigration operation tensions",
       "link": "https://www.foxnews.com/politics/border-czar-homan-meets-minnesota-officials-following-immigration-operation-tensions"
     },
@@ -45,10 +49,6 @@
       "link": "https://www.foxnews.com/travel/travelers-told-avoid-minneapolis-due-violent-clashes-immigration-authorities"
     },
     {
-      "title": "West Virginia man allegedly threatened to kill Trump supporters, ICE agents in online videos: report",
-      "link": "https://www.foxnews.com/us/west-virginia-man-allegedly-threatened-kill-trump-supporters-ice-agents-online-videos-report"
-    },
-    {
       "title": "Senate Republicans tee up key shutdown test vote as Democrats dig in on DHS funding",
       "link": "https://www.foxnews.com/politics/senate-republicans-tee-up-key-shutdown-test-vote-democrats-dig-dhs-funding"
     },
@@ -82,5 +82,5 @@
     }
   ],
   "cnn": [],
-  "timestamp": "2026-01-28T07:27:18.491Z"
+  "timestamp": "2026-01-28T07:46:50.633Z"
 }
